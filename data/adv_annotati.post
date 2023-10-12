@@ -1,0 +1,591 @@
+  abbastanza_B 	modo	
+  abbastanza_B spesso_B 	aspetto	
+  abbondantemente_B 	-	
+  accanitamente_B 	-	
+  accanto_B 	-	
+  accanto_B così_B 	-	
+  accidentalmente_B 	modo	
+  addietro_B 	tempo	
+  addirittura_B 	-	
+  addosso_B 	-	
+  adesso_B 	tempo	
+  affatto_B 	modo	
+  agevolmente_B 	-	
+  aggiornatamente_B cioè_B 	-	
+  alfabeticamente_B 	-	
+  allora_B 	tempo	
+  allora_B assieme_B 	-	
+  almeno_B 	-	
+  alquanto_B 	-	
+  altamente_B 	-	
+  alternativamente_B 	-	
+  altimetricamente_B 	-	
+  altresì_B 	-	
+  altrettanto_B 	-	
+  altrimenti_B 	-	
+  altrove_B 	-	
+  amministrativamente_B 	-	
+  ampiamente_B 	-	
+  analogamente_B 	-	
+  anche_B 	-	
+  anche_B tanto_B 	-	
+  ancor_B 	tempo	
+  ancor_B prima_B 	tempo	
+  ancora_B 	tempo	
+  àncora_B 	-	
+  ancora_B oggi_B 	tempo	
+  anglesite_B 	-	
+  annualmente_B 	aspetto	
+  anonimamente_B 	-	
+  ante_B 	-	
+  anteriormente_B 	tempo	
+  anticamente_B 	tempo	
+  anzi_B 	-	
+  anzitutto_B 	-	
+  apparentemente_B 	modo	
+  appassionatamente_B 	-	
+  appena_B 	aspetto	
+  appena_B sotto_B 	-	
+  appositamente_B 	-	
+  apposta_B 	-	
+  approfonditamente_B 	-	
+  approssimativamente_B 	modo	
+  appunto_B 	-	
+  arbitrariamente_B 	modo	
+  architettonicamente_B 	-	
+  aritmeticamente_B 	-	
+  artisticamente_B 	-	
+  aspramente_B 	-	
+  assai_B 	-	
+  assai_B anche_B 	-	
+  assieme_B 	-	
+  assieme_B oggi_B 	-	
+  assolutamente_B 	-	
+  assolutisticamente_B 	-	
+  astratto_B 	-	
+  attorno_B 	-	
+  attorno_B infine_B 	-	
+  attualmente_B 	-	
+  attualmente_B fuori_B 	-	
+  automaticamente_B 	-	
+  autonomamente_B 	-	
+  avanti_B 	-	
+  ben_B presto_B 	tempo	
+  bene_B 	-	
+  benissimo_B 	-	
+  canonicamente_B 	-	
+  capillarmente_B 	-	
+  casualmente_B 	-	
+  cataliticamente_B cineticamente_B 	-	
+  certamente_B 	modo	
+  certo_B 	modo	
+  chiaramente_B 	modo	
+  cioè_B 	-	
+  cioè_B quindi_B 	-	
+  ciononostante_B 	-	
+  circa_B 	modo	
+  circa_B prima_B 	modo	
+  civilmente_B 	-	
+  climaticamente_B 	-	
+  coerentemente_B 	-	
+  collettivamente_B 	-	
+  come_B 	-	
+  comparativamente_B 	-	
+  competitivamente_B 	-	
+  compiutamente_B 	aspetto	
+  complessivamente_B 	-	
+  completamente_B 	-	
+  completamente_B ecc_B 	-	
+  completamente_B sotto_B 	-	
+  computazionalmente_B 	-	
+  comunemente_B 	-	aspetto
+  comunque_B 	-	
+  comunque_B già_B 	-	
+  comunque_B sopra_B 	-	
+  concretamente_B 	-	
+  conformemente_B 	-	
+  congiuntamente_B 	-	
+  conseguentemente_B 	tempo	- 
+  considerevolmente_B 	-	
+  contemporaneamente_B 	aspetto	
+  contemporanemente_B 	-	aspetto
+  contestualmente_B 	aspetto	
+  continuamente_B 	aspetto	
+  continuamente_B fuori_B 	aspetto	
+  contrariamente_B 	-	
+  contro_B 	-	
+  coraggiosamente_B 	-	
+  cordialmente_B 	-	
+  correntemente_B 	tempo	
+  correttamente_B 	-	
+  coscientemente_B 	-	
+  così_B 	-	
+  così_B come_B 	-	
+  costantemente_B 	aspetto	
+  costì_B 	-	
+  Costruito_B 	-	
+  couldn'_B 	-	
+  crittograficamente_B 	-	
+  cronologicamente_B 	-	
+  culturalmente_B 	-	
+  curiosamente_B 	-	
+  dappertutto_B 	-	
+  dapprima_B 	tempo	
+  davanti_B 	-	
+  davvero_B 	modo	
+  decentemente_B 	-	
+  decisamente_B 	-	
+  decorosamente_B 	-	
+  definitivamente_B 	-	
+  dentro_B 	-	
+  diagonalmente_B 	-	
+  dietro_B 	-	
+  difatti_B 	-	
+  differentemente_B 	-	
+  difficilmente_B 	-	
+  dinanzi_B 	-	
+  dinnanzi_B 	-	
+  diplomaticamente_B 	-	
+  direttamente_B 	-	
+  disordinatamente_B 	-	
+  diversamente_B 	-	
+  dolcemente_B 	-	
+  domani_B 	tempo	
+  dopo_B 	tempo	
+  dopo_B ancora_B 	tempo	
+  dopo_B insieme_B 	tempo	
+  dopo_B intorno_B 	tempo	
+  dopo_B via_B 	tempo	
+  dopodiché_B 	tempo	
+  dove_B 	-	
+  dovunque_B 	-	
+  dunque_B 	-	
+  dunque_B ecco_B 	-	
+  dunque_B perlomeno_B 	-	
+  duramente_B 	-	
+  eccezionalmente_B 	-	
+  economicamente_B 	-	
+  educatamente_B 	-	
+  effettivamente_B 	modo	
+  elettronicamente_B 	-	
+  epistemologicamente_B 	-	
+  equivalentemente_B 	-	
+  erroneamente_B 	-	
+  esattamente_B 	modo	- 
+  esclusivamente_B 	-	
+  esclusivamente_B prevalentemente_B 	-	
+  esplicitamente_B 	-	
+  esponenzialmente_B 	-	
+  espressamente_B 	-	
+  essenzialmente_B 	-	
+  esternamente_B 	-	
+  estremamente_B 	-	
+  eventualmente_B 	modo	
+  eventualmente_B oltre_B 	-	
+  evidentemente_B 	-	
+  fa_B 	tempo	
+  fa_B anche_B 	tempo	
+  fa_B circa_B 	tempo	
+  fa_B esclusivamente_B 	-	
+  fa_B sì_B 	-	
+  facilmente_B 	-	
+  facoltativamente_B 	-	
+  fatalmente_B 	-	
+  filogeneticamente_B 	-	
+  finalmente_B 	aspetto	
+  finanziariamente_B 	-	
+  finemente_B 	-	
+  finora_B 	tempo	
+  fondamentalmente_B 	-	
+  formalmente_B 	-	
+  forse_B 	modo	
+  forse_B già_B 	modo	
+  forse_B meno_B 	modo	
+  fortemente_B 	-	
+  fortunatamente_B 	-	
+  frequentemente_B 	aspetto	
+  fuori_B 	-	
+  fuori_B quanto_B 	-	
+  generalmente_B 	modo	aspetto
+  genericamente_B 	-	
+  geograficamente_B 	-	
+  già_B 	aspetto	
+  ginocchioni_B 	-	
+  giù_B 	-	
+  globalmente_B 	-	
+  gradualmente_B 	aspetto	
+  gratis_B 	-	
+  gratuitamente_B 	-	
+  gravemente_B 	-	
+  grossolanamente_B 	-	
+  idealmente_B 	-	
+  ideologicamente_B 	-	
+  ieri_B 	tempo	
+  ignominiosamente_B 	-	
+  illecitamente_B 	-	
+  illegalmente_B 	-	
+  immediatamente_B 	aspetto	
+  improvvisamente_B 	aspetto	
+  incessantemente_B 	aspetto	
+  incirca_B 	-	
+  incredibilmente_B 	-	
+  indicativamente_B 	-	
+  indietro_B 	-	
+  indifferentemente_B 	-	
+  indipendentemente_B 	-	
+  indispensabilmente_B 	-	
+  indistintamente_B 	-	
+  individualmente_B 	-	
+  individulamente_B 	-	
+  industrialmente_B 	-	
+  inequivocabilmente_B 	-	
+  inevitabilmente_B 	-	
+  infatti_B 	-	
+  infine_B 	-	
+  infinitamente_B 	-	
+  informalmente_B 	-	
+  ingiustamente_B 	-	
+  ininterrottamente_B 	aspetto	
+  inizialmente_B 	tempo	
+  innanzitutto_B 	-	
+  inoltre_B 	-	
+  inseparabilmente_B 	-	
+  insieme_B 	-	
+  insomma_B 	-	
+  intanto_B 	tempo	
+  integralmente_B 	-	
+  intensamente_B 	-	
+  intensivamente_B 	-	
+  intenzionalmente_B 	modo	- 
+  interamente_B 	-	
+  interamente_B però_B 	-	
+  internamente_B 	-	
+  internazionalmente_B 	-	
+  intorno_B 	-	
+  intuitivamente_B 	-	
+  inutilmente_B 	-	
+  invano_B 	-	
+  invece_B 	-	
+  invece_B generalmente_B 	-	
+  inversamente_B 	-	
+  ironicamente_B 	-	
+  irreparabilmente_B 	-	
+  laddove_B 	-	
+  largamente_B 	-	
+  lateralmente_B 	-	
+  legalmente_B 	-	
+  leggermente_B 	-	
+  legittimamente_B 	-	
+  lentamente_B 	-	
+  letteralmente_B 	-	
+  liberamente_B 	-	
+  limitatamente_B 	-	
+  localmente_B 	-	
+  logicamente_B 	-	
+  lontanamente_B 	-	
+  lontano_B 	-	
+  lungi_B 	-	
+  maggiormente_B 	-	
+  mai_B 	tempo	aspetto
+  malauguratamente_B 	-	
+  male_B 	-	
+  malinconicamente_B 	-	
+  manualmente_B 	-	
+  marcatamente_B 	-	
+  marginalmente_B 	-	
+  massimamente_B 	-	
+  mediamente_B 	-	
+  mediaticamente_B 	-	
+  medicee_B 	-	
+  meglio_B 	-	
+  meno_B 	-	
+  meno_B anzi_B 	-	
+  meno_B oltre_B 	-	
+  meno_B piuttosto_B 	-	
+  militarmente_B 	-	
+  militarmente_B economicamente_B 	-	
+  miseramente_B 	-	
+  misteriosamente_B 	-	
+  molto_B 	-	
+  molto_B più_B 	-	
+  molto_B prima_B 	-	
+  moralmente_B 	-	
+  nativamente_B 	-	
+  naturalmente_B 	-	
+  neanche_B 	-	
+  necessariamente_B 	modo	
+  negativamente_B 	-	
+  nemmeno_B 	-	
+  neppure_B 	-	
+  nettamente_B 	-	
+  niente_B 	-	
+  nientemeno_B 	-	
+  no_B 	-	
+  nominalmente_B 	-	
+  non_B 	-	
+  nondimeno_B 	-	
+  normalmente_B 	aspetto	
+  normativamente_B 	-	
+  notevolmente_B 	-	
+  numericamente_B 	-	
+  nuovamente_B 	-	
+  obliquamente_B 	-	
+  occasionalmente_B 	aspetto	
+  oggi_B 	tempo	
+  oltre_B 	-	
+  oltretutto_B 	-	
+  ora_B 	tempo	
+  oralmente_B 	-	
+  oramai_B 	tempo	
+  organicamente_B 	-	
+  Originariamente_B 	tempo	
+  orizzontalmente_B 	-	
+  ormai_B 	tempo	
+  ormai_B fuori_B 	tempo	
+  orsono_B 	tempo	
+  ovunque_B 	-	
+  ovviamente_B 	-	
+  pacificamente_B 	-	
+  palesemente_B 	modo	- 
+  paradossalmente_B 	-	
+  Parallelamente_B 	-	
+  parimenti_B 	-	
+  particolarmente_B 	-	
+  parzialmente_B 	-	
+  peggio_B 	-	
+  peraltro_B 	-	
+  perbene_B 	-	
+  perché_B 	-	
+  perennemente_B 	aspetto	
+  perfettamente_B 	-	
+  perfino_B 	-	
+  pericolosamente_B 	-	
+  periodicamente_B 	aspetto	
+  perlomeno_B 	-	
+  perlopiù_B 	-	
+  permanentemente_B 	aspetto	
+  però_B 	-	
+  però_B anche_B 	-	
+  persino_B 	-	
+  personalmente_B 	-	
+  pesantemente_B 	-	
+  piacevolmente_B 	-	
+  pienamente_B 	-	
+  più_B 	-	tempo
+  più_B come_B 	-	
+  più_B comunemente_B 	-	
+  più_B tanto_B anche_B 	-	
+  più_B tardi_B 	-	tempo
+  più_B tardi_B mai_B 	-	tempo
+  piu'_B 	-	tempo
+  piuttosto_B 	-	
+  poco_B 	-	
+  poco_B meno_B 	-	
+  poco_B prima_B 	tempo	
+  poeticamente_B 	-	
+  poi_B 	-	tempo 
+  poi_B poi_B 	-	tempo 
+  poi_B sopra_B 	-	
+  politicamente_B 	-	
+  porteur_B 	-	
+  positivamente_B 	-	
+  possibilmente_B 	modo	
+  potenzialmente_B 	modo	
+  praticamente_B 	-	
+  precedentemente_B 	tempo	
+  precisamente_B 	-	
+  preferentemente_B 	modo	
+  preferenzialmente_B 	modo	
+  preferibilmente_B 	modo	
+  preminentemente_B 	-	
+  pressappoco_B 	-	
+  pressoché_B 	-	
+  prestazionalmente_B 	-	
+  presto_B 	-	
+  presumibilmente_B 	modo	
+  pretestuosamente_B 	-	
+  prettamente_B 	-	
+  prevalentemente_B 	-	
+  prevalentemente_B prima_B 	-	
+  prima_B 	tempo	
+  prima_B poi_B 	tempo	
+  principalmente_B 	-	
+  probabilmente_B 	modo	
+  profondamente_B 	-	
+  programmaticamente_B 	-	
+  progressivamente_B 	aspetto	
+  prontamente_B 	-	
+  proporzionalmente_B 	-	
+  propriamente_B 	-	
+  proprio_B 	-	
+  prossimamente_B 	tempo	
+  provvisoriamente_B 	-	aspetto
+  pubblicamente_B 	-	
+  puntualmente_B 	-	aspetto
+  puramente_B 	-	
+  purtroppo_B 	-	
+  purtroppo_B così_B 	-	
+  purtroppo_B oggi_B 	-	
+  quantitativamente_B 	-	
+  quantomeno_B 	-	
+  quasi_B 	modo	
+  quindi_B 	-	
+  quindi_B fortemente_B 	-	
+  quindi_B invece_B 	-	
+  quinquennalmente_B 	aspetto	
+  radicalmente_B 	-	
+  rapidamente_B 	aspetto	
+  raramente_B 	aspetto	
+  razionalmente_B 	-	
+  realmente_B 	modo	
+  recentemente_B 	tempo	
+  regolarmente_B 	-	aspetto
+  relativamente_B 	-	
+  riccamente_B 	-	
+  rigorosamente_B 	-	
+  ripetutamente_B 	aspetto	
+  Risorto_B 	-	
+  rispettivamente_B 	-	
+  saldamente_B 	-	
+  saltuariamente_B 	aspetto	
+  scolasticamente_B 	-	
+  segnatamente_B 	-	
+  semplicemente_B 	-	
+  semplicemente_B Gesso_B 	-	
+  sempre_B 	aspetto	
+  sempre_B prettamente_B 	aspetto	
+  sensibilmente_B 	-	
+  separatamente_B 	-	
+  seppur_B 	-	
+  seriamente_B 	-	
+  sicuramente_B 	modo	
+  significativamente_B 	-	
+  simbolicamente_B 	-	
+  similmente_B 	-	
+  simmetricamente_B 	-	
+  simultaneamente_B 	aspetto	
+  sinceramente_B 	-	
+  singolarmente_B 	-	
+  singolarmente_B collettivamente_B 	-	
+  sistematicamente_B 	aspetto	
+  socialmente_B 	-	
+  solamente_B 	-	
+  solitamente_B 	aspetto	
+  solo_B 	-	
+  soltanto_B 	-	
+  sopra_B 	-	
+  soprattutto_B 	-	
+  sorprendentemente_B 	-	
+  sostanzialmente_B 	-	
+  sotto_B 	-	
+  sovente_B 	aspetto	
+  specialmente_B 	-	
+  specificamente_B 	-	
+  specificatamente_B 	-	
+  specularmente_B 	-	
+  sperabilmente_B 	modo	
+  spesso_B 	aspetto	
+  spesso_B specie_B 	aspetto	
+  spettroscopicamente_B 	-	
+  splendidamente_B 	-	
+  spontaneamente_B 	modo	- 
+  squisitamente_B 	-	
+  stabilmente_B 	aspetto	
+  stagionalmente_B 	aspetto	
+  stamattina_B stasera_B 	-	
+  stasera_B 	tempo	
+  stilisticamente_B 	-	
+  storicamente_B 	tempo	
+  storicamente_B infine_B 	tempo	
+  strategicamente_B 	-	
+  strenuamente_B 	-	
+  strettamente_B 	-	
+  strumentalmente_B 	-	
+  strutturalmente_B 	-	
+  subdolamente_B 	-	
+  successivamente_B 	tempo	
+  successivamente_B infine_B 	tempo	
+  sufficientemente_B 	-	
+  superbamente_B 	-	
+  superficialmente_B 	-	
+  superiormente_B 	-	
+  talora_B 	aspetto	
+  talvolta_B 	aspetto	
+  talvolta_B solo_B 	aspetto	
+  tanto_B 	-	
+  tanto_B probabilmente_B 	-	
+  tanto_B quanto_B 	-	
+  tanto_B specialmente_B 	-	
+  tantomeno_B 	-	
+  tardi_B 	-	
+  tardi_B anche_B 	-	
+  tardivamente_B 	tempo	
+  tecnicamente_B 	-	
+  telegraficamente_B 	-	
+  temerariamente_B 	-	
+  temporalmente_B 	-	
+  tenacemente_B 	-	
+  tendenzialmente_B 	-	
+  teoricamente_B 	-	
+  territorialmente_B 	-	
+  testualmente_B 	-	
+  tipicamente_B 	aspetto	
+  tolentinate_B 	-	
+  totalmente_B 	-	
+  totalmente_B infine_B 	-	
+  tradizionalmente_B 	-	
+  tragicamente_B 	-	
+  transitoriamente_B 	-	
+  trasversalmente_B 	-	
+  troppo_B 	-	
+  tuttavia_B 	-	
+  tuttavia_B cioè_B 	-	
+  tuttavia_B sopra_B 	-	
+  tutto_B 	-	
+  tuttora_B 	tempo	
+  tuttora_B ufficialmente_B 	tempo	
+  ufficialmente_B 	-	
+  ugualmente_B 	-	
+  ulteriormente_B 	tempo	
+  ultimamente_B 	tempo	
+  ultrapuro_B 	-	
+  umanamente_B 	-	
+  unanimemente_B 	-	
+  unicamente_B 	-	
+  uniformemente_B 	-	
+  unitamente_B 	-	
+  univocamente_B 	-	
+  usualmente_B 	aspetto	
+  vagamente_B 	modo	
+  validamente_B 	-	
+  velocemente_B 	-	
+  veramente_B 	modo	
+  verosimilmente_B 	modo	
+  verticalmente_B 	-	
+  via_B 	-	
+  via_B inoltre_B 	-	
+  via_B spesso_B 	-	
+  viceversa_B 	-	
+  vicino_B 	-	
+  violentemente_B 	-	
+  virtualmente_B 	modo	
+  visibilmente_B 	-	
+  visivamente_B 	-	
+  vistosamente_B 	-	
+  vittoriosamente_B 	-	
+  vividamente_B 	-	
+  volutamente_B 	modo	
+  morfologicamente_B 	-	
+  platonicamente_B 	-	
+  infine_B sotto_B 	-	
+  convenzionalmente_B 	-	
+  antecedentemente_B 	tempo	
+  circolarmente_B 	-	
+  commercialmente_B 	-	
+  giuridicamente_B 	-	
+  infuori_B 	-	
+  mai_B anche_B 	-	
+  omogeneamente_B 	-	
+  più_B tardi_B tuttavia_B 	-	
+  insieme_B accanto_B 	-	
+  governativamente_B 	-	

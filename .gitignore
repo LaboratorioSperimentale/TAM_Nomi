@@ -1,5 +1,5 @@
 .venv/
 
-data/*
+data_ignore/*
 
 .DS_store

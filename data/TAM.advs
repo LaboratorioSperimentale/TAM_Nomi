@@ -1,0 +1,561 @@
+abbastanza_B 	modo
+abbastanza_B spesso_B 	aspetto
+accidentalmente_B 	modo
+addietro_B 	tempo
+adesso_B 	tempo
+affatto_B 	modo
+allora_B 	tempo
+ancor_B 	tempo
+ancor_B prima_B 	tempo
+ancora_B 	tempo
+ancora_B oggi_B 	tempo
+annualmente_B 	aspetto
+anteriormente_B 	tempo
+anticamente_B 	tempo
+apparentemente_B 	modo
+appena_B 	aspetto
+approssimativamente_B 	modo
+arbitrariamente_B 	modo
+ben_B presto_B 	tempo
+certamente_B 	modo
+certo_B 	modo
+chiaramente_B 	modo
+circa_B 	modo
+circa_B prima_B 	modo
+compiutamente_B 	aspetto
+comunemente_B 	-/aspetto
+conseguentemente_B 	tempo/-
+contemporaneamente_B 	aspetto
+contemporanemente_B 	-/aspetto
+contestualmente_B 	aspetto
+continuamente_B 	aspetto
+continuamente_B fuori_B 	aspetto
+correntemente_B 	tempo
+costantemente_B 	aspetto
+dapprima_B 	tempo
+davvero_B 	modo
+domani_B 	tempo
+dopo_B 	tempo
+dopo_B ancora_B 	tempo
+dopo_B insieme_B 	tempo
+dopo_B intorno_B 	tempo
+dopo_B via_B 	tempo
+dopodiché_B 	tempo
+effettivamente_B 	modo
+esattamente_B 	modo/-
+eventualmente_B 	modo
+fa_B 	tempo
+fa_B anche_B 	tempo
+fa_B circa_B 	tempo
+finalmente_B 	aspetto
+finora_B 	tempo
+forse_B 	modo
+forse_B già_B 	modo
+forse_B meno_B 	modo
+frequentemente_B 	aspetto
+generalmente_B 	modo/aspetto
+già_B 	aspetto
+gradualmente_B 	aspetto
+ieri_B 	tempo
+immediatamente_B 	aspetto
+improvvisamente_B 	aspetto
+incessantemente_B 	aspetto
+ininterrottamente_B 	aspetto
+inizialmente_B 	tempo
+intanto_B 	tempo
+intenzionalmente_B 	modo/-
+mai_B 	tempo/aspetto
+necessariamente_B 	modo
+normalmente_B 	aspetto
+occasionalmente_B 	aspetto
+oggi_B 	tempo
+ora_B 	tempo
+oramai_B 	tempo
+Originariamente_B 	tempo
+ormai_B 	tempo
+ormai_B fuori_B 	tempo
+orsono_B 	tempo
+palesemente_B 	modo/-
+perennemente_B 	aspetto
+periodicamente_B 	aspetto
+permanentemente_B 	aspetto
+più_B 	-/tempo
+più_B tardi_B 	-/tempo
+più_B tardi_B mai_B 	-/tempo
+piu'_B 	-/tempo
+poco_B prima_B 	tempo
+poi_B 	-/tempo
+poi_B poi_B 	-/tempo
+possibilmente_B 	modo
+potenzialmente_B 	modo
+precedentemente_B 	tempo
+preferentemente_B 	modo
+preferenzialmente_B 	modo
+preferibilmente_B 	modo
+presumibilmente_B 	modo
+prima_B 	tempo
+prima_B poi_B 	tempo
+probabilmente_B 	modo
+progressivamente_B 	aspetto
+prossimamente_B 	tempo
+provvisoriamente_B 	-/aspetto
+puntualmente_B 	-/aspetto
+quasi_B 	modo
+quinquennalmente_B 	aspetto
+rapidamente_B 	aspetto
+raramente_B 	aspetto
+realmente_B 	modo
+recentemente_B 	tempo
+regolarmente_B 	-/aspetto
+ripetutamente_B 	aspetto
+saltuariamente_B 	aspetto
+sempre_B 	aspetto
+sempre_B prettamente_B 	aspetto
+sicuramente_B 	modo
+simultaneamente_B 	aspetto
+sistematicamente_B 	aspetto
+solitamente_B 	aspetto
+sovente_B 	aspetto
+sperabilmente_B 	modo
+spesso_B 	aspetto
+spesso_B specie_B 	aspetto
+spontaneamente_B 	modo/-
+stabilmente_B 	aspetto
+stagionalmente_B 	aspetto
+stasera_B 	tempo
+storicamente_B 	tempo
+storicamente_B infine_B 	tempo
+successivamente_B 	tempo
+successivamente_B infine_B 	tempo
+talora_B 	aspetto
+talvolta_B 	aspetto
+talvolta_B solo_B 	aspetto
+tardivamente_B 	tempo
+tipicamente_B 	aspetto
+tuttora_B 	tempo
+tuttora_B ufficialmente_B 	tempo
+ulteriormente_B 	tempo
+ultimamente_B 	tempo
+usualmente_B 	aspetto
+vagamente_B 	modo
+veramente_B 	modo
+verosimilmente_B 	modo
+virtualmente_B 	modo
+volutamente_B 	modo
+antecedentemente_B 	tempo
+abbastanza_B	modo/-
+abitualmente_B	aspetto
+accademicamente_B	modo/-
+accidentalmente_B	modo/-
+accortamente_B	modo/-
+addietro_B	tempo
+addirittura_B	modo/-
+addirittura_B anche_B	modo/-
+adesso_B	tempo
+affatto_B	modo/-
+agevolmente_B	modo/-
+agevolmente_B sotto_B	modo/-
+allora_B	tempo
+allora_B ancora_B	tempo
+allora_B non_B	tempo
+allora_B non_B più_B	tempo
+allora_B soltanto_B	tempo
+almeno_B	modo/-
+almeno_B inconsciamente_B	modo/-
+almeno_B laddove_B	modo/-
+alquanto_B	modo/-
+altamente_B	modo/-
+alternativamente_B	modo/-
+anche_B almeno_B	modo/-
+anche_B circa_B	modo/-
+anche_B forse_B	modo
+anche_B fortemente_B	modo/-
+anche_B non_B	modo/-
+anche_B non_B più_B	tempo
+anche_B oggi_B	tempo
+anche_B probabilmente_B	modo
+anche_B sempre_B	modo/aspetto
+anche_B solo_B	modo/-
+ancor_B	aspetto
+ancor_B oggi_B	tempo
+ancor_B più_B	aspetto
+ancora_B	aspetto
+ancora_B ben_B	aspetto
+ancora_B non_B	aspetto
+ancora_B oggi_B	tempo
+ancora_B oggi_B ben_B	tempo
+ancora_B più_B	aspetto
+ancora_B quasi_B	modo/aspetto
+ancora_B sempre_B	aspetto
+annualmente_B	tempo
+annualmente_B più_B	tempo
+Antecedentemente_B	tempo
+anticamente_B	tempo
+anticamente_B anche_B	tempo
+Anticamente_B oltre_B	tempo
+Anticamente_B solo_B	tempo
+apparentemente_B	modo
+apparentemente_B anche_B	modo
+apparentemente_B solo_B	modo
+appena_B	aspetto
+approssimativamente_B	modo
+approssimativamente_B già_B	modo
+attualmente_B	tempo
+attualmente_B solo_B	tempo
+autenticamente_B	-/modo
+ben_B presto_B	tempo
+brevemente_B	aspetto
+certamente_B	modo
+certamente_B allora_B	modo
+certamente_B corso_B	modo
+certamente_B già_B	modo
+certamente_B nemmeno_B	modo
+certamente_B non_B	modo
+certamente_B più_B	modo
+certamente_B sotto_B	modo
+certo_B	modo
+Chiaramente_B	modo
+circa_B	modo
+circa_B circa_B	modo
+circa_B probabilmente_B	modo
+comunemente_B	-/aspetto
+comunemente_B anche_B	-/aspetto
+comunque_B	modo/-
+comunque_B anche_B	modo/-
+conseguentemente_B	aspetto/-
+conseguentemente_B anche_B	aspetto/-
+Contemporaneamente_B	aspetto
+contemporaneamente_B anche_B	aspetto
+Contemporaneamente_B però_B	aspetto
+contemporaneamente_B più_B	aspetto
+continuamente_B	aspetto
+costantemente_B	aspetto
+dapprima_B	aspetto/tempo
+dapprima_B poi_B	aspetto/tempo
+dapprima_B solo_B	aspetto/tempo
+dapprima_B sotto_B	aspetto/tempo
+debolmente_B	-/modo
+decisamente_B	-/modo
+decisamente_B più_B	-/modo
+domani_B	tempo
+dopo_B	tempo
+dopo_B come_B	tempo
+dopo_B prima_B	tempo
+dopodiché_B	tempo
+dunque_B	aspetto/-
+dunque_B anche_B	aspetto/-
+dunque_B già_B	aspetto/-
+dunque_B non_B	aspetto/-
+eventualmente_B	-/modo
+eventualmente_B anche_B	-/modo
+eventualmente_B come_B	-/modo
+evidentemente_B	-/modo
+finora_B	tempo
+formalmente_B	modo
+formalmente_B ancora_B	modo
+formalmente_B come_B	modo
+forse_B	modo
+forse_B anche_B	modo
+forse_B ancora_B	modo
+forse_B anticamente_B	modo
+forse_B dietro_B	modo
+forse_B già_B	modo
+forse_B originariamente_B	modo
+forse_B proprio_B	modo
+forse_B pure_B	modo
+fortemente_B	-/modo
+frattanto_B	tempo
+frequentemente_B	aspetto
+frequentemente_B come_B	aspetto
+generalmente_B	modo/aspetto
+generalmente_B anche_B	modo/aspetto
+generalmente_B più_B	modo/aspetto
+generalmente_B sotto_B	modo/aspetto
+già_B	tempo
+già_B allora_B	tempo
+già_B anche_B	tempo
+già_B attualmente_B	tempo
+già_B circa_B	tempo
+già_B fortemente_B	tempo
+già_B intorno_B	tempo
+già_B molto_B	tempo
+già_B prima_B	tempo
+già_B subito_B	tempo
+gia'_B	tempo
+giornalmente_B circa_B	aspetto
+gradualmente_B	aspetto
+immediatamente_B	tempo
+immediatamente_B anche_B	tempo
+immediatamente_B circa_B	tempo
+Impropriamente_B	modo/-
+improvvisamente_B	aspetto
+inaspettatamente_B	modo
+incirca_B	modo
+incirca_B intorno_B	modo
+indefinitamente_B	modo
+indietro_B	tempo
+indiscutibilmente_B	-/modo
+Indubbiamente_B	modo
+Indubbiamente_B comunque_B	modo
+inequivocabilmente_B	modo
+infatti_B	modo/-
+infatti_B abbastanza_B	modo/-
+infatti_B allora_B	modo/-
+infatti_B almeno_B	modo/-
+infatti_B anche_B	modo/-
+infatti_B ben_B	modo/-
+infatti_B circa_B	modo/-
+infatti_B già_B	modo/-
+infatti_B inevitabilmente_B	modo/-
+infatti_B più_B	modo/-
+infatti_B prepotentemente_B	modo/-
+infatti_B prima_B	modo/-
+infatti_B principalmente_B	modo/-
+infatti_B quasi_B	modo/-
+infatti_B qui_B	modo/-
+infatti_B solamente_B	modo/-
+infatti_B solitamente_B	modo/-
+infatti_B solo_B	modo/-
+infatti_B soltanto_B	modo/-
+infatti_B soprattutto_B	modo/-
+infatti_B sotto_B	modo/-
+infine_B	tempo
+infine_B anche_B	tempo
+infine_B ancora_B	tempo
+infine_B pure_B	tempo
+infinitamente_B	-/aspetto
+inizialmente_B	tempo
+inizialmente_B come_B	tempo
+inizialmente_B quasi_B	tempo
+inizialmente_B sotto_B	tempo
+innanzitutto_B	modo/-
+intanto_B	aspetto
+intenzionalmente_B	-/modo
+invece_B	modo/-
+invece_B comunque_B	modo/-
+invece_B inoltre_B	modo/-
+invece_B meno_B	modo/-
+invece_B oltre_B	modo/-
+invece_B persino_B	modo/-
+invece_B quali_B	modo/-
+invece_B sempre_B	modo/-
+irrimediabilmente_B	-/modo
+istantaneamente_B	-/aspetto
+limitatamente_B solo_B	modo
+lungamente_B	aspetto
+magari_B	modo
+magari_B pure_B	modo
+mai_B	modo/aspetto
+mai_B più_B	modo/aspetto
+mensilmente_B	-/aspetto
+momentaneamente_B	tempo
+necessariamente_B	modo
+neppure_B	modo/-
+non_B	modo/-
+non_B abbastanza_B	modo/-
+non_B almeno_B	modo/-
+non_B ancora_B	tempo
+non_B appena_B	aspetto
+non_B certo_B	modo
+non_B forse_B	modo
+non_B già_B	aspetto
+non_B immediatamente_B	aspetto
+non_B meno_B	modo/-
+non_B molto_B	modo/-
+non_B ormai_B	aspetto
+non_B peraltro_B	modo/-
+non_B però_B	modo/-
+non_B però_B molto_B	modo/-
+non_B più_B	aspetto/tempo
+non_B più_B circa_B	aspetto/tempo
+non_B poco_B	modo/-
+non_B proprio_B	modo/-
+non_B quindi_B	modo/-
+non_B realmente_B	modo/-
+non_B sempre_B	aspetto
+non_B solo_B	modo/-
+non_B soltanto_B	modo/-
+normalmente_B	-/aspetto
+normalmente_B circa_B	-/aspetto
+normalmente_B solo_B	-/aspetto
+normalmente_B sotto_B	-/aspetto
+nuovamente_B	aspetto
+nuovamente_B ancora_B	aspetto
+nuovamente_B ben_B	aspetto
+occasionalmente_B	aspetto
+oggi_B	tempo
+oggi_B anche_B	tempo
+oggi_B ancora_B	tempo
+oggi_B circa_B	tempo
+oggi_B infatti_B	tempo
+oggi_B ormai_B	tempo
+oggi_B poco_B	tempo
+oggi_B praticamente_B	tempo
+oggi_B sotto_B	tempo
+oggi_B specialmente_B	tempo
+oggi_B totalmente_B	tempo
+oggi_B tuttavia_B	tempo
+oggi_B unicamente_B	tempo
+oltre_B	-/tempo
+oltre_B anche_B	-/tempo
+oltre_B naturalmente_B	-/tempo
+oltre_B soltanto_B	-/tempo
+ora_B	tempo
+ora_B anche_B	tempo
+ora_B più_B	tempo
+ora_B sotto_B	tempo
+oramai_B	aspetto
+oramai_B anche_B	aspetto
+oramai_B sotto_B	aspetto
+originalmente_B	tempo
+originariamente_B	tempo
+ormai_B	aspetto
+ormai_B non_B più_B	aspetto
+ormai_B però_B	aspetto
+ormai_B più_B	aspetto
+ormai_B quasi_B	aspetto
+pacificamente_B	-/modo
+palesemente_B	modo
+palesemente_B più_B	modo
+perfino_B	modo/-
+periodicamente_B	aspetto
+permanentemente_B	aspetto
+perpetuamente_B	aspetto
+persino_B	modo/-
+poi_B	tempo
+poi_B allora_B	tempo
+poi_B anche_B	tempo
+poi_B ancora_B	tempo
+poi_B come_B	tempo
+poi_B invece_B	tempo
+poi_B no_B	tempo
+poi_B persino_B	tempo
+poi_B più_B	tempo
+poi_B sempre_B più_B	tempo
+poi_B solo_B	tempo
+poi_B sotto_B	tempo
+poi_B ufficialmente_B	tempo
+possibilmente_B	modo
+posteriormente_B	tempo
+potenzialmente_B	modo
+praticamente_B	modo/-
+praticamente_B quasi_B	modo/-
+precedentemente_B	tempo
+precedentemente_B molto_B	tempo
+precedentemente_B quindi_B	tempo
+precisamente_B	modo
+precisamente_B quanta_B	modo
+precisamente_B sotto_B	modo
+precocemente_B	tempo
+preferibilmente_B	modo/-
+preferibilmente_B almeno_B	modo/-
+preferibilmente_B sotto_B	modo/-
+pressappoco_B	modo
+pressoché_B	modo
+presto_B	tempo
+presto_B non_B	tempo
+presumibilmente_B	modo
+presumibilmente_B solo_B	modo
+prevalentemente_B	modo
+prima_B	tempo
+prima_B ancora_B	tempo
+prima_B poi_B	tempo
+primariamente_B	modo
+principalmente_B	modo
+principalmente_B come_B	modo
+probabilmente_B	modo
+probabilmente_B anche_B	modo
+probabilmente_B già_B	modo
+probabilmente_B più_B	modo
+probabilmente_B proprio_B	modo
+probabilmente_B sempre_B più_B	modo
+progressivamente_B	aspetto
+progressivamente_B anche_B	aspetto
+propriamente_B	modo
+proprio_B	modo
+proprio_B apparentemente_B	modo
+proprio_B come_B	modo
+proprio_B però_B	modo
+prossimamente_B	tempo
+provvisoriamente_B	modo
+pur_B	modo/-
+pur_B apertamente_B	modo/-
+pur_B come_B	modo/-
+pur_B non_B geograficamente_B	modo/-
+pur_B non_B ovviamente_B	modo/-
+pur_B proprio_B	modo/-
+pur_B sempre_B	modo/-
+puramente_B	modo/-
+quasi_B	modo
+quasi_B anche_B	modo
+quasi_B certamente_B	modo
+quasi_B completamente_B	modo
+quasi_B sempre_B	aspetto
+quasi_B sicuramente_B	modo
+quotidianamente_B	aspetto
+rapidamente_B	aspetto
+realmente_B	modo
+recentemente_B	tempo
+recentemente_B anche_B	tempo
+regolarmente_B	-/aspetto
+repentinamente_B	aspetto
+ripetutamente_B	aspetto
+saltuariamente_B	aspetto
+sempre_B	aspetto
+sempre_B almeno_B	aspetto
+sempre_B come_B	aspetto
+sempre_B maggiormente_B	aspetto
+sempre_B meno_B	modo/aspetto
+sempre_B molto_B	aspetto
+sempre_B però_B	aspetto
+sempre_B più_B	aspetto
+sempre_B spesso_B	aspetto
+sicuramente_B	modo
+sicuramente_B anche_B	modo
+sicuramente_B non_B	modo
+simultaneamente_B	-/aspetto
+sinora_B	tempo
+sistematicamente_B	-/aspetto
+smaccatamente_B	-/modo
+solitamente_B	-/aspetto
+solitamente_B ben_B	-/aspetto
+solitamente_B piuttosto_B	-/aspetto
+solitamente_B quasi_B	-/aspetto
+sovente_B	aspetto
+spesso_B	aspetto
+spesso_B anche_B	aspetto
+spesso_B attorno_B	aspetto
+spesso_B circa_B	aspetto
+spesso_B completamente_B	aspetto
+spesso_B insieme_B	aspetto
+spesso_B non_B	aspetto
+spesso_B però_B	aspetto
+spesso_B sotto_B	aspetto
+sporadicamente_B	aspetto
+stabilmente_B	aspetto
+subito_B	-/tempo
+subìto_B	-/tempo
+subìto_B comunque_B	-/tempo
+subito_B dopo_B	-/tempo
+subito_B molto_B	-/tempo
+subito_B più_B	-/tempo
+Successivamente_B	tempo
+Successivamente_B anche_B	tempo
+successivamente_B prima_B	tempo
+talora_B	tempo/aspetto
+talvolta_B	aspetto
+talvolta_B persino_B	aspetto
+talvolta_B sopra_B	aspetto
+talvolta_B tanto_B	aspetto
+temporaneamente_B	-/aspetto
+tuttora_B	tempo
+ulteriormente_B	modo/-
+ultimamente_B	tempo
+Ultimamente_B anche_B	tempo
+usualmente_B	aspetto
+usualmente_B più_B	aspetto
+veramente_B	modo
+verosimilmente_B	modo
+virtualmente_B	modo
+volontariamente_B	modo
+volutamente_B	modo
