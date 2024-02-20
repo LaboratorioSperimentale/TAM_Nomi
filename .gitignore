@@ -3,3 +3,10 @@
 data_ignore/*
 
 .DS_store
+data/input_files.txt
+.vscode/settings.json
+.vscode/
+
+*__pycache__*
+
+output_*/

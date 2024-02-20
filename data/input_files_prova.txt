@@ -1,0 +1,1 @@
+ITWAC   12   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-12.xml

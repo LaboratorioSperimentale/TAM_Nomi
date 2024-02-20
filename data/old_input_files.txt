@@ -1,0 +1,56 @@
+PARSEME train /home/ludovica/Documents/CORPORA/PARSEME-IT/train.cupt
+PARSEME dev  /home/ludovica/Documents/CORPORA/PARSEME-IT/dev.cupt
+PARSEME test /home/ludovica/Documents/CORPORA/PARSEME-IT/test.cupt
+
+ISDT    train    /home/ludovica/Documents/CORPORA/UD_Italian-ISDT/it_isdt-ud-train.conllu
+ISDT    dev    /home/ludovica/Documents/CORPORA/UD_Italian-ISDT/it_isdt-ud-dev.conllu
+ISDT    test    /home/ludovica/Documents/CORPORA/UD_Italian-ISDT/it_isdt-ud-test.conllu
+
+MARKIT  train  /home/ludovica/Documents/CORPORA/UD_Italian-MarkIT/it_markit-ud-train.conllu
+MARKIT  dev  /home/ludovica/Documents/CORPORA/UD_Italian-MarkIT/it_markit-ud-dev.conllu
+MARKIT  test  /home/ludovica/Documents/CORPORA/UD_Italian-MarkIT/it_markit-ud-test.conllu
+
+PARLAMINT   train   /home/ludovica/Documents/CORPORA/UD_Italian-ParlaMint/it_parlamint-ud-train.conllu
+PARLAMINT   test   /home/ludovica/Documents/CORPORA/UD_Italian-ParlaMint/it_parlamint-ud-test.conllu
+
+PARTUT  train  /home/ludovica/Documents/CORPORA/UD_Italian-ParTUT/it_partut-ud-train.conllu
+PARTUT  dev  /home/ludovica/Documents/CORPORA/UD_Italian-ParTUT/it_partut-ud-dev.conllu
+PARTUT  test  /home/ludovica/Documents/CORPORA/UD_Italian-ParTUT/it_partut-ud-test.conllu
+
+POSTWITA    train    /home/ludovica/Documents/CORPORA/UD_Italian-PoSTWITA/it_postwita-ud-train.conllu
+POSTWITA    dev    /home/ludovica/Documents/CORPORA/UD_Italian-PoSTWITA/it_postwita-ud-dev.conllu
+POSTWITA    test    /home/ludovica/Documents/CORPORA/UD_Italian-PoSTWITA/it_postwita-ud-test.conllu
+
+TWITTIRO    train    /home/ludovica/Documents/CORPORA/UD_Italian-TWITTIRO/it_twittiro-ud-train.conllu
+TWITTIRO    dev    /home/ludovica/Documents/CORPORA/UD_Italian-TWITTIRO/it_twittiro-ud-dev.conllu
+TWITTIRO    test    /home/ludovica/Documents/CORPORA/UD_Italian-TWITTIRO/it_twittiro-ud-test.conllu
+
+VIT train /home/ludovica/Documents/CORPORA/UD_Italian-VIT/it_vit-ud-train.conllu
+VIT dev /home/ludovica/Documents/CORPORA/UD_Italian-VIT/it_vit-ud-dev.conllu
+VIT test /home/ludovica/Documents/CORPORA/UD_Italian-VIT/it_vit-ud-test.conllu
+
+XLIME   0   /home/ludovica/Documents/CORPORA/xlime_twitter_corpus-master/corpus_task/italian_pos.txt
+
+ITWAC   1   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-1.xml
+ITWAC   2   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-2.xml
+ITWAC   3   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-3.xml
+ITWAC   4   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-4.xml
+ITWAC   5   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-5.xml
+ITWAC   6   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-6.xml
+ITWAC   7   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-7.xml
+ITWAC   8   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-8.xml
+ITWAC   9   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-9.xml
+ITWAC   10   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-10.xml
+ITWAC   11   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-11.xml
+ITWAC   12   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-12.xml
+ITWAC   13   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-13.xml
+ITWAC   14   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-14.xml
+ITWAC   15   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-15.xml
+ITWAC   16   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-16.xml
+ITWAC   17   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-17.xml
+ITWAC   18   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-18.xml
+ITWAC   19   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-19.xml
+ITWAC   20   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-20.xml
+ITWAC   21   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-21.xml
+
+REPUBBLICA  0  /home/ludovica/Documents/CORPORA/REPUBBLICA/repubblica.parsed.utf8.xml
