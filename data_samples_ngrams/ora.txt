@@ -1,0 +1,993 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	1	0	ora --
+						DET ADV NOUN	REPUBBLICA	 Fra	un ora --	dice Luigi Selmo -- arrivano tre amici dai paesi vicini che mi aiuteranno a rifare il tetto .
+
+1	0	0	ora Accoglienza
+						DET ADV ADJ NOUN	ITWAC	b ) attività di sportello di consulenza e informazione  Tempi indicativi :	un ora settimanale Accoglienza	delle classi 3 ° media Azioni : a ) Salone Futura b ) contatto tramite lettera informativa delle scuole medie c
+
+1	0	0	ora Addio
+						DET ADV NOUN	ITWAC	[ Rispondi ] 11/07/2005 - [ DonnaManager ] RE : RE : RE : leggendo	l ora Addio	arturo , mia cara acqua del cesso dove cagano i miei servi !! ...
+
+3	0	0	ora Allarme
+						DET ADV NOUN	ITWAC	Situazione tornata nella normalità dopo	un ora Allarme	incendio all ospedale di Legnano
+						DET ADV NOUN	ITWAC	Situazione tornata nella normalità dopo	un ora Allarme	incendio all ospedale di Legnano Cislago - Due individua armati di pistola hanno fatto perdere le tracce Rapinata la San Paolo
+						DET ADV NOUN	ITWAC	Situazione tornata nella normalità dopo	un ora Allarme	incendio all ospedale di Legnano L ospedale di Legnano è stato evacuato questa mattina all alba a causa di un principio
+
+0	0	1	ora American
+						DET ADV ADJ NOUN	WIKICONLL	e sono state ripubblicate nella raccolta uscita nel 2006 per la Metal Blade Records , quelle dalla 6 alla 11	degli ora sciolti American	Tragedy .
+
+1	0	0	ora Amore
+						DET ADV NOUN	ITWAC	fa crescere Il Fiume Dei Profumi Amore Ti scrivo Da molto lontano Ma non so dirti il giorno e nemmeno	l ora Amore	Ti mando un bacio grosso e vero Tanto che sento sulle labbra la tua saliva Qui fa caldo e la notte
+
+1	0	0	ora Appetito
+						DET ADV ADJ NOUN	ITWAC	ma tra una settimana esatta pure io me ne vòòòòòòò e non vedo l ora !!!! buona giornata e vista	l ora Buon Appetito	Renza ps Mimì ...
+
+1	0	0	ora Artisti
+						DET ADV ADJ NOUN	ITWAC	Apertura : Salle 10:00 alle 24:00 Prezzi : 25,00 euro l ora , con forfettari che scendono sino 20,00 euro	l ora Maggiori Artisti	: Jalisse , Anonimo Italiano , Lucilla Galeazzi , Lee Colbert , Moonlight Comedy .
+
+1	0	0	ora Automobilista
+						DET ADV NOUN	ITWAC	Due patenti ritirate in	un ora Automobilista	alticcio contro il palo Due patenti ritirate nella notte fra venerdì e sabato a Trento per guida in stato di ebbrezza
+
+2	0	0	ora Autore
+						DET ADV NOUN	ITWAC	mi sembra di vivere tutto a 1000 km	l ora Autore	Risposta : Minnye 76 Inserita il : 15/07/2005 22:15:13 Messaggio : Claudietta , 6 figli ?! Mi piacciono le famiglie abbondanti
+						DET ADV NOUN	ITWAC	wow wow wow non vedo	l ora Autore	Risposta : anton 3 Inserita il : 19/07/2005 17:23:58 Messaggio : ciao ciao a tutte io vado a casina ...
+
+1	0	0	ora Basket
+						DET ADV NOUN	ITWAC	ospiterà il grande evento sportivo , giunto alla sua 98 esima edizione Giro di Lombardia , stop alle auto per	un ora Basket	- Pallacanestro Varese ancora senza abbinamento Avviso ai naviganti Basket A 1 - Sono 3242 , ma comprendono anche gli omaggi
+
+1	0	0	ora Camionista
+						DET ADV NOUN	ITWAC	è sfociata ieri mattina in un duello rusticano sull A 15 Tir lasciati in mezzo alla strada traffico interrotto per	un ora Camionista	lucchese ferito con il coltello ad una mano da un collega sardo in seguito ad una lite scoppiata per un sorpasso
+
+1	0	0	ora Campione
+						DET ADV NOUN	ITWAC	La Roma è da neanche	un ora Campione	.
+
+1	0	0	ora Capelli
+						DET ADV NOUN	ITWAC	colori Carne tenera Per avere la carne più tenera e saporita , prima di cuocerla marinatela nella birra per circa	un ora Capelli	in piega Prima di metterli in piega passate tra i capelli un pettine imbevuto nella birra Dieta Sostituendo il normale condimento
+
+0	0	1	ora Ching
+						DET ADV NOUN	WIKICONLL	L inizio del campionato 2008 , il terzo a Houston , non è dei migliori :	ad ora Ching	ha disputato sette incontri senza aver segnato un solo goal .
+
+1	0	0	ora Commendatore
+						DET ADV ADJ NOUN	ITWAC	Rispondi Leggi le risposte a questo intervento : 20/07/2005 - [ Dora ] RE : RE : È giunta	l ora Caro Commendatore	, l ho so che lei ha ragione ed è per questo che sono addolorata .
+
+1	0	0	ora Commento
+						DET ADV NOUN	ITWAC	Commento di queerfist non vedo	l ora Commento	di FasterPussycat Che mortorio è diventato sto blog gossip !
+
+1	0	0	ora Confezione
+						DET ADV NOUN	ITWAC	drenaggio Struttura superficiale Struttura a nido d ape con moduli antiscivolo Velocita di posa circa 30 - 40 mq in	un ora Confezione	( Pallet ) N ° 200 pezzi = 50 mq Riempimento Color Terra o misto di coltura con prato ( quota
+
+0	0	1	ora Conservatorio
+						DET ADV ADJ NOUN	WIKICONLL	Nel 2002 ottiene la docenza nel corso sperimentale di perfezionamento in Arpa Celtica al Conservatorio di Castelfranco Veneto ,	ad ora unico Conservatorio	italiano che abbia creato un percorso di studio dedicato all arpa celtica .
+
+1	0	0	ora Consiglio
+						DET ADV NOUN	ITWAC	delle delegazioni della Giunta Comunale e provinciale : sarà in Prefettura ma dubito che t invitino A proposito , fra	un ora Consiglio	Comunale con tante discussioni su altrettante interpellanze piccantine !
+
+0	0	1	ora Copa
+						DET ADV ADJ NOUN	WIKICONLL	Successivamente fallì le qualificazioni ai Mondiali seguenti , ma nel 1963 conquistò la sua prima e	ad ora unica Copa	America , aiutata dal fatto di giocare in casa , nella capitale La Paz , ad un altitudine di oltre 3600
+
+2	0	0	ora Costo
+						DET ADV NOUN	ITWAC	Durata :	un ora Costo	: 3,50  Rovereto 1900 - 1945 Questo nuovo progetto , pensato per le classi terze delle scuole medie , è
+						DET ADV NOUN	ITWAC	Durata : circa	un ora Costo	: E 3,00 .
+
+0	0	1	ora Deflorio
+						DET ADV NOUN	WIKICONLL	Dopo neanche un minuto segna Parisi di testa su azione d angolo , e al quarto	d ora Deflorio	sbaglia un rigore ma ribadisce in gol dopo la respinta del portiere : 2-0 e partita virtualmente archiviata , le orecchie
+
+5	0	0	ora Difficoltà
+						DET ADV NOUN	ITWAC	--------------------------------------------------------------------- 6 ) - GNOCCHI AL RADICCHIO Tempo di esecuzione :	i ora Difficoltà	: media Ingredienti 500 gr di patate farinose 125 grdi farina bianca 100 gr di radicchio rosso di Treviso 50 gr
+						DET ADV NOUN	ITWAC	, può rivolgersi direttamente a CAMILLO PAVAN EDITORE - Treviso camillo@pavaneditore.it --------------------------------------------------------------------- CROSTATA DI RADICCHIO TREVIGIANO Tempo di esecuzione :	i ora Difficoltà	: media Ingredienti 230 gr. di radicchio rosso di Treviso 1/2 cipolla i cucchiaio di olio extravergine d oliva Sale e
+						DET ADV NOUN	ITWAC	Serviteli caldi con una manciata di grana grattugiato Tempo	Un ora Difficoltà	Bassa torna su Spätzle Si chiamano così i piccoli gnocchetti di farina e latte che gli altoatesini preparano di solito come
+						DET ADV NOUN	ITWAC	facili riccette al Radicchio di G. Pasin --------------------------------------------------------------------- 1 ) - BUCATINI AGLI SCAMPI E RADICCHIO Tempo di esecuzione :	i ora Difficoltà	: media Ingredienti 2 eespi di radicchio rosso di Treviso i kg di scampi 1 cipolla 100 gr di buffo i
+						DET ADV NOUN	ITWAC	in una padella con il burro a fuoco lento dove andranno mantecati per qualche minuto con il formaggio grana Tempo	Un ora Difficoltà	Media torna su Zelten Nonostante il considerevole numero di ingredienti questo dolce tipico e molto sostanzioso non è difficile da preparare
+
+1	0	0	ora Distribuzione
+						DET ADV NOUN	ITWAC	quantità di gas naturale , espressa in mc / g , erogabile da un sistema di stoccaggio nell ambito di	un ora Distribuzione	: attività di trasporto di gas naturale attraverso reti di gasdotti locali per la consegna ai clienti Impianto di Gnl :
+
+1	0	0	ora Effetti
+						DET ADV NOUN	ITWAC	valore medio su un ora - Livello allarme : 360 µ g / m 3 per il valore medio su	un ora Effetti	sull ambiente e sulla salute L ozono è un gas che produce un rapido deterioramento dei materiali e riduce la produttività
+
+0	0	1	ora Eighteen
+						DET ADV ADJ NOUN	WIKICONLL	Egli è stato anche chitarrista	degli ora sciolti Eighteen	Visions .
+
+2	0	0	ora Elettricità
+						DET ADV ADJ NOUN	ITWAC	Festa della Costituzione Fuso orario : più 6 ore rispetto all Italia , 5 quando in Italia è in vigore	l ora legale Elettricità	: 220 V , 50 Hz Prefissi telefonici : 0066 seguito dal prefisso della città senza lo zero , più il
+						DET ADV ADJ NOUN	ITWAC	Nella Repubblica Dominicana non esiste	l ora legale Elettricità	: 115 - 125 V AC , 60 Hz , spine con due e tre spinotti piatti ; in alcune zone
+
+3	0	0	ora Euro
+						DET ADV NOUN	ITWAC	4.000 a indumento Euro 2,1 Stiratura ú 4.000 a indumento Euro 2,1 Servizio fax in ricezione Baby sitter ú 12.000	l ora Euro	6,2 Dog sitter ú 5.000 l ora Euro 2,6 Servizi Pubblici Metropolitana a 10 metri ( fermata Vittorio Emanuele - Linea
+						DET ADV NOUN	ITWAC	Cancano Costi del noleggio :	Un ora Euro	4,00 - Mezza giornata Euro 12,00 - Giornata intera Euro 20,00 .
+						DET ADV NOUN	ITWAC	a indumento Euro 2,1 Servizio fax in ricezione Baby sitter ú 12.000 l ora Euro 6,2 Dog sitter ú 5.000	l ora Euro	2,6 Servizi Pubblici Metropolitana a 10 metri ( fermata Vittorio Emanuele - Linea A ) Autobus 70/590/105/360/649 Vedi mappa
+
+2	0	0	ora FORMAT
+						DET ADV ADJ NOUN	ITWAC	Usa il codice eBayTime - Guarda	l ora eBayTime FORMAT	=  specifiche relative al formato del testo  - Assegna un formato personalizzato alla data / ora mostrata .
+						DET ADV ADJ NOUN	ITWAC	Usa il codice eBayTime - Mostra	l ora eBayTime FORMAT	=  specifiche relative al formato del testo  - Assegna un formato personalizzato alla data / ora mostrata % H
+
+0	0	1	ora Francesco
+						DET ADV NOUN	WIKICONLL	Entro un quarto	d ora Francesco	De Nardo , il padre di lei , rientrerà dalla partita di calcetto .
+
+0	0	1	ora Frentanorum
+						DET ADV NOUN	WIKICONLL	E Così la chiama anche Plinio «	In ora Frentanorum	a Tiferno flumen Trinium portuosum : oppida Histonium , Buca ,  Ortona  , Aternus amnis ... »
+
+1	0	0	ora GAMBERETTI
+						DET ADV NOUN	ITWAC	metà dei gamberetti - riempire con il composto le due metà di buccia dell avocado e mettere in frigo per	un ora GAMBERETTI	ALLA SALSA TARTARA - condire il resto dei gamberetti con salsa tartara SALSA TARTARA - frullare due tuorli d uovo ,
+
+1	0	0	ora Giornata
+						DET ADV NOUN	ITWAC	Solo ferite lievi per le persone a bordo Auto sulle rotaie : traffico bloccato per	un ora Giornata	di difficoltà per chi oggi ha deciso di spostarsi con le Ferrovie Nord Milano .
+
+1	0	0	ora Giovedì
+						DET ADV NOUN	ITWAC	Non vedo	l ora Giovedì	14.07.05 19:22 Il britannico della Ducati :  I test sono andati bene , bisogna vincere altrimenti Corser ...
+
+1	0	0	ora Guida
+						DET ADV NOUN	ITWAC	di vantare molte affinità con la carta Opinioni e commenti Scrivi nuovo | Leggi ( 43 ) Dipende non vedo	l ora Guida	Galattica per Autostoppisti Tokyo ( Giappone ) - Il lettore di e-book LIBRIé viene definito dai suoi creatori il primo dispositivo
+
+1	0	0	ora Indirizzo
+						DET ADV NOUN	ITWAC	d aria	l ora Indirizzo	: Viale Europa .
+
+1	0	0	ora Infiammazione
+						DET ADV NOUN	ITWAC	di artrite reumatoide devono essere presenti almeno 4 di questi sette requisiti : Rigidità mattutina che si protrae per almeno	un ora Infiammazione	/ dolore di tre o più aree articolari ( falangi , metacarpo , polso , gomito , ginocchio anca e metatarso-falange
+
+1	0	0	ora Info
+						DET ADV ADJ NOUN	ITWAC	Fuso orario In Italia vigono l ora legale e	l ora solare Info	mediche Indispensabile il libretto sanitario per poter usufruire delle strutture ospedaliere presenti nelle principali città .
+
+1	0	0	ora Itinerari
+						DET ADV NOUN	ITWAC	massimo 25 partecipanti ) ( 64,00 con Artvcard ) + biglietto d ingresso ( intero / ridotto ) Durata :	un ora Itinerari	cittadini Offrono la possibilità di osservare le realizzazioni monumentali milanesi di alcuni degli autori presenti in mostra e propongono interessanti percorsi
+
+1	0	0	ora LINGUA
+						DET ADV ADJ NOUN	ITWAC	è in vigore l ora legale , e di + 4 ore e mezzo quando da noi è in vigore	l ora solare LINGUA	La lingua ufficiale è l hindi , parlato principalmente al nord .
+
+4	0	0	ora Laboratorio
+						DET ADV ADJ NOUN	ITWAC	Ogni mattina Letture sceniche a cura di Silvia Cappelletti	L ora nona Laboratorio	teatrale .
+						DET ADV ADJ NOUN	ITWAC	nella scienza  con Margherita Hack professora emerita di Astrofica Ore 21,30	L ora nona Laboratorio	teatrale .
+						DET ADV NOUN	ITWAC	- 10 anni Partecipanti : min. 6 max 10 per ogni corso Numero di incontri : 10 della durata di	un ora Laboratorio	del gioco degli scacchi Come pensiero sotto forma di gioco , palestra di logica , di fantasia e vita , cogliendone
+						DET ADV NOUN	ITWAC	- 10 anni Partecipanti : min. 6 max 10 per ogni corso Numero di incontri : 10 della durata di	un ora Laboratorio	di danza creativa Per avvicinare il bambino al linguaggio del movimento come forma di espressione personale , sostenendo l esplorazione delle
+
+0	0	1	ora Lacrosse
+						DET ADV ADJ NOUN	WIKICONLL	una carriera di college alla University of South Florida , non viene scelto nel draft e , dopo un anno	nei ora defunti Lacrosse	Bobcats , squadra della CBA , decide di spostar- si in Europa alla KK Cibona , dove gioca dal 1997 al
+
+1	0	0	ora Lava
+						DET ADV NOUN	ITWAC	Tel Aviv , studentessa ventenne chiede 15 dollari	l ora Lava	, riassetta e stira ma lo fa completamente nuda La colf che si sveste per fare le pulizie  Mi piace
+
+1	0	0	ora Link
+						DET ADV NOUN	ITWAC	nn vedo	l ora Link	25/7/2005 - Commento senza Titolo Scritto da OcElot a proposito questo è il mio indirizzo email :  riccar89@yahoo.it  se
+
+2	0	0	ora Luglio
+						DET ADV NOUN	ITWAC	tariffe agevolate per le biblioteche : facciamo sentire la nostra voce Agosto 1997 : Revocata la circolare sulle cento lire	l ora Luglio	1997 : PC in biblioteca : l ennesima assurda vessazione della burocrazia Copyright AIB 1999 - 05 , ultimo aggiornamento 2004
+						DET ADV NOUN	ITWAC	tariffe agevolate per le biblioteche : facciamo sentire la nostra voce Agosto 1997 : Revocata la circolare sulle cento lire	l ora Luglio	1997 : PC in biblioteca : l ennesima assurda vessazione della burocrazia Lettere e comunicati del Presidente Maggio 2005 : Comunicato
+
+1	0	0	ora Mattinate
+						DET ADV NOUN	ITWAC	per l arrampicata ( presso centro Equilibrium ) Costi : Ore di lezione in classe : 26,00 Euro + IVA	l ora Mattinate	( 9.00/12.00 ) in palestra attrezzata  Equilibrium  : 4,00 Euro + IVA Accompagnamento per le giornate di uscite in
+
+2	0	0	ora Mercoledì
+						DET ADV NOUN	ITWAC	Toti , con Bodiroga accordo in	un ora Mercoledì	20.07.05 18:18 Il patron della Virtus Roma svela i retroscena della trattativa con il serbo Roma -   Su Dejan
+						DET ADV NOUN	ITWAC	posta Milano - Una telefonata alle forze dell ordine annunciava un attentato Allarme bomba a Cadorna , treni bloccati per	un ora Mercoledì	18 luglio Chiasso - Sono asserragliati da alcuni giorni al centro della cittadina svizzera .
+
+0	0	1	ora Moridin
+						DET ADV NOUN	WIKICONLL	( in attesa di poter- lo eliminare ) e lo considerino ancor più folle che in precedenza , anche se	per ora Moridin	pare avere imparato a controllare questa pazzia .
+
+1	0	0	ora Nome
+						DET ADV NOUN	ITWAC	7/6/2004 | Voto : | Voto al Disco : devo decidermi a comprarmi qualcosa di coltrane , ormai è giunta	l ora Nome	: Rocky | Data : 7/6/2004 | Voto : 5 | Voto al Disco : per favore , qualcuno di voi
+
+1	0	0	ora Ore
+						DET ADV NOUN	ITWAC	Ore 14,30 Per mancanza di numero legale la seduta viene aggiornata di	un ora Ore	16,10 La seduta riprende Progetto di legge n. 131/7 ^ G.r.  Norme per la salvaguardia della coltura e della qualità
+
+1	0	0	ora PISTE
+						DET ADV NOUN	ITWAC	IMPIANTI DI RISALITA : 1 sciovia CAPACITA DI TRASPORTO : 320 persone	l ora PISTE	DA DISCESA : 3 media difficoltà , molto larghe PISTE DA FONDO : 1 anello da 5 Km SCUOLA DI SCI
+
+1	0	0	ora Pag.
+						DET ADV NOUN	ITWAC	Infatti , considerando anche con il tempo contingentato ,	un ora Pag.	204 e 41 minuti solo di interventi , e dando la possibilità all audito di dare le risposte , la durata
+
+0	0	1	ora Premio
+						DET ADV NOUN	WIKICONLL	2° Premio Mascagni Livorno 1963 Premio Nazionale di Pittura Città di Follonica 1964 Premio di pittura Città di Vinci Medaglia	d ora Premio	di pittura Castelnuovo Garfagnana Premio Nazionale di pittura estemporanea Cerreto Guidi 1966
+
+1	0	0	ora Profilo
+						DET ADV NOUN	ITWAC	editore : EMI anno : 1997 GASPARINI , FULGIDA Adesso è	l ora Profilo	spirituale di Federica Bettari missionaria comboniana .
+
+1	0	0	ora Protesta
+						DET ADV NOUN	ITWAC	I lavoratori di Arese occupano i banchi dei check in L autorità aeroportuale decide di chiudere lo scalo per	un ora Protesta	degli operai Fiat bloccato l aeroporto di Malpensa Sciopero e blocchi stradali a Cassino MILANO - Arriva a Malpensa la rabbia
+
+0	0	1	ora Quadrilogia
+						DET ADJ ADV NOUN	WIKICONLL	suoi libri sul Mondo Emerso e nella saga  La Ragazza Drago  ; Markus Heitz ha parlato di draghi	nella sua ora Quadrilogia	Quadrilogia Dei Nani con i libri  Le cinque stirpi  ,  La guerra dei nani  e  La
+
+1	0	0	ora RUGGINE
+						DET ADV NOUN	ITWAC	rovescio e applicare una miscela di un quarto di essenza di trementina con tre quarti d alcool e sciacquare dopo	un ora RUGGINE	usare qualche goccia di antiruggine , o provare con acqua e ammoniaca e , per la biancheria , con sale e
+
+1	0	0	ora Raffreddore
+						DET ADV NOUN	ITWAC	di tentativi di interromperne la respirazione , destinati però all insuccesso , perchè la zecca respira solo poche volte in	un ora Raffreddore	Uso scorretto delle gocce di fisiologica nel naso .
+
+0	0	1	ora SDOIT
+						DET ADV NOUN	WIKICONLL	Into Infinity come un tentativo di conquistare il grande pubblico , con  Six Degrees of Inner Turbulence  (	da ora SDOIT	) i Dream Theater tentano nuove sonorità , senza nascondere l ispirazione verso altri gruppi .
+
+1	0	0	ora STRUMENTI
+						DET ADV NOUN	ITWAC	da solo quasi il 20 % della società editrice del « Corriere » , è stato ascoltato per più di	un ora STRUMENTI	VERSIONE STAMPABILE I PIU LETTI INVIA QUESTO ARTICOLO ROMA - L imprenditore-finanziere Stefano Ricucci è stato ascoltato oggi per più di
+
+2	0	0	ora Sabato
+						DET ADV NOUN	ITWAC	Quattro i feriti , di cui uno grave Incidente stradale sulla A 26 , autostrada bloccata per	un ora Sabato	13 marzo Abbiate Guazzone - Il nostro valente redattore del Saronnese pensa già al viaggio di nozze nella verde Irlanda Fiori
+						DET ADV NOUN	ITWAC	Solo ferite lievi per le persone a bordo Auto sulle rotaie : traffico bloccato per	un ora Sabato	16 agosto Gallarate - Due settimane la durata del centro estivo basato su laboratori teatrali Nella  Jungla  di Villa
+
+1	0	0	ora Scala
+						DET ADV NOUN	ITWAC	L opera sospesa	un ora Scala	: è Otello ( 6 dicembre 2001 ) Milano , 6 dicembre - Grande attesa per la prima scaligera di domani
+
+2	0	0	ora Scuola
+						DET ADV NOUN	ITWAC	Ora d aria : 4 ore Socialità :	un ora Scuola	: corsi di alfabetizzazione e di scuola media ; un corso per geometri gestito da assistenti volontari ( le lezioni avvengono
+						DET ADV NOUN	ITWAC	l incontro al ministero I nodi : stipendi e investimenti Cisl e Uil manifesteranno solo tre giorni dopo e per	un ora Scuola	, i sindacati si spaccano sullo sciopero In piazza , il 9 novembre , solo i docenti Cgil e Gilda ELENA
+
+1	0	0	ora Socialità
+						DET ADV NOUN	ITWAC	medio di  soggiorno  : 6 - 9 mesi Ora d aria : 2 ore + 2 Saletta :	un ora Socialità	: due ore alla sera , da una cella all altra C è un capannone per ospitare una attività lavorativa ,
+
+1	0	0	ora Strisce
+						DET ADV NOUN	ITWAC	Con queste parole il primo cittadino ha presentato i nuovi 615 posti a pagamento , al costo di un euro	l ora Strisce	blu , più della metà non le paga | apri il link in una nuova finestra | Il 53 % degli
+
+0	0	1	ora Symposium
+						DET ADV ADJ NOUN	WIKICONLL	L IGLTA ha tenuto il suo primo e	per ora unico Symposium	in Italia nel settembre 2006 a Viareggio , ospite del Consorzio Friendly Versilia .
+
+3	0	0	ora Tempo
+						DET ADV NOUN	ITWAC	Tempo di preparazione :	un ora Tempo	di cottura : 2 ore per il ripieno , 2 minuti per gli agnolotti
+						DET ADV NOUN	ITWAC	a pezzetti , il sale , un pizzico di pepe e portate a termine la cottura a fuoco lento dopo	un ora Tempo	Un ora e mezza Difficoltà Media torna su Tortellini in brodo Se oggi i tortellini sono un patrimonio comune della cultura
+						DET ADV NOUN	ITWAC	di preparazione : del ripieno , un ora e mezza ; della sfoglia , un ora ; dell agnolotto ,	un ora Tempo	di cottura : 3 - 4 minuti
+
+1	0	0	ora Territorio
+						DET ADV NOUN	ITWAC	Con l ora legale le lancette dell orologio vengono spostate avanti di	un ora Territorio	: La superficie complessiva è di circa 270.000 kmq , di poco inferiore a quella italiana ( 301.341 kmq ) .
+
+0	0	1	ora Wimbledon
+						DET ADV ADJ NOUN	WIKICONLL	Fino al 2005 lo stadio è stato per 50 anni la casa	degli ora defunti Wimbledon	Dons , team di Speedway , ed era famoso per ospitare meeting internazionali di questa specialità .
+
+0	0	1	ora Zweite
+						DET ADV NOUN	WIKICONLL	Nel 1975 ritornò prepotentemente in seconda divisione ( chiamata	come ora Zweite	Bundesliga ) dopo aver vinto il campionato tedesco amatori .
+
+1	0	0	ora abbraccio
+						DET ADV ADJ NOUN	ITWAC	E durerà per più di	un ora quest abbraccio	collettivo che circonda il segretario uscente .
+
+1	0	0	ora addio
+						DET ADV NOUN	ITWAC	e vai , era	l ora addio	Pentium II ...
+
+0	0	7	ora album
+						DET ADV ADJ NOUN	WIKICONLL	 Believed  è il terzo e	per ora ultimo album	pubblicato dal cantante e chitarrista statunitense Jamie Walters , nel 2002
+						DET ADV ADJ NOUN	WIKICONLL	 Black Roses  è il settimo e	per ora ultimo album	registrato e pubblicato dalla band finlandese alternative rock The Rasmus , nel settembre 2008 .
+						DET ADV ADJ NOUN	WIKICONLL	 Civilized Man  è il primo e	per ora unico album	pubblicato dal cantante e chitarrista rock , nonché attore , James Marsters , dopo lo scioglimento del suo precedente gruppo ,
+						DET ADV ADJ NOUN	WIKICONLL	 Let It Come Down  è il primo e	per ora unico album	solista di James Iha .
+						DET ADV ADJ NOUN	WIKICONLL	 One Wild Night Live 1985-2001  è il primo e	per ora unico album	live registrato e pubblicato dai Bon Jovi .
+						DET ADV ADJ NOUN	WIKICONLL	 Troops  è il primo e	per ora unico album	di Dunkelkwerk , ebbe un notevole contraccolpo per i suoi temi relativi alle guerre mondiali viste dalla parte dei tedeschi è
+						DET ADV ADJ NOUN	WIKICONLL	Filthy Notes for Frozen Hearts è il settimo e	per ora ultimo album	in studio registrato dalla band tedesca gothic metal Lacrimas Profundere e uscito nel 2006 .
+
+0	1	0	ora alleati
+						DET ADJ ADV NOUN	REPUBBLICA	27 settembre la Spd ottenesse il primo posto senza però trovare un accordo di governo con gli ecologisti né con	i liberali ora alleati	alleati di Kohl , l unica alternativa possibile -- la Grande coalizione -- potrebbe spaccare la Cdu renana e moderata ,
+
+6	2	0	ora alternativa
+						DET ADV NOUN	ITWAC	( ALUNNI NON AVVALENTISI DELL INSEGNAMENTO DELLA RELIGIONE CATTOLICA ) Gli alunni non avvalentisi dell insegnamento della religione cattolica durante	l ora alternativa	, così come deliberato dal Collegio docenti effettueranno  lezioni  su argomenti riguardanti i diritti umani e / o studio
+						DET ADV NOUN	ITWAC	, insieme ai figli dei musulmani , Luigi e la Dinì sono gli unici in tutta la scuola che frequentano	l ora alternativa	alla religione .
+						DET ADV NOUN	ITWAC	È vero che	l ora alternativa	, a parte le molte difficoltà di organizzarla , suona punitiva per il bambino .
+						DET ADV NOUN	ITWAC	Questo fino al 2000 quando con l istituzione delle graduatorie permanenti , tutti i punti che ho accumulato per	l ora alternativa	mi vengono tolti .
+						DET ADV NOUN	ITWAC	a.s. 1993/1994 : Agli insegnamenti connessi con	l ora alternativa	viene aggiunto un corso di Educazione alla salute .
+						DET ADV NOUN	ITWAC	le finalità educative della scuola , egli auspica che i commissari vogliano offrire il loro contributo per riempire di contenuti	l ora alternativa	all insegnamento religioso .
+						DET ADJ ADV NOUN	REPUBBLICA	Bisogna infatti fare molta attenzione anche a	un eventuale ora alternativa	alternativa : un insegnamento di storia delle religioni può infatti trasformar- si in una educazione cattolica mascherata .
+						DET ADJ ADV NOUN	REPUBBLICA	Nel fatto che per la scuola italiana sono adesso facoltative per lo studente sia l ora di religione sia	l eventuale ora alternativa	alternativa .
+
+0	0	1	ora ammiraglio
+						DET ADV ADJ NOUN	WIKICONLL	Secondo alcuni storici , potrebbe essere stato lui a mettere a morte per tradimento	l ora famoso ammiraglio	ottomano Piri Reis , autore delle famose e controverse carte geografiche misteriose delle americhe e dell Antartide di 13000 anni fa
+
+2	0	0	ora amore
+						DET ADV NOUN	ITWAC	credendo dello innamorato cuore trarre amore , il quale forse v avevano messo le stelle , pervenne a cacciare ad	una ora amore	e l anima del corpo al figliuolo .
+						DET ADV NOUN	ITWAC	non vedo	l ora amore	mio ...
+
+1	0	0	ora amori
+						DET ADV NOUN	ITWAC	Il tempo Ti racconterò degli amori di	un ora amori	distratti senza promesse che il tempo smentisce senza gelosie che il tempo sopisce senza bugie che il tempo non crede e
+
+1	0	0	ora anke
+						DET ADV NOUN	ITWAC	- 12 alla fine della scuola nn vedo	l ora anke	se purtroppo cm capita sempre ho iniziato a conoscere adesso delle persone molto belle ...
+
+1	0	0	ora anni
+						DET ADV ADJ NOUN	ITWAC	le dava il titolo - Il lungo pranzo di Natale ( The Long Christmas Dinner ) che , condensando in	un ora novant anni	di banchetti natalizi , raccontava la storia di una famiglia , preannunciando modi e temi delle opere maggiori .
+
+1	0	0	ora anno
+						DET ADV ADJ NOUN	ITWAC	Si produrranno 50 milioni di chilowatt	all ora ogni anno	per un investimento che sfiora i 50 milioni di vecchie lire .
+
+1	0	0	ora anti-droga
+						DET ADV NOUN	ITWAC	vincere il doping dobbiamo puntare sulla prevenzione - ha detto con fermezza Candido Cannavò - istituendo sin dalle scuole inferiori	l ora anti-droga	e anti-doping  .
+
+1	0	0	ora approx
+						DET ADV NOUN	ITWAC	pagato e vuole l oggetto , ma non mi invia ne il posto dal quale ha effettuato la ricarice nè	l ora approx	, ( dati da me esplicitamente richiesti ) .
+
+1	0	0	ora argomenti
+						DET ADV NOUN	ITWAC	altro alla questione delle espulsioni facili sta dedicando il suo impegno da tempo , quando afferma che racchiudere in solo	un ora argomenti	così delicati , dalle scuole differenziali alle espulsioni alle questioni razziali , crea nello spettatore una profonda confusione e una visione
+
+1	0	0	ora artifici
+						DET ADV ADJ NOUN	ITWAC	alcuni degli esperti che interpretano i fatti di questo tempo di guerra , ironia è diventato un sinonimo di tutti	gli ora improponibili artifici	comici , nonché dei paradigmi culturali degli ultimi lustri .
+
+1	0	0	ora assemblea
+						DET ADV ADJ NOUN	ITWAC	Ma , a vederla funzionare	un ora quest assemblea	, il pensiero si trova spontaneamente parole più esatte per formulare il suo giudizio .
+
+5	0	0	ora attesa
+						DET ADV ADJ NOUN	ITWAC	E il giorno del debutto ,	l ora zero attesa	da mesi e mesi .
+						DET ADV ADJ NOUN	ITWAC	inizio pagina AZIENDE IN CRISI Tensione altissima Zanussi ,	l ora zero attesa	per domani A rischio in 250 di Fabrizio Morviducci su la Nazione 29/5/05 L investigazione è conclusa .
+						DET ADV NOUN	ITWAC	Nel 1828 quando un aria di libertà cominciava ad alitare tra i popoli sembrò essere giunta	l ora attesa	.
+						DET ADV NOUN	ITWAC	Washington del Congresso Mondiale Ebraico ( e figlio di Stephen ) , scrive al segretario di Stato statunitense che anche	l ora attesa	abrogazione delle leggi antiebraiche non muta il pericolo per gli ebrei dell Italia settentrionale di cadere nelle mani dei nazisti ;
+						DET ADV NOUN	ITWAC	giorno della memoria I genitori dei bambini della « Jovine » alla veglia nella chiesa dalle 11 e 32 ,	un ora attesa	come in un conto alla rovescia .
+
+1	0	0	ora attività
+						DET ADV ADJ NOUN	ITWAC	E già	all ora questa attività	si configura non come nuova materia , ma come attività trasversale ed interdisciplinare che mira alla formazione generale dell uomo e
+
+2	0	0	ora autobombe
+						DET ADV ADJ NOUN	ITWAC	Nel giro di	un ora cinque autobombe	fanno una strage nelle vicinanze di altrettante stazioni della polizia .
+						DET ADV ADJ NOUN	ITWAC	Nello spazio di	un ora sei autobombe	esplodono nel centro di Tashkent in quello che è evidentemente un attentato alla vita del presidente .
+
+0	0	1	ora avara
+						DET ADV NOUN	WIKICONLL	, davanti al compagno di squadra ; per la Benetton si tratta comunque di un ottimo risultato in una stagione	ad ora avara	di soddisfazioni .
+
+6	0	0	ora baby
+						DET ADV NOUN	ITWAC	Dammi solo	un ora baby	che Dio ti benedica
+						DET ADV NOUN	ITWAC	Dammi solo	un ora baby	che Dio ti benedica che fica ho bisogno di qualcuno che mi tiri un po piu su perche sono un insicuro
+						DET ADV NOUN	ITWAC	Dammi solo	un ora baby	che Dio ti benedica che fica meno male che si puo ballare l uno sull altro addosso cosi sono le quattro
+						DET ADV NOUN	ITWAC	Dammi solo	un ora baby	e un po di cocacola che mi graffi la gola .
+						DET ADV NOUN	ITWAC	Dammi solo	un ora baby	un ora per cambiare per farmi rimorchiare .
+						DET ADV NOUN	ITWAC	a consumo telefono ( di cui sono dotate solo le case di Borgo Giusto ) donna di servizio 7,74 euro	l ora baby	sitter 7,74 euro l ora possibilità di fare passeggiate a cavallo letto aggiuntivo 52 euro culla 26 euro si accettano animali
+
+1	0	0	ora baci
+						DET ADV NOUN	ITWAC	dolce ( ?? ) metà non c erano ???? certo che Mary impalla bene il video :-( buon pranzo vista	l ora baci	Renza Rispondi a questo messaggio Re : Buon inizio settimana Autore : rica ( --- .
+
+1	0	0	ora banditi
+						DET ADV ADJ NOUN	ITWAC	Ma in meno di	un ora due banditi	e un ranger furono colpiti a morte .
+
+1	0	0	ora borgo
+						DET ADV ADJ NOUN	ITWAC	complesso di fabbricati posti all incirca fra strada del Carmine e strada del ponte Caprazzucca , vicolo San Marcellino e	l ora abbattuto borgo	Marmirolo .
+
+1	0	0	ora buca
+						DET ADV NOUN	ITWAC	Inviato da : Andre 88 il Dec 22 2004 , 03:53 PM Scattata ieri mattina a scuola durante	un ora buca	.
+
+3	0	0	ora buco
+						DET ADV NOUN	ITWAC	- Carli s bar Inviato : 24 Gio Feb 2005 21:06 Oggetto : Bar Le foto arriveranno , appena ho	un ora buco	visto che far foto mentre il bar è pieno è impossibile .
+						DET ADV NOUN	ITWAC	In caso effettui una supplenza in ore eccedenti le 20 mi vengono considerate a pagamento , tranne	un ora buco	destinata al ricevimento genitori .
+						DET ADV NOUN	ITWAC	al  prezioso contenuto  anche la lettera che non ancora finivo di leggere , proponendomi di farlo durante 	un ora buco	 fra quelle di lezione ...
+
+4	0	0	ora calma
+						DET ADV NOUN	ITWAC	« Mi svaga	l ora calma	» , afferma il poeta , tralasciando di approfondire il concetto , di sapere che è nell  impulso psichico la
+						DET ADV NOUN	ITWAC	« Mi svaga	l ora calma	del passeggio con Ulisse , il mio cane che grufola nei colletti dei lampioni e in ogni altro dove rigrufola presenze
+						DET ADV NOUN	ITWAC	Questa è	un ora calma	, il primo spettacolo , quello delle sette , è iniziato da un po e fino alle undici c è poco
+						DET ADV NOUN	ITWAC	Vago pensier di te Vaghi ricordi Turbano	l ora calma	E il dolce sole .
+
+1	0	0	ora camion
+						DET ADV ADJ NOUN	ITWAC	andato liscio , e grazie alla segnalazione di un utente della strada , che aveva visto sfrecciare ad oltre 100	all ora quel camion	con rimorchio e ruspa sui tornanti autostradali dell Appennino , una pattuglia di Pian del Voglio si mette sulle sue tracce
+
+0	0	1	ora carattere
+						DET ADV NOUN	WIKICONLL	Gli eventi citati non hanno però avuto	ad ora carattere	di ufficialità , non esistendo in passato una federazione riconosciuta , ma solo un gruppo di appassionati sostenuti di volta in
+
+1	0	0	ora carica
+						DET ADV ADJ NOUN	ITWAC	May at 15:09 » Vecchi ricordi tornano improvvisi mentre pronunci tenere parole : sono ricordi limpidi e precisi d	un ora lieta carica	di sole .
+
+1	0	0	ora carri
+						DET ADV ADJ NOUN	ITWAC	Nel giro di	un ora quattro carri	nemici , probabilmente gli stessi , si avvicinarono alla destra della testa di ponte , dove un plotone stava scavando delle
+
+2	0	0	ora casa
+						DET ADV NOUN	ITWAC	Nessun ristorante italiano aveva ancora avuto la terza stella , ma almeno un decina stavano a meno di	un ora casa	.
+						DET ADV NOUN	ITWAC	Prima ci avevamo 	l ora casa	lavoro  iniziavi in divisa sul posto e dovevi termin ...
+
+0	0	1	ora categoria
+						DET ADV ADJ NOUN	WIKICONLL	Nel 1937 stabilì il record	dell ora italiano categoria	allievi con 40,758 km al Velodromo Appio di Roma .
+
+1	0	0	ora cavalieri
+						DET ADV NOUN	ITWAC	 E giunta	l ora cavalieri	del Mark , figli di Eorl !
+
+1	0	0	ora cipolla
+						DET ADV NOUN	ITWAC	 Mia madre scaldava il ragù e spiegava alla cognata di averlo fatto soffriggendo per	un ora cipolla	, sedano , carota , prezzemolo , salvia e ramerino ; aveva poi aggiunto carne macinata e un po di vino
+
+1	1	0	ora cittadina
+						DET ADV ADJ NOUN	ITWAC	Se ne puo giustificare l esistenza a motivo di una precisa ordinanza governativa mirante ad istituire	un ora ufficiale cittadina	( come del resto era avvenuto a Milano nel 1786 , oppure a Mantova , Bergamo , ecc ) .
+						DET ADJ ADV NOUN	REPUBBLICA	Ne sa qualcosa	una albanese ora cittadina	cittadina italiana .
+
+1	0	0	ora civili
+						DET ADV ADJ NOUN	ITWAC	I curdi pensano al 1988 quando a Halabja , città dell Iraq del Nord , in	un ora cinquemila civili	vennero uccisi con i gas degli aerei di Saddam Hussein .
+
+1	0	0	ora colaziopne
+						DET ADV NOUN	ITWAC	scorso avevo fatto esami sangue ed il cortisolo era alto anche la glicemia ed insulinemia lo ersno ( ma dopo	un ora colaziopne	una brioches e un succo frutta ) sono attineneti alla mia depressione ?
+
+1	0	0	ora coll
+						DET ADV NOUN	ITWAC	in uno medesimo sermone , narrando , apre il testo e il misterio a quel sottoposto ; e così ad	un ora coll	 uno gli savi esercita e con l altro gli semplici riconforta , e ha in publico donde li pargoletti nutrichi
+
+1	0	0	ora colle
+						DET ADV NOUN	ITWAC	Egli ad	una ora colle	sue dimostrazioni spaventa i buoni e contrista i malvagi ; per la qual cosa quanto in questo adopera , tanto veramente
+
+0	0	1	ora concerto
+						DET ADV ADJ NOUN	WIKICONLL	Il primo fu	l ora leggendario concerto	alla Longshoremen s Hall a San Francisco il 16 ottobre 1965 , il primo di varie  apparizioni  nell area
+
+1	0	0	ora confronto
+						DET ADV NOUN	ITWAC	da parte del candidato sull argomento prescelto per una durata non inferiore a mezz  ora e non superiore a	un ora confronto	collegiale con il candidato nel merito della prova svolta valutazione della conoscenza dell argomento , della capacità di sintesi , dell
+
+1	0	0	ora conto
+						DET ADV NOUN	ITWAC	on : 18 November 2004 18:00:53 Message : manca pochissimo è l attesa mi sta facendo impazzire , non vedo	l ora conto	le ore e manca poco ...
+
+1	0	0	ora convogli
+						DET ADV ADJ NOUN	ITWAC	A Empoli bloccati per	un ora tre convogli	locali , altri fermati nelle stazioni vicine .
+
+2	0	0	ora corrente
+						DET ADV NOUN	ITWAC	Questo dirà quale è	l ora corrente	secondo con l orologio hardware .
+						DET ADV NOUN	ITWAC	SetSystemTime Ecco il codice : VB.NET Listato n ° 1  Inizializzazione Struttura Dim ora As New SYSTEMTIME  Recuperiamo	l ora corrente	GetSystemTime ( ora )  Modifichiamo i minuti a 45 ora .
+
+4	0	0	ora cose
+						DET ADV ADJ NOUN	ITWAC	Ieri sera Niccolò Ammanniti e Lorenza Indovina hanno letto per	un ora due cose	divertenti .
+						DET ADV ADJ NOUN	ITWAC	Sai che a leggere una copia del New York Times si conoscono in	un ora tante cose	quante quelle che un uomo vissuto nell Ottocento avrebbe potuto conoscere in tutta una vita ?
+						DET ADV ADJ NOUN	ITWAC	maravigliata te ne saresti che sogliano i pastori , quando essi primieramente nella città d alcuna bisogna portati , a	una ora mille cose	veggono che son loro d infinita maraviglia cagione .
+						DET ADV NOUN	ITWAC	PESCE D APRILE !! insomma il prof aveva spiegato x	un ora cose	che non c entravano nulla e noi come pampani ci siamo cascati !! che bel corso !! hehehe !! vado a
+
+3	0	0	ora curricolare
+						DET ADV NOUN	ITWAC	Tale sperimentazione , che coinvolge attualmente sei classi , prevede l inserimento di	un ora curricolare	nel biennio da dedicare alla pratica teatrale ed il coinvolgimento di alcune discipline ( Italiano , Storia dell arte , Lingua
+						DET ADV NOUN	ITWAC	aiuto agli insegnanti che potrebbero trovarsi in difficoltà nel gestire una classe in cui è inserito un bimbo disabile durante	un ora curricolare	particolare come quella di Educazione Motoria .
+						DET ADV NOUN	ITWAC	della sezione e deve coincidere con le ore di insegnamento , per cui a rotazione , volentieri ogni insegnante cede	un ora curricolare	della propria materia per permettere le prove .
+
+1	0	0	ora curriculare
+						DET ADV NOUN	ITWAC	Non potremo garantire neppure	un ora curriculare	in aggiunta all orario minimo .
+
+0	0	1	ora danno
+						DET ADJ ADV NOUN	WIKICONLL	A causa della diga alcuni accessi	al forte ora danno	danno sulle sponde del lago , e quindi alcuni depositi rimangono a volte parzialmente sommersi .
+
+1	0	0	ora data
+						DET ADV NOUN	ITWAC	sera , la molie e lo marito andono in leto lor do de conpagnia ; e  l giovene a	l ora data	ne vene ardito , 35 e piano piano a l uso percotia .
+
+1	0	0	ora delta
+						DET ADV NOUN	ITWAC	quest ultimo caso , ad indicare , sia nella ricevuta da rilasciare ai presentatori , sia sugli atti stessi ,	l ora delta	ricezione .
+
+1	0	0	ora diapartire
+						DET ADV NOUN	ITWAC	Per altro non vedo	l ora diapartire	, ho prorio bisogno di vacanza !
+
+1	0	0	ora dipendenti
+						DET ADV ADJ NOUN	ITWAC	due pistole - , muniti di radiotelefono che peraltro hanno dimostrato di non saper usare , hanno sequestrato per oltre	un ora due dipendenti	e nove clienti .
+
+1	0	0	ora disupplenza
+						DET ADV NOUN	ITWAC	Scuola media : un preside chiede di fare	un ora disupplenza	nell ora ricevimento parenti ( se arrivano i genitori si ricevono sulla porta dell aula ) , ma non vuole pagare
+
+1	0	0	ora divise
+						DET ADV NOUN	ITWAC	ANNO PER L AVVIAMENTO AL CALCIO Società Stampa Sportiva - Roma 300 esercitazioni costituiscono la base di 30 lezioni di	un ora divise	in 3 cicli , con l effettuazione , al termine , di 3 test di verifica .
+
+1	0	0	ora dle
+						DET ADV NOUN	ITWAC	L è	l ora dle	decisioni irevocabili .
+
+0	0	1	ora documenti
+						DET ADV NOUN	WIKICONLL	ora soltanto dedotta dagli studiosi moderni sulla base di una simmetria astratta con la prostituzione sacra femminile , mentre mancano	per ora documenti	antichi che attestino l esistenza effettiva di tale pratica .
+
+1	0	0	ora domenica
+						DET ADV NOUN	ITWAC	e tirare fuori tutte le qualità che ha , entusiasmandosi ed entusiasmando la gente , e lo abbiamo fatto per	un ora domenica	.
+
+0	1	0	ora don
+						DET ADV NOUN	REPUBBLICA	Mi immagino che a	quest ora don	Claudio Sorgi , che è uomo di religione , sia ancora immerso nel suo atto di contrizione .
+
+0	0	1	ora episodio
+						DET ADV ADJ NOUN	WIKICONLL	Il quarto e	per ora ultimo episodio	, è intitolato  La Terra esplode  ( 1979 ) (  Quatermass Conclusion  ) ed è interpretato da
+
+0	0	1	ora esame
+						DET ADV NOUN	WIKICONLL	obbligatoria di un corso presso le autoscuole autorizzate e di un esame finale presso la Motorizzazione Civile di competenza (	per ora esame	orale che in futuro diverrà a quiz ) .
+
+0	0	1	ora esclusica
+						DET ADV NOUN	WIKICONLL	Una nuovo colore per la PSP-3000 è stato annunciato il 25 febbraio 2009 ,	per ora esclusica	del Nord-America : si tratta del lilla che vedrà la luce in un bundle in onore della serie di Hanna Montana
+
+0	0	1	ora esempio
+						DET ADV ADJ NOUN	WIKICONLL	Un consorzio italo-franco-tedesco ha realizzato il primo e	per ora unico esempio	di reattore veloce autofertilizzante di tipo commerciale Superphénix , refrigerato a sodio liquido .
+
+2	0	0	ora essere
+						DET ADV ADJ NOUN	ITWAC	Tutte le sere , al tramonto , per circa	un ora ogni essere	senziente s unisce al coro con l erba che da semplice melodia s è mutato in un colloquio che coinvolge tutto
+						DET ADV ADJ NOUN	ITWAC	fa chiamare semplicemente Pixie : costei è in grado , grazie ad una misteriosa polvere magica , di tramutare per	un ora qualsiasi essere	vivente ( uomini compresi ) in pietra .
+
+1	0	0	ora euro
+						DET ADV ADJ NOUN	ITWAC	Ci sarà qualche extracomunitario senza permesso che mi massaggerà i piedi ,	un ora tre euro	?
+
+2	0	0	ora fà
+						DET ADV NOUN	ITWAC	VOGLIAMO CHIAREZZA !!!!!!!! ancora più di	un ora fà	...
+						DET ADV NOUN	ITWAC	pool212171.interbusiness.it ) Data : 23/12/02 19:33 Ho scoperto il surja forum circa	un ora fà	, ricambio gli auguri formulati a tutti , prendendo questo messaggio come benvenuto oltre che come augurio di buon Natale e
+
+0	1	0	ora fallite
+						DET ADV NOUN	REPUBBLICA	ad altri intrecci fra i versamenti misteriosi dell ex capo della Loggia P 2 e le società in difficoltà (	alcune ora fallite	) che beneficiavano dei miliardi di Gelli .
+
+1	0	0	ora faro
+						DET ADV NOUN	ITWAC	Mi disse :  Voglio che tu sappia in anticipo che fra	un ora faro	una conferenza stampa per annunciare che il commissario europeo del mio governo sarà Mario Monti  .
+
+1	0	0	ora fatti
+						DET ADV ADJ NOUN	ITWAC	Tutti possiamo ricordarci la quantita di compiti per	l ora successiva fatti	anziche il giorno prima , durante le ore di educazione fisica , liberando cosi tempo ai ragazzi per occuparsi di attivita
+
+0	0	1	ora finalissima
+						DET ADV ADJ NOUN	WIKICONLL	che dopo aver umiliato i cugini del Bressanone nella semifinale play off , regala alla tifoseria biancorossa la prima e	ad ora unica finalissima	scudetto della sua storia con i pluricampioni del Trieste .
+
+1	0	0	ora furia
+						DET ADV ADJ NOUN	ITWAC	Festa Mentre ceniamo insieme mentre cantiamo insieme si placa per	un ora questa furia	e per un ora siamo ancora vivi .
+
+0	0	1	ora fuso
+						DET ADV NOUN	WIKICONLL	c )	l ora fuso	( tf ) differisce di poco dalle ore medie locali ( tm ) dei vari meridiani compresi nello stesso fuso (
+
+1	0	0	ora gesto
+						DET ADV ADJ NOUN	ITWAC	 gridò lui , improvvisamente Lei ci rimase molto male , e lacrimoni pianse per	un ora quel gesto	da forsennato proprio non se l aspettava poi pensò che non l aveva fatto apposta Era un principe color pastello ed
+
+1	0	0	ora ginocchioni
+						DET ADV NOUN	ITWAC	Er  ito forse	un ora ginocchioni	tra quelle fiere , quando capitamo in un fossato tra duo gran valloni .
+
+1	0	0	ora gioia
+						DET ADV NOUN	ITWAC	avrà  a sofrire Inanzi ch  io ti doni mia sentenza ; Ché molte volte ti parrà morire :	Un ora gioia	avrai , altra , doglienza ; Ma poi dono argomento di guerire  .
+
+6	0	0	ora giorno
+						DET ADV ADJ NOUN	ITWAC	, oltre all uso della piattaforma e relativi tools , avranno possibilità di incontrare un docente o il tutor per	un ora ogni giorno	per risolvere particolari difficoltà o problemi .
+						DET ADV ADJ NOUN	ITWAC	Eccessiva intendo più di	un ora ogni giorno	.
+						DET ADV ADJ NOUN	ITWAC	I membri GBC hanno dedicato	un ora ogni giorno	per ascoltare e cantare con chiunque voleva unirsi a loro .
+						DET ADV ADJ NOUN	ITWAC	Sono giunta alla conclusione che dovrò passare	un ora ogni giorno	davanti allo specchio ad insultarmi , per trenta giorni consecutivi , senza sconti .
+						DET ADV ADJ NOUN	ITWAC	fattosi frate , il giocoliere della leggenda medioevale , non sapendo offrire altro dono alla Vergine , compieva religiosamente ,	un ora ogni giorno	i suoi più difficili esercizi acrobatici dinanzi al sacro tabernacolo .
+						DET ADV ADJ NOUN	ITWAC	sua attività , si recava alle sei del mattino al consultorio medico gratuito , ch  egli teneva aperto per	un ora ogni giorno	nella sua residenza privata .
+
+1	0	0	ora gomma
+						DET ADV ADJ NOUN	ITWAC	Sui rettifili da oltre 300	all ora ogni gomma	subisce infatti un effetto  centrifuga  : il cinturone tende a gonfiarsi e a  tirare  la spalla verso
+
+1	0	0	ora gr.
+						DET ADV NOUN	ITWAC	Il terzo passa in	un ora gr.	2 , m. 6 in circa del suo cerchio , e lo misura tutto in giorni 7 , ore 4 prossimamente
+
+0	0	3	ora grazie
+						DET ADJ ADV NOUN	WIKICONLL	L andamento della finale fu quello tipico delle partite epiche : avanti	dopo mezz ora grazie	grazie al gol di Ernst Reitermaier ( capocannoniere del campionato nel 1941-42 ) , Josef Stroh pareggiò al 45  per
+						DET ADJ ADV NOUN	WIKICONLL	in uno Scida incandescente e con oltre 5000 spettatori sugli spalti , e vede il Crotone in vantaggio per 2-0	alla mezz ora grazie	grazie al gol di Gravante e ad un autorete .
+						DET ADV NOUN	WIKICONLL	Una meridiana naturale sfrutta la conformazione del suolo per mostrare	l ora grazie	alle cime montuose che il sole illumina .
+
+1	0	0	ora iamm
+						DET ADV NOUN	ITWAC	italia 78 il 2005 - 07 - 20 13:24 , scrive : Stasera che seraaaaaaa grandi grandissimi non vedo	l ora iamm	il 2005 - 07 - 19 11:22 , scrive : DAIIIIIIIIII DAIIIIIIIIIIIIIII già ho inviato un post !
+
+1	0	0	ora immagini
+						DET ADV ADJ NOUN	ITWAC	lungo monologo della donna , un folle e tardivo atto di ribellione e ci costringe a guardare per più di	un ora nuove immagini	nelle immagini , un altro film nel film , in un gioco continuo di rimandi tra realtà e finzione , tra
+
+1	0	0	ora impasto
+						DET ADV ADJ NOUN	ITWAC	Lasciate riposare per	un ora questo impasto	, in luogo non freddo , coperto da un telo .
+
+0	0	1	ora imperatore
+						DET ADV NOUN	WIKICONLL	Successivamente ,	l ora imperatore	Sima Yan nominò Cao Huan principe di Chengliu , posizione che avrebbe detenuto per il resto della sua vita .
+
+2	0	0	ora impiegati
+						DET ADV ADJ NOUN	ITWAC	- Rapinano la Popolare di Sondrio e bloccano per	un ora cinque impiegati	legandoli con scotch da pacco Rapina in banca , 30 mila euro il bottino È di trentamila euro il bottino della
+						DET ADV ADJ NOUN	ITWAC	È a Villa Shapira la nuova sede distrettuale dell Asl Castellanza - Rapinano la Popolare di Sondrio e bloccano per	un ora cinque impiegati	legandoli con scotch da pacco Rapina in banca , 30 mila euro il bottino Busto Arsizio - Ridisegnata la mappa degli
+
+1	0	0	ora incarichi
+						DET ADV ADJ NOUN	ITWAC	ForTic da corsista da tutor ruolo a scuola counselor niente introiti ( lordi ) 1.290 euro per counseling 42 euro	l ora ulteriori incarichi	previsti da ForTic precedenza come tutor corsi A nessuno introiti da ulteriori incarichi ForTic 42 euro l ora se i corsisti
+
+2	0	0	ora incidente
+						DET ADV ADJ NOUN	ITWAC	Quattro i feriti , di cui uno grave Incidente stradale sulla A 26 , autostrada bloccata per	un ora Grave incidente	ieri sera intorno alle 20.30 sulla A 26 .
+						DET ADV ADJ NOUN	ITWAC	traffico paralizzato e sul posto è dovuto intervenire l elisoccorso Ennesimo incidente sulla Varesina , strada in tilt per oltre	un ora Ennesimo incidente	sulla strada provinciale 233 all ingresso di Saronno .
+
+1	0	0	ora incontro
+						DET ADV NOUN	ITWAC	Bush rende omaggio al Papa della pace - Il Messaggero Papa , durato	un ora incontro	Ciampi-Bush - AudioNews.it Rai International - Radio Capital - Adnkronos Aprile Bertolaso :  La città non può sopportare l arrivo
+
+1	0	0	ora indennità
+						DET ADV NOUN	ITWAC	detti spostamenti fino alle ore 18,30 , con diritto per coloro che abbiano avuto uno spostamento eccedente la durata di	un ora indennità	di cui al penultimo comma dell art. 63 ( dal 1 ø gennaio 1995 , L. 6.600 per ciascun giorno di
+
+0	0	1	ora inedito
+						DET ADV NOUN	WIKICONLL	Nel 1999 dirige un film ambientato in Tirolo ,  Facce da cinema  ,	per ora inedito	in Italia .
+
+0	0	1	ora intenzione
+						DET ADV NOUN	WIKICONLL	In definitiva non abbiamo	per ora intenzione	di realizzare materiale shoujo , ma se ne avessimo la possibilità , ci piacerebbe far- lo .
+
+2	0	0	ora internet
+						DET ADV NOUN	ITWAC	Anche per gli avvocati è scoccata	l ora internet	.
+						DET ADV NOUN	ITWAC	funzionamentodei blog , qui  non ce  nulla , vado a volte in una liberia che mi lascia usare	un ora internet	buona giornata tutti Scritto da : Gloria | e-mail : | 25/7/2005 9:42 io non sono in grado di fare un
+
+0	0	1	ora interpretazione
+						DET ADV ADJ NOUN	WIKICONLL	Serie prodotta nel 1985 , è la serie che vede She-Ra protagonista , sua prima e	per ora unica interpretazione	animata .
+
+1	0	0	ora intesa
+						DET ADV ADJ NOUN	ITWAC	( cittadini di tutte le età ) ha trasferito la protesta nella locale stazione ferroviaria occupando pacificamente i binari per	un ora previa intesa	informale con le Forze dell ordine ; tuttavia la Questura di Roma ha provveduto a formalizzare denuncia nei confronti di 14
+
+0	0	1	ora invito
+						DET ADV NOUN	WIKICONLL	Mentre	d ora invito	i giovani del mondo ad incamminar- si verso quella meta , rivolgo uno speciale saluto alla Delegazione canadese , che ha
+
+1	0	0	ora istanze
+						DET ADV ADJ NOUN	ITWAC	Paolo Costa sottolinea che l obiettivo principale e riunire	le ora lontane istanze	che diedero vita all Ulivo .
+
+1	0	0	ora jam
+						DET ADV ADJ NOUN	ITWAC	E i Grateful Dead una volta e	le ora nuove jam	band americane come i Phish .
+
+2	0	0	ora km
+						DET ADV NOUN	ITWAC	Km 100,00 ( tutto tranne il culo - durata max 20 min.  per	un ora km	200,00 ...
+						DET ADV NOUN	ITWAC	gamba destra ( la sinistra gli fu amputata all età di 13 anni per un tumore ) ha percorso in	un ora km	45.870 .
+
+0	3	0	ora le
+						DET ADV NOUN	REPUBBLICA	300  sono arrivate , a qualche centinaio di metri , a consolazione della gente in partenza che gremiva a	quell ora le	grandi hall dell aeroporto nazionale e internazionale .
+						DET ADV NOUN	REPUBBLICA	Buon pressing , per	un ora le	assenze di due titolari di peso come Lanna e Carboni non si sono fatte sentire , poi sì .
+						DET ADV NOUN	REPUBBLICA	sabato , quando Basaev aveva dato appuntamento a tutti alle cinque di domenica mattina , impegnando- si a liberare a	quell ora le	sue centinaia di prigionieri .
+
+1	0	0	ora legage
+						DET ADV NOUN	ITWAC	Fuso orario : + 11 ore ( + 10 quando è in vigore da noi	l ora legage	) .
+
+1	0	0	ora limite
+						DET ADV NOUN	ITWAC	qualità del servizio offerto alla clientela della città di Gorizia c è un peggioramento perché verrebbe anticipata alle ore 17	l ora limite	per l impostazione della corrispondenza prioritaria che attualmente è prevista per le ore 19 - : se il piano di ristrutturazione
+
+0	0	1	ora live
+						DET ADV ADJ NOUN	WIKICONLL	 Eine Kleine Nachtmusik  è il primo e	per ora unico live	( ufficiale ) rilasciato dal gruppo speed metal inglese Venom , nel 1986 .
+
+2	0	0	ora luce
+						DET ADV NOUN	ITWAC	è la distanza che la luce percorre in un anno , cioè 9.400 miliardi di km ; naturalmente abbiamo anche	un ora luce	, che corrisponde a 18 milioni di km , e queste distanze vanno bene per misurare gli oggetti che si trovano
+						DET ADV NOUN	ITWAC	un ora esso percorre 1.000.000.000 di km. Ed ho così individuato delle unità di misura : il secondo luce ,	l ora luce	, un anno luce che è la distanza che la luce percorre in un anno , corrispondente a circa 9.500 miliardi
+
+1	0	0	ora luogo
+						DET ADV NOUN	ITWAC	Mettete un canovaccio sulla scodella e lasciatela per	una ora luogo	caldo ( vicino il termosifone ) per farla lievitare .
+
+0	0	1	ora magazine
+						DET ADV ADJ NOUN	WIKICONLL	La serializzazione della serie iniziò sul quinto volume	dell ora defunto magazine	 Dengeki hp  edito da MediaWorks il 17 marzo 200 .
+
+1	0	0	ora mal
+						DET ADV ADJ NOUN	ITWAC	amante Alcina vide un giorno finalmente : e fu gran sorte ; che di stare o d ire senza esso	un ora potea mal	patire .
+
+1	0	0	ora man
+						DET ADV NOUN	ITWAC	658655 byte 07/03/01 Shareware 116 download NetChronometer 1.4.7 Avrete probabilmente notato che l orologio del vostro Macintosh tende a sbagliare	l ora man	mano che passa il tempo .
+
+1	0	0	ora marito
+						DET ADV ADJ NOUN	ITWAC	avanzi , non le condiscepole ) a nutrire quello squattrinato famelico del mio fidanzato ( già , proprio lui ,	l ora malconcio marito	che anche voi conoscete ) che , studente di Medicina all Università di Genova , veniva a trovarmi dopo ogni sessione
+
+1	0	0	ora martedì
+						DET ADV NOUN	ITWAC	Isotta Fraschini Bari I lavoratori hanno già scioperato per	un ora martedì	scorso , con una percentuale di adesione intorno all 80 % .
+
+3	0	0	ora mattina
+						DET ADV ADJ NOUN	ITWAC	Fiom proclama 4 ore di sciopero per il 28 aprile Autostrada bloccata dai lavoratori dell Alfa Romeo Autostrada bloccata per	un ora questa mattina	all altezza di Arese .
+						DET ADV ADJ NOUN	ITWAC	La pioggia continua a cadere incessante e , a parte la tregua di	un ora questa mattina	intorno alle 9 , le previsioni non accennano a diminuzioni importanti delle precipitazioni .
+						DET ADV ADJ NOUN	ITWAC	Nell Eugubino una tormenta di neve ha determinato la chiusura per circa	un ora questa mattina	del valico della Contessa , mentre sempre sulla 219 una serie di mezzi intraversati ha creato una fila di 5 chilometri
+
+1	0	0	ora mattino
+						DET ADV NOUN	ITWAC	 ) / 19:55 - 21:10 ( 75  ) Scuola Yoga Shanti : mercoledì e venerdì , lezioni da	un ora mattino	, pomeriggio e sera : 9:00/10:00 - 13:00/14:00 - Dalle 17:00 alle 21:00 tutte le ore .
+
+1	0	0	ora mela
+						DET ADV NOUN	ITWAC	A dire il vero sono stata anche male : per	un ora mela	sono vista proprio brutta perchè ho mangiata due panini da sudata con il freddo che c era nella cima e ho
+
+0	0	1	ora membri
+						DET ADV ADJ NOUN	WIKICONLL	Dopo lunghi esperimenti con le anime	degli ora defunti membri	del Concilio , Gul dan alla fine riuscì nel suo intento : mise l anima del warlock Teron Gorefiend nel corpo
+
+1	0	0	ora mentr
+						DET ADV NOUN	ITWAC	Mi risvegliai in sala intensiva chiesi	l ora mentr	 ero ancora brillo eran le quindici e mi dissi  evviva !
+
+2	0	0	ora mercoledì
+						DET ADV ADJ NOUN	ITWAC	Un variabile , piccolo numero di persone , manifesta tenacemente rimanendo in silenzio per	un ora ogni mercoledì	dalle 18 alle 19 sui gradini del palazzo ducale di Genova .
+						DET ADV NOUN	ITWAC	l hanno detto martedì per venerdì , precisando anche	l ora mercoledì	, che su Internet è un preavviso non grande ma + che accettabile .
+
+1	0	0	ora mes
+						DET ADV ADJ NOUN	ITWAC	gh  el fan cantà sù come el prefazzi , con de quij soliloqui de repezz che fan poeù parì	un ora on mes	e mezz .
+
+1	0	0	ora mesi
+						DET ADV ADJ NOUN	ITWAC	dei praticanti presso uffici giudiziari bilancio regionale assegnazione di borse di studio ai tirocinanti per un massimo di euro 3,00	all ora sei mesi	200000 rilascio certificato di compiuta pratica da parte degli Ordini degli Avvocati firmatari della convenzione L. 196/97 DL 142/98 deliberazione n
+
+1	0	0	ora metri
+						DET ADV ADJ NOUN	ITWAC	Grande esperienza di cime extraeuropee , istruttore di guide alpine , ogni mattina inizia la giornata salendo in	un ora mille metri	di corsa , sul Monte Rosa .
+
+2	0	0	ora mill
+						DET ADV NOUN	ITWAC	, ed a mostrarle prese di pugnale ; di modo che quella meschina stava in su la croce e parvele	un ora mill	 anni levarselo da canto , temendo quasi che non ammazzasse lei ancora come quegli altri .
+						DET ADV NOUN	ITWAC	sottilità della retorica , che quelle si diffidano di se stesse e si tengon per ignorantissime , e par loro	un ora mill	 anni finir quel ragionamento e levarsegli davanti ; altri si vantano senza modo ; altri dicono spesso cose che tornano
+
+1	0	0	ora minimo
+						DET ADV ADJ NOUN	ITWAC	In questo modo , contiamo di coniugare gli aspetti positivi delle attività svolte in gruppo - classe ( per	l ora rio minimo	obbligatorio ) con le potenzialità di parziali personalizzazioni del percorso attraverso gruppi non necessariamente coincidenti alla classe per le attività facoltative
+
+1	0	0	ora miseria
+						DET ADV ADJ NOUN	ITWAC	  Era	l ora porca miseria	...
+
+1	0	0	ora modello
+						DET ADV NOUN	ITWAC	La prima produzione , 25 fucili	l ora modello	Vetterli ( 1880 - 1890 ) , subì - grazie alla rivoluzione industriale che interessò l intera penisola nei due successivi
+
+1	0	0	ora negazione
+						DET ADV ADJ NOUN	ITWAC	convenuti ( ai Pubblici Ministeri in data 17.10.1995 ) ed in presenza di un quadro probatorio del tutto contrastante con	la ora opposta negazione	di aver ricevuto denaro , e tenuto conto del libero apprezzamento che al Giudice Contabile è dato fare sulle risultanze anche
+
+1	0	0	ora no-stop
+						DET ADV NOUN	ITWAC	verticalisti , un piccolo trapezista di 11 anni che rimane in equilibrio sulla testa e divertenti clown che eseguonoo oltre	un ora no-stop	di spettacolo .
+
+1	0	0	ora occupazioni
+						DET ADV NOUN	ITWAC	per piccoli lavori di riparazione , manutenzione o sostituzione riguardanti infissi , pareti , coperti di durata non superiore ad	un ora occupazioni	momentanee con fiori e piante ornamentali all esterno dei negozi od effettuate in occasioni di festività , celebrazioni o ricorrenze ,
+
+1	0	0	ora of
+						DET ADV NOUN	ITWAC	UnoDeattiminizzato 28/07/2005 18:31 allora Adolph è tutto tuo ja !!!! Tu vole tajial  aiuola tutto il giono a tuta	l ora of	MaSScia 28/07/2005 18:33 Ve salut a tuta l or !!!! basi e stuchi por todos of Una Deattiminizzata 2 28/07/2005 21:41
+
+1	0	0	ora onde
+						DET ADV NOUN	ITWAC	Quando l abate Pastor si preparava a uscire per l Uffizio , sedeva dapprima in disparte per circa	un ora onde	sbrogliare i propri pensieri .
+
+3	0	0	ora ore
+						DET ADV ADJ NOUN	ITWAC	Dove lavorano a Milano Per chi lavorano : sono una mini-squadra di libere professioniste Quanto guadagnano : circa 100 euro	all ora Quante ore	lavorano al giorno : 3 - 4 ore , ma spesso poi pranzano o cenano con la cliente Molti penseranno che
+						DET ADV ADJ NOUN	ITWAC	non dentro un osso schiacciati guardare con le palle piccole degli occhi se il resto si gonfia mezz  ora	un ora due ore	con Carrie sullo schermo o persino chi lo sa un qualsiasi straccio : periferia degli imperi autunno così se lo guarda
+						DET ADV ADJ NOUN	ITWAC	se tu vieni da me verso le 3 , 3 e mezza stiamo un po	un ora due ore	insieme diciamo eh ?
+
+1	0	0	ora orologiaio
+						DET ADV ADJ NOUN	ITWAC	[ Rispondi ] 11/07/2005 - [ Abram Louis Breguet ] RE : RE : RE : RE : leggendo	l ora Caro orologiaio	sua madre oggi non e venuta a passare la criolina nel cesso per disincrostarlo !! Sua madre e proprio una gran
+
+1	0	0	ora ottanta
+						DET ADV ADJ NOUN	ITWAC	Dato che un mese ha 720 ore , in	un ora ogni ottanta	Cecilia è a casa di uno degli amici che abitano nel quartiere .
+
+1	0	3	ora parte
+						DET ADV ADJ NOUN	ITWAC	Qui entro in distinti sud , vero le 18.30 ed in	un ora gran parte	dello stadio e gia pieno , compreso a sorpresa il settore ospiti , che vista la penosa assenza di questi ultimi
+						DET ADV ADJ NOUN	WIKICONLL	di Strauß lo conduce all hegelismo :  ... non diventerò un hegeliano incallito come Hinrichs , ma dovrò assimilare	d ora gran parte	di questo sistema monumentale .
+						DET ADV NOUN	WIKICONLL	I moderni lavori di restauro hanno portato alla luce	ad ora parte	delle mura di cinta , una garitta perfettamente conservata e le antiche scarpate che davano maestosità all edificio .
+						DET ADV NOUN	WIKICONLL	Nacque Israel Anton Zoller nella Galizia , regione	all ora parte	della multietnica e multiculturale Austria-Ungheria , da famiglia ebrea polacca benestante che si era tuttavia vista ridurre il proprio tenore di
+
+1	0	0	ora passo
+						DET ADV NOUN	ITWAC	mi invita gentilmente a ripassare dopo un ora che avrebbe fatto risolvere il problema , così ho fatto , dopo	un ora passo	per ritirarlo ed era molto meglio , pago e ritiro il mio Nexus .
+
+1	0	0	ora patate
+						DET ADV NOUN	ITWAC	Il brodo vegetale si prepara facendo bollire per circa	un ora patate	, carote , zucchine , insalata , costine , legumi , spinaci , sedani .
+
+1	0	0	ora pattuglie
+						DET ADV ADJ NOUN	ITWAC	Nel giro di	un ora due pattuglie	di polizia di Skopje sono state attaccate presso Tetovo e almeno 3 agenti sono rimasti feriti .
+
+1	0	0	ora pensata
+						DET ADV NOUN	ITWAC	 Passions  è una soap opera quotidiana da	un ora pensata	per un pubblico adolescente .
+
+1	0	0	ora perke
+						DET ADV NOUN	ITWAC	una volta scesi dovevamo fare 2 passi per entrare in ospedale ma ci sar  voluta	un ora perke	 la gente e veramente troppo forte e calorosa da matti !!!!! abbiamo fatto foto , palloncini e kiakkerato con tutti
+
+1	0	0	ora pero
+						DET ADV NOUN	ITWAC	ti giuro che per me Firenze e numero	una ora pero	:) !!!!!!!!! [ la _ bulgara 01/02/2005 19:31:00 ] Ciao [ griso 10/01/2005 18:58:00 ] Complimenti per la tua pagina ,
+
+1	0	0	ora persona
+						DET ADV ADJ NOUN	ITWAC	Un avvocato , una decina di persone persone ,	un ora x persona	...
+
+1	0	0	ora piacere
+						DET ADV NOUN	ITWAC	Ma lasciamo ora star questo ; tu puoi , quando tu vogli , ad	una ora piacere	a Dio e al tuo signore e a me in questa maniera : che tu prenda questi miei panni , e
+
+0	0	1	ora piano
+						DET ADV NOUN	WIKICONLL	Se consideriamo l uguaglianza relativa alla forma e alle dimensioni di un oggetto (	per ora piano	) è evidente che questo rimane uguale a sé stesso in qualsiasi posizione si trovi rispetto a chi guarda .
+
+1	0	0	ora pneumatico
+						DET ADV ADJ NOUN	ITWAC	A 380	all ora nessun pneumatico	in rotazione può reggere facilmente una simile forza centrifuga .
+
+1	0	0	ora polizia
+						DET ADV NOUN	ITWAC	Dopo circa	un ora polizia	ed esercito hanno chiesto ai palestinesi di tornare al villaggio , dichiarando tutta la zona  area militare chiusa  e
+
+1	0	0	ora pomeriggio
+						DET ADV ADJ NOUN	ITWAC	A uno dei due uomini era permesso mettersi seduto sul letto per	un ora ogni pomeriggio	per aiutare il drenaggio dei fluidi dal suo corpo .
+
+1	0	0	ora possibilità
+						DET ADV NOUN	ITWAC	sono dotate solo le case di Borgo Giusto ) donna di servizio 7,74 euro l ora baby sitter 7,74 euro	l ora possibilità	di fare passeggiate a cavallo letto aggiuntivo 52 euro culla 26 euro si accettano animali 26 euro Stanze , prezzi e
+
+1	0	0	ora pr
+						DET ADV NOUN	ITWAC	Chiediamo pertanto che per il periodo dell iniziativa ( oltre ad	un ora pr	ima ed un ora dopo i preparativi ed il disallestimento ) si possa chiudere un tratto di via del Giordano ,
+
+1	0	0	ora pranzo
+						DET ADV ADJ NOUN	ITWAC	In bocca al lupo Goma e vista	l ora buon pranzo	.
+
+2	0	0	ora principio
+						DET ADV ADJ NOUN	ITWAC	Quanto , invece , all apertura di credito a tempo indeterminato , poiche la menzionata normativa contiene	l ora cennato principio	secondo cui non sono vessatorie le clausole che riproducono disposizioni di legge , appare possibile mantenere immutata la clausola del contratto
+						DET ADV ADJ NOUN	ITWAC	di un palese stravolgimento del nucleo essenziale dell articolo 2087 del codice civile , nella misura in cui si sostituisce	l ora richiamato principio	a quello della  massima sicurezza tecnicamente possibile  ( che è l essenza della norma codicistica ) .
+
+0	0	1	ora prodotti
+						DET ADV NOUN	WIKICONLL	Tutti i dati	ad ora prodotti	non fanno altro che confermare che Brecht , nei mesi a cavallo tra il 1938 e il 1939 , si cimentò
+
+1	0	0	ora progettazione
+						DET ADV NOUN	ITWAC	stato realizzato con gli strumenti di Office Word , Powerpoint e Front page Tempi di attuazione così suddivisi : ·	Un ora progettazione	struttura ( dal P.O.F. all unità didattica ) ; · Tre ore ricerca materiale ( Web , testi ) ; ·
+
+3	0	0	ora promessa
+						DET ADV NOUN	ITWAC	Dopo alcuni tentativi , ormai temendo di non farcela in tempo utile per	l ora promessa	, gli venne spontanea tra sé e sé una specie di esortazione a suor Maria , del tipo :  Suor
+						DET ADV NOUN	ITWAC	Il tempo è attesa dell ora di Dio ,	l ora promessa	, l ora del suo intervento che farà si che  il tuo sole non tramonterà più   perché il
+						DET ADV NOUN	ITWAC	paziente , aveva solo qualche volta fatto rimostranze ( ed a ragione ) , quando l assatanato tornava ore dopo	l ora promessa	, o quando non si staccava più dal fiume ...
+
+1	0	0	ora proposta
+						DET ADV NOUN	ITWAC	DATA e l ORA DI AGGIORNAMENTO VENGONO PRESE DAL TUO COMPUTER Se per qualche motivo devi cancellare la data e	l ora proposta	, usa il tasto sotto riportato  CANCELLA QUANTO SCRITTO  e inseriscila manualmente Inserimento DATA manuale esempio : 25.07.2004 Inserimento
+
+0	0	1	ora protagonista
+						DET ADV NOUN	WIKICONLL	Chiusa l avventura americana è iniziata quella europea che lo ha visto	per ora protagonista	nel campionato greco ed in quello tedesco .
+
+0	0	1	ora prove
+						DET ADV NOUN	WIKICONLL	non è ancora stata formulata una teoria soddisfacente di quale possa essere tale meccanismo , né tantomeno sono state trovate	ad ora prove	scientifiche che tali fenomeni esistano davvero .
+
+1	0	0	ora punto
+						DET ADV NOUN	ITWAC	[ da BOICOTTAISRAELE , inviato il 1 Agosto 2005 , 14:29 ] contro In	un ora punto	17 minuti , compreso il percorso Settembrini-Buenos Aires son 37 gradi , son riuscita a comprare : 8 magliettine , due
+
+0	0	1	ora qualificazione
+						DET ADV ADJ NOUN	WIKICONLL	Due anni più tardi guadagnò la sua prima e	per ora unica qualificazione	alla fase finale , vincendo il proprio raggruppamento e lasciando- si dietro la nazionale portoghese .
+
+0	0	1	ora raccolta
+						DET ADV NOUN	WIKICONLL	L industria	ad ora raccolta	consta di 55 manufatti di cui 5 strumenti : tra questi ultimi si nota la presenza di una punta foliata a
+
+1	0	0	ora raga
+						DET ADV NOUN	ITWAC	non vedo	l ora raga	, e devo assolutamente farmi fare un disegno !
+
+2	0	0	ora ragazzi
+						DET ADV NOUN	ITWAC	Non vedo	l ora ragazzi	!!!
+						DET ADV NOUN	ITWAC	Stefano prgiorgio Jan 2 2005 , 04:47 PM Sbav , non vedo	l ora ragazzi	: - ) p.s. welà , ciao scarde .
+
+1	0	0	ora rasoterra
+						DET ADV NOUN	ITWAC	OPEN KART , il videogioco allegato al prossimo numero del Giornalino , vi fa sfrecciare a 200 km	l ora rasoterra	.
+
+0	0	1	ora rassegna
+						DET ADV ADJ NOUN	WIKICONLL	Nel 2006 infine , dopo quattro finali perse , il giappone finalmente vince la sua prima e	per ora unica rassegna	continentale : in Uzbekistan i nipponici battono i padroni di casa per 5-1 laureando- si campioni d Asia .
+
+0	0	1	ora reattori
+						DET ADV ADJ NOUN	WIKICONLL	non producano scorie nucleari dagli anni 50 del secolo scorso si stanno studiando dei reattori a fusione nucleare , ma	per ora tali reattori	hanno un funzionamento non continuo ( si riesce a tenere  accesa  la reazione di fusione nucleare per tempi dell
+
+1	0	0	ora regina
+						DET ADV NOUN	ITWAC	 , è vero , ha 24 ore , come tutti gli altri ; ma  quell ora  è	l ora regina	, le altre 23 ...
+
+1	0	0	ora registi
+						DET ADV ADJ NOUN	ITWAC	Una prova difficile condensata in	un ora Undici registi	italiani hanno lavorato con nove troupe palestinesi nei territori occupati .
+
+0	0	1	ora reperti
+						DET ADV NOUN	WIKICONLL	comunque rivestire un certo interesse storico data l altitudine e l ubicazione della stazione ( quota 1750 metri ) ;	ad ora reperti	preistorici più vicini erano stati rinvenuti sul versante ovest del monte Manos ( 1853 m .
+
+1	0	0	ora ri
+						DET ADV NOUN	ITWAC	30 minuti superiori a 30 minuti trattenuta di 45 minuti Per i lavoratori operanti presso le sedi IBM verranno mantenuti	gli ora ri	vigenti per la pausa mensa , con relativo adeguamento dell orario di uscita .
+
+1	0	0	ora richiesta
+						DET ADV NOUN	ITWAC	Qualche giorno prima avevo richiesto un permesso breve di un ora specificando sulla domandina indirizzata al Dirigente che	l ora richiesta	andava a compensazione con le ore in più che avrei fatto accompagnando la classe a teatro .
+
+0	0	1	ora rilevanza
+						DET ADV NOUN	WIKICONLL	oggi oggetto di diffusa ricerca sociologica , mentre quello ontologico ed esistenziale , per quanto etimologicamente più corretto , ha	per ora rilevanza	abbastanza marginale .
+
+1	0	0	ora rimpianto
+						DET ADV NOUN	ITWAC	Allo stesso modo va ricordato che	l ora rimpianto	Gigi De Canio , lo scorso anno fu sottoposto a durissime critiche ed alcuni ne invocarono l esonero : prima il
+
+1	0	0	ora ripresa
+						DET ADV ADJ NOUN	ITWAC	io a lei e non lei a me gli unici difetti ( perdonatissimi ) sono : non supera i 90	all ora poca ripresa	mancanza spia carburante ( anche se ho aggirato il problema azzerando ogni volta il contachilometri parziale ) Cafè _ Racer :
+
+0	0	1	ora rispetto
+						DET ADV NOUN	WIKICONLL	Secondo i dati di  EnergyAustralia  , il consumo di elettricità è diminuito del 10,2%	l ora rispetto	alle aspettative , considerata l ora , le condizioni atmosferiche e le medie dei consumi degli ultimi quattro anni .
+
+1	0	0	ora risposta
+						DET ADV ADJ NOUN	ITWAC	Questo il succo del mio discorso di allora a cui tu	dai ora questa risposta	( che mi pare eluda quel succo ) .
+
+1	0	0	ora risultati
+						DET ADV ADJ NOUN	ITWAC	e quindi mi sn dovuto accontentare dell attico di casa mia , ke mi ha accolto x circa	un ora cn risultati	, peraltro , scadenti !
+
+1	0	1	ora ritorno
+						DET ADV NOUN	ITWAC	a natale vado da mio cugi non vedo	l ora ritorno	a fare surf finalmente 3 settimane a miami ...
+						DET ADV ADJ NOUN	WIKICONLL	Il più recente , e	per ora ultimo ritorno	alle gare avvenne nel 2000 con una nuova fornitura motoristica , questa volta alla scuderia British American Racing con la quale
+
+1	0	0	ora roby
+						DET ADV NOUN	ITWAC	se e un piccolo lavoro forse ti conviene fare un prezzo a corpo , altrimenti orientati intorno ai 15 	l ora roby	82 - 21/7/2004 alle 07:53 Grazie mille uncleFH - 21/7/2004 alle 10:52 campagna di sensibilizzazione all utilizzo degli srumenti di ricerca
+
+1	0	0	ora sacchi
+						DET ADV ADJ NOUN	ITWAC	e servitorelli , per guadagnarmi cento misere monete di piombo , mentre Scorpo vincitore nella corsa si porta via in	un ora quindici sacchi	di luccicante oro ?
+
+1	0	0	ora sai
+						DET ADV NOUN	ITWAC	= _ = scrive : uhahuahuahu c ho messo	un ora sai	cm è so tarda = CICCIO = blood sugar sex m@gik scrive : senti RoBeRtA hA : DiFFiCOLTA A CREDERCi o
+
+0	0	1	ora scadenza
+						DET ADV NOUN	WIKICONLL	congresso internazionale che ha avuto luce nel 1984 , a cui sono seguite fino ad ora sei edizioni , avente	per ora scadenza	biennale , e che costituisce nel mondo intero l unico esempio di Congresso Scientifico appositamente dedicato al Nuoto Pinnato con le
+
+1	0	0	ora scariche
+						DET ADV ADJ NOUN	ITWAC	Dopo circa	un ora alcune scariche	di energia statica inondarono il salone , poi si materializzò l immagine di prima : il giovane con il volto in
+
+1	0	0	ora scomparsa
+						DET ADV NOUN	ITWAC	Un ora di meno ,	un ora scomparsa	.
+
+0	0	1	ora sconfitti
+						DET ADV NOUN	WIKICONLL	La donna decide però di tornare a Kabul perché sa che i talebani sono stati	per ora sconfitti	e desidera dare un contributo alla città e per quanto ami la sua nuova vita a Murri , le sembra insignificante
+
+0	0	1	ora secondi
+						DET ADV ADJ NOUN	WIKICONLL	nell esempio di cui sopra avessimo diviso per 3600 s/h anziché moltiplicare , il risultato sarebbe stato espresso in chilometri	per ora fratto secondi	al quadrato , un unità di misura chiaramente priva di senso .
+
+1	0	0	ora sel
+						DET ADV NOUN	ITWAC	Informazioni sugli utenti connessi Per ogni utente connesso , si visualizzi il suo vero nome e la data e	l ora sel	suo ultimo login .
+
+2	0	0	ora sera
+						DET ADV ADJ NOUN	ITWAC	_ _ _ _ _ _ _ _ 4/8/02 1:44:22 PM Magra Vincenzo Dimenticavo : potremmo rifare una chat di	un ora questa sera	?
+						DET ADV ADJ NOUN	ITWAC	- Ebbene , - rispondeva Rosa , che temeva la separazione quanto Cornelius - abbiamo a disposizione	un ora ogni sera	, facciamone buon uso .
+
+1	0	0	ora serrata
+						DET ADV NOUN	ITWAC	Pensiamo ad	un ora serrata	di discussione e confronto tra Giuseppe Dossetti e Pietro Ingrao .
+
+1	0	0	ora servizio
+						DET ADV NOUN	ITWAC	Ciò non di meno , tale obbligo non implica , evidentemente , che i docenti medesimi debbano prestare	un ora servizio	settimanale presso l istituzione scolastica in assenza di effettive necessità .
+
+1	0	0	ora sessione
+						DET ADV ADJ NOUN	ITWAC	Alcuni sadhu si siedono solo per pochi minuti , altri fanno durare più di	un ora ogni sessione	.
+
+1	0	0	ora setta
+						DET ADV NOUN	ITWAC	2000 10:55:10  Questo esempio setta la data al 2 Maggio 2000 , e l ora alle 10:55:10 , omettendo	l ora setta	automaticamente all ora 00:00:00 es : date -- date 20 days ago  Stampa la data di 20 giorni fa es
+
+1	0	0	ora settantatrè
+						DET ADV NOUN	ITWAC	È vero , come non c è	l ora settantatrè	.
+
+2	0	0	ora settimana
+						DET ADV ADJ NOUN	ITWAC	Il Dirigente scolastico con una serie di disposizioni interne costringe il personale docente a recuperare sostanzialmente	un ora ogni settimana	, motivando una volta con l esistenza dell organico funzionale sperimentale , un altra con il contratto provinciale decentrato sulle utilizzazioni
+						DET ADV ADJ NOUN	ITWAC	i motori di ricerca non sono i principali compagni del navigatore e che sei persone su dieci passano più di	un ora ogni settimana	a cercare informazioni sul web piuttosto che a consultarle .
+
+0	0	1	ora settimanale
+						DET ADV NOUN	WIKICONLL	di isolamento : gli unici momenti di aggregazione , eccettuati i pranzi domenicali/festivi , erano le funzioni in chiesa e	l ora settimanale	di conversazione e ricreazione , che si svolgeva nel cosiddetto  parlatorio  , opera mirabile per i sedili in legno
+
+1	0	0	ora signor
+						DET ADV NOUN	ITWAC	DOTTORE Che è finita	l ora signor	Merly , ci vediamo la settimana prossima .
+
+2	0	0	ora signora
+						DET ADV ADJ NOUN	ITWAC	Ma dici davvero ma dici davvero non posso accettare Comunque grazie ancora grazie E vista	l ora gentile signora	ti posso accompagnare ?
+						DET ADV ADJ NOUN	ITWAC	e vista	l ora gentile signora	ti posso accompagnare ?
+
+1	0	0	ora signore
+						DET ADV NOUN	ITWAC	 E dopo	un ora signore	e signori eravamo in macchina infischiandosene della lezione di Elettronica II che mi aspettava alle 14.00 orario di Firenze ...
+
+0	0	1	ora singolo
+						DET ADV ADJ NOUN	WIKICONLL	Il sesto e	per ora ultimo singolo	delle Hinoi , uscito nel febbraio del 2007 .
+
+0	1	0	ora sloveni
+						DET ADV ADJ NOUN	REPUBBLICA	Primi in Jugoslavia ,	gli ora ex-comunisti sloveni	avevano aperto lo spazio per la formazione dei nuovi partiti politici , Lubiana invita il Parlamento federale jugoslavo a organizzare una
+
+1	0	0	ora soldi
+						DET ADV NOUN	ITWAC	Da ragazzini , a scuola , ci insegnavano tutte le mattine al rispetto per la bandiera :	i ora soldi	sono la nuova bandiera .
+
+0	0	1	ora sorpasso
+						DET ADV ADJ NOUN	WIKICONLL	Un giro più avanti , Mansell sorpassò Piquet , mettendo in scena	l ora famoso sorpasso	 Silverstone Two Step  , affiancando il compagno sul rettilineo  Hangar  e passandolo alla curva  Stowe
+
+3	0	0	ora spesa
+						DET ADV NOUN	ITWAC	Anche Mila ed Oa hanno notato il livello di spossatezza dei loro campi dopo	un ora spesa	su internet per cercare un posto dove soggiornare nelle loro tappe intorno al mondo .
+						DET ADV NOUN	ITWAC	Bello , un bel film ,	un ora spesa	bene .
+						DET ADV NOUN	ITWAC	ha alcun altro significato ) e bimbi iscritti all ora alternativa ( e perché mai chiamarla così , quasi fosse	un ora spesa	peggio , un riempitivo .
+
+0	0	1	ora stazione
+						DET ADV ADJ NOUN	WIKICONLL	Skylab è la denominazione della prima e	ad ora unica stazione	spaziale degli Stati Uniti d America nonché delle missioni eseguite nel corso di questo progetto .
+
+1	0	0	ora stesura
+						DET ADV NOUN	ITWAC	( dal P.O.F. all unità didattica ) ; · Tre ore ricerca materiale ( Web , testi ) ; ·	Un ora stesura	elaborato .
+
+2	0	0	ora suono
+						DET ADV NOUN	ITWAC	 Centurie , coorti , legioni , in piedi che	l ora suono	 !
+						DET ADV NOUN	ITWAC	Raccolgaci un unica Bandiera una Speme ; di fonderci insieme gia	l ora suono	 .
+
+1	0	0	ora svolta
+						DET ADV ADJ NOUN	ITWAC	, lo si ribadisce , un ora di lavoro con la classe è sempre comunque più defatigante e stressante di	un ora qualsiasi svolta	nelle situazioni sopradescritte .
+
+1	0	0	ora taOutput
+						DET ADV NOUN	ITWAC	l ora in millisecondi dal 1/1/1970 java.sql.Time time = new java.sql.Time(milly ) ; / / Converte in un altro tipo	l ora taOutput	.
+
+1	0	0	ora tachimetrici
+						DET ADV NOUN	ITWAC	Anche chi non è molto alto troverà fastidiosa la spinta del vento oltre i 160	l ora tachimetrici	e il cupolino  alto  offerto in optional non migliora le cose di molto .
+
+0	0	1	ora team
+						DET ADV ADJ NOUN	WIKICONLL	Tempo dopo , Dagger entrò a far parte	dell ora defunto team	Marvel Knights .
+
+1	0	0	ora telefonini
+						DET ADV NOUN	ITWAC	Guasto a centrale , blackout elettronico a Roma Bloccati per oltre	un ora telefonini	, computer , bancomat e uffici postali .
+
+1	0	0	ora tema
+						DET ADV NOUN	ITWAC	Poiché abbiamo parlato finora del tuo lavoro e del tuo atteggiamento nel lavoro , attraversando i diversi periodi , affronterei	il ora tema	della critica e del tuo rapporto con la critica .
+
+0	0	1	ora testimonianze
+						DET ADV NOUN	WIKICONLL	essere ricordato , comunque , che altre tipi di vestiti possono essere stati indossati , dei quali non si hanno	per ora testimonianze	.
+
+1	0	0	ora tocco
+						DET ADV ADJ NOUN	ITWAC	jazz di Guru , certo , se non altro in virtù del mestiere e dei boati che hanno accompagnato per	un ora ogni tocco	di Herbie Hancock sulla tastiera del piano elettrico .
+
+1	0	0	ora traccia
+						DET ADV ADJ NOUN	ITWAC	Ciao Fabio è ovvio che se un veicolo va a 140	all ora qualche traccia	la lascia ...
+
+2	0	0	ora treno
+						DET ADV ADJ NOUN	ITWAC	Andiamo via Cassino Compagni da qui a Reggio È tutto un campo minato Chi vuole si rimetta in cammino Dopo	un ora quel treno	Che pareva un balcone Ha ripreso la sua processione Anche a Cassino la linea è saltata Siamo tutti attaccati al finestrino
+						DET ADV ADJ NOUN	ITWAC	via Cassino compagni da qui a Reggio è tutto un campo minato chi vuole si rimetta in cammino » dopo	un ora quel treno	che pareva un balcone ha ripreso la sua processione anche a Cassino la linea è saltata siamo tutti attaccati al finestrino
+
+1	0	0	ora triegua
+						DET ADV NOUN	ITWAC	 io sopporte che la battaglia qui tra noi non segua , o ch  io ti faccia sol d	un ora triegua	.
+
+1	0	0	ora uom
+						DET ADV NOUN	ITWAC	Qual credenza d aver senz Amor pace , Senza cui lieta	un ora uom	mai non ave , Le sante leggi sue fuggir vi face , Come cosa mortal si fugge e pave ?
+
+1	0	0	ora velivolo
+						DET ADV ADJ NOUN	ITWAC	per l aeroporto di Francoforte ( Assia ) - tra gli scali piu importanti d Europa - dove per circa	un ora nessun velivolo	ha potuto più decollare o atterrare .
+
+1	0	0	ora venerdì
+						DET ADV ADJ NOUN	ITWAC	Vestite di nero e in silenzio , manifestavano per	un ora ogni venerdì	, per marcare la distanza e rifiutare ogni complicità con gli insediamenti e l occupazione militare della Cisgiordania e di Gaza
+
+0	0	1	ora viaggio
+						DET ADV ADJ NOUN	WIKICONLL	Young ebbe il suo sesto e	per ora ultimo viaggio	nello spazio quale comandante della missione STS-9 dal 28 novembre all 8 dicembre 1983 , durante la quale , per la
+
+1	0	0	ora vicepresidente
+						DET ADV ADJ NOUN	ITWAC	A provocare lo scossone che ha poi fatto infuriare	l ora dimissionario vicepresidente	della Lega per la serie B , Massimo Cellino , sarebbe stato uno sfogo di Galliani che , di fronte al
+
+1	0	0	ora video
+						DET ADV NOUN	ITWAC	Sono contento perchè con due euro	l ora video	chatto con mia sorella a Los Angeles , a Natale , tutti insieme virtualmente .
+
+2	0	0	ora visto
+						DET ADV NOUN	ITWAC	Ho dovuto trattenere la pipì per	un ora visto	che dalle scale ( di sicurezza per la zona dove ero io ) non si poteva scendre senza  disturbare
+						DET ADV NOUN	ITWAC	e sarebbe anche	l ora visto	che fingo anche con me stessa ...
+
+0	0	1	ora voli
+						DET ADV NOUN	WIKICONLL	) , Verona ( km 140 ) e Padova ( Km 75 ) , anche se quest ultimo non effettua	per ora voli	regolari di linea .
+
+2	0	1	ora volta
+						DET ADV ADJ NOUN	ITWAC	il problema più grosso che per tutta	l ora ogni volta	che compare la scritta tempo scaduto quindi ogni 6 secondi mi crea un orco fibno a creare ovviamente un piccolo esercito
+						DET ADV ADJ NOUN	ITWAC	rassegnarsi a trascorrere in metropolitana più tempo che nei seminari oggi metà della redazione si affanna per quaranta minuti /	un ora ogni volta	cambiando tre linee alla ricerca delle assemblee e delle iniziative le insegue le insegue e non le raggiunge mai alla fine
+						DET ADV ADJ NOUN	WIKICONLL	promotore , insieme a Franco Barberi , di una segnalazione di  allarme terremoto  , per la prima e	per ora unica volta	in Italia .
+
+6	0	0	ora volte
+						DET ADV ADJ NOUN	ITWAC	- Ma che senso ha cambiare	l ora due volte	all anno ?
+						DET ADV ADJ NOUN	ITWAC	Adesso che riesci ad organizzarti un po meglio , puoi trovare il modo di ritagliarti	un ora due volte	alla settimana solo per te .
+						DET ADV ADJ NOUN	ITWAC	I prezzi vanno da 205 euro a quadrimestre per un ora e mezza alla settimana a 290 per	un ora due volte	.
+						DET ADV ADJ NOUN	ITWAC	Software : Al supermercato Modalità e tempi previsti Durata prevista dell attività al computer :	un ora tre volte	alla settimana .
+						DET ADV ADJ NOUN	ITWAC	anche se il godimento è durato solo dieci minuti , perché ovviamente l acqua calda è solo per	un ora due volte	a settimana e noi siamo in nove ...
+						DET ADV ADJ NOUN	ITWAC	tipico esempio di esercizio consigliabile consiste in una camminata ad andatura sostenuta di mezz  ora al giorno o di	un ora tre volte	la settimana .
+
+0	0	1	ora vulcano
+						DET ADV ADJ NOUN	WIKICONLL	Come già detto la fonte sulfurea	dell ora remoto vulcano	di Sambiase sfociava nel torrente dei bagni che dalla contrada Caronte di Sambiase scendeva fino a controda terravecchia a Sant Eufemia
+
+1	0	0	ora weppaaaaaaaaaaaa
+						DET ADV NOUN	ITWAC	Inviato da puffo 30 il 26/07/05 @ 11:05 via WEB non vedo	l ora weppaaaaaaaaaaaa	...
+
+1	0	0	ora wow
+						DET ADV NOUN	ITWAC	Rispondi ] 10/07/2005 - [ Ugo da Lugo ] RE : RE : RE : RE : RE : leggendo	l ora wow	ma sei proprio cari issima , purtroppo nn credo di essere degno dei lavori che mi offri , nn ne sarei
+
+0	0	2	ora zero
+						DET ADV NOUN	WIKICONLL	Si usa l espressione  Zulu  in quanto l ora del meridiano di Greenwich è	l ora zero	( da qui la Z ) e la Z nell Alfabeto fonetico NATO è appunto detta  Zulu  L orario
+						DET ADV NOUN	WIKICONLL	del corpo di Doomsday , quando l ex- Lanterna Verde conosciuta ora con il nome di Parallax , scatenò 	l ora zero	 cioè il tentativo di creare nuove realtà spazio-tempo .
+

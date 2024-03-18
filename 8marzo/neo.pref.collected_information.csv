@@ -1,0 +1,2721 @@
+word,selected,annotated_semantics,projected_semantics,freq_sketch,f-pref_itwac,f-pref_repubblica,f-pref_wikiconll,f-adv_itwac,f-adv_repubblica,f-adv_wikiconll
+abilitata,True,?,?,21,0,0,0,-,-,-
+abilitati,True,?,?,79,0,0,0,-,-,-
+abilitato,True,?,?,23,0,0,0,-,-,-
+acquirente,True,?,?,14,1,0,0,-,-,-
+acquirenti,True,?,?,17,2,1,0,-,-,-
+acquisti,True,?,?,100,9,2,1,-,-,-
+acquisto,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances#-,782,66,31,23,-,-,-
+adulto,True,?,?,15,0,0,0,-,-,-
+advaita,True,?,?,20,0,0,0,-,-,-
+affiliata,True,?,?,14,0,0,0,-,-,-
+affiliati,True,?,?,22,0,1,0,-,-,-
+affiliato,True,?,?,18,1,1,0,-,-,-
+agente,True,?,Job or Career,15,1,0,0,-,-,-
+agricoltori,True,?,?,25,2,0,1,-,-,-
+agricoltura,True,?,?,17,0,0,0,-,-,-
+alleati,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,26,1,5,1,-,-,-
+allenatore,True,Job or Career,Job or Career,194,15,4,15,-,-,-
+ambasciatore,True,Job or Career,Job or Career,23,6,25,0,-,-,-
+amici,True,?,Qualification or Set of Circumstances,15,0,0,0,-,-,-
+amico,True,?,Qualification or Set of Circumstances,15,0,0,1,-,-,-
+amministratore,True,Role,Role,25,7,33,0,-,-,-
+amministratori,True,?,Role,18,2,0,0,-,-,-
+amministrazione,True,?,?,22,2,0,0,-,-,-
+anarchismo,True,?,?,16,0,0,0,-,-,-
+angiogenesi,True,?,?,78,4,0,1,-,-,-
+antifascismo,True,?,?,17,0,0,0,-,-,-
+antigeni,True,?,?,17,4,0,0,-,-,-
+apostolici,True,?,?,190,0,0,1,-,-,-
+aramaico,True,?,?,25,1,0,3,-,-,-
+arbitri,True,?,?,20,1,0,0,-,-,-
+architetto,True,?,?,22,3,1,0,-,-,-
+arcivescovo,True,?,?,40,9,0,0,-,-,-
+aristocratici,True,?,?,39,0,0,0,-,-,-
+aristocratico,True,?,?,29,0,0,0,-,-,-
+aristotelismo,True,Cultural or political movement,Cultural or political movement,19,14,0,0,-,-,-
+artisti,True,?,?,15,2,0,0,-,-,-
+assessora,True,?,?,23,1,0,0,-,-,-
+assessore,True,Role,Role,382,46,20,1,-,-,-
+Assessore,True,?,?,39,3,0,0,-,-,-
+assessori,True,?,Role,40,4,0,0,-,-,-
+assira,True,?,?,35,0,0,0,-,-,-
+assiri,True,?,?,32,1,0,1,-,-,-
+assiro,True,?,?,105,9,0,2,-,-,-
+associati,True,?,?,16,3,0,0,-,-,-
+associazione,True,?,?,33,4,1,0,-,-,-
+assolutismo,True,?,?,17,5,0,0,-,-,-
+assunta,True,?,?,57,0,2,1,-,-,-
+assunte,True,?,?,20,0,0,0,-,-,-
+assunti,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,1484,348,51,0,-,-,-
+assunto,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,504,101,7,4,-,-,-
+atlantismo,True,?,?,19,2,0,0,-,-,-
+attori,True,?,Job or Career,18,3,1,0,-,-,-
+attrice,True,?,Job or Career,19,2,2,3,-,-,-
+autori,True,?,?,20,1,1,0,-,-,-
+autoritarismo,True,Cultural or political movement,Cultural or political movement,44,6,5,0,-,-,-
+avanguardia,True,Cultural or political movement,Cultural or political movement,223,51,43,7,-,-,-
+avanguardie,True,Cultural or political movement,Cultural or political movement,213,32,10,4,-,-,-
+avvocati,True,?,?,27,1,0,0,-,-,-
+avvocato,True,?,Job or Career,23,1,1,0,-,-,-
+aziende,True,?,Place or function,22,5,0,0,-,-,-
+azzurro,True,?,?,17,0,2,0,-,-,-
+babilonese,True,?,?,150,1,1,0,-,-,-
+babilonesi,True,?,?,37,0,0,1,-,-,-
+banca,True,?,?,28,0,0,0,-,-,-
+banche,True,?,?,15,0,0,0,-,-,-
+band,True,?,Qualification or Set of Circumstances,14,1,0,2,-,-,-
+barocco,True,?,?,284,0,2,0,-,-,-
+battezzata,True,?,?,20,0,0,0,-,-,-
+battezzati,True,?,?,77,8,0,1,-,-,-
+battezzato,True,?,?,44,5,0,0,-,-,-
+beat''em,True,?,?,15,0,0,0,-,-,-
+bistrot,True,?,?,16,1,0,0,-,-,-
+bizantini,True,?,?,15,0,0,0,-,-,-
+bizantino,True,?,?,100,0,0,0,-,-,-
+blog,True,?,?,25,3,0,0,-,-,-
+blogger,True,?,?,51,2,0,0,-,-,-
+bop,True,?,?,23,0,2,0,-,-,-
+borbonici,True,?,?,87,0,3,0,-,-,-
+borghesi,True,?,?,29,2,2,0,-,-,-
+borghesia,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,43,11,4,0,-,-,-
+brigatisti,True,?,Cultural or political movement,40,6,0,2,-,-,-
+burlesque,True,?,?,19,0,0,1,-,-,-
+cacciatori,True,?,?,14,4,0,0,-,-,-
+campione,True,Rank,Rank,373,31,19,18,-,-,-
+Campione,True,?,?,38,2,0,1,-,-,-
+campionessa,True,?,Rank,63,11,2,0,-,-,-
+campionesse,True,?,?,41,4,0,0,-,-,-
+campioni,True,Rank,Rank,131,11,14,4,-,-,-
+cancelliere,True,Role,Job or Career#Role,16,2,7,1,-,-,-
+candidata,True,?,?,14,3,0,0,-,-,-
+candidati,True,?,-,15,2,1,0,-,-,-
+candidato,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,71,6,6,0,-,-,-
+capitale,True,?,Qualification or Set of Circumstances,16,2,2,0,-,-,-
+capitalismo,True,Cultural or political movement,Cultural or political movement,181,25,19,1,-,-,-
+capitalista,True,?,?,54,1,3,0,-,-,-
+capitano,True,Role,Role,73,6,2,6,-,-,-
+capo,True,Role,Role,25,8,17,0,-,-,-
+capogruppo,True,?,Role,34,6,3,0,-,-,-
+capolista,True,?,?,41,0,0,0,-,-,-
+cardinale,True,Job or Career,Job or Career,106,3,10,0,-,-,-
+cardinali,True,?,?,25,2,1,0,-,-,-
+cartalismo,True,?,?,16,0,0,0,-,-,-
+catecumenali,True,?,?,53,2,1,1,-,-,-
+catecumeni,True,?,?,17,0,2,0,-,-,-
+cattolicesimo,True,?,?,18,2,0,0,-,-,-
+cattolici,True,?,-,28,3,0,0,-,-,-
+cavaliere,True,?,Job or Career,26,5,3,0,-,-,-
+centralismo,True,Cultural or political movement,Cultural or political movement,135,56,6,0,-,-,-
+centrismo,True,Cultural or political movement,Cultural or political movement,30,10,17,0,-,-,-
+centrista,True,?,?,98,0,2,0,-,-,-
+centristi,True,Cultural or political movement,Cultural or political movement,32,0,4,1,-,-,-
+Chiesa,True,?,Place or function,179,0,0,0,-,-,-
+chiesa,True,?,Place or function,117,0,0,0,-,-,-
+cinquantenne,True,?,?,18,0,0,0,-,-,-
+cinquecentesco,True,?,?,33,0,0,0,-,-,-
+cittadini,True,?,Qualification or Set of Circumstances,58,4,0,0,-,-,-
+cittadino,True,?,Qualification or Set of Circumstances,26,2,2,0,-,-,-
+classe,True,?,?,15,0,0,0,-,-,-
+classici,True,?,?,174,0,0,0,-,-,-
+classicismo,True,Cultural or political movement,Cultural or political movement,198,18,13,12,-,-,-
+classico,True,Cultural or political movement,Cultural or political movement#-,772,0,7,0,-,-,-
+clericalismo,True,?,?,22,9,1,0,-,-,-
+coach,True,?,Role,57,0,0,4,-,-,-
+collaboratore,True,?,Role,18,2,1,0,-,-,-
+collagene,True,?,?,24,0,0,0,-,-,-
+collega,True,?,Role,21,1,2,0,-,-,-
+colleghi,True,?,Role,21,1,0,0,-,-,-
+collezionisti,True,?,?,17,2,0,0,-,-,-
+colonia,True,?,Place or function,26,4,0,0,-,-,-
+colonialismo,True,Cultural or political movement,Cultural or political movement#-,554,64,10,6,-,-,-
+colonialiste,True,?,?,49,0,0,0,-,-,-
+colonialisti,True,?,?,55,2,0,1,-,-,-
+colonie,True,?,Place or function,15,0,0,0,-,-,-
+colonizzazione,True,?,?,74,9,0,1,-,-,-
+comandante,True,?,Job or Career,39,6,3,0,-,-,-
+comitato,True,?,?,28,2,3,0,-,-,-
+commissario,True,Job or Career,Job or Career,129,26,19,0,-,-,-
+compagni,True,?,Role,14,0,0,0,-,-,-
+compagno,True,?,Role,33,6,1,0,-,-,-
+componente,True,?,Qualification or Set of Circumstances,15,1,2,0,-,-,-
+comunismo,True,Cultural or political movement,Cultural or political movement#-,39,9,11,0,-,-,-
+comunista,True,Cultural or political movement,Cultural or political movement#-,65,0,10,0,-,-,-
+comunisti,True,Cultural or political movement,Cultural or political movement#-,103,27,67,1,-,-,-
+comunitari,True,?,?,126,10,0,0,-,-,-
+comunitario,True,?,?,21,1,0,0,-,-,-
+confucianesimo,True,?,?,44,2,1,3,-,-,-
+confuciani,True,?,?,17,0,0,0,-,-,-
+confuciano,True,?,?,21,0,0,0,-,-,-
+coniugi,True,?,Kinship,19,2,3,1,-,-,-
+conservatore,True,Cultural or political movement,Cultural or political movement,222,50,9,0,-,-,-
+conservatori,True,Cultural or political movement,Cultural or political movement,502,208,15,2,-,-,-
+conservatorismo,True,Cultural or political movement,Cultural or political movement,96,28,6,2,-,-,-
+conservatrici,True,?,?,45,1,0,0,-,-,-
+consigliera,True,?,?,28,0,0,0,-,-,-
+consigliere,True,Role,Role,130,17,24,0,-,-,-
+Consigliere,True,?,?,15,1,0,0,-,-,-
+consiglieri,True,Role,Role,67,6,22,0,-,-,-
+consulente,True,?,Job or Career,16,1,2,0,-,-,-
+contadina,True,?,?,16,0,0,0,-,-,-
+contadini,True,?,?,28,1,2,0,-,-,-
+contadino,True,?,?,17,0,0,0,-,-,-
+contrattualismo,True,Cultural or political movement,Cultural or political movement,30,11,4,0,-,-,-
+convertiti,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,127,0,0,5,-,-,-
+coordinatore,True,?,Role,67,13,1,0,-,-,-
+coppia,True,?,Qualification or Set of Circumstances,96,11,0,2,-,-,-
+coppie,True,?,?,20,2,0,0,-,-,-
+corporativismo,True,Cultural or political movement,Cultural or political movement,58,15,4,0,-,-,-
+corteccia,True,?,?,100,8,0,0,-,-,-
+costituzionalismo,True,?,?,38,1,0,0,-,-,-
+cristianesimo,True,?,?,35,7,1,0,-,-,-
+cristiani,True,Cultural or political movement,Cultural or political movement#-,131,1,0,19,-,-,-
+criticismo,True,Cultural or political movement,Cultural or political movement,31,20,0,0,-,-,-
+crociati,True,?,?,35,0,0,0,-,-,-
+crociato,True,?,?,15,0,0,0,-,-,-
+cubismo,True,Cultural or political movement,Cultural or political movement,16,0,12,2,-,-,-
+cubista,True,?,?,26,0,1,0,-,-,-
+cultura,True,?,Entity,17,4,1,0,-,-,-
+dada,True,?,?,47,5,2,0,-,-,-
+dadaisti,True,?,?,17,2,0,0,-,-,-
+darwiniani,True,?,?,22,0,0,0,-,-,-
+darwinismo,True,?,?,152,20,3,2,-,-,-
+darwinista,True,?,?,42,0,0,0,-,-,-
+darwinisti,True,?,?,45,1,0,0,-,-,-
+Dc,True,?,?,14,0,0,0,-,-,-
+democratici,True,?,?,20,3,3,0,-,-,-
+democrazia,True,?,Qualification or Set of Circumstances,17,2,0,0,-,-,-
+democristiani,True,?,Cultural or political movement#-,30,7,0,2,-,-,-
+deputata,True,Role,Role,34,0,4,0,-,-,-
+deputati,True,Role,Role,27,7,4,0,-,-,-
+deputato,True,Role,Role,95,11,22,1,-,-,-
+destra,True,?,?,20,2,0,1,-,-,-
+diciottenni,True,?,?,133,2,0,0,-,-,-
+dipendenti,True,?,Qualification or Set of Circumstances,14,2,1,0,-,-,-
+diplomata,True,?,?,53,0,0,0,-,-,-
+diplomate,True,?,?,27,0,0,1,-,-,-
+diplomati,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,785,83,20,0,-,-,-
+diplomato,True,?,?,139,14,1,1,-,-,-
+direttore,True,Role,Role,477,61,115,8,-,-,-
+direttori,True,Role,Role,19,3,8,1,-,-,-
+direttrice,True,?,?,62,2,3,0,-,-,-
+dirigente,True,?,Role,62,5,1,1,-,-,-
+dirigenti,True,?,Role,49,9,2,0,-,-,-
+disoccupati,True,?,?,34,1,0,0,-,-,-
+disoccupato,True,?,?,16,2,3,0,-,-,-
+dittatore,True,?,Role,18,1,1,0,-,-,-
+docente,True,?,Job or Career,19,5,3,0,-,-,-
+docenti,True,?,?,23,8,0,0,-,-,-
+dottore,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,121,13,10,0,-,-,-
+dottoressa,True,?,?,89,10,1,0,-,-,-
+dottori,True,?,?,203,12,2,0,-,-,-
+DSGA,True,?,?,15,0,0,0,-,-,-
+duchessa,True,?,?,28,0,0,0,-,-,-
+eletti,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances#-,504,57,21,4,-,-,-
+elettori,True,?,Qualification or Set of Circumstances,24,2,3,0,-,-,-
+empirismo,True,?,?,22,5,1,0,-,-,-
+eneolitico,True,?,?,47,0,0,0,-,-,-
+entrati,True,?,?,51,0,0,0,-,-,-
+espressionismo,True,Cultural or political movement,Cultural or political movement,104,12,15,2,-,-,-
+espressionisti,True,?,?,25,0,0,0,-,-,-
+estrattivismo,True,?,?,25,0,0,0,-,-,-
+eurasismo,True,?,?,17,1,0,0,-,-,-
+ex,True,?,?,20,0,2,0,-,-,-
+famiglia,True,?,?,34,1,0,0,-,-,-
+fascismo,True,Cultural or political movement,Cultural or political movement,279,29,25,1,-,-,-
+fascisti,True,Cultural or political movement,Cultural or political movement,640,6,42,2,-,-,-
+femminismo,True,?,Cultural or political movement,60,7,3,0,-,-,-
+femministe,True,?,Cultural or political movement,22,1,0,0,-,-,-
+feudalesimo,True,?,?,75,4,3,0,-,-,-
+fidanzata,True,?,Kinship,35,4,2,0,-,-,-
+fidanzati,True,?,?,29,0,0,0,-,-,-
+fidanzato,True,?,Kinship,31,0,0,0,-,-,-
+folk,True,?,?,299,0,1,2,-,-,-
+fondamentalismo,True,Cultural or political movement,Cultural or political movement,66,22,2,0,-,-,-
+fondamentalisti,True,Cultural or political movement,Cultural or political movement,30,10,1,0,-,-,-
+fondata,True,?,?,53,0,0,5,-,-,-
+formalismo,True,?,?,17,6,0,0,-,-,-
+formati,True,?,?,33,5,0,0,-,-,-
+formazioni,True,?,?,39,5,1,0,-,-,-
+Fraternità,True,?,?,61,0,0,0,-,-,-
+FSSPX,True,?,?,18,0,0,0,-,-,-
+funzionalismo,True,?,?,28,0,0,0,-,-,-
+futurismo,True,?,?,33,3,3,0,-,-,-
+futuristi,True,?,?,14,1,1,0,-,-,-
+garage,True,?,Place or function,36,2,0,0,-,-,-
+genin,True,?,?,14,0,0,1,-,-,-
+genitore,True,?,?,77,1,1,1,-,-,-
+genitori,True,Kinship,Kinship,1288,58,5,1,-,-,-
+genitorialità,True,?,?,22,0,0,0,-,-,-
+geo,True,?,?,19,0,0,0,-,-,-
+giacobini,True,?,?,28,1,2,1,-,-,-
+giocatore,True,?,Job or Career,18,3,0,0,-,-,-
+giocatori,True,?,Job or Career#-,20,1,0,0,-,-,-
+giudice,True,?,Job or Career,16,0,2,0,-,-,-
+giunta,True,?,?,14,2,0,0,-,-,-
+giustizia,True,?,?,89,0,0,0,-,-,-
+glam,True,?,?,27,0,0,2,-,-,-
+gnostica,True,?,?,37,0,0,0,-,-,-
+gnosticismo,True,Cultural or political movement,Cultural or political movement,68,6,0,0,-,-,-
+gollisti,True,Cultural or political movement,Cultural or political movement,18,2,48,0,-,-,-
+gotico,True,Cultural or political movement,Cultural or political movement,773,0,1,4,-,-,-
+governatore,True,Role,Role,185,23,22,4,-,-,-
+governatrice,True,?,?,28,0,1,0,-,-,-
+governo,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,104,11,4,0,-,-,-
+greci,True,?,?,14,0,2,0,-,-,-
+gruppo,True,?,Qualification or Set of Circumstances,26,1,2,1,-,-,-
+guelfi,True,?,?,23,6,0,1,-,-,-
+guelfismo,True,Cultural or political movement,Cultural or political movement,39,18,1,0,-,-,-
+guerra,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances#-,17,13,10,0,-,-,-
+hegeliani,True,?,?,16,0,0,0,-,-,-
+hegelismo,True,?,?,33,5,1,0,-,-,-
+hippie,True,Cultural or political movement,Cultural or political movement,35,0,4,1,-,-,-
+hippy,True,?,?,40,5,2,1,-,-,-
+idealismo,True,Cultural or political movement,Cultural or political movement,133,24,5,2,-,-,-
+idealisti,True,?,?,16,0,0,0,-,-,-
+idealistica,True,?,?,37,0,0,0,-,-,-
+illuminismo,True,Cultural or political movement,Cultural or political movement,73,11,6,0,-,-,-
+illuministi,True,?,?,24,6,3,0,-,-,-
+illuministica,True,?,?,23,0,0,0,-,-,-
+immatricolati,True,?,?,84,0,0,0,-,-,-
+immessa,True,?,?,37,0,0,0,-,-,-
+immessi,True,?,?,348,0,0,1,-,-,-
+immesso,True,?,?,62,0,0,0,-,-,-
+immigrati,True,?,Qualification or Set of Circumstances,44,5,2,0,-,-,-
+imperatore,True,Role,Role,43,4,0,4,-,-,-
+imperialismo,True,?,?,95,20,2,2,-,-,-
+impero,True,?,Qualification or Set of Circumstances,28,3,0,0,-,-,-
+imprenditori,True,Job or Career,Job or Career,515,90,11,0,-,-,-
+imprenditorialità,True,?,?,22,5,0,0,-,-,-
+imprenditrice,True,?,?,17,5,0,0,-,-,-
+impresa,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,66,27,0,0,-,-,-
+imprese,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,271,59,1,1,-,-,-
+impressionismo,True,?,Cultural or political movement,71,16,3,2,-,-,-
+impressionisti,True,Cultural or political movement,Cultural or political movement,30,9,5,2,-,-,-
+incoronato,True,?,?,19,0,0,0,-,-,-
+indipendente,True,-,-,36,0,0,4,-,-,-
+individualismo,True,Cultural or political movement,Cultural or political movement,15,2,4,0,-,-,-
+induismo,True,?,?,14,3,0,0,-,-,-
+industriale,True,?,?,55,0,3,0,-,-,-
+ingegnere,True,Job or Career,Job or Career,28,14,4,1,-,-,-
+ingegneri,True,?,?,27,2,0,0,-,-,-
+insegnante,True,?,Job or Career,28,3,0,2,-,-,-
+insegnanti,True,?,Job or Career,18,8,0,0,-,-,-
+inseriti,True,?,?,29,0,0,0,-,-,-
+interventismo,True,?,-,18,0,1,0,-,-,-
+iridato,True,?,?,18,0,1,0,-,-,-
+iscritti,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances#-,437,25,4,0,-,-,-
+isolazionismo,True,Cultural or political movement,Cultural or political movement,40,8,7,0,-,-,-
+isolazionista,True,?,?,26,0,2,0,-,-,-
+istituzionalismo,True,Cultural or political movement,Cultural or political movement,38,13,0,1,-,-,-
+italiani,True,?,-,43,0,0,0,-,-,-
+ittiti,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,36,0,0,5,-,-,-
+juventino,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,24,1,6,0,-,-,-
+kantiani,True,?,?,34,0,1,1,-,-,-
+kantismo,True,?,?,51,3,0,0,-,-,-
+keynesiani,True,?,?,100,4,2,0,-,-,-
+keynesismo,True,?,?,39,3,1,0,-,-,-
+laburista,True,?,?,22,0,1,0,-,-,-
+latina,True,?,?,73,0,0,1,-,-,-
+latini,True,?,?,47,0,0,2,-,-,-
+latino,True,?,?,69,0,1,2,-,-,-
+laureati,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,2816,362,54,4,-,-,-
+lavoratori,True,?,Qualification or Set of Circumstances,26,5,0,0,-,-,-
+leader,True,Role,Role,84,8,19,1,-,-,-
+legamento,True,?,?,43,4,0,0,-,-,-
+leghista,True,?,Cultural or political movement,17,0,0,0,-,-,-
+lettori,True,?,Qualification or Set of Circumstances#-,18,1,0,0,-,-,-
+lib,True,?,?,15,2,0,0,-,-,-
+liberali,True,Cultural or political movement,Cultural or political movement,437,28,11,2,-,-,-
+liberalismo,True,Cultural or political movement,Cultural or political movement,286,61,8,4,-,-,-
+liberismo,True,Cultural or political movement,Cultural or political movement,1332,243,37,0,-,-,-
+liberisti,True,Cultural or political movement,Cultural or political movement,342,18,12,2,-,-,-
+liberty,True,?,?,49,0,2,1,-,-,-
+lingua,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,305,15,3,0,-,-,-
+luddismo,True,?,?,25,6,0,1,-,-,-
+luddisti,True,?,?,15,9,0,0,-,-,-
+lusso,True,?,?,49,0,0,0,-,-,-
+machiavelli,True,?,?,985,5,0,0,-,-,-
+madre,True,Kinship,Kinship,48,3,4,0,-,-,-
+maggiorenni,True,?,?,294,0,0,0,-,-,-
+magistrati,True,?,Job or Career,42,1,2,0,-,-,-
+malthusianesimo,True,?,?,69,2,0,0,-,-,-
+malthusiani,True,?,?,30,3,1,0,-,-,-
+Mamelucchi,True,?,?,16,0,0,0,-,-,-
+mamme,True,Kinship,Kinship,2062,124,15,1,-,-,-
+manager,True,Job or Career,Job or Career#Role,27,1,5,0,-,-,-
+manicomiali,True,?,?,15,1,0,0,-,-,-
+manierismo,True,?,?,18,2,1,1,-,-,-
+maoismo,True,?,Cultural or political movement,15,0,0,0,-,-,-
+marito,True,Kinship,Kinship,137,11,7,11,-,-,-
+marxismo,True,Cultural or political movement,Cultural or political movement,56,9,4,0,-,-,-
+marxisti,True,Cultural or political movement,Cultural or political movement,87,0,1,4,-,-,-
+mecenatismo,True,?,?,14,4,1,0,-,-,-
+medici,True,?,?,31,1,0,1,-,-,-
+medievali,True,?,?,30,1,0,0,-,-,-
+medievalismo,True,?,?,17,4,0,3,-,-,-
+medioevo,True,?,?,15,1,0,0,-,-,-
+melodica,True,?,?,45,0,0,1,-,-,-
+melodico,True,?,?,97,0,1,1,-,-,-
+membro,True,Role,Role,21,7,0,3,-,-,-
+mercantilismo,True,?,?,50,1,0,0,-,-,-
+meridionalismo,True,?,?,20,0,2,0,-,-,-
+metafisica,True,?,?,20,0,2,0,-,-,-
+metanista,True,?,?,26,0,0,0,-,-,-
+minimalismo,True,?,?,15,0,0,0,-,-,-
+ministri,True,Role,Role,48,6,18,0,-,-,-
+missionarie,True,?,?,18,0,0,0,-,-,-
+mister,True,?,?,29,1,0,0,-,-,-
+misticismo,True,Cultural or political movement,Cultural or political movement,14,7,1,0,-,-,-
+modernismo,True,?,Cultural or political movement,166,2,0,2,-,-,-
+modernisti,True,?,Cultural or political movement,100,0,0,0,-,-,-
+modernistica,True,?,?,15,0,0,0,-,-,-
+moglie,True,Kinship,Kinship,80,7,7,8,-,-,-
+moresca,True,?,?,15,0,0,0,-,-,-
+moresco,True,?,?,67,0,0,0,-,-,-
+movimento,True,?,?,35,2,3,1,-,-,-
+mudéjar,True,?,?,22,0,0,1,-,-,-
+municipalismo,True,?,?,20,0,1,0,-,-,-
+mutualismo,True,?,?,24,0,0,0,-,-,-
+nata,True,?,?,564,0,2,11,-,-,-
+natali,True,?,?,21,0,0,0,-,-,-
+nate,True,?,?,48,0,0,1,-,-,-
+nazi,True,?,?,163,15,10,3,-,-,-
+Nazi,True,?,?,44,1,0,0,-,-,-
+nazionalismo,True,Cultural or political movement,Cultural or political movement,93,7,16,0,-,-,-
+nazionalisti,True,Cultural or political movement,Cultural or political movement,58,1,5,0,-,-,-
+nazismo,True,Cultural or political movement,Cultural or political movement,126,12,12,0,-,-,-
+nazisti,True,Cultural or political movement,Cultural or political movement,862,61,72,4,-,-,-
+neo,True,?,?,28,5,2,0,-,-,-
+neorealismo,True,Cultural or political movement,Cultural or political movement,57,5,26,2,-,-,-
+nicotinoidi,True,?,?,19,0,0,0,-,-,-
+nietzschiano,True,?,?,15,0,0,0,-,-,-
+Nobel,True,?,?,19,0,0,0,-,-,-
+noir,True,Cultural or political movement,Cultural or political movement,310,20,2,2,-,-,-
+nomadismo,True,?,?,15,0,0,0,-,-,-
+nominati,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,42,0,4,0,-,-,-
+nonni,True,?,?,27,1,0,1,-,-,-
+occupati,True,?,?,24,0,2,0,-,-,-
+oligarchica,True,?,?,33,0,0,0,-,-,-
+onorevole,True,Role,Role,16,0,6,0,-,-,-
+operaista,True,Cultural or political movement,Cultural or political movement,14,8,0,0,-,-,-
+ordinati,True,?,?,22,0,0,0,-,-,-
+orfismo,True,?,?,16,1,0,0,-,-,-
+orientali,True,?,?,16,0,0,0,-,-,-
+ortodossi,True,?,?,15,0,2,0,-,-,-
+ortodossia,True,?,?,39,0,3,1,-,-,-
+oscurantismo,True,?,?,22,9,1,0,-,-,-
+ottomanesimo,True,?,?,90,0,0,0,-,-,-
+ottomani,True,?,?,45,0,0,0,-,-,-
+ottomanismo,True,?,?,71,0,0,0,-,-,-
+padri,True,?,?,50,3,1,0,-,-,-
+paganesimo,True,Cultural or political movement,Cultural or political movement,247,31,6,1,-,-,-
+pagani,True,Cultural or political movement,Cultural or political movement,119,6,1,1,-,-,-
+palladiano,True,?,?,16,1,0,0,-,-,-
+papa,True,?,Role,31,3,0,1,-,-,-
+papà,True,Kinship,Kinship,554,31,9,1,-,-,-
+parlamentare,True,Role,Role,47,0,7,0,-,-,-
+parlamentari,True,Role,Role,53,2,5,0,-,-,-
+parroco,True,?,Job or Career,16,2,0,0,-,-,-
+partito,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,78,7,11,1,-,-,-
+patentati,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,266,0,11,1,-,-,-
+patriarca,True,?,?,15,2,0,0,-,-,-
+pelagianesimo,True,?,?,27,1,0,0,-,-,-
+pensionati,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,57,8,4,0,-,-,-
+pentecostalismo,True,?,?,16,0,0,0,-,-,-
+pentito,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,23,0,9,0,-,-,-
+persiano,True,?,?,18,0,0,1,-,-,-
+pilota,True,?,Job or Career,25,2,2,0,-,-,-
+piloti,True,?,Job or Career,27,0,2,0,-,-,-
+pitagorici,True,?,?,14,0,0,0,-,-,-
+pitagorismo,True,Cultural or political movement,Cultural or political movement,17,11,0,4,-,-,-
+pizzica,True,?,?,34,0,0,0,-,-,-
+plastica,True,?,?,14,0,0,0,-,-,-
+platonici,True,?,?,87,0,1,2,-,-,-
+platonismo,True,Cultural or political movement,Cultural or political movement,134,16,3,4,-,-,-
+politica,True,?,-,47,3,1,0,-,-,-
+pontefice,True,?,Role,22,3,0,1,-,-,-
+pop,True,?,Cultural or political movement,163,3,0,0,-,-,-
+populismi,True,?,?,15,0,0,0,-,-,-
+populismo,True,Cultural or political movement,Cultural or political movement,73,8,5,0,-,-,-
+populisti,True,?,?,30,1,0,0,-,-,-
+porporati,True,Role,Role,22,1,10,0,-,-,-
+porporato,True,?,?,25,2,1,0,-,-,-
+positivismo,True,Cultural or political movement,Cultural or political movement,121,45,0,0,-,-,-
+positivisti,True,Cultural or political movement,Cultural or political movement,38,16,0,1,-,-,-
+possessore,True,?,?,39,2,0,0,-,-,-
+possessori,True,?,?,19,0,0,0,-,-,-
+post,True,?,?,14,2,0,0,-,-,-
+pragmatismo,True,?,?,18,5,2,1,-,-,-
+prefetto,True,Job or Career,Job or Career#Role,23,6,4,0,-,-,-
+premier,True,Role,Role,301,43,62,2,-,-,-
+Premier,True,?,?,14,0,0,0,-,-,-
+premio,True,Rank,Rank,36,3,8,0,-,-,-
+preside,True,?,Role,17,1,1,3,-,-,-
+presidente,True,Role,Role,2808,312,448,32,-,-,-
+Presidente,True,Role,Role,459,23,0,8,-,-,-
+presidentessa,True,?,?,19,1,2,0,-,-,-
+presidenti,True,Role,Role,18,2,5,0,-,-,-
+primatista,True,Rank,Rank,37,5,4,0,-,-,-
+primitivismo,True,?,?,30,1,1,0,-,-,-
+primitivo,True,?,?,16,0,0,0,-,-,-
+primo,True,?,?,53,0,0,2,-,-,-
+principessa,True,Role,Role,14,3,4,0,-,-,-
+pro,True,?,?,92,0,14,0,-,-,-
+procuratore,True,Job or Career,Job or Career#Role,28,3,10,0,-,-,-
+professi,True,?,?,23,0,0,0,-,-,-
+professionista,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,45,12,10,2,-,-,-
+professionisti,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances#-,73,7,6,3,-,-,-
+professore,True,Job or Career,Job or Career,21,3,8,0,-,-,-
+professoressa,True,?,?,14,1,0,0,-,-,-
+prog,True,?,?,181,1,0,4,-,-,-
+proibizionismo,True,?,?,15,3,2,0,-,-,-
+proletariato,True,?,Qualification or Set of Circumstances,16,3,0,0,-,-,-
+promossi,True,?,?,110,4,3,2,-,-,-
+proprietari,True,?,Qualification or Set of Circumstances,88,11,3,0,-,-,-
+proprietaria,True,?,Qualification or Set of Circumstances,15,0,1,1,-,-,-
+proprietario,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,74,3,6,1,-,-,-
+protestantesimo,True,?,?,21,4,1,0,-,-,-
+protestanti,True,?,?,32,1,0,0,-,-,-
+protezionismo,True,Cultural or political movement,Cultural or political movement,70,7,4,0,-,-,-
+provenzale,True,?,?,15,0,0,0,-,-,-
+provincia,True,?,Qualification or Set of Circumstances,19,3,1,3,-,-,-
+psichedelia,True,Cultural or political movement,Cultural or political movement,149,4,5,3,-,-,-
+psichedelica,True,?,?,72,0,0,0,-,-,-
+psichedelico,True,?,?,63,0,0,1,-,-,-
+psichiatria,True,?,?,22,0,0,0,-,-,-
+psych,True,?,?,25,0,0,0,-,-,-
+punk,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances#Cultural or political movement,43,0,5,0,-,-,-
+puritanesimo,True,?,?,14,0,2,0,-,-,-
+qualcosa,True,?,?,18,0,0,0,-,-,-
+qualificati,True,?,?,22,0,0,0,-,-,-
+quattrocentesco,True,?,?,17,0,0,0,-,-,-
+razzismo,True,Cultural or political movement,Cultural or political movement,56,8,4,0,-,-,-
+re,True,?,Role,22,0,1,2,-,-,-
+realismo,True,Cultural or political movement,Cultural or political movement#-,320,43,36,6,-,-,-
+realisti,True,?,?,42,1,3,2,-,-,-
+regime,True,?,Qualification or Set of Circumstances,15,1,2,0,-,-,-
+regina,True,?,Role,23,0,0,2,-,-,-
+regionalismo,True,Cultural or political movement,Cultural or political movement,20,6,2,0,-,-,-
+regista,True,Job or Career,Job or Career,109,20,23,1,-,-,-
+religiosi,True,?,?,14,0,0,0,-,-,-
+reporter,True,?,?,22,0,0,0,-,-,-
+repubblica,True,?,Qualification or Set of Circumstances,24,1,0,2,-,-,-
+Repubblica,True,?,Qualification or Set of Circumstances,15,2,0,1,-,-,-
+residenti,True,?,Qualification or Set of Circumstances#-,41,2,0,0,-,-,-
+responsabile,True,Role,Role,74,10,13,0,-,-,-
+rettore,True,?,Role,25,1,1,0,-,-,-
+Rettore,True,?,?,15,0,0,0,-,-,-
+revisionismo,True,?,?,20,1,1,0,-,-,-
+ricchi,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,34,3,4,0,-,-,-
+riformismo,True,?,?,29,4,3,0,-,-,-
+rinascimento,True,?,?,23,3,0,2,-,-,-
+rockabilly,True,?,?,18,1,0,0,-,-,-
+rococò,True,?,?,41,0,0,0,-,-,-
+romanica,True,?,?,58,0,0,0,-,-,-
+romanici,True,?,?,17,0,0,0,-,-,-
+romanico,True,?,?,266,0,0,3,-,-,-
+romantica,True,?,?,102,0,1,0,-,-,-
+romantici,True,?,?,65,2,2,0,-,-,-
+romanticismo,True,Cultural or political movement,Cultural or political movement,112,15,4,4,-,-,-
+sacerdoti,True,?,Job or Career,25,1,3,1,-,-,-
+sannyasin,True,?,?,15,1,0,1,-,-,-
+schiavismo,True,?,?,50,2,0,1,-,-,-
+schiavitù,True,?,?,54,0,0,0,-,-,-
+sciamanesimo,True,?,?,22,0,0,0,-,-,-
+scrittore,True,?,Job or Career,16,3,1,0,-,-,-
+scrittori,True,?,?,15,4,0,0,-,-,-
+segretaria,True,?,Role,38,0,1,0,-,-,-
+segretario,True,Role,Role,450,27,85,3,-,-,-
+Segretario,True,?,Role,25,0,0,0,-,-,-
+senatore,True,Role,Role,96,6,42,4,-,-,-
+senatrice,True,?,?,41,2,1,0,-,-,-
+signora,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,14,3,4,0,-,-,-
+sindaca,True,?,?,47,0,0,0,-,-,-
+sindaci,True,?,Role,18,0,1,0,-,-,-
+sindaco,True,Role,Role,606,39,67,2,-,-,-
+Sindaco,True,?,?,83,7,0,1,-,-,-
+single,True,?,?,37,6,0,0,-,-,-
+sintesi,True,?,?,26,0,0,0,-,-,-
+soci,True,?,Role,20,1,1,0,-,-,-
+socialdemocrazia,True,?,?,19,1,1,0,-,-,-
+socialismo,True,?,Cultural or political movement,22,3,1,0,-,-,-
+socialisti,True,Cultural or political movement,Cultural or political movement#-,22,4,4,0,-,-,-
+società,True,?,-,41,9,1,1,-,-,-
+socio,True,?,Role,44,3,3,0,-,-,-
+sommelier,True,?,?,15,0,0,0,-,-,-
+sottosegretario,True,Role,Role,34,12,19,0,-,-,-
+soul,True,?,?,206,9,0,4,-,-,-
+sovranismo,True,?,?,22,0,0,0,-,-,-
+specialista,True,?,?,17,0,0,0,-,-,-
+specialisti,True,?,?,47,1,0,0,-,-,-
+specializzati,True,?,?,41,0,0,0,-,-,-
+spiritualismo,True,?,?,54,4,0,0,-,-,-
+sposa,True,Kinship,Kinship,133,0,4,0,-,-,-
+spose,True,?,?,29,0,0,0,-,-,-
+sposi,True,Kinship,Kinship,267,20,3,7,-,-,-
+sposina,True,?,?,21,2,1,0,-,-,-
+sposini,True,?,?,88,0,0,1,-,-,-
+sposo,True,?,?,68,4,2,0,-,-,-
+stalinisti,True,?,?,28,0,1,0,-,-,-
+standard,True,?,-,72,0,0,1,-,-,-
+star,True,?,Rank,15,4,0,0,-,-,-
+statalismo,True,?,?,21,2,1,0,-,-,-
+statalista,True,?,?,17,2,0,0,-,-,-
+stato,True,?,?,37,0,1,2,-,-,-
+Stato,True,?,?,32,0,0,0,-,-,-
+stregoneria,True,?,?,72,6,2,0,-,-,-
+surrealismo,True,?,?,16,0,0,0,-,-,-
+surrealista,True,?,?,16,0,0,0,-,-,-
+sviluppismo,True,?,?,21,0,0,0,-,-,-
+sviluppista,True,?,?,31,0,0,0,-,-,-
+talebani,True,?,?,21,0,0,0,-,-,-
+tecnico,True,Job or Career,Job or Career,207,18,3,6,-,-,-
+tecnologie,True,?,?,31,5,0,1,-,-,-
+televisione,True,?,?,47,13,7,0,-,-,-
+templare,True,?,?,34,0,0,0,-,-,-
+templari,True,?,?,41,1,1,0,-,-,-
+templarismo,True,?,?,33,2,0,0,-,-,-
+teologi,True,?,?,34,0,0,0,-,-,-
+teologia,True,?,?,33,2,0,0,-,-,-
+terrorismo,True,?,-,31,5,2,0,-,-,-
+terrorista,True,?,Qualification or Set of Circumstances,17,0,0,0,-,-,-
+tesserato,True,?,?,15,0,1,0,-,-,-
+tomismo,True,?,?,35,11,1,0,-,-,-
+tomista,True,?,?,30,1,0,0,-,-,-
+totalitarismo,True,?,-,20,3,1,0,-,-,-
+trader,True,?,?,18,0,0,0,-,-,-
+tradizionalismo,True,?,?,62,3,0,0,-,-,-
+tradizionalista,True,?,?,60,0,0,0,-,-,-
+tradizionalisti,True,?,?,40,3,0,0,-,-,-
+tribalismo,True,?,?,33,7,1,0,-,-,-
+tv,True,?,?,18,9,2,1,-,-,-
+umanesimo,True,Cultural or political movement,Cultural or political movement,99,10,5,0,-,-,-
+umanista,True,?,?,39,0,0,0,-,-,-
+uretra,True,?,?,20,0,0,0,-,-,-
+ustascia,True,?,?,27,0,1,0,-,-,-
+utente,True,?,?,24,3,0,0,-,-,-
+utenti,True,?,?,29,3,0,0,-,-,-
+vampira,True,?,?,15,0,0,0,-,-,-
+vampiro,True,?,?,21,1,0,1,-,-,-
+vascolarizzazione,True,?,?,26,3,0,1,-,-,-
+vasi,True,?,?,19,0,0,0,-,-,-
+vedova,True,?,?,29,3,0,1,-,-,-
+veneta,True,?,?,19,0,0,0,-,-,-
+vescica,True,?,?,53,0,0,0,-,-,-
+vescovo,True,Role,Role,68,5,1,5,-,-,-
+vicepresidente,True,Role,Role,40,6,15,1,-,-,-
+vincitore,True,?,?,59,4,0,2,-,-,-
+vincitrice,True,?,?,26,2,0,0,-,-,-
+vintage,True,?,?,47,0,0,0,-,-,-
+volontari,True,?,Job or Career,23,1,0,0,-,-,-
+vuoto,True,?,?,22,0,0,0,-,-,-
+welfare,True,?,?,32,1,1,0,-,-,-
+western,True,?,?,25,0,1,0,-,-,-
+attore,True,Job or Career,Job or Career,0,4,4,1,-,-,-
+autonomi,True,Cultural or political movement,Cultural or political movement,0,0,6,0,-,-,-
+Avanguardia,True,Cultural or political movement,Cultural or political movement,0,0,0,0,-,-,-
+azionista,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,0,1,4,0,-,-,-
+azionisti,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,0,0,9,0,-,-,-
+cavalieri,True,Job or Career,Job or Career,0,2,4,0,-,-,-
+classica,True,Cultural or political movement,Cultural or political movement,461,0,5,0,-,-,-
+classicista,True,Cultural or political movement,Cultural or political movement,21,1,4,1,-,-,-
+comunitarismo,True,Cultural or political movement,Cultural or political movement,0,2,7,0,-,-,-
+conduttori,True,Job or Career,Job or Career,0,1,0,0,-,-,-
+consociativismo,True,Cultural or political movement,Cultural or political movement,0,5,9,0,-,-,-
+dc,True,Cultural or political movement,Cultural or political movement,0,16,10,0,-,-,-
+delegati,True,Role,Role,0,5,0,0,-,-,-
+eletta,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,303,6,9,1,-,-,-
+eletto,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,2098,194,61,31,-,-,-
+emittente,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,0,3,0,0,-,-,-
+eurasiatismo,True,Cultural or political movement,Cultural or political movement,0,0,0,3,-,-,-
+fascista,True,Cultural or political movement,Cultural or political movement,610,3,9,0,-,-,-
+formazione,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,122,15,1,1,-,-,-
+gollismo,True,Cultural or political movement,Cultural or political movement,0,3,6,1,-,-,-
+gollista,True,Cultural or political movement,Cultural or political movement,66,2,35,0,-,-,-
+imprenditore,True,Job or Career,Job or Career,179,44,5,0,-,-,-
+integralismo,True,Cultural or political movement,Cultural or political movement,0,2,4,0,-,-,-
+italiano,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,37,1,5,0,-,-,-
+laureata,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,285,30,1,2,-,-,-
+laureato,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,808,76,9,0,-,-,-
+liberale,True,Cultural or political movement,Cultural or political movement,871,0,7,0,-,-,-
+liberista,True,Cultural or political movement,Cultural or political movement,1764,22,10,1,-,-,-
+liberiste,True,Cultural or political movement,Cultural or political movement,605,70,6,2,-,-,-
+madri,True,Kinship,Kinship,92,20,1,1,-,-,-
+mamma,True,Kinship,Kinship,1484,86,14,1,-,-,-
+miliardari,True,Rank,Rank,0,1,7,0,-,-,-
+miliardario,True,Rank,Rank,0,0,6,0,-,-,-
+ministro,True,Role,Role,863,124,270,2,-,-,-
+moralismo,True,Cultural or political movement,Cultural or political movement,0,0,5,0,-,-,-
+nazista,True,Cultural or political movement,Cultural or political movement,614,52,15,2,-,-,-
+nominato,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,166,0,10,3,-,-,-
+padre,True,Kinship,Kinship,46,6,6,0,-,-,-
+padrone,True,Role,Role,0,2,4,0,-,-,-
+parlamentarismo,True,Cultural or political movement,Cultural or political movement,0,1,5,0,-,-,-
+pauperismo,True,Cultural or political movement,Cultural or political movement,0,1,6,0,-,-,-
+Platonismo,True,Cultural or political movement,Cultural or political movement,0,1,0,0,-,-,-
+politico,True,Job or Career,Job or Career,0,0,6,0,-,-,-
+populista,True,Cultural or political movement,Cultural or political movement,23,9,1,0,-,-,-
+portavoce,True,Role,Role,0,0,9,0,-,-,-
+promossa,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,702,0,12,14,-,-,-
+promosse,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,156,0,9,2,-,-,-
+promosso,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,328,11,10,14,-,-,-
+qualunquisti,True,Qualification or Set of Circumstances,Qualification or Set of Circumstances,0,0,4,0,-,-,-
+questore,True,Role,Role,0,1,6,0,-,-,-
+Regina,True,Role,Role,0,0,0,1,-,-,-
+retributivismo,True,Cultural or political movement,Cultural or political movement,0,6,0,0,-,-,-
+scientismo,True,Cultural or political movement,Cultural or political movement,0,5,0,0,-,-,-
+socialista,True,Cultural or political movement,Cultural or political movement#-,40,0,6,0,-,-,-
+sovrintendente,True,Role,Role,0,6,5,0,-,-,-
+yuppies,True,Qualification or Set of Circumstances,Cultural or political movement,0,0,4,0,-,-,-
+abbonati,False,?,?,0,1,0,0,-,-,-
+aborigena,False,?,?,0,1,0,0,-,-,-
+Accademia,False,?,?,0,0,0,1,-,-,-
+accademici,False,?,?,0,2,0,0,-,-,-
+accademico,False,?,?,0,0,1,0,-,-,-
+acquariofilo,False,?,?,0,1,0,0,-,-,-
+acquisita,False,?,?,81,0,5,1,-,-,-
+acquistato,False,?,?,0,0,0,1,-,-,-
+acronimi,False,?,?,0,1,0,0,-,-,-
+adattativa,False,?,?,0,1,0,0,-,-,-
+adepti,False,?,?,0,4,2,0,-,-,-
+adepto,False,?,?,0,0,1,0,-,-,-
+aderenti,False,?,?,24,3,0,0,-,-,-
+adiuvante,False,?,?,148,4,0,0,-,-,-
+adiuvanti,False,?,?,26,1,0,0,-,-,-
+adjuvante,False,?,?,0,8,0,0,-,-,-
+adjuvanti,False,?,?,0,1,0,0,-,-,-
+adolescenti,False,?,Qualification or Set of Circumstances,0,2,0,0,-,-,-
+adozioni,False,?,?,0,1,0,0,-,-,-
+adulti,False,?,?,0,3,1,0,-,-,-
+affiliate,False,?,?,0,1,0,0,-,-,-
+agenti,False,?,Job or Career,0,1,1,0,-,-,-
+agenzia,False,?,?,0,0,1,0,-,-,-
+aggiunte,False,?,?,0,2,0,0,-,-,-
+aggregazione,False,?,?,0,0,1,0,-,-,-
+agostiniana,False,?,?,0,2,0,0,-,-,-
+albergatori,False,?,?,0,1,0,0,-,-,-
+alfabetizzazione,False,?,Process,0,1,1,0,-,-,-
+alfabetizzazioni,False,?,?,0,1,0,0,-,-,-
+alienazione,False,?,?,0,1,0,0,-,-,-
+alleanza,False,?,?,0,2,0,0,-,-,-
+alleata,False,?,?,0,0,1,0,-,-,-
+alleato,False,?,Qualification or Set of Circumstances,0,1,2,1,-,-,-
+allegorismo,False,?,?,0,1,0,0,-,-,-
+allenatori,False,?,?,0,2,0,0,-,-,-
+allevatori,False,?,?,0,2,0,0,-,-,-
+alpinista,False,?,?,0,2,1,0,-,-,-
+Alto,False,?,?,0,0,0,1,-,-,-
+alunna,False,?,Qualification or Set of Circumstances,0,0,0,1,-,-,-
+alunni,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+alureati,False,?,?,0,1,0,0,-,-,-
+alveolo,False,?,?,0,1,0,0,-,-,-
+ambasciatrice,False,?,Job or Career,0,2,1,0,-,-,-
+ambientaliste,False,?,?,0,1,0,0,-,-,-
+americana,False,?,?,0,0,1,0,-,-,-
+americani,False,?,-,0,1,0,0,-,-,-
+americanisti,False,?,?,0,1,0,0,-,-,-
+americano,False,?,-,0,0,1,0,-,-,-
+amerindi,False,?,?,0,1,0,0,-,-,-
+amichevole,False,?,?,0,1,0,0,-,-,-
+amicizia,False,?,?,0,1,0,0,-,-,-
+ammessi,False,?,?,0,1,0,0,-,-,-
+amministatore,False,?,?,0,0,1,0,-,-,-
+amministratrice,False,?,?,0,1,0,0,-,-,-
+ammiraglia,False,?,?,0,1,0,0,-,-,-
+ammiraglio,False,?,Job or Career,0,1,0,0,-,-,-
+amore,False,?,Entity#Qualification or Set of Circumstances,0,0,1,0,-,-,-
+anabattista,False,?,?,0,1,0,0,-,-,-
+analfabeta,False,?,?,0,1,0,0,-,-,-
+analfabeti,False,?,?,0,2,0,0,-,-,-
+analfabetismo,False,?,?,0,5,0,0,-,-,-
+andreottismo,False,?,?,0,0,1,0,-,-,-
+angiogenetica,False,?,?,0,1,0,0,-,-,-
+anglistica,False,?,?,0,2,0,0,-,-,-
+anima,False,?,Entity,0,0,1,0,-,-,-
+animatori,False,?,?,0,1,0,0,-,-,-
+animatrice,False,?,?,0,1,0,0,-,-,-
+antagonismo,False,?,?,0,1,0,0,-,-,-
+antiamericanismo,False,?,?,0,1,0,0,-,-,-
+anticomunisti,False,?,?,0,1,0,0,-,-,-
+antiproibizionisti,False,?,?,0,0,1,0,-,-,-
+antisemitismo,False,?,?,0,3,2,0,-,-,-
+antisiriani,False,?,?,0,1,0,0,-,-,-
+antropologo,False,?,?,0,1,0,0,-,-,-
+apertura,False,?,?,0,1,0,0,-,-,-
+apicoltore,False,?,?,0,1,0,0,-,-,-
+apocalittici,False,?,?,0,0,0,1,-,-,-
+apocrifismo,False,?,?,0,1,0,0,-,-,-
+apologeta,False,?,?,0,2,0,0,-,-,-
+apologista,False,?,?,0,1,0,0,-,-,-
+appassionati,False,?,?,0,2,0,0,-,-,-
+apposizione,False,?,?,0,2,0,0,-,-,-
+arabi,False,?,-,0,0,0,1,-,-,-
+aramaico-caldeo,False,?,?,0,0,0,1,-,-,-
+arbitro,False,?,Job or Career,0,0,1,0,-,-,-
+Arcadia,False,?,?,0,1,0,0,-,-,-
+arcaicismo,False,?,?,0,1,0,0,-,-,-
+architetti,False,?,?,0,3,0,0,-,-,-
+arciprete,False,?,?,0,1,0,0,-,-,-
+argomento,False,?,?,0,1,0,0,-,-,-
+aristocratiche,False,?,?,0,0,0,1,-,-,-
+aristocrazia,False,?,?,0,1,0,0,-,-,-
+aroniani,False,?,?,0,0,1,0,-,-,-
+arricchiti,False,?,?,0,0,1,0,-,-,-
+arrivati,False,?,?,258,0,0,2,-,-,-
+arrivato,False,?,?,266,0,0,5,-,-,-
+arrivo,False,?,?,0,2,0,0,-,-,-
+articoli,False,?,?,0,3,0,0,-,-,-
+articolo,False,?,?,0,1,0,0,-,-,-
+artigianato,False,?,?,0,1,0,0,-,-,-
+ascari,False,?,?,0,1,0,0,-,-,-
+aspirante,False,?,?,0,1,0,0,-,-,-
+assaggiatori,False,?,?,0,1,0,0,-,-,-
+assesore,False,?,?,0,1,0,0,-,-,-
+Assessori,False,?,?,0,1,0,0,-,-,-
+assicurati,False,?,?,0,0,1,0,-,-,-
+assicurato,False,?,?,0,5,0,0,-,-,-
+assistente,False,?,Role,0,1,0,0,-,-,-
+assistenzialismo,False,?,?,0,1,0,0,-,-,-
+assistenzialista,False,?,?,0,1,0,0,-,-,-
+associato,False,?,?,0,1,0,0,-,-,-
+Associazione,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+associazioni,False,?,?,0,1,0,0,-,-,-
+associazionismo,False,?,?,0,0,1,0,-,-,-
+associazionisti,False,?,?,0,1,0,0,-,-,-
+assolutista,False,?,?,0,1,0,0,-,-,-
+assolutistica,False,?,?,0,4,0,0,-,-,-
+assolutistici,False,?,?,0,1,0,0,-,-,-
+assolutistico,False,?,?,0,1,0,0,-,-,-
+assumendi,False,?,?,0,1,0,0,-,-,-
+assunti-super-anziani,False,?,?,0,1,0,0,-,-,-
+assunzione,False,?,?,0,1,0,0,-,-,-
+astratti,False,?,?,0,0,1,0,-,-,-
+astrattismo,False,?,?,0,2,0,0,-,-,-
+astronauti,False,?,?,0,1,0,0,-,-,-
+atalantini,False,?,?,0,1,0,0,-,-,-
+atalantino,False,?,?,0,0,1,0,-,-,-
+atei,False,?,?,0,0,0,1,-,-,-
+ateismo,False,?,?,0,0,0,1,-,-,-
+atlantidei,False,?,?,0,1,0,0,-,-,-
+atleti,False,?,Job or Career,0,2,0,0,-,-,-
+atropina,False,?,?,0,1,0,0,-,-,-
+attaccante,False,?,Role,0,2,0,0,-,-,-
+attendente,False,?,?,0,1,0,0,-,-,-
+attica,False,?,?,0,1,0,0,-,-,-
+attici,False,?,?,0,2,0,0,-,-,-
+attivismo,False,?,?,0,1,0,0,-,-,-
+attributo,False,?,?,0,1,0,0,-,-,-
+aureati,False,?,?,0,1,0,0,-,-,-
+austeri,False,?,?,0,0,2,0,-,-,-
+austerità,False,?,?,0,0,2,0,-,-,-
+austriaci,False,?,?,0,1,0,0,-,-,-
+autarchia,False,?,?,0,0,1,0,-,-,-
+automobilisti,False,?,?,0,0,2,0,-,-,-
+autonomismo,False,?,?,0,1,1,0,-,-,-
+autore,False,?,?,0,6,1,0,-,-,-
+Autorità,False,?,?,0,1,0,0,-,-,-
+autoritaria,False,?,?,36,0,1,0,-,-,-
+autoritario,False,?,?,33,0,1,0,-,-,-
+autoritarista,False,?,?,0,1,0,0,-,-,-
+autoritaristi,False,?,?,0,0,2,0,-,-,-
+avanguardismi,False,?,?,0,0,1,0,-,-,-
+avanguardismo,False,?,?,0,0,1,0,-,-,-
+avanguardista,False,?,Cultural or political movement,0,4,0,0,-,-,-
+avanguardiste,False,?,?,0,1,0,0,-,-,-
+avanguardisti,False,?,?,0,3,1,0,-,-,-
+aventinismo,False,?,?,0,1,0,0,-,-,-
+avvoltoi,False,?,?,0,1,0,0,-,-,-
+azienda,False,?,Place or function,0,5,1,0,-,-,-
+aziendalismo,False,?,?,0,0,1,0,-,-,-
+azzapaterati,False,?,?,0,2,0,0,-,-,-
+azzurre,False,?,?,0,1,0,0,-,-,-
+azzurri,False,?,?,0,3,1,0,-,-,-
+babelico,False,?,?,0,1,0,0,-,-,-
+babouvismo,False,?,?,0,1,0,0,-,-,-
+bacchettonismo,False,?,?,0,1,0,0,-,-,-
+balcanizzazione,False,?,?,0,0,1,0,-,-,-
+ballerina,False,?,Job or Career,0,0,1,0,-,-,-
+balzachiani,False,?,?,0,0,1,0,-,-,-
+balzachismo,False,?,?,0,1,0,0,-,-,-
+bambini,False,?,Qualification or Set of Circumstances,0,2,0,0,-,-,-
+banchieri,False,?,Job or Career,0,0,1,0,-,-,-
+bandiera,False,?,?,0,1,0,0,-,-,-
+bandito,False,?,Qualification or Set of Circumstances,0,2,0,0,-,-,-
+Bandito,False,?,?,0,1,0,0,-,-,-
+baratto,False,?,?,0,1,0,0,-,-,-
+barbari,False,?,?,0,0,1,0,-,-,-
+barbarie,False,?,?,0,1,0,0,-,-,-
+barocca,False,?,?,84,0,1,1,-,-,-
+barocche,False,?,?,29,0,1,0,-,-,-
+barocchetto,False,?,?,0,0,1,0,-,-,-
+barocchismi,False,?,?,0,1,0,0,-,-,-
+barocchismo,False,?,?,0,0,1,0,-,-,-
+barone,False,?,?,0,1,1,1,-,-,-
+baronetto,False,?,?,0,0,2,0,-,-,-
+bartitsu,False,?,?,0,0,0,2,-,-,-
+bassista,False,?,Job or Career,0,0,0,1,-,-,-
+batterista,False,?,Job or Career,0,0,0,1,-,-,-
+Bayreauth,False,?,?,0,1,0,0,-,-,-
+beat,False,?,?,0,0,1,0,-,-,-
+beato,False,?,?,27,3,0,0,-,-,-
+bechstein,False,?,?,0,2,0,0,-,-,-
+benestante,False,?,?,0,0,1,0,-,-,-
+benestantesimo,False,?,?,0,0,1,0,-,-,-
+beni,False,?,?,0,1,0,0,-,-,-
+berlusconiano,False,?,?,0,2,0,0,-,-,-
+bestie,False,?,?,0,0,1,0,-,-,-
+bianconeri,False,?,?,0,0,3,0,-,-,-
+bianconero,False,?,?,0,1,2,0,-,-,-
+biancorosso,False,?,?,0,1,0,0,-,-,-
+biblioteca,False,?,?,0,1,0,0,-,-,-
+bibliotecari,False,?,?,0,1,0,0,-,-,-
+bicameralismi,False,?,?,0,1,0,0,-,-,-
+bicameralismo,False,?,?,0,0,1,0,-,-,-
+bidottore,False,?,?,0,0,1,0,-,-,-
+bigottista,False,?,?,0,1,0,0,-,-,-
+binario,False,?,?,0,2,0,3,-,-,-
+bio-logica,False,?,?,0,4,0,0,-,-,-
+biologie,False,?,?,0,1,0,0,-,-,-
+biologismo,False,?,?,0,1,0,0,-,-,-
+biotech,False,?,?,0,1,0,0,-,-,-
+biotecnologie,False,?,?,0,1,0,0,-,-,-
+bipolarismo,False,?,?,0,0,2,0,-,-,-
+bi-primatista,False,?,?,0,0,1,0,-,-,-
+birra,False,?,?,0,1,0,0,-,-,-
+bisogni,False,?,?,0,1,0,0,-,-,-
+blue,False,?,?,0,0,1,0,-,-,-
+blues,False,?,?,0,1,0,0,-,-,-
+bocage,False,?,?,0,1,0,1,-,-,-
+bocconiano,False,?,?,0,1,0,0,-,-,-
+boiardi,False,?,?,0,0,1,0,-,-,-
+bolivarismo,False,?,?,0,1,0,0,-,-,-
+bolognesismo,False,?,?,0,0,0,1,-,-,-
+bolscevica,False,?,?,0,0,1,0,-,-,-
+bolscevichi,False,?,?,0,1,2,0,-,-,-
+bolscevico,False,?,?,0,0,1,0,-,-,-
+bolscevismo,False,?,?,0,1,1,0,-,-,-
+bomber,False,?,?,0,1,0,0,-,-,-
+boom,False,?,-,0,0,1,0,-,-,-
+bopper,False,?,?,0,0,1,0,-,-,-
+borghese,False,?,?,51,0,1,0,-,-,-
+borsello,False,?,?,0,1,0,0,-,-,-
+borsisti,False,?,?,0,0,1,0,-,-,-
+Boss,False,?,?,0,0,0,1,-,-,-
+br,False,?,?,0,2,0,0,-,-,-
+BR,False,?,?,0,2,0,0,-,-,-
+bramanismo,False,?,?,0,1,0,0,-,-,-
+brevettati,False,?,?,24,0,0,1,-,-,-
+bridgisti,False,?,?,0,1,0,0,-,-,-
+brigatista,False,?,Cultural or political movement,0,4,1,0,-,-,-
+brit,False,?,?,0,1,0,0,-,-,-
+buddhismo,False,?,?,0,2,0,0,-,-,-
+buddista,False,?,?,0,0,1,0,-,-,-
+buddisti,False,?,?,0,1,1,0,-,-,-
+bulgarese,False,?,?,0,1,0,0,-,-,-
+bulgaro,False,?,?,0,1,0,0,-,-,-
+buonismo,False,?,?,0,1,0,0,-,-,-
+buonisti,False,?,?,0,1,0,0,-,-,-
+burocrazia,False,?,?,0,1,0,0,-,-,-
+cabaret,False,?,?,0,0,2,0,-,-,-
+cacciatore,False,?,?,0,1,0,0,-,-,-
+cachemere,False,?,?,0,1,0,0,-,-,-
+caciquismo,False,?,?,0,0,1,0,-,-,-
+caffetterie,False,?,?,0,1,0,0,-,-,-
+caledoni,False,?,?,0,1,0,0,-,-,-
+caledoniani,False,?,?,0,0,2,0,-,-,-
+califfo,False,?,?,0,0,0,3,-,-,-
+calpest,False,?,?,0,1,0,0,-,-,-
+calssico,False,?,?,0,1,0,0,-,-,-
+calvinismo,False,?,?,0,1,0,0,-,-,-
+calvinisti,False,?,?,0,0,1,0,-,-,-
+cameraman,False,?,?,0,0,0,1,-,-,-
+campani,False,?,?,0,1,0,0,-,-,-
+campi,False,?,Place or function,0,1,0,0,-,-,-
+campioone,False,?,?,0,1,0,0,-,-,-
+canadesi,False,?,?,0,1,0,0,-,-,-
+cannibalismo,False,?,?,0,1,0,0,-,-,-
+cannoniere,False,?,?,0,1,0,0,-,-,-
+cantadore,False,?,?,0,1,0,0,-,-,-
+cantante,False,?,Job or Career,0,0,3,1,-,-,-
+capi,False,?,Role,0,2,1,0,-,-,-
+capitali,False,?,?,0,1,0,0,-,-,-
+capitalisti,False,?,?,0,0,1,0,-,-,-
+capocannoniere,False,?,?,0,1,0,0,-,-,-
+capocontrada,False,?,?,0,1,0,0,-,-,-
+capogabinetto,False,?,Role,0,0,1,0,-,-,-
+capolavoro,False,?,?,0,1,0,0,-,-,-
+carabiniere,False,?,Job or Career,0,1,0,0,-,-,-
+caratterista,False,?,?,0,1,0,0,-,-,-
+carcerato,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+cartesiano,False,?,?,0,0,1,0,-,-,-
+casalinghi,False,?,?,0,0,2,0,-,-,-
+cassettista,False,?,?,0,0,1,0,-,-,-
+cassidismo,False,?,?,0,0,1,0,-,-,-
+cassintegrati,False,?,?,0,0,1,0,-,-,-
+casting,False,?,?,0,0,1,0,-,-,-
+castrum,False,?,?,0,1,0,0,-,-,-
+catastrofismo,False,?,?,0,1,0,0,-,-,-
+catechismo,False,?,?,0,0,1,0,-,-,-
+catecumenale,False,?,?,75,1,1,0,-,-,-
+catorcio,False,?,?,0,1,0,0,-,-,-
+catto-comunisti,False,?,?,0,1,0,0,-,-,-
+cattolico,False,?,?,16,1,0,0,-,-,-
+cavalierati,False,?,?,0,1,0,0,-,-,-
+Cavaliere,False,?,Role,0,1,0,1,-,-,-
+Cavalieri,False,?,?,0,2,0,0,-,-,-
+cavernicola,False,?,?,0,0,1,0,-,-,-
+Cecoslovacchi,False,?,?,0,0,0,1,-,-,-
+celebrità,False,?,?,0,0,1,0,-,-,-
+celtico,False,?,?,0,0,0,1,-,-,-
+centenario,False,?,?,0,1,0,0,-,-,-
+centralizzazione,False,?,?,0,1,0,0,-,-,-
+centrismi,False,?,?,0,1,0,0,-,-,-
+centristra,False,?,?,0,0,0,1,-,-,-
+centro,False,?,?,0,1,0,0,-,-,-
+centrocampista,False,?,?,0,0,0,1,-,-,-
+centurioni,False,?,?,0,1,0,0,-,-,-
+cerchiobbottisti,False,?,?,0,1,0,0,-,-,-
+cervello,False,?,?,0,1,0,0,-,-,-
+chicagoani,False,?,?,0,4,0,0,-,-,-
+chicagoans,False,?,?,0,4,0,0,-,-,-
+Chicagoans,False,?,?,0,1,0,0,-,-,-
+chirurgo,False,?,?,0,1,0,0,-,-,-
+cicchetti,False,?,?,0,1,0,0,-,-,-
+ciclisti,False,?,?,0,1,0,0,-,-,-
+cimitero,False,?,?,0,0,0,1,-,-,-
+cineasta,False,?,?,0,2,1,0,-,-,-
+cineasti,False,?,?,0,2,0,0,-,-,-
+cinema,False,?,Place or function,0,0,1,0,-,-,-
+cinismo,False,?,?,0,1,2,0,-,-,-
+cinquecentismo,False,?,?,0,1,0,1,-,-,-
+cinquecentista,False,?,?,0,1,0,0,-,-,-
+città,False,?,Qualification or Set of Circumstances,0,0,0,2,-,-,-
+cittadelle,False,?,?,0,1,0,0,-,-,-
+cittadina,False,?,?,0,1,0,0,-,-,-
+cittì,False,?,?,0,1,0,0,-,-,-
+civilizzazione,False,?,?,0,1,0,0,-,-,-
+clan,False,?,?,0,1,0,0,-,-,-
+classical,False,?,?,0,1,0,4,-,-,-
+classiche,False,?,?,135,0,1,0,-,-,-
+classicimo,False,?,?,0,1,0,0,-,-,-
+classicism,False,?,?,0,0,1,0,-,-,-
+classicismi,False,?,?,0,0,1,0,-,-,-
+clericali,False,?,?,0,0,1,0,-,-,-
+cliente,False,?,?,0,1,1,0,-,-,-
+clientelarismo,False,?,?,0,1,0,0,-,-,-
+clienti,False,?,?,0,0,1,0,-,-,-
+codacons,False,?,?,0,6,0,0,-,-,-
+codice,False,?,?,0,1,1,0,-,-,-
+coglioni,False,?,?,0,1,0,0,-,-,-
+coinquiline,False,?,?,0,0,0,1,-,-,-
+coinquilini,False,?,?,0,1,0,0,-,-,-
+colbertismo,False,?,?,0,1,3,0,-,-,-
+colbertista,False,?,?,0,1,0,0,-,-,-
+collaborazione,False,?,-,0,1,0,0,-,-,-
+collateralismo,False,?,?,0,1,3,0,-,-,-
+colombi,False,?,?,0,0,1,0,-,-,-
+colombiano,False,?,?,0,1,0,0,-,-,-
+colonial,False,?,?,0,1,0,0,-,-,-
+coloniali,False,?,?,244,0,1,0,-,-,-
+colonialismi,False,?,?,0,1,0,0,-,-,-
+colonialista,False,?,?,147,2,0,0,-,-,-
+colonianilismo,False,?,?,0,1,0,0,-,-,-
+colonizzatori,False,?,Job or Career,0,1,0,0,-,-,-
+colonizzatrici,False,?,?,0,1,0,0,-,-,-
+colonizzazioni,False,?,?,0,1,0,0,-,-,-
+colosso,False,?,?,0,1,2,0,-,-,-
+com,False,?,?,0,2,0,0,-,-,-
+comandate,False,?,?,0,0,0,1,-,-,-
+comici-finalisti,False,?,?,0,1,0,0,-,-,-
+commedia,False,?,?,0,1,0,0,-,-,-
+commedianti,False,?,?,0,1,0,0,-,-,-
+commendatore,False,?,?,0,0,1,0,-,-,-
+commendatori,False,?,?,0,0,2,0,-,-,-
+commentatore,False,?,?,0,1,0,0,-,-,-
+commerce,False,?,?,0,1,0,0,-,-,-
+commercialista,False,?,?,0,1,0,0,-,-,-
+commerciante,False,?,?,0,0,1,0,-,-,-
+commercianti,False,?,?,0,1,0,0,-,-,-
+commessi,False,?,?,0,1,0,0,-,-,-
+commissari,False,?,?,0,5,0,0,-,-,-
+Commissari,False,?,?,0,1,0,0,-,-,-
+commissaria,False,?,?,0,1,1,0,-,-,-
+Commissario,False,?,?,0,2,0,0,-,-,-
+compagna,False,?,Kinship,0,5,0,0,-,-,-
+compagnia,False,?,?,0,0,0,1,-,-,-
+competitività,False,?,?,0,1,0,0,-,-,-
+comportamentismo,False,?,?,0,3,0,2,-,-,-
+compositore,False,?,?,0,1,0,0,-,-,-
+compositori,False,?,?,0,1,0,0,-,-,-
+compromesso,False,?,?,0,0,1,0,-,-,-
+computer,False,?,?,0,1,0,0,-,-,-
+comuni,False,?,Qualification or Set of Circumstances,0,2,0,0,-,-,-
+comunione,False,?,?,0,0,1,0,-,-,-
+comunismi,False,?,?,0,0,1,0,-,-,-
+comunità,False,?,?,0,1,0,0,-,-,-
+comunitaristi,False,?,?,0,1,0,0,-,-,-
+comuntiari,False,?,?,0,1,0,0,-,-,-
+con,False,?,?,809,0,0,6,-,-,-
+concepita,False,?,?,0,0,0,1,-,-,-
+concertazione,False,?,-,0,1,0,0,-,-,-
+concettualismo,False,?,?,0,1,1,0,-,-,-
+concittadini,False,?,?,0,1,0,0,-,-,-
+concordato,False,?,?,0,0,1,0,-,-,-
+Concordato,False,?,?,0,2,0,0,-,-,-
+concorrenti,False,?,?,0,0,1,0,-,-,-
+concorrenza,False,?,?,0,1,0,0,-,-,-
+concretismo,False,?,?,0,1,0,0,-,-,-
+concreto,False,?,?,0,0,1,0,-,-,-
+condannato,False,?,?,0,1,0,0,-,-,-
+condirettore,False,?,?,0,0,1,0,-,-,-
+condono,False,?,?,0,1,0,0,-,-,-
+conduttore,False,?,Job or Career,0,3,1,1,-,-,-
+conduttrice,False,?,?,0,1,0,0,-,-,-
+confermato,False,?,?,21,0,2,0,-,-,-
+confessionalismo,False,?,?,0,5,0,0,-,-,-
+confessionismo,False,?,?,0,7,0,0,-,-,-
+confesso,False,?,?,0,0,1,0,-,-,-
+conflitto,False,?,-,0,0,1,0,-,-,-
+conformismo,False,?,-,0,1,2,0,-,-,-
+confraternita,False,?,?,0,1,0,0,-,-,-
+Confuciane,False,?,?,0,0,0,1,-,-,-
+conglomerata,False,?,?,0,0,1,0,-,-,-
+coniazioni,False,?,?,0,1,0,0,-,-,-
+connessionismo,False,?,?,0,1,0,0,-,-,-
+conoscente,False,?,?,0,0,0,1,-,-,-
+conquistadores,False,?,?,0,1,0,0,-,-,-
+conquistatore,False,?,?,0,1,0,0,-,-,-
+conquiste,False,?,?,0,1,0,0,-,-,-
+cons,False,?,?,193,74,0,1,-,-,-
+Cons,False,?,?,0,1,0,0,-,-,-
+consacrati,False,?,?,0,0,2,0,-,-,-
+consacrato,False,?,?,0,0,0,1,-,-,-
+conservatives,False,?,?,0,1,1,0,-,-,-
+conservatrice,False,?,?,149,3,3,0,-,-,-
+consiglio,False,?,?,0,0,1,0,-,-,-
+consilieri,False,?,?,0,1,0,0,-,-,-
+consociativi,False,?,?,0,0,1,0,-,-,-
+consociazionista,False,?,?,0,1,0,0,-,-,-
+console,False,?,Role,0,1,0,1,-,-,-
+consorte,False,?,Kinship,0,1,1,0,-,-,-
+consumatore,False,?,?,0,1,0,0,-,-,-
+consumismo,False,?,?,0,1,0,0,-,-,-
+contabili,False,?,?,0,0,1,0,-,-,-
+contenimento,False,?,?,0,2,0,0,-,-,-
+contraddizioni,False,?,?,0,0,1,0,-,-,-
+contratto,False,?,Entity,0,1,0,0,-,-,-
+contrattualista,False,?,?,0,1,0,0,-,-,-
+contrattualisti,False,?,?,0,1,0,0,-,-,-
+controllore,False,?,?,0,1,0,1,-,-,-
+conv,False,?,?,0,1,0,0,-,-,-
+convertito,False,?,?,64,0,0,1,-,-,-
+cool,False,?,?,0,1,0,0,-,-,-
+cooperative,False,?,?,0,1,0,0,-,-,-
+coordinamento,False,?,?,0,1,0,0,-,-,-
+coordinatori,False,?,?,0,2,1,0,-,-,-
+coordinatrice,False,?,?,0,2,1,0,-,-,-
+cordata,False,?,?,0,1,0,0,-,-,-
+coreografo,False,?,?,0,0,1,0,-,-,-
+corporatismo,False,?,?,0,1,0,0,-,-,-
+corporatista,False,?,?,0,1,0,0,-,-,-
+corporative,False,?,?,33,0,1,0,-,-,-
+corporativo,False,?,?,121,0,1,0,-,-,-
+corrente,False,?,?,0,1,0,0,-,-,-
+cortex,False,?,?,0,0,0,1,-,-,-
+coscienza,False,?,?,0,1,0,0,-,-,-
+coservatorismo,False,?,?,0,1,0,0,-,-,-
+cosmologia,False,?,?,0,1,0,0,-,-,-
+cosmopolitismo,False,?,?,0,1,0,0,-,-,-
+costituendo,False,?,?,0,0,1,0,-,-,-
+costituente,False,?,?,0,2,0,0,-,-,-
+costituenti,False,?,?,0,1,1,0,-,-,-
+costituita,False,?,?,713,0,8,19,-,-,-
+costituite,False,?,?,174,0,0,4,-,-,-
+costituito,False,?,?,601,0,3,124,-,-,-
+costituiuto,False,?,?,0,0,0,1,-,-,-
+costituto,False,?,?,0,0,0,1,-,-,-
+costituzione,False,?,?,0,2,0,0,-,-,-
+Costituzione,False,?,?,0,1,0,0,-,-,-
+costruita,False,?,?,0,0,0,1,-,-,-
+costruito,False,?,?,17,0,0,1,-,-,-
+costruttivismo,False,?,?,0,4,0,0,-,-,-
+costruttivista,False,?,?,17,0,1,0,-,-,-
+country,False,?,?,0,1,0,0,-,-,-
+creata,False,?,?,0,0,0,2,-,-,-
+creato,False,?,?,0,0,0,2,-,-,-
+creatori,False,?,?,0,0,1,0,-,-,-
+creature,False,?,?,0,1,0,0,-,-,-
+creazionismo,False,?,?,0,1,0,1,-,-,-
+Creazionismo,False,?,?,0,1,0,0,-,-,-
+creazionisti,False,?,?,0,1,0,0,-,-,-
+crepuscolare,False,?,?,0,0,1,0,-,-,-
+crepuscolarismo,False,?,?,0,3,1,0,-,-,-
+cristiane,False,?,?,0,0,0,1,-,-,-
+critica,False,?,?,0,1,0,0,-,-,-
+criticisti,False,?,?,0,2,0,0,-,-,-
+cro,False,?,?,0,1,0,0,-,-,-
+ct,False,?,?,28,4,8,0,-,-,-
+Ct,False,?,?,0,1,0,0,-,-,-
+C.T.,False,?,?,0,0,0,2,-,-,-
+CT,False,?,?,15,1,0,0,-,-,-
+cubismi,False,?,?,0,0,1,0,-,-,-
+CUCS,False,?,?,0,1,0,0,-,-,-
+culto,False,?,?,0,2,0,0,-,-,-
+culturismo,False,?,?,0,1,0,0,-,-,-
+cuoca,False,?,?,0,1,0,0,-,-,-
+cuochi,False,?,?,0,2,0,0,-,-,-
+cupola,False,?,?,0,0,1,0,-,-,-
+custode,False,?,?,0,0,2,0,-,-,-
+cyberorganismo,False,?,?,0,1,0,0,-,-,-
+dadaismo,False,?,?,0,3,0,0,-,-,-
+dadaista,False,?,?,36,10,0,0,-,-,-
+Damjliani,False,?,?,0,1,0,0,-,-,-
+dandy,False,?,?,0,2,1,0,-,-,-
+darwini-smo,False,?,?,0,1,0,0,-,-,-
+Darwinismo,False,?,?,16,0,0,1,-,-,-
+Darwinista,False,?,?,0,0,0,1,-,-,-
+debuttante,False,?,?,0,1,0,0,-,-,-
+decadentismo,False,?,?,0,1,0,0,-,-,-
+decalogo,False,?,?,0,0,1,0,-,-,-
+decana,False,?,?,0,0,1,0,-,-,-
+decentramento,False,?,?,0,1,0,0,-,-,-
+decisionismo,False,?,?,0,0,2,0,-,-,-
+decisionista,False,?,?,0,1,0,0,-,-,-
+decisionisti,False,?,?,0,0,1,0,-,-,-
+declinismo,False,?,?,0,1,0,0,-,-,-
+decorativismo,False,?,?,0,1,0,0,-,-,-
+decoubertinismo,False,?,?,0,0,1,0,-,-,-
+definizioni,False,?,?,0,1,0,0,-,-,-
+defunto,False,?,?,0,0,1,0,-,-,-
+degrado,False,?,?,0,0,1,0,-,-,-
+delinquenti,False,?,?,0,1,0,0,-,-,-
+demagogia,False,?,?,0,0,1,0,-,-,-
+democraticismo,False,?,?,0,0,1,0,-,-,-
+democrazie,False,?,?,0,2,0,0,-,-,-
+democristianesimo,False,?,?,0,1,0,0,-,-,-
+depresso,False,?,?,0,2,0,0,-,-,-
+designata,False,?,?,0,0,1,0,-,-,-
+designati,False,?,?,0,0,1,0,-,-,-
+Destur,False,?,?,0,1,0,0,-,-,-
+detentore,False,?,?,0,1,0,0,-,-,-
+detentori,False,?,?,0,0,0,1,-,-,-
+detenuti,False,?,Qualification or Set of Circumstances,0,0,1,0,-,-,-
+detenuto,False,?,Qualification or Set of Circumstances,0,0,1,0,-,-,-
+diacono,False,?,?,0,1,0,0,-,-,-
+dicasteri,False,?,?,0,1,0,0,-,-,-
+dicastero,False,?,?,0,0,1,0,-,-,-
+diccì,False,?,?,0,1,0,0,-,-,-
+dichiarante,False,?,?,0,0,1,0,-,-,-
+dichiarato,False,?,?,0,0,0,1,-,-,-
+diciottenne,False,?,?,52,4,0,0,-,-,-
+didattica,False,?,?,0,1,0,0,-,-,-
+difensore,False,?,Role,0,1,0,0,-,-,-
+dilettantismo,False,?,?,0,1,0,0,-,-,-
+dimissionario,False,?,?,0,0,0,1,-,-,-
+dio,False,?,?,0,1,0,0,-,-,-
+diocesi,False,?,?,0,1,0,0,-,-,-
+dipendente,False,?,Qualification or Set of Circumstances,0,1,1,0,-,-,-
+diplomatico,False,?,Job or Career,0,0,1,0,-,-,-
+diportista,False,?,?,0,1,0,0,-,-,-
+diportisti,False,?,?,0,0,1,0,-,-,-
+direttora,False,?,?,0,1,0,0,-,-,-
+Direttore,False,?,?,21,1,0,0,-,-,-
+direttote,False,?,?,0,0,1,0,-,-,-
+Dirigenti,False,?,?,0,1,0,0,-,-,-
+dirigismo,False,?,?,0,4,2,0,-,-,-
+diritto,False,?,?,0,1,0,0,-,-,-
+dirttore,False,?,?,0,0,1,0,-,-,-
+disastermovie,False,?,?,0,0,1,0,-,-,-
+disciplina,False,?,?,15,1,0,0,-,-,-
+disco,False,?,?,0,1,0,0,-,-,-
+disegno,False,?,?,0,1,0,0,-,-,-
+disincanto,False,?,?,0,1,0,0,-,-,-
+disoccupata,False,?,?,0,1,0,0,-,-,-
+distensione,False,?,?,0,0,1,0,-,-,-
+distribuzione,False,?,?,0,0,0,1,-,-,-
+diva,False,?,Qualification or Set of Circumstances,0,2,1,0,-,-,-
+divertimento,False,?,?,0,0,1,0,-,-,-
+divismo,False,?,?,0,0,1,0,-,-,-
+divo,False,?,Qualification or Set of Circumstances,0,5,1,0,-,-,-
+divorziata,False,?,?,14,0,0,2,-,-,-
+divorziati,False,?,?,0,2,0,0,-,-,-
+divorziato,False,?,?,0,1,1,0,-,-,-
+DJ,False,?,?,0,0,0,3,-,-,-
+documentari,False,?,?,0,0,1,0,-,-,-
+dogmatismo,False,?,?,0,1,1,0,-,-,-
+domesticità,False,?,?,0,0,1,0,-,-,-
+donatori,False,?,?,0,2,0,0,-,-,-
+donna,False,?,Qualification or Set of Circumstances,0,1,0,1,-,-,-
+donne,False,?,?,0,1,1,0,-,-,-
+doppiatori,False,?,?,0,0,1,0,-,-,-
+doroteini,False,?,?,0,0,1,0,-,-,-
+doroteo,False,?,?,0,0,1,0,-,-,-
+dossettiani,False,?,?,0,0,1,0,-,-,-
+dottorando,False,?,?,0,1,0,0,-,-,-
+dottorati,False,?,?,0,1,0,0,-,-,-
+dottorato,False,?,-,0,1,0,0,-,-,-
+Dottore,False,?,?,0,2,0,0,-,-,-
+Dottori,False,?,?,0,1,0,0,-,-,-
+druidi,False,?,?,0,1,0,0,-,-,-
+druidismo,False,?,?,0,3,0,1,-,-,-
+dualismo,False,?,-,0,2,0,0,-,-,-
+duca,False,?,?,0,1,0,2,-,-,-
+Duca,False,?,?,0,1,0,0,-,-,-
+duo,False,?,?,0,0,0,1,-,-,-
+ebrei,False,?,-,0,0,0,1,-,-,-
+eccezionalismo,False,?,?,0,0,0,1,-,-,-
+ecologismo,False,?,?,0,1,0,0,-,-,-
+ecologisti,False,?,?,0,0,1,0,-,-,-
+economia,False,?,-,0,1,0,0,-,-,-
+economista,False,?,?,0,0,1,0,-,-,-
+ecosistemi,False,?,?,0,1,0,0,-,-,-
+edificazione,False,?,?,0,1,0,0,-,-,-
+editore,False,?,Job or Career,0,1,1,0,-,-,-
+edonismo,False,?,?,0,2,0,0,-,-,-
+educatori,False,?,?,0,1,0,0,-,-,-
+egizio,False,?,?,25,0,0,1,-,-,-
+egoismo,False,?,?,0,0,2,0,-,-,-
+egualitarismo,False,?,?,0,1,0,0,-,-,-
+eldacoppietta,False,?,?,0,2,0,0,-,-,-
+eleganza,False,?,?,0,2,0,0,-,-,-
+elette,False,?,?,44,1,2,1,-,-,-
+elitismo,False,?,?,0,0,0,3,-,-,-
+elitista,False,?,?,0,1,0,0,-,-,-
+eltista,False,?,?,0,1,0,0,-,-,-
+emancipazionismo,False,?,?,0,1,0,0,-,-,-
+embrione,False,?,?,0,0,1,0,-,-,-
+emergenzialismo,False,?,?,0,2,0,0,-,-,-
+emigranti,False,?,?,0,0,2,0,-,-,-
+empiristi,False,?,?,0,4,0,0,-,-,-
+endemismi,False,?,?,0,1,0,0,-,-,-
+engineering,False,?,?,0,2,0,0,-,-,-
+entrato,False,?,?,844,0,0,1,-,-,-
+entusiasmo,False,?,?,0,0,1,0,-,-,-
+enveristi,False,?,?,0,1,0,0,-,-,-
+epigoni,False,?,?,0,0,1,0,-,-,-
+epopea,False,?,?,0,1,0,0,-,-,-
+equilibrio,False,?,-,0,0,0,1,-,-,-
+Era,False,?,?,0,1,0,0,-,-,-
+eretta,False,?,?,21,0,0,1,-,-,-
+ericksoniani,False,?,?,0,1,0,0,-,-,-
+ermeneutica,False,?,?,0,0,1,0,-,-,-
+eroe,False,?,?,0,3,0,0,-,-,-
+eroina,False,?,?,0,1,0,0,-,-,-
+erotismo,False,?,?,0,0,1,0,-,-,-
+escatologismo,False,?,?,0,0,1,0,-,-,-
+esecutivo,False,?,?,0,5,0,0,-,-,-
+esistenzialismo,False,?,?,0,0,1,0,-,-,-
+esoterismo,False,?,?,0,2,0,0,-,-,-
+esotismo,False,?,?,0,0,1,0,-,-,-
+espansionismo,False,?,?,0,0,1,0,-,-,-
+esperti,False,?,?,0,1,0,0,-,-,-
+esperto,False,?,-,0,4,0,0,-,-,-
+espressionismi,False,?,?,0,1,0,0,-,-,-
+espressionista,False,?,?,95,0,1,0,-,-,-
+esteta,False,?,?,0,1,0,0,-,-,-
+estetica,False,?,?,0,1,0,0,-,-,-
+estetismo,False,?,?,0,2,0,0,-,-,-
+estetista,False,?,?,0,1,0,0,-,-,-
+estremismo,False,?,?,0,3,0,0,-,-,-
+estremista,False,?,?,0,1,0,0,-,-,-
+etichetta,False,?,?,0,2,0,3,-,-,-
+etnicità,False,?,?,0,1,0,0,-,-,-
+etrusco,False,?,?,0,0,0,1,-,-,-
+eurasiatista,False,?,?,0,0,0,1,-,-,-
+eurasiatisti,False,?,?,0,0,0,1,-,-,-
+eurodeputato,False,?,?,0,2,0,0,-,-,-
+euro-paci-comunisti,False,?,?,0,1,0,0,-,-,-
+europei,False,?,?,0,1,0,0,-,-,-
+europeismo,False,?,?,0,0,2,0,-,-,-
+europeista,False,?,?,0,2,0,0,-,-,-
+euroscettico,False,?,?,0,2,0,0,-,-,-
+evangelicalismo,False,?,?,0,0,0,1,-,-,-
+evangeliche,False,?,?,0,0,1,0,-,-,-
+evangelici,False,?,?,0,1,0,0,-,-,-
+evoluzionismo,False,?,?,0,1,0,0,-,-,-
+ex-compagna,False,?,?,0,1,0,0,-,-,-
+ex-marito,False,?,?,0,1,0,0,-,-,-
+ex-parlamentare,False,?,?,0,0,1,0,-,-,-
+faccendiere,False,?,?,0,1,0,0,-,-,-
+faccia,False,?,?,0,1,0,0,-,-,-
+facoltà,False,?,?,0,0,2,0,-,-,-
+fadismo,False,?,?,0,1,0,0,-,-,-
+famiglie,False,?,Qualification or Set of Circumstances,33,2,0,0,-,-,-
+famigliola,False,?,?,0,1,0,0,-,-,-
+famiglismo,False,?,?,0,0,3,0,-,-,-
+fan,False,?,?,0,2,1,0,-,-,-
+fanatici,False,?,?,0,0,1,0,-,-,-
+fanfanismo,False,?,?,0,0,1,0,-,-,-
+fans,False,?,?,0,1,0,0,-,-,-
+fantascienza,False,?,?,0,0,1,0,-,-,-
+faraone,False,?,?,0,1,0,0,-,-,-
+faraoni,False,?,?,0,1,0,0,-,-,-
+fascismi,False,?,?,0,2,0,0,-,-,-
+Fascist,False,?,?,0,1,0,0,-,-,-
+fasciste,False,?,?,186,2,1,0,-,-,-
+fascistizzazione,False,?,?,0,1,0,0,-,-,-
+fascists,False,?,?,0,0,2,0,-,-,-
+fauve,False,?,?,0,0,1,0,-,-,-
+favorito,False,?,?,0,0,1,0,-,-,-
+federalismo,False,?,?,0,2,0,0,-,-,-
+federalista,False,?,?,0,1,0,0,-,-,-
+federalisti,False,?,?,0,2,0,0,-,-,-
+federazione,False,?,?,0,1,1,0,-,-,-
+Federazione,False,?,?,0,0,1,1,-,-,-
+femminista,False,?,-,37,2,0,0,-,-,-
+femministi,False,?,?,0,1,0,0,-,-,-
+Fera,False,?,?,0,1,0,0,-,-,-
+ferrarista,False,?,?,0,1,3,1,-,-,-
+Ferrarista,False,?,?,0,1,0,0,-,-,-
+feticista,False,?,?,0,0,1,0,-,-,-
+feudale,False,?,?,132,0,1,0,-,-,-
+feudalizzazione,False,?,?,0,2,0,0,-,-,-
+feuilleton,False,?,?,0,0,1,0,-,-,-
+fidanzatini,False,?,?,0,1,0,0,-,-,-
+fidanzatino,False,?,?,0,1,0,0,-,-,-
+fighettio,False,?,?,0,1,0,0,-,-,-
+figurativi,False,?,?,0,0,0,1,-,-,-
+figurativismo,False,?,?,0,2,0,0,-,-,-
+figurativo,False,?,?,17,0,1,0,-,-,-
+figurazione,False,?,?,0,3,1,0,-,-,-
+figure,False,?,?,0,1,0,0,-,-,-
+filantropismo,False,?,?,0,1,0,0,-,-,-
+filibustiere,False,?,?,0,1,0,0,-,-,-
+filodrammatici,False,?,?,0,0,1,0,-,-,-
+filologia,False,?,?,0,1,0,0,-,-,-
+filone,False,?,?,0,1,3,0,-,-,-
+filosofia,False,?,-,0,1,0,0,-,-,-
+finanziere,False,?,Job or Career,0,0,0,1,-,-,-
+finanzieri,False,?,?,0,1,0,0,-,-,-
+fiorentino,False,?,?,0,1,0,0,-,-,-
+fisarmonicista,False,?,?,0,1,0,0,-,-,-
+flagellanti,False,?,?,0,0,1,0,-,-,-
+flaubertismo,False,?,?,0,1,0,0,-,-,-
+folclore,False,?,?,0,0,0,1,-,-,-
+folkie,False,?,?,0,1,0,0,-,-,-
+folklorismo,False,?,?,0,0,1,0,-,-,-
+fondamentalismi,False,?,?,0,1,0,0,-,-,-
+fondamentali-smo,False,?,?,0,1,0,0,-,-,-
+fondamentalista,False,?,?,37,8,0,0,-,-,-
+fondati,False,?,?,0,0,0,1,-,-,-
+fondato,False,?,?,28,0,0,2,-,-,-
+fondatore,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+fondatori,False,?,?,0,1,0,0,-,-,-
+fondazionalisti,False,?,?,0,1,0,0,-,-,-
+fondazione,False,?,?,0,2,0,0,-,-,-
+fondazioni,False,?,?,0,0,1,0,-,-,-
+fonds,False,?,?,0,1,0,0,-,-,-
+foractil,False,?,?,0,1,0,0,-,-,-
+fordismo,False,?,Cultural or political movement,0,1,0,0,-,-,-
+forestazione,False,?,?,0,1,0,0,-,-,-
+formata,False,?,?,54,0,0,2,-,-,-
+formato,False,?,?,62,2,0,5,-,-,-
+forum,False,?,?,0,1,0,0,-,-,-
+forumista,False,?,?,0,1,0,0,-,-,-
+forumisti,False,?,?,0,3,0,0,-,-,-
+forzista,False,?,?,0,0,1,0,-,-,-
+forzisti,False,?,?,0,1,1,0,-,-,-
+franchisee,False,?,?,0,0,1,0,-,-,-
+fratello,False,?,?,0,2,0,0,-,-,-
+freudiani,False,?,?,0,0,0,2,-,-,-
+freudismo,False,?,?,0,1,0,0,-,-,-
+fricchettoni,False,?,?,0,1,0,0,-,-,-
+frigio,False,?,?,0,0,0,1,-,-,-
+frigo,False,?,?,0,0,1,0,-,-,-
+frontismo,False,?,?,0,0,1,0,-,-,-
+fscista,False,?,?,0,1,0,0,-,-,-
+fusion,False,?,?,0,1,0,0,-,-,-
+Futurismo,False,?,?,0,1,0,0,-,-,-
+futurista,False,?,?,52,0,1,0,-,-,-
+galli,False,?,?,0,0,1,0,-,-,-
+gallicanesimo,False,?,?,0,0,0,1,-,-,-
+garante,False,?,?,0,0,2,0,-,-,-
+garantismo,False,?,?,0,1,1,0,-,-,-
+garantisti,False,?,?,0,0,2,0,-,-,-
+gaudente,False,?,?,0,1,0,0,-,-,-
+gaullista,False,?,?,0,0,1,0,-,-,-
+gavianeo,False,?,?,0,0,1,0,-,-,-
+gay,False,?,Qualification or Set of Circumstances,0,3,0,0,-,-,-
+gelosia,False,?,?,0,0,1,0,-,-,-
+gemellaggio,False,?,?,0,1,0,0,-,-,-
+general,False,?,?,0,1,0,0,-,-,-
+generale,False,?,Job or Career,0,0,0,1,-,-,-
+generazione,False,?,?,0,1,0,0,-,-,-
+genere,False,?,?,0,1,0,0,-,-,-
+genero,False,?,?,0,1,1,1,-,-,-
+genesis,False,?,?,0,3,0,0,-,-,-
+geni,False,?,?,0,1,0,0,-,-,-
+genio,False,?,?,0,0,1,0,-,-,-
+genoano,False,?,?,0,0,1,0,-,-,-
+geometra,False,?,?,0,0,1,0,-,-,-
+germanico,False,?,?,0,0,1,0,-,-,-
+gestione,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+gestore,False,?,?,0,2,0,0,-,-,-
+ghibelline,False,?,?,0,0,0,1,-,-,-
+giacobinismo,False,?,?,0,2,1,0,-,-,-
+giacobino,False,?,?,19,0,1,0,-,-,-
+giacobismo,False,?,?,0,0,0,2,-,-,-
+giansenismo,False,?,?,0,2,0,0,-,-,-
+gigante,False,?,?,0,1,0,0,-,-,-
+gioachimismi,False,?,?,0,1,0,0,-,-,-
+giolittismo,False,?,?,0,3,0,0,-,-,-
+giornalismo,False,?,?,0,3,1,0,-,-,-
+giornalista,False,?,Job or Career,0,3,2,0,-,-,-
+giornalisti,False,?,Job or Career,0,2,0,0,-,-,-
+giovanilismo,False,?,?,0,1,0,0,-,-,-
+giudaismo,False,?,?,0,1,0,0,-,-,-
+giudeofobìa,False,?,?,0,0,0,1,-,-,-
+giurisdizionalismo,False,?,?,0,2,0,0,-,-,-
+giurisdizione,False,?,?,0,1,0,0,-,-,-
+giurista,False,?,?,0,1,0,0,-,-,-
+giusto-processo,False,?,?,0,1,0,0,-,-,-
+globalismo,False,?,?,0,2,1,0,-,-,-
+globalista,False,?,?,0,0,1,0,-,-,-
+globalizzazione,False,?,?,0,2,0,0,-,-,-
+gnostici,False,?,?,32,0,0,1,-,-,-
+golosità,False,?,?,0,0,2,0,-,-,-
+gommonauta,False,?,?,0,1,0,0,-,-,-
+gospel,False,?,?,0,1,0,0,-,-,-
+gothic,False,?,?,0,2,0,0,-,-,-
+goticismo,False,?,?,0,0,0,1,-,-,-
+governanti,False,?,?,0,3,1,0,-,-,-
+governatorato,False,?,?,0,1,0,1,-,-,-
+governatori,False,?,?,0,1,3,0,-,-,-
+Governatori,False,?,?,0,1,0,0,-,-,-
+Governo,False,?,?,21,1,0,1,-,-,-
+gr,False,?,?,0,1,0,0,-,-,-
+gramsciani,False,?,?,0,1,0,0,-,-,-
+granadini,False,?,?,0,0,0,2,-,-,-
+grandeur,False,?,?,0,1,0,0,-,-,-
+greca,False,?,?,53,0,1,0,-,-,-
+greco,False,?,?,100,1,1,1,-,-,-
+grotesque,False,?,?,0,0,0,1,-,-,-
+Grünfeld,False,?,?,0,0,0,1,-,-,-
+guelfa,False,?,?,30,0,1,0,-,-,-
+guelfista,False,?,?,0,3,0,0,-,-,-
+guelfo,False,?,?,42,0,1,0,-,-,-
+guerrafondai,False,?,?,0,0,1,0,-,-,-
+guerre,False,?,?,0,1,0,0,-,-,-
+guerrigliera,False,?,?,0,0,2,0,-,-,-
+guerriglieri,False,?,Job or Career,0,0,1,0,-,-,-
+guevaristi,False,?,?,0,0,1,0,-,-,-
+hackers,False,?,?,0,0,1,0,-,-,-
+Hamiltoniani,False,?,?,0,0,0,1,-,-,-
+hanbalismo,False,?,?,0,0,0,2,-,-,-
+hegelianismo,False,?,?,0,1,0,0,-,-,-
+heideggerismo,False,?,?,0,0,1,0,-,-,-
+hinduismo,False,?,?,0,2,0,0,-,-,-
+hindüismo,False,?,?,0,1,0,0,-,-,-
+hippies,False,?,Cultural or political movement,0,5,3,0,-,-,-
+hippismo,False,?,?,0,0,1,0,-,-,-
+hittita,False,?,?,0,0,0,1,-,-,-
+hittiti,False,?,?,0,1,0,0,-,-,-
+horror,False,?,?,0,3,1,0,-,-,-
+Iaureati,False,?,?,0,1,0,0,-,-,-
+iconoclasta,False,?,?,0,1,0,0,-,-,-
+ideologia,False,?,?,0,1,0,0,-,-,-
+ideologie,False,?,?,0,0,2,0,-,-,-
+ideologismo,False,?,?,0,0,0,2,-,-,-
+ideologizzazione,False,?,?,0,0,1,0,-,-,-
+ideologo,False,?,?,0,0,2,0,-,-,-
+idillio,False,?,?,0,1,0,0,-,-,-
+idolo,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+illiberismo,False,?,?,0,2,0,0,-,-,-
+illuminista,False,?,?,90,2,0,1,-,-,-
+immigrato,False,?,?,0,0,0,1,-,-,-
+immissioni,False,?,?,0,1,0,0,-,-,-
+immortale,False,?,?,0,0,1,0,-,-,-
+impalmata,False,?,?,0,0,1,0,-,-,-
+imperalismo,False,?,?,0,1,0,0,-,-,-
+Imperatore,False,?,?,0,1,0,1,-,-,-
+imperatrice,False,?,Role,0,0,2,0,-,-,-
+imprenditoria,False,?,?,0,7,2,0,-,-,-
+imprenditrici,False,?,?,77,17,0,0,-,-,-
+imputato,False,?,?,0,0,2,0,-,-,-
+incafoniti,False,?,?,0,1,0,0,-,-,-
+incaricato,False,?,?,0,0,3,0,-,-,-
+incarico,False,?,?,0,1,0,0,-,-,-
+incursori,False,?,?,0,1,0,0,-,-,-
+indifferenza,False,?,?,0,0,1,0,-,-,-
+indigeno,False,?,?,0,0,0,1,-,-,-
+industrializzazione,False,?,?,0,1,0,0,-,-,-
+industrie,False,?,?,0,1,0,0,-,-,-
+infermiera,False,?,Job or Career,0,0,0,1,-,-,-
+informatore,False,?,?,0,0,1,0,-,-,-
+informazione,False,?,Qualification or Set of Circumstances#-,0,0,1,0,-,-,-
+ingressi,False,?,Process,0,1,0,0,-,-,-
+ingresso,False,?,?,0,1,0,1,-,-,-
+iniziative,False,?,?,0,1,0,0,-,-,-
+innamorati,False,?,?,0,1,0,0,-,-,-
+innamorato,False,?,?,0,1,1,0,-,-,-
+innesto,False,?,?,0,1,0,0,-,-,-
+innovatori,False,?,?,0,0,1,0,-,-,-
+inositolo,False,?,?,0,0,0,1,-,-,-
+inquilino,False,?,?,0,0,3,0,-,-,-
+insediatosi,False,?,?,0,0,0,1,-,-,-
+inserimento,False,?,?,0,1,0,0,-,-,-
+insigniti,False,?,?,0,0,0,1,-,-,-
+integralismi,False,?,?,0,1,0,0,-,-,-
+integralisti,False,?,?,0,0,1,0,-,-,-
+integrismo,False,?,?,0,0,2,0,-,-,-
+intellettualismo,False,?,-,0,1,0,0,-,-,-
+intellettualisti,False,?,?,0,1,0,0,-,-,-
+interista,False,?,Qualification or Set of Circumstances,0,7,1,0,-,-,-
+interisti,False,?,?,0,0,1,0,-,-,-
+internazionalizzazione,False,?,?,0,1,0,0,-,-,-
+intesa,False,?,Qualification or Set of Circumstances,0,0,1,0,-,-,-
+intransigenti,False,?,?,0,0,1,0,-,-,-
+intransigentismo,False,?,?,0,1,0,0,-,-,-
+introdotti,False,?,?,14,0,0,1,-,-,-
+intuizionismo,False,?,?,0,1,0,0,-,-,-
+intuizionista,False,?,?,0,1,0,0,-,-,-
+investitori,False,?,?,0,0,3,0,-,-,-
+investitura,False,?,?,0,0,1,0,-,-,-
+iperrealismo,False,?,?,0,0,1,0,-,-,-
+ipocriti,False,?,?,0,0,1,0,-,-,-
+ippocratica,False,?,?,0,0,0,1,-,-,-
+irlandiani,False,?,?,0,1,0,0,-,-,-
+irredentismo,False,?,?,0,0,1,0,-,-,-
+irregolari,False,?,?,0,2,0,0,-,-,-
+iscritta,False,?,?,32,1,0,1,-,-,-
+iscritte,False,?,?,20,1,0,2,-,-,-
+iscritto,False,?,?,129,3,3,0,-,-,-
+ismailiti,False,?,?,0,0,0,1,-,-,-
+isolazioniste,False,?,?,0,0,1,0,-,-,-
+isolazionisti,False,?,?,0,0,3,0,-,-,-
+isomentolo,False,?,?,0,1,0,0,-,-,-
+isomentone,False,?,?,0,1,0,0,-,-,-
+ispettore,False,?,Job or Career,0,0,0,1,-,-,-
+ispettrici,False,?,?,0,1,0,0,-,-,-
+istitituzioni,False,?,?,0,1,0,0,-,-,-
+istituita,False,?,?,139,0,0,3,-,-,-
+istituito,False,?,?,110,0,0,7,-,-,-
+Istituto,False,?,Place or function,0,1,0,0,-,-,-
+istituzionalista,False,?,?,27,2,0,0,-,-,-
+istituzionalizzazione,False,?,?,0,2,0,0,-,-,-
+istituzionalizzazionee,False,?,?,0,1,0,0,-,-,-
+istituzionalizzazone,False,?,?,0,1,0,0,-,-,-
+istituzione,False,?,?,0,1,0,0,-,-,-
+istituzioni,False,?,?,0,1,0,0,-,-,-
+ittita,False,?,?,29,0,0,3,-,-,-
+ittite,False,?,?,0,0,0,1,-,-,-
+Jaguar,False,?,?,0,0,0,1,-,-,-
+jazz,False,?,?,0,3,0,0,-,-,-
+jeans,False,?,?,0,1,0,0,-,-,-
+jugoslavi,False,?,Denomination,0,0,1,0,-,-,-
+jurassico,False,?,?,0,0,1,0,-,-,-
+juventini,False,?,?,0,0,1,0,-,-,-
+keynesiane,False,?,?,80,0,1,0,-,-,-
+Keynesiani,False,?,?,0,0,0,1,-,-,-
+keynesianismo,False,?,?,0,0,0,1,-,-,-
+keynesiano,False,?,?,88,1,0,0,-,-,-
+Khuzdul,False,?,?,0,0,0,1,-,-,-
+killer,False,?,Job or Career,0,1,0,0,-,-,-
+kitsch,False,?,?,0,0,3,0,-,-,-
+kolossal,False,?,?,0,1,0,0,-,-,-
+kraepeliniano,False,?,?,0,0,0,1,-,-,-
+laboratorio,False,?,?,0,1,0,0,-,-,-
+ladro,False,?,Job or Career,0,1,1,0,-,-,-
+laici,False,?,?,0,1,0,0,-,-,-
+laicismo,False,?,?,0,1,0,0,-,-,-
+laicità,False,?,?,0,1,0,0,-,-,-
+lanzichenecchi,False,?,?,0,2,0,0,-,-,-
+latine,False,?,?,116,1,0,6,-,-,-
+laudatori,False,?,?,0,0,1,0,-,-,-
+laureando,False,?,?,0,1,0,0,-,-,-
+laureate,False,?,?,44,3,0,0,-,-,-
+lavoratore,False,?,?,0,3,0,0,-,-,-
+laziale,False,?,?,0,3,0,0,-,-,-
+LCA,False,?,?,0,1,0,0,-,-,-
+leadership,False,?,?,0,1,0,0,-,-,-
+lector,False,?,?,0,1,0,0,-,-,-
+legge,False,?,Entity,0,6,0,0,-,-,-
+legificazione,False,?,?,0,1,0,0,-,-,-
+legionari,False,?,?,0,1,0,0,-,-,-
+legittismo,False,?,?,0,0,0,2,-,-,-
+leninismo,False,?,?,0,1,0,0,-,-,-
+leoncavallini,False,?,?,0,0,1,0,-,-,-
+leone,False,?,?,0,1,0,0,-,-,-
+leprotti,False,?,?,0,1,0,0,-,-,-
+lesbismo,False,?,?,0,1,0,0,-,-,-
+letterati,False,?,?,0,0,1,0,-,-,-
+liberal,False,?,?,42,7,3,0,-,-,-
+liberalism,False,?,?,0,0,0,1,-,-,-
+liberalista,False,?,?,15,1,0,0,-,-,-
+liberaliste,False,?,?,0,1,0,0,-,-,-
+liberalisti,False,?,?,0,1,0,0,-,-,-
+liberalizzazione,False,?,?,0,2,0,0,-,-,-
+libertina,False,?,?,0,0,1,0,-,-,-
+libertini,False,?,?,0,0,2,0,-,-,-
+libertino,False,?,?,0,0,1,0,-,-,-
+librai,False,?,?,0,1,0,0,-,-,-
+libro,False,?,Entity,0,1,0,0,-,-,-
+licanziati,False,?,?,0,1,0,0,-,-,-
+linguaggio,False,?,?,0,0,0,1,-,-,-
+lingue,False,?,?,0,1,0,0,-,-,-
+linguismo,False,?,?,0,1,0,0,-,-,-
+linguista,False,?,?,0,1,0,0,-,-,-
+liquidatore,False,?,?,0,0,1,0,-,-,-
+livornese,False,?,?,0,1,0,0,-,-,-
+logicismo,False,?,?,0,0,0,1,-,-,-
+logismi,False,?,?,0,1,0,0,-,-,-
+logismo,False,?,?,0,2,0,0,-,-,-
+Lolita,False,?,?,0,1,0,0,-,-,-
+lolitismo,False,?,?,0,1,0,0,-,-,-
+longhismo,False,?,?,0,0,1,0,-,-,-
+lottatore,False,?,?,0,0,0,2,-,-,-
+lottizzazione,False,?,-,0,1,3,0,-,-,-
+lottizzazioni,False,?,?,0,1,0,0,-,-,-
+lounge,False,?,?,0,3,0,0,-,-,-
+lovestory,False,?,?,0,1,0,0,-,-,-
+luddismi,False,?,?,0,1,0,0,-,-,-
+luddista,False,?,?,31,1,1,0,-,-,-
+lukacsiani,False,?,?,0,0,1,0,-,-,-
+lullismo,False,?,?,0,1,0,0,-,-,-
+lumbard,False,?,?,0,0,1,0,-,-,-
+luoghi,False,?,Entity,0,1,0,0,-,-,-
+maccartismo,False,?,?,0,1,0,0,-,-,-
+maccartista,False,?,?,0,2,0,0,-,-,-
+machiavellici,False,?,?,0,0,0,1,-,-,-
+machiavellico,False,?,?,0,0,1,0,-,-,-
+Madame,False,?,?,0,0,0,1,-,-,-
+madrigalistica,False,?,?,0,1,0,0,-,-,-
+madrigalistico,False,?,?,0,1,0,0,-,-,-
+madrina,False,?,?,0,2,0,0,-,-,-
+maestri,False,?,?,0,1,0,0,-,-,-
+Maestri,False,?,?,0,1,0,0,-,-,-
+maggioranza,False,?,Qualification or Set of Circumstances,0,2,2,0,-,-,-
+maggiorate,False,?,?,0,0,1,0,-,-,-
+maggiordomi,False,?,?,0,1,0,0,-,-,-
+maggiorenne,False,?,?,89,12,0,0,-,-,-
+magic,False,?,?,0,1,0,0,-,-,-
+magistrato,False,?,Job or Career,15,2,2,0,-,-,-
+mago,False,?,?,0,0,0,1,-,-,-
+mail,False,?,?,0,1,0,0,-,-,-
+malthusiana,False,?,?,33,1,0,0,-,-,-
+malthusiane,False,?,?,29,6,0,0,-,-,-
+malthusianismo,False,?,?,0,2,0,0,-,-,-
+malthusiano,False,?,?,35,1,0,0,-,-,-
+malthusiasismo,False,?,?,0,1,0,0,-,-,-
+maltusianesimo,False,?,?,0,1,0,0,-,-,-
+mammina,False,?,?,14,1,0,0,-,-,-
+mammine,False,?,?,0,1,0,0,-,-,-
+management,False,?,?,0,1,0,0,-,-,-
+manchesteriano,False,?,?,0,1,0,0,-,-,-
+mandaico,False,?,?,0,0,0,1,-,-,-
+mandarini,False,?,?,0,0,1,0,-,-,-
+manicheo,False,?,?,0,0,0,1,-,-,-
+manichesimo,False,?,?,0,1,0,0,-,-,-
+manicomiale,False,?,?,0,2,0,0,-,-,-
+manicomializzazione,False,?,?,0,1,0,0,-,-,-
+manierismi,False,?,?,0,0,2,0,-,-,-
+manierista,False,?,?,21,0,1,0,-,-,-
+manieristica,False,?,?,0,2,0,0,-,-,-
+manipolatori,False,?,?,0,1,0,0,-,-,-
+maoista,False,?,Cultural or political movement,0,0,1,0,-,-,-
+maoisti,False,?,?,0,2,2,0,-,-,-
+Maresciallo,False,?,?,0,0,0,1,-,-,-
+marrano,False,?,?,0,1,0,0,-,-,-
+marsigliese,False,?,?,0,0,1,0,-,-,-
+martinezista,False,?,?,0,1,0,0,-,-,-
+martiri,False,?,?,0,1,0,0,-,-,-
+marxista,False,?,?,134,0,1,1,-,-,-
+maschi,False,?,?,0,0,2,0,-,-,-
+master,False,?,?,0,1,0,0,-,-,-
+materialismo,False,?,-,0,2,1,0,-,-,-
+materialista,False,?,?,0,0,1,0,-,-,-
+matricola,False,?,?,0,0,2,0,-,-,-
+matricole,False,?,?,0,1,1,0,-,-,-
+matrimonio,False,?,?,0,1,0,0,-,-,-
+Mattei,False,?,?,0,0,1,0,-,-,-
+maturandi,False,?,?,0,2,0,0,-,-,-
+maturi,False,?,?,0,0,1,0,-,-,-
+Mauthausen,False,?,?,0,1,0,0,-,-,-
+mazzette,False,?,?,0,0,1,0,-,-,-
+mazzinianesimo,False,?,?,0,2,0,0,-,-,-
+meccanicismo,False,?,?,0,2,0,0,-,-,-
+meccanicistico,False,?,?,0,1,0,0,-,-,-
+mecenate,False,?,?,0,0,1,0,-,-,-
+mecenati,False,?,?,0,0,1,0,-,-,-
+medaglia,False,?,?,0,1,1,0,-,-,-
+medagliata,False,?,?,0,1,0,0,-,-,-
+medagliato,False,?,?,0,1,0,0,-,-,-
+medico,False,?,Job or Career,14,1,2,0,-,-,-
+medieval,False,?,?,0,1,0,0,-,-,-
+medievaleggianti,False,?,?,0,0,0,1,-,-,-
+medievalistica,False,?,?,0,2,0,0,-,-,-
+medioborghesi,False,?,?,0,1,0,0,-,-,-
+medioevalismo,False,?,?,0,1,0,0,-,-,-
+melanogenesi,False,?,?,0,2,0,0,-,-,-
+melodia,False,?,?,0,0,1,0,-,-,-
+melodici,False,?,?,52,0,3,0,-,-,-
+melodramma,False,?,?,0,1,0,0,-,-,-
+membri,False,?,Role#-,0,4,0,0,-,-,-
+men-ia,False,?,?,0,1,0,0,-,-,-
+mercante,False,?,?,0,0,1,0,-,-,-
+mercanti,False,?,?,0,1,0,0,-,-,-
+mercantilista,False,?,?,55,3,0,0,-,-,-
+mercato,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+Mercato,False,?,?,0,1,0,0,-,-,-
+mercenariato,False,?,?,0,1,0,0,-,-,-
+meridionalisti,False,?,?,0,1,0,0,-,-,-
+messianismo,False,?,?,0,3,0,0,-,-,-
+metafisico,False,?,?,0,0,1,0,-,-,-
+metellismo,False,?,?,0,1,0,0,-,-,-
+metellite,False,?,?,0,1,0,0,-,-,-
+meteorologo,False,?,?,0,0,1,0,-,-,-
+middle-class,False,?,?,0,2,0,0,-,-,-
+milanista,False,?,?,0,4,3,0,-,-,-
+milanisti,False,?,?,0,0,1,0,-,-,-
+milionari,False,?,?,0,1,2,0,-,-,-
+milionario,False,?,?,0,1,2,0,-,-,-
+militari,False,?,Job or Career,0,0,1,0,-,-,-
+militarismo,False,?,?,0,2,0,0,-,-,-
+militarista,False,?,?,0,0,1,0,-,-,-
+millenaristi,False,?,?,0,1,0,0,-,-,-
+miministro,False,?,?,0,1,0,0,-,-,-
+minatore,False,?,Job or Career,0,0,0,1,-,-,-
+minimal,False,?,?,0,1,0,0,-,-,-
+ministero,False,?,Denomination,0,1,2,0,-,-,-
+ministra,False,?,?,166,6,0,0,-,-,-
+Ministro,False,?,Role,115,16,0,0,-,-,-
+minoranza,False,?,?,0,1,0,0,-,-,-
+misantropi,False,?,?,0,0,1,0,-,-,-
+miss,False,?,?,0,0,1,0,-,-,-
+missini,False,?,Cultural or political movement,0,0,6,0,-,-,-
+missionariis,False,?,?,0,0,0,1,-,-,-
+mistici,False,?,?,0,3,0,0,-,-,-
+mitologia,False,?,?,0,1,0,0,-,-,-
+mitologismo,False,?,?,0,1,0,0,-,-,-
+mobile,False,?,?,0,0,1,0,-,-,-
+mod,False,?,?,0,2,0,0,-,-,-
+modelli,False,?,?,0,1,0,0,-,-,-
+moderati,False,?,?,0,0,1,0,-,-,-
+moderatismo,False,?,?,0,2,2,0,-,-,-
+moderato,False,?,?,0,1,0,0,-,-,-
+moderatore,False,?,?,0,1,0,0,-,-,-
+modernità,False,?,Cultural or political movement,0,6,0,0,-,-,-
+moebiusianesimo,False,?,?,0,1,0,0,-,-,-
+mogliettina,False,?,?,16,2,1,0,-,-,-
+molecola,False,?,?,0,0,0,1,-,-,-
+monaci,False,?,?,0,1,0,0,-,-,-
+monarca,False,?,Job or Career,0,1,0,0,-,-,-
+monarchie,False,?,?,0,1,0,0,-,-,-
+monarchismo,False,?,?,0,0,1,0,-,-,-
+mondiale,False,?,?,0,0,1,0,-,-,-
+mondo,False,?,Entity,0,1,0,0,-,-,-
+monetarista,False,?,?,0,2,0,0,-,-,-
+monetaristi,False,?,?,0,1,0,0,-,-,-
+mono-cultura,False,?,?,0,0,1,0,-,-,-
+monopolio,False,?,Rank,0,1,0,0,-,-,-
+monopolista,False,?,Rank,0,1,0,0,-,-,-
+monopolisti,False,?,Rank,0,1,0,0,-,-,-
+monsignore,False,?,?,0,2,0,0,-,-,-
+monsignori,False,?,?,0,0,1,0,-,-,-
+montesaniano,False,?,?,0,0,1,0,-,-,-
+moralismi,False,?,?,0,1,0,0,-,-,-
+morto,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+moscanti,False,?,?,0,1,0,0,-,-,-
+moschettiere,False,?,?,0,0,1,0,-,-,-
+mostri,False,?,?,0,0,1,0,-,-,-
+motociclista,False,?,?,0,2,0,0,-,-,-
+movimenti,False,?,?,0,1,0,0,-,-,-
+movimentismo,False,?,?,0,1,2,0,-,-,-
+movimentista,False,?,?,0,2,0,0,-,-,-
+mujedar,False,?,?,0,0,0,1,-,-,-
+multilateralisti,False,?,?,0,0,1,0,-,-,-
+municipaliste,False,?,?,0,1,0,0,-,-,-
+Municipio,False,?,?,0,0,0,1,-,-,-
+musica,False,?,?,0,0,1,0,-,-,-
+musicista,False,?,Job or Career#-,0,1,0,0,-,-,-
+mussolini,False,?,?,0,1,0,0,-,-,-
+mussoliniano,False,?,?,0,1,0,0,-,-,-
+mutante,False,?,?,0,0,0,1,-,-,-
+mutazioni,False,?,?,0,1,0,0,-,-,-
+muʿtazilita,False,?,?,0,0,0,1,-,-,-
+n,False,?,?,0,1,0,0,-,-,-
+nababbi,False,?,?,0,1,0,0,-,-,-
+naif,False,?,?,0,0,1,0,-,-,-
+narciso,False,?,?,0,0,1,0,-,-,-
+narrativista,False,?,?,0,0,1,0,-,-,-
+natale,False,?,?,130,1,1,0,-,-,-
+nati,False,?,-,63,5,1,1,-,-,-
+nato,False,?,?,593,11,1,8,-,-,-
+natura,False,?,?,0,0,1,0,-,-,-
+naturalismo,False,?,?,0,1,1,0,-,-,-
+naufraghi,False,?,?,0,1,0,0,-,-,-
+naviganti,False,?,?,0,1,0,0,-,-,-
+nazionale,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+nazionalismi,False,?,?,37,2,0,0,-,-,-
+nazionalismo-tecnologico,False,?,?,0,0,1,0,-,-,-
+Nazism,False,?,?,0,0,0,1,-,-,-
+nazismi,False,?,?,0,1,0,0,-,-,-
+naziste,False,?,?,156,0,1,0,-,-,-
+nazistici,False,?,?,0,1,0,0,-,-,-
+negista,False,?,?,0,1,0,0,-,-,-
+negozianti,False,?,?,0,1,0,0,-,-,-
+nemici,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+nemico,False,?,Qualification or Set of Circumstances#-,0,0,3,0,-,-,-
+neo-avanguardia,False,?,?,0,1,0,0,-,-,-
+neoavanguardia,False,?,?,0,1,0,0,-,-,-
+neo-avanguardisti,False,?,?,0,1,0,0,-,-,-
+neoclassicismo,False,?,?,0,0,2,0,-,-,-
+neoclassico,False,?,?,0,1,1,0,-,-,-
+neoclassicoe,False,?,?,0,1,0,0,-,-,-
+neocon,False,?,?,0,2,0,0,-,-,-
+neo-epigoni,False,?,?,0,1,0,0,-,-,-
+neo-grunge,False,?,?,0,1,0,0,-,-,-
+neo-iscritti,False,?,?,0,1,0,0,-,-,-
+neo-realismo,False,?,?,0,1,0,0,-,-,-
+neorealisti,False,?,?,0,0,1,0,-,-,-
+neo-storicismi,False,?,?,0,1,0,0,-,-,-
+nepotismo,False,?,?,0,1,0,0,-,-,-
+nerazzurro,False,?,?,0,1,0,0,-,-,-
+neutralismo,False,?,?,0,4,0,0,-,-,-
+nevrologismi,False,?,?,0,1,0,0,-,-,-
+newser,False,?,?,0,1,0,0,-,-,-
+nichilismo,False,?,?,0,1,1,0,-,-,-
+nichilisti,False,?,?,0,0,1,0,-,-,-
+nietzschiani,False,?,?,0,0,1,0,-,-,-
+nitonolo,False,?,?,0,1,0,0,-,-,-
+nomenclatura,False,?,?,0,1,0,0,-,-,-
+nomignolo,False,?,?,0,1,0,0,-,-,-
+nonna,False,?,?,19,1,0,0,-,-,-
+nonne,False,?,?,0,1,0,0,-,-,-
+nonno,False,?,?,14,2,0,0,-,-,-
+notabilato,False,?,?,0,2,0,0,-,-,-
+nuclearisti,False,?,?,0,2,0,0,-,-,-
+numero,False,?,Rank,0,1,1,0,-,-,-
+Nuyorican,False,?,?,0,0,0,1,-,-,-
+occidentalismo,False,?,?,0,1,0,0,-,-,-
+occupato,False,?,?,0,0,1,0,-,-,-
+offerta,False,?,?,0,1,0,0,-,-,-
+oggettivismo,False,?,?,0,2,0,0,-,-,-
+oggettività,False,?,?,0,2,0,0,-,-,-
+oggetto,False,?,?,0,1,0,0,-,-,-
+oligarchie,False,?,?,0,2,0,0,-,-,-
+olimpismo,False,?,?,0,1,0,0,-,-,-
+ontologo,False,?,?,0,1,0,0,-,-,-
+operai,False,?,Job or Career,0,0,1,0,-,-,-
+operaismo,False,?,?,0,2,0,0,-,-,-
+operaisti,False,?,?,0,1,0,0,-,-,-
+operati,False,?,?,0,1,0,0,-,-,-
+operatore,False,?,?,0,3,0,0,-,-,-
+operatori,False,?,?,0,0,1,0,-,-,-
+opportunisti,False,?,?,0,0,1,0,-,-,-
+oppositore,False,?,?,0,0,1,0,-,-,-
+oppositori,False,?,?,0,0,3,0,-,-,-
+opposizione,False,?,Cultural or political movement#-,0,1,1,0,-,-,-
+orale,False,?,?,0,0,1,0,-,-,-
+oralità,False,?,?,0,1,0,0,-,-,-
+orfano,False,?,?,0,0,0,1,-,-,-
+Orfeo,False,?,?,0,1,0,0,-,-,-
+orfismi,False,?,?,0,2,0,0,-,-,-
+organismi,False,?,?,0,1,0,0,-,-,-
+organismo,False,?,?,0,3,0,0,-,-,-
+organizzazione,False,?,Qualification or Set of Circumstances,0,0,1,1,-,-,-
+orientalismo,False,?,?,0,4,0,0,-,-,-
+orientalizzazione,False,?,?,0,0,1,0,-,-,-
+orotodossi,False,?,?,0,0,1,0,-,-,-
+oscurantimo,False,?,?,0,1,0,0,-,-,-
+ostaggio,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+ottimismo,False,?,?,0,0,2,0,-,-,-
+pacifismo,False,?,?,0,1,0,0,-,-,-
+pacifista,False,?,-,0,2,0,0,-,-,-
+pacifisti,False,?,?,0,2,0,0,-,-,-
+padrino,False,?,Role,0,0,1,0,-,-,-
+padroni,False,?,Qualification or Set of Circumstances,0,2,0,0,-,-,-
+Paesi,False,?,?,0,1,0,0,-,-,-
+pagane,False,?,?,57,0,0,1,-,-,-
+pa-gani,False,?,?,0,1,0,0,-,-,-
+paganismo,False,?,?,0,1,0,0,-,-,-
+pagano,False,?,?,126,0,1,0,-,-,-
+palazzinaro,False,?,?,0,2,0,0,-,-,-
+palladianesimo,False,?,?,0,1,0,0,-,-,-
+palladiani,False,?,?,0,1,0,0,-,-,-
+pallettaro,False,?,?,0,1,0,0,-,-,-
+panchinaro,False,?,?,0,0,1,0,-,-,-
+paninari,False,?,?,0,0,1,0,-,-,-
+pansindacalisti,False,?,?,0,1,0,0,-,-,-
+panteismo,False,?,?,0,1,0,0,-,-,-
+Papa,False,?,?,0,4,0,0,-,-,-
+papino,False,?,?,0,1,0,0,-,-,-
+papismo,False,?,?,0,1,0,0,-,-,-
+papista,False,?,?,0,1,0,0,-,-,-
+paradigmi,False,?,?,0,1,0,0,-,-,-
+paradiso,False,?,?,0,1,1,0,-,-,-
+para-post,False,?,?,0,1,0,0,-,-,-
+parassitika,False,?,?,0,1,0,0,-,-,-
+parcheggio,False,?,?,0,1,0,0,-,-,-
+parmenidee,False,?,?,0,1,0,0,-,-,-
+parnassiani,False,?,?,0,1,0,0,-,-,-
+parole,False,?,Entity,0,0,1,0,-,-,-
+parrocchia,False,?,?,0,0,0,1,-,-,-
+particolarismi,False,?,?,0,1,0,0,-,-,-
+partigiani,False,?,Cultural or political movement,0,0,0,1,-,-,-
+partite,False,?,?,0,1,0,0,-,-,-
+partitocrazia,False,?,?,0,0,1,0,-,-,-
+partner,False,?,Role,0,2,1,0,-,-,-
+partners,False,?,?,0,0,1,0,-,-,-
+pasticcio,False,?,?,0,1,1,0,-,-,-
+pastoni,False,?,?,0,0,1,0,-,-,-
+pastorale,False,?,?,0,1,0,0,-,-,-
+pataccari,False,?,?,0,1,0,0,-,-,-
+paternalismo,False,?,?,0,1,0,0,-,-,-
+patriarcato,False,?,?,0,0,1,0,-,-,-
+patriot,False,?,?,0,1,0,0,-,-,-
+patrioti,False,?,?,0,1,0,0,-,-,-
+patriottismo,False,?,?,0,1,0,0,-,-,-
+patron,False,?,Qualification or Set of Circumstances,0,1,0,1,-,-,-
+patrono,False,?,?,0,2,0,0,-,-,-
+pauperisrno,False,?,?,0,1,0,0,-,-,-
+pauperisti,False,?,?,0,1,0,0,-,-,-
+pauperistiche,False,?,?,0,1,0,0,-,-,-
+pavano,False,?,?,0,0,1,0,-,-,-
+penitente,False,?,?,0,1,0,0,-,-,-
+pensatore,False,?,?,0,0,1,0,-,-,-
+pensionato,False,?,Qualification or Set of Circumstances,72,6,2,0,-,-,-
+pentacostale,False,?,?,0,1,0,0,-,-,-
+pentacostali,False,?,?,0,1,0,0,-,-,-
+peplum,False,?,?,0,2,0,0,-,-,-
+periti,False,?,?,0,0,1,0,-,-,-
+perito,False,?,?,0,2,0,0,-,-,-
+peronisti,False,?,?,0,0,2,0,-,-,-
+pescatori,False,?,?,0,1,0,0,-,-,-
+petrarchesco,False,?,?,0,1,0,0,-,-,-
+petrarchismo,False,?,?,0,2,0,0,-,-,-
+pezzenti,False,?,?,0,1,0,0,-,-,-
+piagetiani,False,?,?,0,1,0,0,-,-,-
+piagnoni,False,?,?,0,1,0,0,-,-,-
+pianeta,False,?,?,0,1,0,0,-,-,-
+picassismo,False,?,?,0,0,0,1,-,-,-
+picchiatori,False,?,?,0,0,1,0,-,-,-
+picconatore,False,?,?,0,0,1,0,-,-,-
+piemonte,False,?,?,0,1,0,0,-,-,-
+pietista,False,?,?,0,1,0,0,-,-,-
+pigrizia,False,?,?,0,1,0,0,-,-,-
+pinup,False,?,?,0,1,0,0,-,-,-
+pirata,False,?,Job or Career,0,1,0,0,-,-,-
+pirati,False,?,?,0,2,0,0,-,-,-
+pirroniani,False,?,?,0,0,0,1,-,-,-
+pirronismo,False,?,?,0,1,0,0,-,-,-
+pivot,False,?,?,0,0,1,0,-,-,-
+pizzaioli,False,?,?,0,1,0,0,-,-,-
+plasie,False,?,?,0,1,0,0,-,-,-
+plastici,False,?,?,0,0,1,0,-,-,-
+plasticismo,False,?,?,0,0,3,0,-,-,-
+platonical,False,?,?,0,1,0,0,-,-,-
+platonico,False,?,?,93,0,1,0,-,-,-
+plebeismo,False,?,?,0,0,1,0,-,-,-
+plotinismo,False,?,?,0,1,0,0,-,-,-
+PMI,False,?,?,0,1,0,0,-,-,-
+podestà,False,?,?,0,1,0,0,-,-,-
+podisti,False,?,?,0,1,0,0,-,-,-
+poeta,False,?,?,0,1,1,0,-,-,-
+Point,False,?,?,0,1,0,0,-,-,-
+Pokèmon,False,?,?,0,1,0,0,-,-,-
+polar,False,?,?,0,3,0,0,-,-,-
+poli,False,?,?,0,0,0,1,-,-,-
+politeismo,False,?,?,0,1,1,0,-,-,-
+politicanti,False,?,?,0,1,0,0,-,-,-
+politici,False,?,Job or Career#-,0,1,0,0,-,-,-
+politologo,False,?,?,0,1,0,0,-,-,-
+pompiér,False,?,?,0,1,0,0,-,-,-
+pop-art,False,?,?,0,1,1,0,-,-,-
+popolamento,False,?,?,0,1,0,0,-,-,-
+popolari,False,?,?,0,0,1,0,-,-,-
+popolarismo,False,?,?,0,1,2,0,-,-,-
+popolazioni,False,?,?,0,1,0,0,-,-,-
+popstar,False,?,?,0,1,0,0,-,-,-
+populiste,False,?,?,0,1,0,0,-,-,-
+portiere,False,?,Job or Career,0,0,0,1,-,-,-
+posi-tivismo,False,?,?,0,1,0,0,-,-,-
+positivista,False,?,?,70,1,0,0,-,-,-
+positivistica,False,?,?,0,6,0,0,-,-,-
+positivistiche,False,?,?,0,2,0,0,-,-,-
+positivistico,False,?,?,0,1,0,0,-,-,-
+positivsmo,False,?,?,0,1,0,0,-,-,-
+post-Cal-Ital,False,?,?,0,1,0,0,-,-,-
+post-comunisti,False,?,?,0,1,0,0,-,-,-
+post-impressionista,False,?,?,0,0,1,0,-,-,-
+post-keynesiani,False,?,?,0,1,0,0,-,-,-
+post-marxismo,False,?,?,0,0,1,0,-,-,-
+post-para-iper-fascismo,False,?,?,0,1,0,0,-,-,-
+post-sadomaso-femminista,False,?,?,0,1,0,0,-,-,-
+potenti,False,?,?,0,0,2,0,-,-,-
+potenza,False,?,?,0,1,0,0,-,-,-
+potere,False,?,-,0,1,0,0,-,-,-
+poujadisti,False,?,?,0,0,1,0,-,-,-
+poveri,False,?,Qualification or Set of Circumstances,0,0,1,0,-,-,-
+povero,False,?,?,0,0,2,0,-,-,-
+povertà,False,?,?,0,0,1,0,-,-,-
+pragmatismp,False,?,?,0,1,0,0,-,-,-
+pragmatista,False,?,?,0,2,0,1,-,-,-
+pragmatiste,False,?,?,0,1,0,0,-,-,-
+pragmatisti,False,?,?,0,2,0,0,-,-,-
+prammatismo,False,?,?,0,0,1,0,-,-,-
+preambolisti,False,?,?,0,0,1,0,-,-,-
+precariato,False,?,?,0,1,0,0,-,-,-
+pre-guerra,False,?,?,0,1,0,0,-,-,-
+prelato,False,?,?,0,1,0,0,-,-,-
+premio-alla-carriera-NBR,False,?,?,0,1,0,0,-,-,-
+pre-raffaelliti,False,?,?,0,1,0,0,-,-,-
+prescelti,False,?,?,0,0,1,0,-,-,-
+prescelto,False,?,?,0,0,1,0,-,-,-
+presedente,False,?,?,0,2,0,0,-,-,-
+presentatore,False,?,Role,0,1,0,0,-,-,-
+presenzialista,False,?,?,0,1,0,0,-,-,-
+presidenza,False,?,?,0,3,2,0,-,-,-
+presidenzialismo,False,?,?,0,0,3,0,-,-,-
+presuli,False,?,?,0,0,1,0,-,-,-
+pretore,False,?,?,0,0,1,0,-,-,-
+prewar-post,False,?,?,0,1,0,0,-,-,-
+prillina,False,?,?,0,1,0,0,-,-,-
+primitivi,False,?,?,0,1,0,0,-,-,-
+primogenito,False,?,?,0,1,0,0,-,-,-
+principe,False,?,Role,0,1,0,0,-,-,-
+priore,False,?,?,0,1,0,0,-,-,-
+privatizzata,False,?,?,0,0,2,0,-,-,-
+privatizzazione,False,?,-,0,0,1,0,-,-,-
+privilegio,False,?,?,0,0,1,0,-,-,-
+proceduraliste,False,?,?,0,1,0,0,-,-,-
+proclamato,False,?,?,0,0,2,2,-,-,-
+procuratori,False,?,?,0,1,0,0,-,-,-
+produttore,False,?,?,0,4,1,0,-,-,-
+produttori,False,?,?,0,1,1,0,-,-,-
+produttrice,False,?,?,0,0,1,0,-,-,-
+produzione,False,?,-,0,1,0,0,-,-,-
+produzioni,False,?,?,0,1,0,0,-,-,-
+prof,False,?,?,0,4,0,0,-,-,-
+professional,False,?,?,0,3,0,0,-,-,-
+profetismo,False,?,?,0,0,1,0,-,-,-
+progetti,False,?,?,0,1,0,0,-,-,-
+progetto,False,?,?,0,3,0,0,-,-,-
+progettualità,False,?,?,0,1,0,0,-,-,-
+programmatore,False,?,Job or Career,0,1,0,0,-,-,-
+programmatori,False,?,?,0,2,1,0,-,-,-
+progressista,False,?,?,0,1,1,0,-,-,-
+progressisti,False,?,?,0,1,0,0,-,-,-
+prog-rock,False,?,?,0,1,0,0,-,-,-
+proletari,False,?,?,0,4,0,0,-,-,-
+promozione,False,?,?,0,0,0,1,-,-,-
+prop,False,?,?,0,2,0,0,-,-,-
+proporzionalismo,False,?,?,0,2,1,0,-,-,-
+proporzionalista,False,?,?,0,4,0,0,-,-,-
+proporzionalisti,False,?,?,0,2,1,0,-,-,-
+prorompente,False,?,?,0,0,1,0,-,-,-
+pros,False,?,?,0,2,0,0,-,-,-
+prosindaco,False,?,?,0,0,1,0,-,-,-
+prostitute,False,?,Job or Career,0,1,0,0,-,-,-
+protagonismo,False,?,?,0,1,0,0,-,-,-
+Protagonista,False,?,?,0,1,0,0,-,-,-
+protestante,False,?,?,57,0,1,0,-,-,-
+protestantica,False,?,?,0,1,0,0,-,-,-
+protezionisi,False,?,?,0,1,0,0,-,-,-
+protezionisti,False,?,?,0,4,0,0,-,-,-
+proverbio,False,?,?,0,2,0,0,-,-,-
+province,False,?,Qualification or Set of Circumstances,0,0,1,0,-,-,-
+pseudo-liberista-federzista,False,?,?,0,1,0,0,-,-,-
+psi,False,?,Cultural or political movement,0,1,0,0,-,-,-
+psichedelici,False,?,?,0,0,1,0,-,-,-
+psychedelic,False,?,?,0,0,1,0,-,-,-
+publifobi,False,?,?,0,1,0,0,-,-,-
+punica,False,?,?,0,1,0,0,-,-,-
+punico,False,?,?,0,1,0,0,-,-,-
+punizionista,False,?,?,0,1,0,0,-,-,-
+pupe,False,?,?,0,1,0,0,-,-,-
+purista,False,?,?,0,1,0,0,-,-,-
+puritani,False,?,?,0,0,1,0,-,-,-
+qualunquismo,False,?,?,0,2,1,0,-,-,-
+qualunquista,False,?,?,0,0,2,0,-,-,-
+quartetto,False,?,?,0,0,0,2,-,-,-
+querantacinquenni,False,?,?,0,1,0,0,-,-,-
+questo,False,?,?,0,0,1,0,-,-,-
+questori,False,?,?,0,0,1,0,-,-,-
+quintetto,False,?,?,0,0,0,1,-,-,-
+quiz,False,?,?,0,1,0,0,-,-,-
+quotate,False,?,?,21,0,2,0,-,-,-
+radicale,False,?,?,0,0,1,0,-,-,-
+radicali,False,?,Cultural or political movement,0,2,0,0,-,-,-
+radicalismo,False,?,?,0,1,1,0,-,-,-
+ragazzo,False,?,Kinship,0,1,0,0,-,-,-
+ragioniere,False,?,?,0,1,0,0,-,-,-
+ragionieri,False,?,?,0,2,0,0,-,-,-
+rampante,False,?,?,0,0,1,0,-,-,-
+rampichina,False,?,?,0,1,0,0,-,-,-
+rappresentanti,False,?,?,0,0,2,0,-,-,-
+rautismo,False,?,?,0,1,0,0,-,-,-
+Raydio,False,?,?,0,0,0,1,-,-,-
+razionalismo,False,?,?,0,1,0,0,-,-,-
+razionalisno,False,?,?,0,1,0,0,-,-,-
+razionalista,False,?,?,26,1,0,0,-,-,-
+razionalisti,False,?,?,0,0,1,0,-,-,-
+razza,False,?,?,0,2,0,0,-,-,-
+razzismi,False,?,?,0,0,2,0,-,-,-
+razzisti,False,?,?,0,0,1,0,-,-,-
+realista,False,?,?,228,4,2,0,-,-,-
+realtà,False,?,Qualification or Set of Circumstances,0,3,2,0,-,-,-
+receptionist,False,?,?,0,1,0,0,-,-,-
+reclusi,False,?,?,0,1,0,0,-,-,-
+reclute,False,?,?,0,0,1,0,-,-,-
+recordman,False,?,?,0,0,3,0,-,-,-
+recordmen,False,?,?,0,0,1,0,-,-,-
+redazione,False,?,?,0,1,0,0,-,-,-
+reginetta,False,?,Role,0,3,2,0,-,-,-
+registe,False,?,?,0,1,0,0,-,-,-
+registi,False,?,?,0,2,0,0,-,-,-
+regnanti,False,?,?,0,1,0,0,-,-,-
+regno,False,?,Qualification or Set of Circumstances,0,0,0,1,-,-,-
+regolamento,False,?,?,0,1,0,0,-,-,-
+relativismo,False,?,?,0,1,0,0,-,-,-
+relatore,False,?,?,0,1,0,0,-,-,-
+release,False,?,?,0,3,0,0,-,-,-
+religione,False,?,?,39,1,0,0,-,-,-
+repubblicani,False,?,Cultural or political movement,0,4,0,0,-,-,-
+repubbliche,False,?,Qualification or Set of Circumstances,0,2,0,0,-,-,-
+requisiti,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+responsabili,False,?,?,0,0,1,0,-,-,-
+restaurata,False,?,?,15,0,0,1,-,-,-
+restaurato,False,?,?,14,0,0,1,-,-,-
+retributivista,False,?,?,0,1,0,0,-,-,-
+retro,False,?,?,16,1,0,0,-,-,-
+retrocessa,False,?,?,35,0,0,3,-,-,-
+retrocesso,False,?,?,31,3,0,2,-,-,-
+reverendo,False,?,?,0,0,1,0,-,-,-
+revisionisti,False,?,?,22,1,0,0,-,-,-
+revivalismo,False,?,?,0,0,1,0,-,-,-
+ribellismo,False,?,?,0,1,0,0,-,-,-
+ricardismo,False,?,?,0,0,0,2,-,-,-
+ricco,False,?,?,16,0,1,0,-,-,-
+ricercatore,False,?,Job or Career,0,1,0,0,-,-,-
+ricercatori,False,?,?,0,0,2,0,-,-,-
+ricercatrice,False,?,?,0,1,0,0,-,-,-
+richiedenti,False,?,?,0,3,0,0,-,-,-
+riconfermato,False,?,?,15,1,0,0,-,-,-
+ricostituita,False,?,?,0,0,0,1,-,-,-
+ricostituito,False,?,?,0,0,0,1,-,-,-
+ricostruzione,False,?,-,0,2,0,0,-,-,-
+rieletto,False,?,?,63,0,1,0,-,-,-
+rifondata,False,?,?,0,0,0,1,-,-,-
+riformismi,False,?,?,0,1,0,0,-,-,-
+riformisti,False,?,?,0,2,1,0,-,-,-
+rigorista,False,?,?,0,0,1,0,-,-,-
+rilievi,False,?,?,0,1,0,0,-,-,-
+Rinascimento,False,?,?,0,0,0,1,-,-,-
+rinate,False,?,?,0,1,0,0,-,-,-
+rinato,False,?,?,0,1,1,0,-,-,-
+risorgimento,False,?,?,0,2,0,0,-,-,-
+ristilizzata,False,?,?,0,1,0,0,-,-,-
+riuniti,False,?,?,0,0,0,1,-,-,-
+rivale,False,?,Qualification or Set of Circumstances,0,0,0,1,-,-,-
+rivelazione,False,?,?,0,2,0,0,-,-,-
+rivista,False,?,?,0,1,0,0,-,-,-
+rivoluzionari,False,?,?,0,0,0,1,-,-,-
+rocardiani,False,?,?,0,0,1,0,-,-,-
+rock,False,?,-,0,3,1,0,-,-,-
+romana,False,?,?,18,1,0,0,-,-,-
+romani,False,?,-,0,1,0,0,-,-,-
+romanism,False,?,?,0,1,0,0,-,-,-
+romanista,False,?,?,0,1,0,0,-,-,-
+romantici-dandy-incalliti,False,?,?,0,1,0,0,-,-,-
+romantico,False,?,?,143,3,2,0,-,-,-
+romanzi,False,?,?,0,0,1,0,-,-,-
+romanziere,False,?,?,0,1,0,0,-,-,-
+rossa,False,?,?,0,1,0,0,-,-,-
+rossoblù,False,?,?,0,0,1,0,-,-,-
+Rothbardiani,False,?,?,0,1,0,0,-,-,-
+rousseauiani,False,?,?,0,1,0,0,-,-,-
+ruralismo,False,?,?,0,1,0,0,-,-,-
+Sabei,False,?,?,0,0,0,1,-,-,-
+sacerdote,False,?,Job or Career,47,2,1,0,-,-,-
+sacrestano,False,?,?,0,1,0,0,-,-,-
+salafismo,False,?,?,0,1,0,0,-,-,-
+salafisti,False,?,?,0,1,0,0,-,-,-
+salafiti,False,?,?,0,2,0,0,-,-,-
+salutismo,False,?,?,0,0,1,0,-,-,-
+salutisti,False,?,?,0,2,0,0,-,-,-
+salvatore,False,?,?,0,1,1,0,-,-,-
+sampdoriano,False,?,?,0,0,1,0,-,-,-
+sannyas,False,?,?,0,0,0,1,-,-,-
+Sannyasin,False,?,?,0,0,0,1,-,-,-
+santo,False,?,?,14,5,0,0,-,-,-
+saputello,False,?,?,0,1,0,0,-,-,-
+sassone,False,?,?,0,1,0,0,-,-,-
+satsang,False,?,?,0,1,0,0,-,-,-
+sbandati,False,?,?,0,1,0,0,-,-,-
+Scandinavia,False,?,?,0,0,0,1,-,-,-
+scapolo,False,?,?,0,0,1,0,-,-,-
+scarcerato,False,?,?,0,0,1,0,-,-,-
+sceneggiatore,False,?,?,0,1,0,0,-,-,-
+sceriffo,False,?,Job or Career,0,1,0,1,-,-,-
+schiavi,False,?,Qualification or Set of Circumstances,28,2,0,0,-,-,-
+schiavista,False,?,?,14,1,0,0,-,-,-
+schiavizzazione,False,?,?,0,2,0,0,-,-,-
+schiavo,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+schieramenti,False,?,?,0,0,1,0,-,-,-
+Sciacallo,False,?,?,0,1,0,0,-,-,-
+scientista,False,?,?,0,1,0,0,-,-,-
+scientisti,False,?,?,0,1,0,0,-,-,-
+sciovinismo,False,?,?,0,0,1,0,-,-,-
+scissionisti,False,?,?,0,0,0,1,-,-,-
+sciuscià,False,?,?,0,0,1,0,-,-,-
+scolaro,False,?,?,0,2,0,0,-,-,-
+scolastica,False,?,?,144,2,0,0,-,-,-
+scoperto,False,?,?,0,0,0,1,-,-,-
+scrittrice,False,?,?,0,1,0,0,-,-,-
+scuderia,False,?,?,0,0,0,1,-,-,-
+scudettato,False,?,?,0,0,0,1,-,-,-
+scugnizzi,False,?,?,0,0,1,0,-,-,-
+scuola,False,?,Entity#Place or function#-,0,1,0,0,-,-,-
+scuole,False,?,?,0,3,0,0,-,-,-
+secessionista,False,?,?,0,0,1,0,-,-,-
+secessionisti,False,?,?,0,1,0,0,-,-,-
+segmenti,False,?,?,0,1,0,0,-,-,-
+segretari,False,?,Role,0,0,1,0,-,-,-
+seguaci,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+selvaggi,False,?,?,0,0,1,0,-,-,-
+semplicità,False,?,?,0,1,0,0,-,-,-
+senatori,False,?,Role,0,1,0,0,-,-,-
+sentimentalistica,False,?,?,0,0,1,0,-,-,-
+senzatetto,False,?,?,0,1,0,0,-,-,-
+separata,False,?,?,0,0,1,0,-,-,-
+separatezza,False,?,?,0,1,0,0,-,-,-
+separatismo,False,?,?,0,0,3,0,-,-,-
+servizi,False,?,?,0,2,0,0,-,-,-
+sessantini,False,?,?,0,1,0,0,-,-,-
+settantacinquenne,False,?,?,0,1,0,0,-,-,-
+settantenne,False,?,?,0,1,0,0,-,-,-
+settore,False,?,?,0,1,0,0,-,-,-
+sfollati,False,?,?,0,1,0,0,-,-,-
+shiavismo,False,?,?,0,1,0,0,-,-,-
+sibilla,False,?,?,0,1,0,0,-,-,-
+sieropositivi,False,?,?,0,0,1,0,-,-,-
+sigla,False,?,?,0,1,0,0,-,-,-
+significati,False,?,?,0,0,0,1,-,-,-
+signor,False,?,?,0,0,1,0,-,-,-
+silvio-pellico,False,?,?,0,0,1,0,-,-,-
+simbolismi,False,?,?,0,1,0,0,-,-,-
+simbolismo,False,?,?,0,1,1,0,-,-,-
+simpatizzanti,False,?,?,0,1,0,0,-,-,-
+sindacalismo,False,?,?,0,1,1,1,-,-,-
+sindacato,False,?,?,0,0,2,0,-,-,-
+sinefrina,False,?,?,0,0,0,1,-,-,-
+sinistra,False,?,Cultural or political movement,0,2,0,0,-,-,-
+sionismo,False,?,?,0,0,1,0,-,-,-
+sixties,False,?,?,0,0,0,1,-,-,-
+ska,False,?,?,0,1,0,0,-,-,-
+snobismo,False,?,?,0,0,1,0,-,-,-
+sobrietà,False,?,?,0,0,1,0,-,-,-
+socialdemocratici,False,?,?,0,1,0,0,-,-,-
+socialdemocratismo,False,?,?,0,1,0,0,-,-,-
+sociologismo,False,?,?,0,1,0,0,-,-,-
+sodalizio,False,?,?,0,1,0,0,-,-,-
+soggetti,False,?,-,0,0,1,0,-,-,-
+soggettisti,False,?,?,0,0,1,0,-,-,-
+sogno,False,?,?,0,1,0,0,-,-,-
+soldati,False,?,Job or Career,0,1,0,0,-,-,-
+soldato,False,?,Job or Career,0,1,0,0,-,-,-
+solidarismo,False,?,?,0,0,1,0,-,-,-
+solista,False,?,?,0,0,0,1,-,-,-
+sophisticated,False,?,?,0,0,1,0,-,-,-
+sorvegliato,False,?,?,0,0,1,0,-,-,-
+sostenitore,False,?,?,0,0,2,0,-,-,-
+sostenitori,False,?,Qualification or Set of Circumstances,0,1,0,1,-,-,-
+sostituto,False,?,?,0,0,2,0,-,-,-
+sottomessi,False,?,?,0,0,0,1,-,-,-
+sottoscrittori,False,?,?,0,0,1,0,-,-,-
+sottosegretari,False,?,?,0,0,1,0,-,-,-
+Sottosegretario,False,?,?,0,1,0,0,-,-,-
+sottotenente,False,?,?,0,1,0,0,-,-,-
+soubrette,False,?,?,0,2,0,0,-,-,-
+sovranità,False,?,?,0,1,0,0,-,-,-
+sovrano,False,?,Role,0,1,0,0,-,-,-
+spa,False,?,?,0,0,3,0,-,-,-
+space,False,?,?,0,1,0,0,-,-,-
+spartizione,False,?,?,0,1,1,0,-,-,-
+spazio,False,?,?,0,0,0,1,-,-,-
+speaker,False,?,?,0,0,4,0,-,-,-
+specializzazioni,False,?,?,0,0,1,0,-,-,-
+specie,False,?,?,0,0,0,1,-,-,-
+specter,False,?,?,0,0,0,1,-,-,-
+speleo-presidente,False,?,?,0,3,0,0,-,-,-
+spenglerismo,False,?,?,0,1,0,0,-,-,-
+sperimentali,False,?,?,0,0,1,2,-,-,-
+sperimentalismo,False,?,?,0,0,2,0,-,-,-
+sperimentalisti,False,?,?,0,1,0,0,-,-,-
+sperimentazioni,False,?,?,0,1,0,0,-,-,-
+spinozismo,False,?,?,0,1,0,0,-,-,-
+spiritismo,False,?,?,0,0,1,0,-,-,-
+spiritualisti,False,?,?,15,1,0,0,-,-,-
+spiritualità,False,?,?,0,1,0,0,-,-,-
+sponsor,False,?,?,0,1,0,0,-,-,-
+sponsorizzazione,False,?,?,0,1,0,0,-,-,-
+sportivi,False,?,?,0,0,1,0,-,-,-
+sposati,False,?,?,0,0,2,0,-,-,-
+squadra,False,?,Qualification or Set of Circumstances,0,2,0,1,-,-,-
+squadrismo,False,?,?,0,0,1,0,-,-,-
+squadristi,False,?,?,0,0,1,0,-,-,-
+stacanovismo,False,?,?,0,1,0,0,-,-,-
+Staffordshire,False,?,?,0,1,0,0,-,-,-
+stalinismo,False,?,Cultural or political movement,0,1,2,1,-,-,-
+stalinista,False,?,?,29,0,2,0,-,-,-
+statalisti,False,?,?,0,1,0,0,-,-,-
+staterello,False,?,?,0,0,1,0,-,-,-
+stati,False,?,?,0,2,0,0,-,-,-
+Stati,False,?,?,0,0,1,0,-,-,-
+statista,False,?,?,0,1,0,0,-,-,-
+statualismo,False,?,?,0,1,0,0,-,-,-
+stile,False,?,Entity,0,2,0,0,-,-,-
+stili,False,?,?,0,1,0,0,-,-,-
+stilista,False,?,?,0,2,0,0,-,-,-
+stilisti,False,?,?,0,1,0,0,-,-,-
+stilistica,False,?,?,0,0,1,0,-,-,-
+stoicismo,False,?,?,0,2,0,0,-,-,-
+stoico,False,?,?,0,1,0,0,-,-,-
+storia,False,?,Entity#Process,0,1,1,0,-,-,-
+storici,False,?,?,0,0,1,0,-,-,-
+storicismo,False,?,?,0,0,1,0,-,-,-
+storicista,False,?,?,0,0,0,1,-,-,-
+storico,False,?,?,0,0,1,0,-,-,-
+strumento,False,?,?,0,1,0,0,-,-,-
+struttura,False,?,?,0,6,0,0,-,-,-
+strutturalismo,False,?,Cultural or political movement,0,1,0,0,-,-,-
+studente,False,?,Qualification or Set of Circumstances,0,2,0,0,-,-,-
+sub,False,?,?,0,0,1,0,-,-,-
+successo,False,?,?,0,1,0,0,-,-,-
+sud,False,?,?,0,1,0,0,-,-,-
+sudditi,False,?,Qualification or Set of Circumstances,0,0,0,1,-,-,-
+sufi,False,?,?,0,2,0,0,-,-,-
+sufista,False,?,?,0,1,0,0,-,-,-
+suocera,False,?,?,0,1,1,1,-,-,-
+suocere,False,?,?,0,1,0,0,-,-,-
+suocero,False,?,Kinship,0,0,2,0,-,-,-
+suora,False,?,Job or Career,0,0,1,0,-,-,-
+superman,False,?,?,0,1,0,0,-,-,-
+superpotenza,False,?,Rank,0,1,0,0,-,-,-
+superprocuratore,False,?,?,0,0,1,0,-,-,-
+superstizione,False,?,?,0,1,0,0,-,-,-
+supervisor,False,?,?,0,1,0,0,-,-,-
+surf,False,?,?,0,0,0,1,-,-,-
+surrealisti,False,?,?,0,0,1,0,-,-,-
+sviluppatore,False,?,?,0,1,0,0,-,-,-
+sviluppatori,False,?,?,0,1,0,0,-,-,-
+swing,False,?,?,0,1,0,0,-,-,-
+tabloidismo,False,?,?,0,1,0,0,-,-,-
+talamo,False,?,?,0,1,0,0,-,-,-
+taleban,False,?,?,0,3,0,0,-,-,-
+taliban,False,?,?,0,2,0,0,-,-,-
+talibani,False,?,?,0,1,0,0,-,-,-
+Tantra,False,?,?,0,0,0,3,-,-,-
+taoisti,False,?,?,0,1,0,0,-,-,-
+tarantismo,False,?,?,0,0,0,1,-,-,-
+tasca,False,?,?,0,0,1,0,-,-,-
+tassisti,False,?,?,0,0,2,0,-,-,-
+tatuaggio,False,?,?,0,0,1,0,-,-,-
+taumaturgo,False,?,?,0,1,0,0,-,-,-
+taylorismo,False,?,?,0,2,2,0,-,-,-
+team,False,?,?,0,0,0,1,-,-,-
+tecnocrati,False,?,?,0,1,0,0,-,-,-
+tecnologia,False,?,?,0,1,0,0,-,-,-
+tedeschi,False,?,?,0,0,0,2,-,-,-
+telefonatore,False,?,?,0,1,0,0,-,-,-
+teleromanzo,False,?,?,0,0,1,0,-,-,-
+temporalismo,False,?,?,0,2,1,0,-,-,-
+tenente-colonnello,False,?,?,0,0,0,1,-,-,-
+teo-conservatori,False,?,?,0,1,0,0,-,-,-
+teocrazia,False,?,?,0,1,0,0,-,-,-
+teppismo,False,?,?,0,0,1,0,-,-,-
+terroristi,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+Terzo,False,?,?,0,1,0,0,-,-,-
+tesserati,False,?,?,0,0,1,0,-,-,-
+Testamento,False,?,?,0,1,0,0,-,-,-
+testosterone,False,?,?,0,0,2,0,-,-,-
+thatcheriano,False,?,?,0,0,1,0,-,-,-
+thatcheristi,False,?,?,0,0,1,0,-,-,-
+tifinagh,False,?,?,15,0,0,6,-,-,-
+tifosi,False,?,Qualification or Set of Circumstances,0,1,0,0,-,-,-
+timoniere,False,?,?,0,0,1,0,-,-,-
+titolare,False,?,?,0,0,1,0,-,-,-
+titolari,False,?,?,0,2,0,0,-,-,-
+titolo,False,?,?,0,0,1,0,-,-,-
+togliattismo,False,?,?,0,1,0,0,-,-,-
+tokyo,False,?,?,0,2,0,0,-,-,-
+torcoliere,False,?,?,0,1,0,0,-,-,-
+torroncino,False,?,?,0,1,0,0,-,-,-
+toscano,False,?,?,0,1,0,0,-,-,-
+totem,False,?,?,0,0,1,0,-,-,-
+totemizzati,False,?,?,0,1,0,0,-,-,-
+traditionalismo,False,?,?,0,0,0,1,-,-,-
+traditionalists,False,?,?,0,1,0,0,-,-,-
+tradizione,False,?,?,0,1,0,0,-,-,-
+trapassato,False,?,?,0,1,0,0,-,-,-
+trasformismi,False,?,?,0,0,1,0,-,-,-
+trasformismo,False,?,?,0,0,1,0,-,-,-
+trasgressione,False,?,?,0,1,0,0,-,-,-
+trasversalismo,False,?,?,0,0,1,0,-,-,-
+trekker,False,?,?,0,1,0,0,-,-,-
+trentenne,False,?,?,0,1,0,0,-,-,-
+trentunenne,False,?,?,0,1,0,0,-,-,-
+tribalismi,False,?,?,0,2,1,0,-,-,-
+tribalisti,False,?,?,0,1,0,0,-,-,-
+triennalisti,False,?,?,0,1,0,0,-,-,-
+trionfalismo,False,?,?,0,1,0,0,-,-,-
+trotzkisti,False,?,?,0,0,1,0,-,-,-
+turchismo,False,?,?,0,1,0,0,-,-,-
+tycoon,False,?,?,0,0,1,0,-,-,-
+UCK,False,?,?,0,1,0,0,-,-,-
+ufficiali,False,?,Job or Career,0,0,0,1,-,-,-
+ufologi,False,?,?,0,1,0,0,-,-,-
+ufologia,False,?,?,0,1,0,0,-,-,-
+ulivismo,False,?,?,0,1,0,0,-,-,-
+ulivista,False,?,?,0,2,0,0,-,-,-
+ultrà,False,?,?,0,1,0,0,-,-,-
+ultra-liberisti,False,?,?,0,1,0,0,-,-,-
+ultras,False,?,?,0,1,0,0,-,-,-
+umanismo,False,?,?,0,1,0,0,-,-,-
+umanistiche,False,?,?,0,0,1,0,-,-,-
+umma,False,?,?,0,3,0,0,-,-,-
+ummista,False,?,?,0,1,0,0,-,-,-
+underground,False,?,?,0,0,1,1,-,-,-
+unilateralista,False,?,?,0,0,1,0,-,-,-
+unione,False,?,?,0,1,0,0,-,-,-
+unità,False,?,?,0,1,0,0,-,-,-
+università,False,?,?,0,1,1,0,-,-,-
+untore,False,?,?,0,1,0,0,-,-,-
+urbanizzazione,False,?,?,0,1,0,0,-,-,-
+urbanizzzazione,False,?,?,0,1,0,0,-,-,-
+Ustascia,False,?,?,0,1,0,0,-,-,-
+ustascismo,False,?,?,0,1,0,0,-,-,-
+utilitarismo,False,?,?,0,1,0,0,-,-,-
+utilitaristi,False,?,?,0,1,0,0,-,-,-
+utilizzatore,False,?,?,0,1,0,0,-,-,-
+utopismo,False,?,?,0,1,0,0,-,-,-
+valvola,False,?,?,0,0,0,1,-,-,-
+vampiri,False,?,?,0,1,0,0,-,-,-
+vandeani,False,?,?,0,1,0,0,-,-,-
+varietà,False,?,?,0,2,1,0,-,-,-
+vascolarizzazioni,False,?,?,0,1,0,0,-,-,-
+Vaticans,False,?,?,0,1,0,0,-,-,-
+vedovo,False,?,?,0,2,1,1,-,-,-
+vegan,False,?,?,0,1,0,0,-,-,-
+vegetariani,False,?,-,0,1,0,0,-,-,-
+vegetariano,False,?,?,0,0,1,0,-,-,-
+velina,False,?,?,0,1,0,0,-,-,-
+veline,False,?,Job or Career,0,2,0,0,-,-,-
+venditori,False,?,?,0,4,0,0,-,-,-
+verdi,False,?,?,0,0,1,0,-,-,-
+vergini,False,?,?,0,1,0,0,-,-,-
+verginità,False,?,?,0,0,1,0,-,-,-
+versione,False,?,?,0,2,0,1,-,-,-
+vertice,False,?,?,0,0,0,1,-,-,-
+vescovi,False,?,?,0,0,1,0,-,-,-
+Vescovo,False,?,?,0,1,0,0,-,-,-
+vespisti,False,?,?,0,1,0,0,-,-,-
+vetero,False,?,?,0,1,0,0,-,-,-
+veteroliberismo,False,?,?,0,1,0,0,-,-,-
+vetero-nazi,False,?,?,0,1,0,0,-,-,-
+vetero-terzomondisti,False,?,?,0,1,0,0,-,-,-
+vice,False,?,Role,0,2,2,0,-,-,-
+vicedirettore,False,?,Role,0,1,2,0,-,-,-
+vicepremier,False,?,?,0,4,0,0,-,-,-
+vice-presidente,False,?,?,0,0,1,0,-,-,-
+vicesegretario,False,?,Role,0,1,0,0,-,-,-
+Victorian,False,?,?,0,0,0,1,-,-,-
+videogiornalisti,False,?,?,0,1,0,1,-,-,-
+vincitori,False,?,?,0,3,0,0,-,-,-
+vincitrici,False,?,?,0,2,0,0,-,-,-
+viola,False,?,Cultural or political movement,0,1,0,0,-,-,-
+VIOLA,False,?,?,0,1,0,0,-,-,-
+violenze,False,?,?,0,1,0,0,-,-,-
+VIP,False,?,?,0,1,0,0,-,-,-
+virtussino,False,?,?,0,1,1,0,-,-,-
+visione,False,?,?,0,1,0,0,-,-,-
+vitalismo,False,?,?,0,1,0,0,-,-,-
+vitalisti,False,?,?,0,1,0,0,-,-,-
+vitalità,False,?,?,0,1,0,0,-,-,-
+viticoltore,False,?,?,0,1,0,0,-,-,-
+vittorianesimo,False,?,?,0,0,1,0,-,-,-
+vocazione,False,?,?,0,0,1,0,-,-,-
+voga,False,?,?,0,0,1,0,-,-,-
+volgarità,False,?,?,0,0,5,0,-,-,-
+volontaria,False,?,?,0,1,0,0,-,-,-
+voyeurismo,False,?,?,0,0,2,0,-,-,-
+wahabita,False,?,?,0,1,0,0,-,-,-
+wave,False,?,?,0,1,0,0,-,-,-
+web,False,?,?,0,1,0,0,-,-,-
+webmaster,False,?,?,0,1,0,0,-,-,-
+weekend,False,?,?,0,1,0,0,-,-,-
+wilsoniano,False,?,?,0,0,1,0,-,-,-
+yuppie,False,?,Cultural or political movement,0,0,1,0,-,-,-
+zapatismo,False,?,?,0,2,0,0,-,-,-
+zapatista,False,?,?,0,0,1,0,-,-,-
+zapatisti,False,?,?,0,1,1,0,-,-,-
+zar,False,?,Role,0,2,0,0,-,-,-
+zaristi,False,?,?,0,0,1,0,-,-,-
+zelandese,False,?,?,190,5,5,0,-,-,-
+zelandesi,False,?,?,132,7,4,1,-,-,-
+Zio,False,?,?,0,1,0,0,-,-,-
+Zorro,False,?,?,0,1,0,0,-,-,-
+rinascimentale,False,?,?,613,0,0,0,-,-,-
+coloniale,False,?,?,521,0,0,0,-,-,-
+ottomana,False,?,?,298,0,0,0,-,-,-
+gotica,False,?,?,251,0,0,0,-,-,-
+ottomano,False,?,?,250,0,0,0,-,-,-
+medievale,False,?,?,226,0,0,0,-,-,-
+apostolica,False,?,?,189,0,0,0,-,-,-
+modernista,False,?,?,171,0,0,0,-,-,-
+platonica,False,?,?,152,0,0,0,-,-,-
+pagana,False,?,?,142,0,0,0,-,-,-
+patentato,False,?,?,126,0,0,0,-,-,-
+apostoliche,False,?,?,120,0,0,0,-,-,-
+imperiale,False,?,?,114,0,0,0,-,-,-
+ottomane,False,?,?,94,0,0,0,-,-,-
+keynesiana,False,?,?,89,0,0,0,-,-,-
+darwiniana,False,?,?,88,0,0,0,-,-,-
+rinascimentali,False,?,?,87,0,0,0,-,-,-
+gotiche,False,?,?,80,0,0,0,-,-,-
+corporativa,False,?,?,77,0,0,0,-,-,-
+insediato,False,?,?,73,0,0,0,-,-,-
+testamentaria,False,?,?,71,0,0,0,-,-,-
+testamentari,False,?,?,69,0,0,0,-,-,-
+nazionalista,False,?,?,68,0,0,0,-,-,-
+impressionista,False,?,Cultural or political movement,67,0,0,0,-,-,-
+progressive,False,?,?,66,0,0,0,-,-,-
+imperialista,False,?,?,62,0,0,0,-,-,-
+medioevale,False,?,?,62,0,0,0,-,-,-
+pentecostali,False,?,?,59,0,0,0,-,-,-
+arrivata,False,?,?,58,0,0,0,-,-,-
+testamentario,False,?,?,58,0,0,0,-,-,-
+gotici,False,?,?,58,0,0,0,-,-,-
+entrata,False,?,?,56,0,0,0,-,-,-
+democristiano,False,?,Cultural or political movement,54,0,0,0,-,-,-
+diagnosticati,False,?,?,51,0,0,0,-,-,-
+aristocratica,False,?,?,50,0,0,0,-,-,-
+centralista,False,?,?,49,0,0,0,-,-,-
+darwiniano,False,?,?,48,0,0,0,-,-,-
+imperiali,False,?,?,47,0,0,0,-,-,-
+borbonico,False,?,?,45,0,0,0,-,-,-
+idealista,False,?,?,44,0,0,0,-,-,-
+costituiti,False,?,?,43,0,0,0,-,-,-
+introdotto,False,?,?,43,0,0,0,-,-,-
+kantiana,False,?,?,42,0,0,0,-,-,-
+apostolico,False,?,?,41,0,0,0,-,-,-
+istituzionale,False,?,?,39,0,0,0,-,-,-
+romantiche,False,?,?,38,0,0,0,-,-,-
+kantiano,False,?,?,38,0,0,0,-,-,-
+tradizionale,False,?,?,37,0,0,0,-,-,-
+nazionaliste,False,?,?,36,0,0,0,-,-,-
+retrò,False,?,?,36,0,0,0,-,-,-
+gnostico,False,?,?,35,0,0,0,-,-,-
+barocchi,False,?,?,34,0,0,0,-,-,-
+platoniche,False,?,?,34,0,0,0,-,-,-
+corporativi,False,?,?,34,0,0,0,-,-,-
+istituite,False,?,?,34,0,0,0,-,-,-
+hegeliano,False,?,?,33,0,0,0,-,-,-
+nominata,False,?,?,33,0,0,0,-,-,-
+bizantina,False,?,?,32,0,0,0,-,-,-
+orfica,False,?,?,31,0,0,0,-,-,-
+marxiste,False,?,?,31,0,0,0,-,-,-
+protezionista,False,?,?,31,0,0,0,-,-,-
+insediata,False,?,?,30,0,0,0,-,-,-
+cristiano,False,?,?,29,0,0,0,-,-,-
+capitalistica,False,?,?,29,0,0,0,-,-,-
+borbonica,False,?,?,28,0,0,0,-,-,-
+autoritari,False,?,?,28,0,0,0,-,-,-
+inserito,False,?,?,28,0,0,0,-,-,-
+ortodossa,False,?,?,27,0,0,0,-,-,-
+feudali,False,?,?,27,0,0,0,-,-,-
+oligarchico,False,?,?,27,0,0,0,-,-,-
+riformista,False,?,?,27,0,0,0,-,-,-
+eneolitica,False,?,?,27,0,0,0,-,-,-
+rurali,False,?,?,26,0,0,0,-,-,-
+melodiche,False,?,?,26,0,0,0,-,-,-
+ordinato,False,?,?,26,0,0,0,-,-,-
+psichedeliche,False,?,?,26,0,0,0,-,-,-
+ericksoniana,False,?,?,26,0,0,0,-,-,-
+introdotta,False,?,?,26,0,0,0,-,-,-
+umanistica,False,?,?,26,0,0,0,-,-,-
+autoritarie,False,?,?,26,0,0,0,-,-,-
+pentecostale,False,?,?,25,0,0,0,-,-,-
+testamentarie,False,?,?,25,0,0,0,-,-,-
+lira,False,?,?,25,0,0,0,-,-,-
+centriste,False,?,?,24,0,0,0,-,-,-
+pitagorico,False,?,?,24,0,0,0,-,-,-
+tribali,False,?,?,24,0,0,0,-,-,-
+democristiana,False,?,?,24,0,0,0,-,-,-
+moderna,False,?,?,24,0,0,0,-,-,-
+imperialiste,False,?,?,24,0,0,0,-,-,-
+rétro,False,?,?,23,0,0,0,-,-,-
+capitalistico,False,?,?,23,0,0,0,-,-,-
+pitagorica,False,?,?,23,0,0,0,-,-,-
+confuciana,False,?,?,23,0,0,0,-,-,-
+realistica,False,?,?,22,0,0,0,-,-,-
+rossazzurro,False,?,?,22,0,0,0,-,-,-
+acquisite,False,?,?,22,0,0,0,-,-,-
+ortodosso,False,?,?,22,0,0,0,-,-,-
+umanistico,False,?,?,22,0,0,0,-,-,-
+tribale,False,?,?,22,0,0,0,-,-,-
+religiosa,False,?,?,22,0,0,0,-,-,-
+realistico,False,?,?,21,0,0,0,-,-,-
+gnostiche,False,?,?,20,0,0,0,-,-,-
+giacobina,False,?,?,20,0,0,0,-,-,-
+formate,False,?,?,20,0,0,0,-,-,-
+clericale,False,?,?,20,0,0,0,-,-,-
+dialettale,False,?,?,20,0,0,0,-,-,-
+designato,False,?,?,20,0,0,0,-,-,-
+cristiana,False,?,?,19,0,0,0,-,-,-
+sovranista,False,?,?,19,0,0,0,-,-,-
+protezionistiche,False,?,?,19,0,0,0,-,-,-
+Governatore,False,?,?,19,0,0,0,-,-,-
+rurale,False,?,?,18,0,0,0,-,-,-
+vittoriana,False,?,?,18,0,0,0,-,-,-
+romano,False,?,?,18,0,0,0,-,-,-
+istituto,False,?,Place or function,18,0,0,0,-,-,-
+concettuale,False,?,?,18,0,0,0,-,-,-
+tradizionali,False,?,?,18,0,0,0,-,-,-
+professe,False,?,?,18,0,0,0,-,-,-
+arrivate,False,?,?,18,0,0,0,-,-,-
+orientale,False,?,?,17,0,0,0,-,-,-
+risorgimentale,False,?,?,17,0,0,0,-,-,-
+convertita,False,?,?,17,0,0,0,-,-,-
+eneolitici,False,?,?,17,0,0,0,-,-,-
+neorealista,False,?,?,17,0,0,0,-,-,-
+borboniche,False,?,?,17,0,0,0,-,-,-
+aristotelica,False,?,?,17,0,0,0,-,-,-
+proclamata,False,?,?,17,0,0,0,-,-,-
+moderno,False,?,?,17,0,0,0,-,-,-
+illuministico,False,?,?,16,0,0,0,-,-,-
+meridionalista,False,?,?,16,0,0,0,-,-,-
+acquisito,False,?,?,16,0,0,0,-,-,-
+europarlamentare,False,?,?,16,0,0,0,-,-,-
+istituzionali,False,?,?,16,0,0,0,-,-,-
+istituiti,False,?,?,16,0,0,0,-,-,-
+conservative,False,?,?,16,0,0,0,-,-,-
+industriali,False,?,?,16,0,0,0,-,-,-
+patentata,False,?,?,16,0,0,0,-,-,-
+teo-con,False,?,?,16,0,0,0,-,-,-
+inaugurato,False,?,?,16,0,0,0,-,-,-
+diagnosticato,False,?,?,16,0,0,0,-,-,-
+scolastico,False,?,?,16,0,0,0,-,-,-
+vittoriano,False,?,?,15,0,0,0,-,-,-
+razzista,False,?,?,15,0,0,0,-,-,-
+spiritualista,False,?,?,15,0,0,0,-,-,-
+contro,False,?,?,15,0,0,0,-,-,-
+persiana,False,?,?,15,0,0,0,-,-,-
+ellenico,False,?,?,15,0,0,0,-,-,-
+ebraica,False,?,?,15,0,0,0,-,-,-
+revisionista,False,?,?,15,0,0,0,-,-,-
+comunitaria,False,?,?,15,0,0,0,-,-,-
+artigianale,False,?,?,15,0,0,0,-,-,-
+aristotelico,False,?,?,15,0,0,0,-,-,-
+lettore,False,?,-,15,0,0,0,-,-,-
+democratica,False,?,?,14,0,0,0,-,-,-
+mercantiliste,False,?,?,14,0,0,0,-,-,-
+introdotte,False,?,?,14,0,0,0,-,-,-
+concordataria,False,?,?,14,0,0,0,-,-,-
+freudiana,False,?,?,14,0,0,0,-,-,-
+lire,False,?,?,14,0,0,0,-,-,-
+chic,False,?,?,14,0,0,0,-,-,-
+aramaica,False,?,?,14,0,0,0,-,-,-
+residente,False,?,?,14,0,0,0,-,-,-

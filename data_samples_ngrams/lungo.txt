@@ -1,0 +1,899 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	6	0	lungo addio
+						DET ADV NOUN	REPUBBLICA	dalla Cgil e che ritrovo fra le vecchie carte di quel congresso come se fossero state davvero l inizio di	un lungo addio	.
+						DET ADV NOUN	REPUBBLICA	della malinconia del Mitchum di Addio mia amata e lo preferisce persino a Bogey , e ha in gran dispitto	Il lungo addio	di Altman , che considera un tradimento ...
+						DET ADV NOUN	REPUBBLICA	di sposar- si con Linda Loring , multimilionaria ( in dollari ) e bellissima che aveva incontrato ai tempi di	Il lungo addio	.
+						DET ADV NOUN	REPUBBLICA	ore ma i milanesi ne hanno discusso , si sono divisi e preparati all evento come se si trattasse di	un lungo addio	, quasi una vedovanza annunciata dall automobile .
+						DET ADV NOUN	REPUBBLICA	presto in un libro di culto --  Triste , solitario y final  , come l addio di 	Il lungo addio	 -- dove compare Philip Marlowe , incaricato di una delicata indagine che coinvolge Stanlio e Ollio , il Gotha del
+						DET ADV NOUN	REPUBBLICA	si attorno al libro di Nello Ajello che proprio a quello storico rapporto dedica un agile , attento saggio (	Il lungo addio	, Laterza , pagg. 447 , lire 35.000 ) .
+
+0	1	0	lungo allenamento
+						DET ADV NOUN	REPUBBLICA	Occorre caricar- si in vista della gara con il Lokomotiv , spiega Maradona , che ha svolto ieri è	un lungo allenamento	, osservato dalla compagna Claudia , fra otto mesi nuovamente madre , e della figlia Dalma .
+
+0	2	0	lungo anno
+						DET ADV NOUN	REPUBBLICA	PALERMO Il primo ad entrare nel bunker di Falcone è l avversario di	un lungo anno	di polemiche .
+						DET ADV NOUN	REPUBBLICA	più veloce : senza nemmeno usare metodi cruenti è riuscito a fare in un giorno quello che costò a Stalin	un lungo anno	di intrighi .
+
+0	15	0	lungo applauso
+						DET ADV ADJ NOUN	REPUBBLICA	La seduta riprende con Staglieno a presieder- la , i leghisti si alzano in	un lungo provocatorio applauso	.
+						DET ADV NOUN	REPUBBLICA	Alla fine i suoi colleghi si sono alzati in piedi riservando- gli	un lungo applauso	di solidarietà .
+						DET ADV NOUN	REPUBBLICA	Che il pubblico ha dimostrato di gradire , esibendo- si in	un lungo applauso	non solo di mani ma anche di piedi , tutti a picchiare sul piancito per fare più rumore .
+						DET ADV NOUN	REPUBBLICA	Grandi che si scatena con  Bum bum  , mentre la piazza ondeggia e i Neri per caso strappano	un lungo applauso	con  Centro di gravità permanente  .
+						DET ADV NOUN	REPUBBLICA	Ha dato la sensazione di voler- si impegnare al massimo e alla fine è stato salutato da	un lungo applauso	.
+						DET ADV NOUN	REPUBBLICA	Il discorso di Blair alla Conferenza annuale dell industria britannica aperta- si ieri a Birmingham è stato accolto da	un lungo applauso	degli imprenditori che si sono detti disposti a lavorare a fianco di un eventuale futuro governo laburista .
+						DET ADV NOUN	REPUBBLICA	La platea si è alzata in piedi per accoglier- lo con	un lungo applauso	: il padre fondatore del Psdi , resta ancora simbolo del partito , punto di riferimento , patriarca al quale rivolgere
+						DET ADV NOUN	REPUBBLICA	Ma il miglior regalo che posso far- gli è chiedere a questo pubblico di rivolger- gli	un lungo applauso	con l augurio che sia il primo di una lunga carriera  .
+						DET ADV NOUN	REPUBBLICA	Un appello all unità , che i deputati hanno accolto alzando- si tutti in piedi con	un lungo applauso	: al suo posto subentra Marisa Abbondazieri .
+						DET ADV NOUN	REPUBBLICA	far- ce- lo sentire vicino e a riguardar- lo come lo ha voluto accogliere il pubblico , affettuosamente , in	un lungo applauso	quando Theodorakis è apparso al podio per dirigere l esecuzione .
+						DET ADV NOUN	REPUBBLICA	italiani è stato consumato nell ambito di una riunione del comitato esecutivo , durata tre ore e conclusa- si con	un lungo applauso	che ha sancito di fatto un avvicendamento incerto fino all ultimo .
+						DET ADV NOUN	REPUBBLICA	la famiglia socialista è indispensabile , che deve restare ben visibile , che non bisogna perdere l identità , parte	un lungo applauso	.
+						DET ADV NOUN	REPUBBLICA	nazionale della Fgci , ha appena terminato il suo discorso al XIII Festival internazionale della gioventù a Pyongyang , e	un lungo applauso	, scandito per cinque minuti , risuona nella Grande sala dei dibattiti per sottolineare l approvazione dei delegati .
+						DET ADV NOUN	REPUBBLICA	nel silenzio generale , ma quando , dalla presidenza , viene annunciato il suo nome , la sala esplode in	un lungo applauso	affettuoso .
+						DET ADV NOUN	REPUBBLICA	vedere cosa stava succedendo nel cortile interno del Tesoro : centinaia e centinaia di travet , a salutar- lo con	un lungo applauso	.
+
+0	2	0	lungo arco
+						DET ADV NOUN	REPUBBLICA	94 ) -- anche perché un governo che sta per dimetter- si non potrà prendere impegni finanziari rilevanti che coprano	un lungo arco	di tempo -- si poteva immaginare un accordo di portata più ridotta per il 92 - 93 con una temporanea riduzione
+						DET ADV NOUN	REPUBBLICA	consentirà loro di superare ogni divieto ritrovando- si così di fronte allo sconcertante spettacolo della Foresta di cristallo : 	Il lungo arco	di alberi che si curvava sull acqua sembrava gocciolare e brillare di una miriade di prismi .
+
+0	16	0	lungo articolo
+						DET ADJ ADV NOUN	REPUBBLICA	è che Piga , per uscire allo scoperto ha preferito scegliere la veste del giurista limitando- si a tracciare ,	nel suo lungo articolo	articolo sulla Rivista delle società delle semplici  ipotesi propositive  .
+						DET ADV NOUN	REPUBBLICA	Ambrosio , ieri si è aggiunto un altro pm milanese specializzato in tangenti , Fabio De Pasquale , che con	un lungo articolo	sull Unità ha bocciato il progetto (  è paradossale -- scrive tra l altro -- che non sia prevista una
+						DET ADV NOUN	REPUBBLICA	Anche il quotidiano  Izvestia  ha ricordato l attore dedicando- gli	un lungo articolo	nel quale si sottolinea il valore emblematico della sua morte in palcoscenico .
+						DET ADV NOUN	REPUBBLICA	Del documento torna ad occupar- si il settimanale Avvenimenti in	un lungo articolo	che apparirà nel prossimo numero in edicola .
+						DET ADV NOUN	REPUBBLICA	Dopo aver- ne rifatto la storia in	un lungo articolo	apparso ieri sul Corriere della sera , Visentini conclude :  le limitate competenze del Bilancio devono essere riportate al Tesoro
+						DET ADV NOUN	REPUBBLICA	Per cominciare dovrai mandar- me subito	un lungo articolo	storico o politico per il prossimo numero .
+						DET ADV NOUN	REPUBBLICA	Per far- lo però Piga ha scelto la veste del giurista pubblicando	un lungo articolo	sulla Rivista delle società .
+						DET ADV NOUN	REPUBBLICA	Persino il Wall Street Journal si è occupato del fenomeno , dedicando- gli	un lungo articolo	in prima pagina .
+						DET ADV NOUN	REPUBBLICA	Terre Estreme , un altro best-seller , nel 1996 venne invitato a partecipare ad una spedizione sull Everest per scrivere	un lungo articolo	su Outside .
+						DET ADV NOUN	REPUBBLICA	bagno , vi resta chiuso nonostante i tentativi dei colleghi di persuader- lo a uscire , scrive sulla carta igienica	un lungo articolo	che sarà il pezzo d apertura nel numero successivo del celebre settimanale .
+						DET ADV NOUN	REPUBBLICA	delle meraviglie , diventa sempre più popolare , tanto che anche una rivista come Reset ha deciso di dedicar- gli	un lungo articolo	favorevole di Riccardo Staglianò nel numero di marzo da oggi in edicola .
+						DET ADV NOUN	REPUBBLICA	di far- si conoscere : invia infatti subito alla Key una recensione del suo libro Il secolo del bambino ,	un lungo articolo	che contiene non solo apprezzamenti sull opera della scrittrice , ma anche osservazioni e ricordi personali dell infanzia .
+						DET ADV NOUN	REPUBBLICA	e ieri uno dei più diffusi tabloid americani , Usa Today , dedica un grosso titolo in prima pagina e	un lungo articolo	al  leader italiano che sfugge al passato comunista  e racconta di quando a D Alema  passò la voglia
+						DET ADV NOUN	REPUBBLICA	ipotesi ,  una dannata ipotesi  , ma Norberto Bobbio invita la sinistra a prender- la sul serio con	un lungo articolo	che compare sull ultimo numero del mensile Reset ( in vendita da lunedì ) .
+						DET ADV NOUN	REPUBBLICA	organo ufficioso , mostra pennini di inchiostro avvelenato puntando- li contro la signora primo ministro , esalta John Biffen in	un lungo articolo	, intitolato significativamente  Biffenism  , approva le critiche che il ribelle ha lanciato da una delle più prestigiose rubriche
+						DET ADV NOUN	REPUBBLICA	radici culturali , ma in modo che il pubblico possa conoscer- le e riportar- le a nuova vita : da	un lungo articolo	che spiega cosa fossero davvero i castelli e la loro tipologia , come funzionassero , perché siano sorti , si passa
+
+0	7	0	lungo assedio
+						DET ADV NOUN	REPUBBLICA	E al disastro si aggiungerà il prolungar- si delle ostilità , l impor- si di fatto di	un lungo assedio	al paese , e i danni rischiano di durare per molti anni a venire .
+						DET ADV NOUN	REPUBBLICA	Potrebbe essere un messaggero del re spagnolo Carlo V protagonista con le sue truppe qualche secolo fa di	un lungo assedio	intorno alle mura del borgo , o qualche futuribile cavaliere dell apocalisse tecnologica .
+						DET ADV NOUN	REPUBBLICA	a Roberto Tana sembra da qualche settimana non andar- ne più bene una : la serie nera è cominciata con	un lungo assedio	alla vicepresidenza della costituenda Telecom che si è risolto con un nulla di fatto nonostante le promesse del suo più recente
+						DET ADV NOUN	REPUBBLICA	di un tabloid di Manhattan , il Daily News , per diffondere l allarme nel mondo del cinema e provocare	un lungo assedio	di telecamere e paparazzi intorno al New York hospital-Cornell medical center , lo stesso ospedale dove morì Andy Warhol e fu
+						DET ADV NOUN	REPUBBLICA	fortezza di Massada , dove mille ebrei irriducibili si suicidarono in massa piuttosto che arrender- si alle legioni romane dopo	un lungo assedio	.
+						DET ADV NOUN	REPUBBLICA	soldati , dai marines e dalla Guardia Nazionale , ma senza più il coprifuoco , sembra voler- si preparare a	un lungo assedio	.
+						DET ADV NOUN	REPUBBLICA	uomini d arme veneziani , invece di andare a liberare Gerusalemme decisero di conquistare Costantinopoli , cosa che fecero dopo	un lungo assedio	.
+
+0	3	0	lungo assolo
+						DET ADV NOUN	REPUBBLICA	Madeleine Renaud , la grande attrice recentemente scoparsa che , nel suo Ouverture , aveva accettato di esibir- si in	un lungo assolo	a gattoni con un gesto insistentemente ripreso e citato nel finale da Bob e dai suoi bravi colleghi .
+						DET ADV NOUN	REPUBBLICA	eredità del pop italiano arricchendo- la con sentimenti moderni , sonorità elettroniche , persino un pizzico di jazz , in	un lungo assolo	dell ottimo Jacopo Jacopetti , sassofonista di buone capacità e nuovo acquisto del gruppo , ed in una swingante rilettura di
+						DET ADV NOUN	REPUBBLICA	mescolata ad una raffinata citazione di  Kashmir  dei Led Zeppelin ) , un vero capolavoro centrato su di	un lungo assolo	di chitarra suonata con il  bottleneck  che ha letteralmente mandato in visibilio la platea .
+
+0	1	0	lungo attaccapanni
+						DET ADV NOUN	REPUBBLICA	piccolo borghese con cucina per  Jolly  ; un bar , identificabile dai tavolini tondi da bistrot e da	un lungo attaccapanni	a parete , per  Deeny  .
+
+0	1	0	lungo attimo
+						DET ADV NOUN	REPUBBLICA	 potesse rifiutar- si di rispondere a domande che potevano portare alla sua incriminazione  , Del Bo ha avuto	un lungo attimo	di esitazione .
+
+0	1	0	lungo atto
+						DET ADV NOUN	REPUBBLICA	la ricerca potrebbero presto trovar- si a fare i conti solo con i contabili  ) ; l altro ,	un lungo atto	d amore verso il patrimonio artistico e la sua conservazione firmato da Andrea Emiliani , soprintendente ai Beni artistici di Bologna
+
+0	1	0	lungo autoscontro
+						DET ADV NOUN	REPUBBLICA	E ne bastano così 54 all Efes per batter- la , dopo una partita di scacchi , o	un lungo autoscontro	, con momenti orrendi , divari minimi e troppa gente che ha recitato male , in un match duro , ben
+
+0	1	0	lungo autunno
+						DET ADV NOUN	REPUBBLICA	sostegno dei  sans papiers  espulsi Il corteo sfila tra slogan e tam-tam di tamburi Per Juppé si prepara	un lungo autunno	caldo .
+
+0	1	0	lungo avvelenamento
+						DET ADV NOUN	REPUBBLICA	Oggi , tutto appare con una luce diversa , è come svegliar- si da	un lungo avvelenamento	.
+
+0	2	0	lungo bancone
+						DET ADV NOUN	REPUBBLICA	bunker di cavi , di radio , di computer , di scatole luminose , di apparecchi misteriosi , allineati su	un lungo bancone	.
+						DET ADV NOUN	REPUBBLICA	segno della solennità doveva dar- lo quell emiciclo in miniatura che Violante ha fatto piazzare al centro dell aula ,	un lungo bancone	curvo ricoperto di panno verde al quale siederanno per tutto il dibattito i 19 rappresentanti della Bicamerale .
+
+0	1	0	lungo bastone
+						DET ADV NOUN	REPUBBLICA	Appassionato e colorito , Teller parla appoggiando- si ad	un lungo bastone	, quasi un  pastorale  , che dà ai suo toni , spesso polemici , il tratto del sermone .
+
+0	1	0	lungo bis
+						DET ADV NOUN	REPUBBLICA	attorno a sè i ballerini in un abbraccio protettivo , e infine , al suono delle invocazioni reiterate , concedendo	un lungo bis	.
+
+0	1	0	lungo blocco
+						DET ADV NOUN	REPUBBLICA	D altronde chi ha buona memoria ricorderà che il putsch di Pinochet nel Cile di Allende , fu preceduto da	un lungo blocco	dei camionisti , che aveva messo in ginocchio l economia già gravemente sinistrata del Paese .
+
+0	19	0	lungo braccio
+						DET ADV NOUN	REPUBBLICA	Dopo un alternar- si di nuovi managers e	un lungo braccio	di ferro con piloti e sindacati , l Alitalia ha varato l anno scorso un piano di ristrutturazione e di rilancio
+						DET ADV NOUN	REPUBBLICA	Ed è su questo che i ministri del comitato sembrano avviar- si in	un lungo braccio	di ferro tra chi ritiene sufficiente il rispetto del carattere nazionale dell azienda e l attuazione del piano di risanamento e
+						DET ADV NOUN	REPUBBLICA	I quattro amici , infatti , piuttosto che logorar- si in	un lungo braccio	di ferro preferiscono divider- si .
+						DET ADV NOUN	REPUBBLICA	I sindacalisti sembra vogliano impegnar- si in	un lungo braccio	di ferro con la giunta .
+						DET ADV NOUN	REPUBBLICA	Il consiglio di facoltà , dopo aver dato la sensazione di voler- si impegnare in	un lungo braccio	di ferro , ha accolto le richieste , pur precisando , in una mozione approvata l altra notte , che la
+						DET ADV NOUN	REPUBBLICA	Il meeting era stato convocato dal liquidatore Angelo Casò nominato recentemente dall assemblea della società dopo	un lungo braccio	di ferro tra la famiglia Dalle Carbonare e il pool delle banche creditrici coordinate da Luciano Picler per conto della Banca
+						DET ADV NOUN	REPUBBLICA	L ex premier è riuscita a lasciare la citta ieri sera , alla fine di	un lungo braccio	di ferro con le autorità .
+						DET ADV NOUN	REPUBBLICA	La dimostrò soprattutto quando decise di rimpatriare , dando la scalata al Casinò di San Remo e impegnando- si in	un lungo braccio	di ferro legale con il  clan  di Michele Merlo che , in fortissimo odore di mafia , contestava la
+						DET ADV NOUN	REPUBBLICA	PepsiCo , un manager bravo ma ingrato : tanto da tramare contro il padrone ed estrometter- lo nel 1985 dopo	un lungo braccio	di forza .
+						DET ADV NOUN	REPUBBLICA	Una vicenda che si è intrecciata , aggravando- la , con la crisi della compagnia di bandiera , stretta tra	un lungo braccio	di ferro con piloti e sindacati e una pesante situazione finanziaria : 3.500 miliardi di debiti e appena 500 miliardi di
+						DET ADV NOUN	REPUBBLICA	contro l Olanda ( ore 20 , Flaminio ) : ci sarà anche l attaccante bianconero in campo , dopo	un lungo braccio	di ferro , telefonate fra Matarrese , Zappacosta e il generale Casale .
+						DET ADV NOUN	REPUBBLICA	coperto il Sisde deviato ( era Andreotti : che gli diede del  cacciatore strabico  ) , o ingaggiare	un lungo braccio	di ferro con un presidente della Repubblica in carica , Francesco Cossiga , cui rimproverò di aver fondato Gladio ( la
+						DET ADV NOUN	REPUBBLICA	il comunista Piero Fassino e il socialista Giusi La Ganga , protagonisti di questa rottura a sinistra , impegnati in	un lungo braccio	di ferro per la regia di un consiglio comunale teso e interminabile , sempre sul filo della rottura per gli ordini
+						DET ADV NOUN	REPUBBLICA	il contrattacco : una serie di mosse di ingegneria giuridica per preparar- si a quello che sembra prospettar- si come	un lungo braccio	di ferro con Raul Gardini e per tutelare i diritti degli azionisti di minoranza .
+						DET ADV NOUN	REPUBBLICA	intessere danze sulle dita affusolate , o raffigurare stropicciando- si un bucato mentale per Gervaise , o prolungar- si in	un lungo braccio	artificiale da proiettare fuori dalla ribalta come un poltergeist dal monitor , quasi una minaccia predatoria .
+						DET ADV NOUN	REPUBBLICA	la seconda è quella a lungo occupata da Domenico Tatangelo , dimesso- si dopo aver ingaggiato , senza successo ,	un lungo braccio	di ferro con Roberto D Alessandro , presidente dell Agusta .
+						DET ADV NOUN	REPUBBLICA	organizzatori ( il posto in batteria spettava di diritto a Frinolli , ma qualcuno convocò ugualmente Saber , che dopo	un lungo braccio	di ferro riuscì a prendere il via ) .
+						DET ADV NOUN	REPUBBLICA	segno della ritualità sull ordine del giorno del comitato degli azionisti Enimont appare come un iceberg ufficiale e burocratico di	un lungo braccio	di ferro tra il partner pubblico e quello privato .
+						DET ADV NOUN	REPUBBLICA	tecnici azzurri , Carmignani , Rocca e Ancelotti ( che con la Figc , nel giugno del 92 , ingaggiò	un lungo braccio	di ferro chiedendo 400 milioni a stagione , cifra poi ridimensionata- si molto ) .
+
+0	3	0	lungo brano
+						DET ADV NOUN	REPUBBLICA	L idea stessa di conoscere a memoria un poeta moderno è inconcepibile ; citar- ne	un lungo brano	in un salotto è impossibile .
+						DET ADV NOUN	REPUBBLICA	in occasione del voto all Andreotti VII , con una insolita attenzione ai meccanismi che guidano l economia , dedicò	un lungo brano	del suo intervento alla necessità di ridurre i tassi per alleggerire il costo che lo Stato paga , ogni mese ,
+						DET ADV NOUN	REPUBBLICA	senza aver- lo visto completo , mentre qualcuno insinua che anche per altri ha dovuto decidere attraverso una cassetta ,	un lungo brano	, una copia non finita .
+
+0	1	0	lungo brivido
+						DET ADV NOUN	REPUBBLICA	aver- lo trovato del tutto somigliante , un certo giorno , a un invertito strangolato dall amante : e avvertii	un lungo brivido	giù per la schiena .
+
+0	1	0	lungo cacciavite
+						DET ADV NOUN	REPUBBLICA	Ma chi dei due è il violentatore che ha sequestrato e stuprato tredici donne tenendo- le sotto la minaccia di	un lungo cacciavite	?
+
+0	1	0	lungo caffè
+						DET ADV NOUN	REPUBBLICA	Compreso il summit di Lussemburgo dove io e Waigel , durante	un lungo caffè	, abbiamo creato una cornice tale da facilitare il rientro della lira nello Sme  .
+
+0	2	0	lungo calvario
+						DET ADV NOUN	REPUBBLICA	fino alla fine del contratto  , che scadrà a giugno 1998 e potrebbe trasformar- si a questo punto in	un lungo calvario	.
+						DET ADV NOUN	REPUBBLICA	intervento medico che può prolungar- la di mesi o di anni , toglier- le il tormento fisico o render- la	un lungo calvario	; e in circostanze estreme decidere arbitrariamente , o agevolare la decisione del soggetto , di por- vi fine .
+
+0	10	0	lungo cammino
+						DET ADV NOUN	REPUBBLICA	* * * In questo Don Giovanni cinquantenario , Abbado sembra comunicar- ci già dalla Sinfonia di aver compiuto	un lungo cammino	dalla rappresentazione ferrarese dell anno scorso -- splendida per la brillante felicità nel nitore -- all attuale rigore crepuscolare smorzato e
+						DET ADV NOUN	REPUBBLICA	: Non dimenticare mai di essere figlio della nostra terra , anche se la lascerai come molti di noi per	un lungo cammino	.
+						DET ADV NOUN	REPUBBLICA	, volontà di cercare , di capire : Oh sì , il mio cinema , per me , è tutto	un lungo cammino	per cercare di crescere .
+						DET ADV NOUN	REPUBBLICA	Il  green paper  dovrà percorrere	un lungo cammino	prima di diventare legge del Regno Unito ; verrà discusso a Westminster , poi diventerà proposta di legge di iniziativa governativa
+						DET ADV NOUN	REPUBBLICA	Nei panni dell outsider contro i due candidati-principe che arrivano dalla base operaia e da	un lungo cammino	nel partito con ricche esperienze amministrative , c è una donna che è l esatto contrario .
+						DET ADV NOUN	REPUBBLICA	Per provare a vincere lo scudetto nella prossima stagione e per garantir- si	un lungo cammino	in Champions League -- nelle ultime due giornate sarà sufficiente non far- si superare da Udinese e Fiorentina -- è necessario
+						DET ADV NOUN	REPUBBLICA	arriviamo io e mio figlio di 7 anni a Imola , per goder- ci le nostre Ferrari , e dopo	un lungo cammino	arriviamo all autodromo : qui inizia l odissea ; decidiamo di andare al  prato  Rivazza , ma quando arriviamo
+						DET ADV NOUN	REPUBBLICA	di Cristo tra i molti popoli e nazioni dell Europa orientale , diffondendo- la successivamente sino agli Urali , in	un lungo cammino	di fede e di civiltà cristiana .
+						DET ADV NOUN	REPUBBLICA	il paziente dai sintomi , può capitare che egli perda la motivazione a metter- si in discussione , ad affrontare	un lungo cammino	di cambiamento .
+						DET ADV NOUN	REPUBBLICA	la propria interpretazione , quanto penetrare nella sua visione del mondo : Amleto costituisce il travagliato punto d arrivo di	un lungo cammino	di conoscenza che l ha condotto al Festival dei Due Mondi con un allestimento ancora in divenire .
+
+0	1	0	lungo cancellierato
+						DET ADJ ADV NOUN	REPUBBLICA	regolarissimo all appuntamento con l Uem anche a costo di una forte impopolarità e di difficoltà che sembrano addensar- si	sul suo lungo cancellierato	cancellierato .
+
+0	1	0	lungo caseggiato
+						DET ADV NOUN	REPUBBLICA	Ed ecco che , inoltrando- ci nella mostra londinese , troviamo un altro quadro dove è dipinto	un lungo caseggiato	popolare , malinconico , nonostante i colori vivaci , per quelle lunghe file di porte e , più su , di
+
+0	1	0	lungo catalogo
+						DET ADV NOUN	REPUBBLICA	di canzoni potranno far- si registrare sul campo le loro cassette presentando la lista dei titoli che avranno scelto su	un lungo catalogo	: è un idea della società Personics che lunedì scorso si è realizzata in 25 negozi di Los Angeles .
+
+0	1	0	lungo cespuglio
+						DET ADV NOUN	REPUBBLICA	è fatto di acciaio color grigio-verde militare , è cosparso di grasso per render- lo inscalabile , è sormontato da	un lungo cespuglio	di filo spinato .
+
+0	1	0	lungo ciclo
+						DET ADV NOUN	REPUBBLICA	esperienza da passaggi , da sodalizi ineliminabili , dove ho preso coscienza di me e del lavoro formando- me attraverso	un lungo ciclo	di spettacoli di ensemble , molte volte sotto la guida di Stein .
+
+0	1	0	lungo collo
+						DET ADJ ADV NOUN	REPUBBLICA	intelligenza artificiale può essere utilizzata per innumerevoli altri fini , come qui in fiera , dove la macchina , con	il suo lungo collo	collo rapace e il suo becco d acciaio , è stata programmata per disegnare su apposita lavagna una copia della Gioconda
+
+0	28	0	lungo colloquio
+						DET ADV NOUN	REPUBBLICA	è scoppiata la bomba : il vertice è stato rinviato alla serata e Craxi ha convocato per stamane , dopo	un lungo colloquio	con Martelli , l esecutivo nazionale del Psi .
+						DET ADV NOUN	REPUBBLICA	Campanati però non è riuscito ad incontrar- si con Carraro : i due hanno avuto soltanto	un lungo colloquio	telefonico .
+						DET ADV NOUN	REPUBBLICA	Chigi (  non ne sapevo niente  , si difende alzando le spalle ) ma uscito assolutamente disteso da	un lungo colloquio	a quattr  occhi con il Capo .
+						DET ADV NOUN	REPUBBLICA	Clinton lo ha detto chiaramente al premier , con cui ha avuto	un lungo colloquio	a Vancouver :  Il Giappone non deve solo mettere ordine nelle sue istituzioni finanziarie , ma anche stimolare la domanda
+						DET ADV NOUN	REPUBBLICA	Forse anche per questo Rexhep Mejdani ha convocato ieri il premier nella sua residenza di viale dei Martiri per	un lungo colloquio	.
+						DET ADV NOUN	REPUBBLICA	Ieri all Olimpico di Roma , nell intervallo del derby , D Antoni ha avuto	un lungo colloquio	con il ministro delle Finanze Visco .
+						DET ADV NOUN	REPUBBLICA	Ieri il  patron  della Sasea ha avuto	un lungo colloquio	con il presidente della Consob Franco Piga .
+						DET ADV NOUN	REPUBBLICA	In mattinata -- memore anche dell irritazione di Scalfaro con Mancuso -- Dini ha tentato invano di rimuover- la con	un lungo colloquio	con il Guardasigilli .
+						DET ADV NOUN	REPUBBLICA	John Major , successore della lady di ferro ha avuto	un lungo colloquio	con Andrew Marr , editorialista di politica interna dell Independent .
+						DET ADV NOUN	REPUBBLICA	L ultimo appuntamento italiano del premier polacco è stato	un lungo colloquio	con Trentin , Marini e Benvenuto .
+						DET ADV NOUN	REPUBBLICA	La lady di ferro ha trascorso l intera giornata , a parte	un lungo colloquio	con il presidente del Senato Giovanni Spadolini al numero 10 di Downing Street , discutendo la situazione europea , vagliando la
+						DET ADV NOUN	REPUBBLICA	Queste , in breve , le dichiarazioni del presidente Clinton e del premier inglese Major ieri , dopo	un lungo colloquio	alla Casa Bianca .
+						DET ADV NOUN	REPUBBLICA	Un imprevisto summit telefonico con il presidente francese , Jacques Chirac ( ieri sera il premier francese ha avuto	un lungo colloquio	anche con Romano Prodi : al centro della conversazione l Unione monetaria ma anche la situazione in Albania ) , ha
+						DET ADV NOUN	REPUBBLICA	che giungerà in Svizzera al termine di un viaggio-lampo nella Berlino Est senza più frontiere , dopo una visita e	un lungo colloquio	con il suo collega tedesco-orientale Horst Kaminsky .
+						DET ADV NOUN	REPUBBLICA	contro la  ghettizzazione  del Msi e poche settimane dopo , all inizio di settembre , si intrattiene in	un lungo colloquio	con il ministro degli Esteri missino Mirko Tremaglia .
+						DET ADV NOUN	REPUBBLICA	dai giornalisti della più grande agenzia di stampa italiana infilar- si dentro l ufficio di Craxi per uscir- ne dopo	un lungo colloquio	...
+						DET ADV NOUN	REPUBBLICA	del gruppo elettrico , in particolare la via da seguire per attuar- la , è stata ieri pomeriggio oggetto di	un lungo colloquio	tra il ministro del Tesoro ( Lamberto Dini ) , quello dell Industria ( Vito Gnutti ) e quello del Bilancio
+						DET ADV NOUN	REPUBBLICA	deve aver- lo avuto se ieri a tarda sera , poco prima di lasciare Palazzo Chigi ( al termine d	un lungo colloquio	con Antonio Gava ) , Giulio Andreotti ha fatto velocemente diffondere un breve annuncio .
+						DET ADV NOUN	REPUBBLICA	di altri la sua visione dell Anello , e in particolare del Sigfrido : il terzo atto si apre con	un lungo colloquio	tra il Viandante-Wotan e Erda , la dea della terra , madre delle Walkirie .
+						DET ADV NOUN	REPUBBLICA	febbrile tra lunedì e martedì di ministri e dirigenti del Partito socialista nel gabinetto del capo dello Stato e di	un lungo colloquio	di Mitterrand con l ex ministro della Difesa Hernu per cercare di convincere quest ultimo ad addossar- si finalmente e pubblicamente
+						DET ADV NOUN	REPUBBLICA	lo ha trasportato allo stadio con il proprio elicottero e poi dopo la partita si è appartato con lui per	un lungo colloquio	.
+						DET ADV NOUN	REPUBBLICA	mano a George Bush Presidente , poi far- si ricevere e ascoltare dallo stato maggiore della Casa Bianca e avere	un lungo colloquio	con il segretario di Stato James Baker .
+						DET ADV NOUN	REPUBBLICA	monete si sarebbero separate , il premier slovacco Vladimir Meciar si è precipitato a Praga ed ha cercato -- in	un lungo colloquio	notturno -- di strappare un prestito a Klaus .
+						DET ADV NOUN	REPUBBLICA	negli uffici della Procura entrava il maggiore Ignazio Gibilaro , capo del Gico di Firenze , per intrattener- si in	un lungo colloquio	con il procuratore Giancarlo Tarquini e i suoi sostituti .
+						DET ADV NOUN	REPUBBLICA	preparar- la , ha messo in conto anche una cena con Arrigo Sacchi ( giovedì sera a Torino ) e	un lungo colloquio	con Umberto Agnelli , ieri al Comunale , un buon modo per non concentrar- si troppo sulle voci di mercato ,
+						DET ADV NOUN	REPUBBLICA	sarà allungato di circa un chilometro , il boss della Brabham è venuto per controllare di persona ed ha avuto	un lungo colloquio	con i dirigenti dell autodromo .
+						DET ADV NOUN	REPUBBLICA	si eleggere recentemente governatore della regione di Kursk , anche grazie ai voti comunisti ; ma appena eletto ha avuto	un lungo colloquio	con Anatolij Cjubais , potente capo dello staff del Cremlino , dopodiché si è impegnato a collaborare con il suo vecchio
+						DET ADV NOUN	REPUBBLICA	simili , conoscenza dell ambiente e feeling con i tifosi , è Toninho Cerezo , che giovedì scorso ha avuto	un lungo colloquio	in sede con Mantovani .
+
+0	4	0	lungo coltello
+						DET ADJ ADV NOUN	REPUBBLICA	enorme giamaicano che lo ha preso per il collo , lo ha sollevato da terra e poi gli ha infilato	il suo lungo coltello	coltello nello stomaco , lasciando- lo agonizzante sul selciato in un mare di sangue .
+						DET ADV NOUN	REPUBBLICA	Lorena in lacrime è andata in cucina per bere un bicchiere d acqua e calmar- si , lì ha visto	un lungo coltello	, l ha afferrato e in preda a un  irresistibile impulso  è tornata nella stanza da letto , ha
+						DET ADV NOUN	REPUBBLICA	latrati del cucciolo e dalle risate dei due ragazzi , il proprietario del terreno è accorso come un forsennato con	un lungo coltello	scagliando- si contro il cane che aveva la testa infilata sotto le assi di legno .
+						DET ADV NOUN	REPUBBLICA	ricevuto 50 mila lire , gli è saltato addosso , lo ha ferito ad un braccio e alla schiena con	un lungo coltello	da cucina .
+
+0	1	0	lungo comizio
+						DET ADV NOUN	REPUBBLICA	il colpo di scena con Vittorio Sgarbi ( accompagnato da una nuova fiamma ) che dopo esser- si lanciato in	un lungo comizio	contro i metodi di indagine usati da Di Pietro (  e i morti rimasti sulla strada di questa inchiesta
+
+0	1	0	lungo commercio
+						DET ADV NOUN	REPUBBLICA	ci bene Malerba , postmoderno per quanto è possibile essere qualcosa di non ben definito , ha al suo attivo	un lungo commercio	con la storia : il protagonista del Serpente è ossessionato da Garibaldi , la Cina delle Rose imperiali è quella antichissima
+
+0	4	0	lungo comunicato
+						DET ADV NOUN	REPUBBLICA	A spiegar- lo ,	un lungo comunicato	emesso in mattinata e una conferenza stampa cui hanno preso parte l amministratore delegato di Olivetti , Roberto Colaninno , il
+						DET ADV NOUN	REPUBBLICA	Ieri Nothombe , approfittando della visita in Italia , ha tentato di riscattar- si dettando	un lungo comunicato	nel quale è possibile leggere alcuni cenni di parziale autocritica .
+						DET ADV NOUN	REPUBBLICA	allora ci siamo decisi ad uscire lo stesso allo scoperto ) e ieri , puntualmente , se ne riferiva in	un lungo comunicato	dell ufficio stampa di Palazzo Valentini , ribadendo il concetto degli slogan gravemente diffamatori lanciati contro Roma e contro i romani
+						DET ADV NOUN	REPUBBLICA	fatto lo sgarbo di far- lo precedere di pochi giorni da George Marchais , con il quale Gorbaciov ha firmato	un lungo comunicato	.
+
+0	1	0	lungo concerto
+						DET ADV NOUN	REPUBBLICA	mese di occupazione all Università , e oggi nel pomeriggio Viale delle Scienze si trasforma in una piccola Woodstock :	un lungo concerto	rock per il movimento studentesco .
+
+0	1	0	lungo conclave
+						DET ADV NOUN	REPUBBLICA	ufficiali degli enti locali , arriva una prima certezza dai vertici dell Iri e della Finmeccanica , al termine di	un lungo conclave	sul caso - Genova in Regione .
+
+0	2	0	lungo conflitto
+						DET ADV NOUN	REPUBBLICA	La Cbs ha riferito che senza questi rinforzi il Pentagono teme di impantanar- si in	un lungo conflitto	, di non vincer- lo in fretta e bene , e di trovar- si alla fine con oltre 20 mila morti
+						DET ADV NOUN	REPUBBLICA	sostanza l improvviso mutamento di scenario nel Golfo , dovuto all invito di Saddam al popolo di preparar- si ad	un lungo conflitto	, si è tradotto da noi più in una contrazione degli affari che non in una caduta dei prezzi .
+
+0	2	0	lungo confronto
+						DET ADV NOUN	REPUBBLICA	1750 ) , Collection del l È cole francaise de Rome , una studiosa francese ricostruisce ora la storia di	un lungo confronto	concluso- si con la fine del primato culturale dell umanesimo italiano e con la translatio studiorum in terra d oltralpe .
+						DET ADV NOUN	REPUBBLICA	faccio osservare che c è un abissale differenza di maturità tra le posizioni dei cattolici democratici , sviluppate- si in	un lungo confronto	con la cultura laica e socialista italiana , e i giovanotti di Cl , che non sanno ancora quello che vogliono
+
+0	1	0	lungo consiglio
+						DET ADV NOUN	REPUBBLICA	allora , ha detto il ministro al presidente del governo siciliano Rino Nicolosi incontrando- lo in serata a Messina dopo	un lungo consiglio	di guerra svolto- si in mattinata e nel primo pomeriggio alla prefettura di Reggio Calabria , faccia presto la Regione siciliana
+
+0	1	0	lungo contratto
+						DET ADV NOUN	REPUBBLICA	Lui vuole una società gloriosa e in grado di garantir- gli	un lungo contratto	 .
+
+0	1	0	lungo cordone
+						DET ADV NOUN	REPUBBLICA	Le operazioni di carico e scarico delle auto è avvenuto a terminal sprangato , con	un lungo cordone	di polizia a presidiare l area di movimentazione della merce .
+
+0	1	0	lungo corridoio
+						DET ADV NOUN	REPUBBLICA	Vorrebbe rappresentar- la in	un lungo corridoio	di cui non si vede la fine , con gente che si incontra senza riconoscer- si , senza salutar- si ,
+
+0	2	0	lungo corteggiamento
+						DET ADV NOUN	REPUBBLICA	A convincere Tano Grasso sarebbe stato lo stesso segretario del Pds Achille Occhetto , riuscendo così a sottrar- lo ad	un lungo corteggiamento	da parte di Leoluca Orlando e della sua Rete .
+						DET ADV NOUN	REPUBBLICA	Arriva finalmente nel nostro campionato ( secondo bulgaro dietro l anonimo stopper Iliev ) dopo	un lungo corteggiamento	: ci hanno provato un po tutti -- Cecchi Gori provò perfino a sedur- lo facendo- gli scrivere una lettera da
+
+0	3	0	lungo corteo
+						DET ADV NOUN	REPUBBLICA	La kermesse chimica-gardiniana comincia con	un lungo corteo	che , poco dopo le nove del mattino , porta i convegnisti il primo contingente dalla stazione ferroviaria , dov erano
+						DET ADV NOUN	REPUBBLICA	dei sedici anni , sta sulle spalle d un robusto compagno e grida i suoi slogan nel bel mezzo d	un lungo corteo	: sulla maglietta , ha una caricatura di De Mita .
+						DET ADV NOUN	REPUBBLICA	non ancora incriminato e quindi libero di spostar- si a suo piacimento , Felix Bloch è ora seguito ovunque da	un lungo corteo	di automobili : in testa , ci sono mezza dozzina di vetture occupate da agenti dell Fbi ; in mezzo ci
+
+0	1	0	lungo crepuscolo
+						DET ADV NOUN	REPUBBLICA	l efficienza delle sue amministrazioni , riuscì a salvar- si dalla dissoluzione anche se la sua corrosione fu lenta in	un lungo crepuscolo	.
+
+0	1	0	lungo curriculum
+						DET ADV NOUN	REPUBBLICA	, è questa la sua versione , ha scoperto solo dopo esser- si sposato che Francesca aveva problemi nervosi e	un lungo curriculum	di ricoveri ospedalieri .
+
+0	1	0	lungo decennio
+						DET ADV NOUN	REPUBBLICA	sia fatto estinguere , che una coalizione di forze uscite dal cuore della tenebra cercò di soffocare per sempre durante	un lungo decennio	di questo secolo di macellai -- una salvezza di carni agitate che non importava all autore del Salut par les Juifs
+
+0	2	0	lungo declino
+						DET ADV NOUN	REPUBBLICA	ITALIANI Oltre 2 milioni di container meno di Rotterdam e 150 mila meno di Livorno : sono il risultato di	un lungo declino	tecnologico e di una situazione di conflitto che è ormai arrivata a un livello insostenibile .
+						DET ADV NOUN	REPUBBLICA	Questa perdita di internazionalità per il settore del design si è rivelata l inizio di	un lungo declino	, con un sussulto solo quando la Mercedes ha presentato in prima mondiale la ricerca da cui sarebbe poi nata la
+
+0	4	0	lungo dialogo
+						DET ADV NOUN	REPUBBLICA	è stato solo un pellegrinaggio all ultimo totem della rivoluzione quello dei  compagni  italiani ,  è stato	un lungo dialogo	, una chiaccherata su molti temi , mondiali , non italiani  .
+						DET ADV NOUN	REPUBBLICA	Lo vediamo al momento di lasciare l appartamento del figlio per una casa di riposo , confidar- si in	un lungo dialogo	immaginario con lo spirito della moglie morta da quarant anni ; poi , nell estremo rifugio , praticamente congedar- si con
+						DET ADV NOUN	REPUBBLICA	al momento di lasciare la casa del figlio per trasferir- si in una casa di riposo , confidar- si in	un lungo dialogo	immaginario con la moglie morta da quaranta anni , poi nell estremo rifugio , congerdarsi con un monologo davanti a una
+						DET ADV NOUN	REPUBBLICA	congiunta con la lady di ferro , il cancelliere si è mosso maestosamente verso un grande prato dove ha sviluppato	un lungo dialogo	con i giornalisti , da solo , senza preoccupar- si della sua ospite che lo attendeva a Downing Street .
+
+0	8	0	lungo dibattito
+						DET ADV ADJ NOUN	REPUBBLICA	Le vedove di mafia all anteprima di  Il lungo silenzio	Un lungo appassionato dibattito	ha seguito la presentazione del film di Margarethe von Trotta con Jacques Perrin e Carla Gravina che interpretano un magistrato ,
+						DET ADV NOUN	REPUBBLICA	È un duro scontro , ancora in atto , destinato a concluder- si nella giornata di oggi dopo	un lungo dibattito	che ha lacerato e sta lacerando il partito radicale .
+						DET ADV NOUN	REPUBBLICA	La decisione di attuar- la è scaturita da un documento unitario elaborato dal Consiglio regionale al termine di	un lungo dibattito	nella sede di piazza Palazzo .
+						DET ADV NOUN	REPUBBLICA	baseball non è la sola novità nei rapporti tra Cuba e Stati Uniti : sempre ieri , al termine di	un lungo dibattito	tra esperti di politica estera , membri del Congresso ed esponenti dell emigrazione cubana , Bill Clinton ha varato un pacchetto
+						DET ADV NOUN	REPUBBLICA	di ristrutturare a fondo il  Modello Germania  , e ha visto forze politiche e imprese confrontar- si in	un lungo dibattito	.
+						DET ADV NOUN	REPUBBLICA	ha presentato ieri le dimissioni del suo governo alla regina Beatrice , dopo averle annunciate in mattinata al termine di	un lungo dibattito	parlamentare sul disegno di legge per la lotta contro l inquinamento .
+						DET ADV NOUN	REPUBBLICA	quel modo così inconsueto per le abitudini della leadership sovietica , nella speranza di essere finalmente ascoltato e creduto dopo	un lungo dibattito	al Soviet Supremo che era stato un colloquio tra sordi .
+						DET ADV NOUN	REPUBBLICA	se -- come molte fonti a lei vicine suggeriscono -- non essendo- ne affatto persuaso , prendere tempo , avviare	un lungo dibattito	nel paese e nel governo e rinviare il tutto a dopo le prossime elezioni .
+
+0	13	0	lungo discorso
+						DET ADJ ADV NOUN	REPUBBLICA	E ha badato bene a tener- si aperta una via d uscita , infilando	nel suo lungo discorso	discorso tanti  se  e tanti  forse  che potrebbero rivelar- si preziosi domenica sera , quando i radicali
+						DET ADV NOUN	REPUBBLICA	) è spesso impacciato , ingenuo , si confonde e si impappina davanti alla telecamera di operatori principianti , cominciando	un lungo discorso	per fermar- si sperduto e dimenticare il filo di quello che diceva .
+						DET ADV NOUN	REPUBBLICA	 Ha finto di dir- me in bocca al lupo , ma poi mi ha fatto	un lungo discorso	per dire che con tutto il casino che era successo su di me , ci voleva una medaglia per riscattar- me
+						DET ADV NOUN	REPUBBLICA	 Solo se mi pregassero di far- lo , e dopo	un lungo discorso	che non dovrebbe riguardare però i soldi  .
+						DET ADV NOUN	REPUBBLICA	, riconoscere quelle che volentieri strapperebbero le unghie e accenderebbero i fiammiferi , sospirando come vecchi domenicani e portando avanti	un lungo discorso	teorico , ove circostanze staliniane o denghiste le favorissero solo un pochino .
+						DET ADV NOUN	REPUBBLICA	E invece di lanciar- si in	un lungo discorso	ha preferito recitare una sua poesia : un invito a guardare oltre le differenze di colore della pelle , a superare
+						DET ADV NOUN	REPUBBLICA	Ha da far- gli	un lungo discorso	.
+						DET ADV NOUN	REPUBBLICA	Impettito dietro la tribunetta dal design post-moderno , mitragliato dai flash dei fotografi , Balladur snocciola il suo programma con	un lungo discorso	di un ora .
+						DET ADV NOUN	REPUBBLICA	Nemmeno in piena campagna elettorale i suoi consiglieri sono riusciti a far- le pronunciare	un lungo discorso	.
+						DET ADV NOUN	REPUBBLICA	Per ricordar- ne la figura e l opera si è svolta ieri all Università di Roma una cerimonia , con	un lungo discorso	di Franco Marini , segretario generale della Cisl , la confederazione con la quale Tarantelli aveva lungamente collaborato , come esperto
+						DET ADV NOUN	REPUBBLICA	Un altro ancora , trovando- si a Torino , tiene	un lungo discorso	sui problemi della città ,  soprattutto il porto che muore  e attacca la  colpevole politica della Regione rossa
+						DET ADV NOUN	REPUBBLICA	in piazza Tienanmen , sono state aperte ieri dal segretario generale del partito , Jiang Zemin , che ha pronunciato	un lungo discorso	, la prima summa del suo pensiero politico .
+						DET ADV NOUN	REPUBBLICA	si è presentato all appuntamento : due chiacchiere con Fossa prendendo un caffè prima di salire sul podio , quindi	un lungo discorso	( venti pagine ) letto di fronte a una sala gremita e silenziosa , salutato alla fine da un applauso breve
+
+0	2	0	lungo documento
+						DET ADV NOUN	REPUBBLICA	, provenienti da un capo all altro del Nord Africa e del Medio Oriente , che si è conclusa con	un lungo documento	in cui , accanto alla ricerca di una soluzione pacifica ricalcata sul piano di Saddam , con un vago riferimento alla
+						DET ADV NOUN	REPUBBLICA	Il pericolo dell Est e le proposte per fronteggiar- lo sono contenute in	un lungo documento	, diffuso tre mesi fa dalla Procura nazionale antimafia e reso pubblico ieri dall agenzia Adn Kronos .
+
+0	1	0	lungo dominio
+						DET ADV NOUN	REPUBBLICA	Alle ultime politiche in Molise Alleanza nazionale ottenne un vero e proprio exploit diventando il primo partito della Regione dopo	un lungo dominio	democristiano ( la Dc raggiunse il 58,9 % alle amministrative del 90 ) .
+
+0	2	0	lungo duello
+						DET ADV NOUN	REPUBBLICA	A sentir- lo oggi tutta la sua prigionia è stata	un lungo duello	, a volte picaresco , con i suoi carcerieri .
+						DET ADV NOUN	REPUBBLICA	avevo paura di non far- ce- la , sentivo un appesantimento muscolare  ha detto la piemontese , che dopo	un lungo duello	è riuscita a staccare l estone al 35 km.  È importantissimo per me aver vinto qui , avevo iniziato la
+
+0	27	0	lungo elenco
+						DET ADV NOUN	REPUBBLICA	, il poliziotto ( ora funzionario ) che riuscì a vincere la malavita ; da Rocky Graziano a Carnera ,	un lungo elenco	di carriere  guidate  .
+						DET ADV NOUN	REPUBBLICA	 imprese rilevanti per l economia nazionale  o la gestione di  imprese individuali della medesima rilevanza  (	un lungo elenco	comprende i settori della difesa , delle telecomunicazioni e dell informazione ; delle concessionarie di servizi per conto della pubblica amministrazione
+						DET ADV NOUN	REPUBBLICA	, in particolare per quanto riguarda la frizzante e velenosa  Nun te reggae più  , dove si snocciolava	un lungo elenco	di nomi e cose che proprio non si sopportavano più .
+						DET ADV NOUN	REPUBBLICA	Contro il commercio archeologico clandestino facciamo il possibile , aggiunge mettendo- ci davanti	un lungo elenco	di operazioni di recupero .
+						DET ADV NOUN	REPUBBLICA	Dovrebbero , Ulivo , Polo e Lega , metter- si d accordo su	un lungo elenco	: riforma elettorale , dello Stato , tre leggi finanziarie , la lira , privatizzazioni , Rai , antitrust ...
+						DET ADV NOUN	REPUBBLICA	Fiocchi , la legge che dovrebbe metter- ci in regola con le norme Cee , ma che è in realtà	un lungo elenco	di deroghe concesse alle Regioni e che non a caso ha come secondo firmatario uno dei maggiori fabbricanti di cartucce ,
+						DET ADV NOUN	REPUBBLICA	In altri messaggi era la stessa Stefania , o il suo vero fidanzato , a metter- si sul mercato con	un lungo elenco	di prestazioni e prezzi .
+						DET ADV NOUN	REPUBBLICA	L analisi del management su Enimont è soprattutto	un lungo elenco	di manchevolezze che ostacolano la realizzazione della massima efficienza .
+						DET ADV NOUN	REPUBBLICA	La diagnosi , dopo due ore di suspense , era	un lungo elenco	: trauma cranico commotivo ; trauma chiuso del torace con frattura della terza , della quarta e della quinta costole destre
+						DET ADV NOUN	REPUBBLICA	Le anomalie italiane sono molte : per citar- le anche di sfuggita bisognerebbe fare	un lungo elenco	.
+						DET ADV NOUN	REPUBBLICA	Loro , comunque , sembrano conoscer- li già , visto che ieri hanno fornito	un lungo elenco	di cifre che però confermano ancora una volta come le interruzioni di gravidanza siano in costante diminuzione .
+						DET ADV NOUN	REPUBBLICA	MILANO Sembrano liste della spesa , ma su quei quattro fogli di bloc notes a quadretti c è	un lungo elenco	di nomi turchi , con a fianco le quote pagate per attraversare la frontiera con la Svizzera : Ciftlik ha versato
+						DET ADV NOUN	REPUBBLICA	Perché , diciamo- ci la verità , senza bisogno di tirare fuori	un lungo elenco	: finora il professore nelle ore di vigilia ci ha sempre raccontato che va tutto bene poi , quando le cose
+						DET ADV NOUN	REPUBBLICA	Probabile che il business fosse nel suo Dna , tenuto conto dell albero genealogico che era soprattutto	un lungo elenco	di banchieri , armatori e industriali .
+						DET ADV NOUN	REPUBBLICA	business della speculazione ambientale , le cosche lo difendono con tutti i mezzi : il rapporto dell Osservatorio carabinieri-Legambiente contiene	un lungo elenco	di attentati contro amministratori , auto fatte saltare in aria , ruspe distrutte a colpi di tritolo .
+						DET ADV NOUN	REPUBBLICA	colpo ma siamo l impresa leader e abbiamo le risorse per restar- lo  ) , ma poi si passa	un lungo elenco	di critiche che investono pesantemente il vertice dell azienda : le rigidità burocratiche che ingessano e irrigidiscono la televisione pubblica ,
+						DET ADV NOUN	REPUBBLICA	diventerà operativo l intero sistema produttivo dovrà adeguar- si perché la  sporca dozzina  è solo la testa di	un lungo elenco	di sostanze nocive da eliminare .
+						DET ADV NOUN	REPUBBLICA	già cattura- ti La vita della banda ricostruita in un rapporto della squadra mobile Soltanto Domenico Pace ha sulle spalle	un lungo elenco	di denunce .
+						DET ADV NOUN	REPUBBLICA	giorni scorsi per la vertenza di un milione e 150 mila docenti e non docenti , si è chiuso con	un lungo elenco	di pregiudiziali e un annuncio : Se il governo non terrà fede allo spirito e alla lettera dell intesa preliminare raggiunta
+						DET ADV NOUN	REPUBBLICA	gli altri giudici istruttori del pool antimafia parlano infatti di  tremendi segreti ancora inesplorati  e fanno subito dopo	un lungo elenco	di  buchi neri  presenti nelle loro quasi 9.000 pagine di lavoro investigativo .
+						DET ADV NOUN	REPUBBLICA	ha avviato le conclusioni di quella che sarebbe dovuta essere la giornata chiave del summit ma che ha registrato solo	un lungo elenco	di tiepide promesse .
+						DET ADV NOUN	REPUBBLICA	oggi presidente della Fia , ha preso il coraggio a quattro mani presentando- si davanti a centinaia di giornalisti con	un lungo elenco	di regole tecniche .
+						DET ADV NOUN	REPUBBLICA	risponde in fondo anche  X  , un inquietante mini-zibaldone in terza persona che rifonde , scandendo- li in	un lungo elenco	, sogni e allucinazioni , tranches de vie e riflessioni , rilievi linguistici e scioglilingua .
+						DET ADV NOUN	REPUBBLICA	sera a Milano si sono precipitati a fare spese tra San Babila e via Montenapoleone e ai suoi ha fatto	un lungo elenco	di insidie e difficoltà .
+						DET ADV NOUN	REPUBBLICA	si dopo essere stato travolto nel maggio scorso dall inchiesta del tribunale di Bari che lo vede sotto accusa per	un lungo elenco	di reati : dalla malversazione ai danni dello Stato alle false comunicazioni sociali , da manovre fraudolente sui titoli della partecipata
+						DET ADV NOUN	REPUBBLICA	si prepara a commissariar- la , come le altre muncipalizzate , ignorando i curriculum già deposita- ti in Comune da	un lungo elenco	di aspiranti alle presidenze .
+						DET ADV NOUN	REPUBBLICA	tutti gli altri lavoratori li hanno seguiti , mentre i monitor del grande salone delle partenze internazionali di Fiumicino riportavano	un lungo elenco	di ritardi indefiniti .
+
+0	4	0	lungo esilio
+						DET ADJ ADV NOUN	REPUBBLICA	si ai compromessi e da accettare condizioni che vadano contro tutto ciò per il quale ha lottato prima e durante	il suo lungo esilio	esilio .
+						DET ADV NOUN	REPUBBLICA	nel diario di un grande scrittore russo , Vasilij Aksionov , tornato in patria , come Aleksandr Solgenitsyn , dopo	un lungo esilio	:  Uno ha l impressione che tutta la vita della Russia è stata contaminata dai sottoprodotti della decomposizione del comunismo
+						DET ADV NOUN	REPUBBLICA	paragonar- si al grande direttore d orchestra che , in seguito a quell increscioso episodio , lasciò l Italia per	un lungo esilio	negli Stati Uniti :  Per quanto mi concerne si tratta di una cosa ancora più grave , perché oggi non
+						DET ADV NOUN	REPUBBLICA	si lo fanno in Francia , dove le leggi mussoliniane contro gli ebrei li hanno sospinti come prima tappa di	un lungo esilio	che , alla fine , avrà gli Stati Uniti per traguardo obbligato sotto la pressione del nazismo dilagante in Europa .
+
+0	1	0	lungo falsopiano
+						DET ADV NOUN	REPUBBLICA	ora avrà a disposizione discese e SuperG : è di nuovo competitivo , c era da aspettar- se- lo 	Il lungo falsopiano	è la vera trappola Ha una percentuale più alta di Stenmark .
+
+0	1	0	lungo film
+						DET ADV NOUN	REPUBBLICA	Io credo che oggi bisogna decider- si tra il realizzare	un lungo film	-- e allora dev essere davvero di sei , sette o otto ore -- oppure far- lo breve , ma che
+
+0	2	0	lungo fiume
+						DET ADV NOUN	REPUBBLICA	Prima imponendo- si all attenzione generale con La vita è	un lungo fiume	tranquillo , che fu nell 89 campione d incassi in Francia , ed ora con il gustoso , originale Zia Angelina
+						DET ADV NOUN	REPUBBLICA	cosa calda , dove non avevi paura , dove potevi far vedere ai bambini che la partita può anche essere	un lungo fiume	tranquillo .
+
+0	1	0	lungo flasback
+						DET ADV NOUN	REPUBBLICA	, almeno all inizio , districar- si fra i personaggi , gli episodi , i riferimenti storici e politici di	quel lungo flasback	che è il film .
+
+0	1	0	lungo forum
+						DET ADV NOUN	REPUBBLICA	i sostituti Gherardo Colombo e Piercamillo Davigo che ieri a Roma -- nella redazione di Repubblica -- hanno partecipato a	un lungo forum	.
+
+0	1	0	lungo frammento
+						DET ADV NOUN	REPUBBLICA	alla fine sono i Dust Brothers , il cui pezzo nasconde in finale una gustosa  ghost track  con	un lungo frammento	dei dialoghi del film , tutto dedicato al grande complotto che costituisce la trama superiore delle avventure di  X-Files
+
+0	1	0	lungo funerale
+						DET ADV NOUN	REPUBBLICA	si per strada , di chiamar- si fuori da quell estremo tentativo di salvare il Tour che è poi stato	un lungo funerale	: la Once , la Banesto , la Riso Scotti si sono ritirate .
+
+0	1	0	lungo gambo
+						DET ADV NOUN	REPUBBLICA	ambasciatore robot aveva sputato fuori due passeggeri , Scott e Amundsen , due sondine a forma di grossa rapa con	un lungo gambo	battezzate con i nomi dei grandi esploratori antartici .
+
+0	1	0	lungo getto
+						DET ADV NOUN	REPUBBLICA	e sarà fatto solo durante il rilascio del satellite ) e liberando- si dei liquidi di scarto dell equipaggio con	un lungo getto	d acqua subito trasformato in neve .
+
+0	2	0	lungo gioco
+						DET ADV NOUN	REPUBBLICA	Pippo , insieme a Brando Giordani e Paolo Giaccio , cerca di spiegare il senso del torneo in arrivo :	un lungo gioco	a squadre , con dodici rappresentative l una contro l altra armate , a colpi di numeri di varietà , e
+						DET ADV NOUN	REPUBBLICA	per alcuni signori addirittura ossessiva e a isolar- si rispetto a colei che ne è la supposta portatrice , in	un lungo gioco	di contrasti e di supposizioni , inventando sempre nuove frontiere da infrangere senza arrivare all inafferrabile soluzione , mentre s investono
+
+0	1	0	lungo giorno
+						DET ADV NOUN	REPUBBLICA	l Italia il suo nuovo film sin da quando Davis ha cominciato a scriver- ne la sceneggiatura : si intitola	Il lungo giorno	finisce , racconta l antefatto di Voci lontane sempre presenti , e si gira a Liverpool proprio in questi giorni .
+
+0	18	0	lungo giro
+						DET ADJ ADV NOUN	REPUBBLICA	a compier- la lo stesso : per far sì che il peregrinare sui luoghi di Cristo diventi l ultima tappa	del suo lungo giro	giro del mondo terreno .
+						DET ADV NOUN	REPUBBLICA	è partito alle nove di mattina da Piazza Maggiore per tornar- ci un ora e mezza più tardi , dopo	un lungo giro	per le vie del centro storico .
+						DET ADV NOUN	REPUBBLICA	Con un vecchio attore insabbiato- si qui dalla fine dei Trenta , Yuri Malinowski , faccio	un lungo giro	di quel che rimane della Yalta Bianca .
+						DET ADV NOUN	REPUBBLICA	Il  premier  cinese proveniva dal Brasile dove ha iniziato	un lungo giro	per l America Latina che si concluderà in Venezuela .
+						DET ADV NOUN	REPUBBLICA	Il premier , ieri , ne ha parlato in	un lungo giro	di colloqui .
+						DET ADV NOUN	REPUBBLICA	Intanto lo cercavano : avevano paura che volesse ammazzar- si ; invece ha fatto	un lungo giro	e , all ora di cena , ha bussato accompagnato dall avvocato alla porta del commissariato di Porta Ticinese , dalla
+						DET ADV NOUN	REPUBBLICA	L aereo ferito , nascosto nell hangar delo squadrone  VMAQ 2  , dove si arriva dopo	un lungo giro	tra i campi all interno della base , è sorvegliato da una dozzina di marines .
+						DET ADV NOUN	REPUBBLICA	La sua tournée è infatti agli sgoccioli ,	un lungo giro	che in più di un anno lo ha portato a suonare in tutto il mondo .
+						DET ADV NOUN	REPUBBLICA	Lo dice , incalzato dalle domande dei cronisti che riescono a strappar- gli una impressione dopo	un lungo giro	d orizzonte .
+						DET ADV NOUN	REPUBBLICA	Per capir- lo , il magistrato -- che venerdì ha effettuato	un lungo giro	in elicottero per render- si conto della situazione in val Veny -- affiderà nei prossimi giorni una consulenza tecnica , ma
+						DET ADV NOUN	REPUBBLICA	chi non poteva muover- si per un pezzo di Roma era troppo carica per essere innescata solo dal fastidio di	un lungo giro	, battute e commenti di chi capitava da quelle parti erano troppo amari e malevoli per nascere da antica e bonaria
+						DET ADV NOUN	REPUBBLICA	cominciato a snodar- si al centro della città verso le 16 , passando per la zona universitaria e tornando dopo	un lungo giro	in piazza Maggiore .
+						DET ADV NOUN	REPUBBLICA	di Myers , tra Pesaroe Rimini , dietro cui potrebbero esser- ci i soldi di un grande club o addirittura	un lungo giro	: la Stefanel che si trasferisce a Milano portando- si appunto Carlton .
+						DET ADV NOUN	REPUBBLICA	di rafforzare la collaborazione Le curiosità del summit UNA LUNGA PASSERELLA METTE IN CRISI IL CANCELLIERE GIGANTE Forse costretti a	un lungo giro	in macchina NOORDWIJK -- Quasi sempre i vertici europei soffrono di qualche problema organizzativo che diventa poi oggetto di polemiche e
+						DET ADV NOUN	REPUBBLICA	impegnato nel sostegno del progetto egiziano da esser- si recato personalmente al Cairo , e Peres era appena tornato da	un lungo giro	di consultazioni negli Stati Uniti .
+						DET ADV NOUN	REPUBBLICA	in tutto il mondo , Dylan scelga di ritornare sulla strada con il più grande tour da lui intrapreso ,	un lungo giro	del mondo in compagnia della più classica delle rock band statunitensi di oggi , gli  spezzacuori  di Tom Petty
+						DET ADV NOUN	REPUBBLICA	perfezionato un contratto di vendita del proprio sistema informativo con una delle più importanti banche del Belgio che ha compiuto	un lungo giro	d orizzonte visitando le più avanzate società di factoring in Europa e negli Stati Uniti per scegliere un pacchetto di software
+						DET ADV NOUN	REPUBBLICA	strenuamente e ha impedito all assalitore ( uno solo ha tentato lo stupro mentre l altro guidava la macchina in	un lungo giro	durato poco meno di mezz  ora ) di strappar- le i vestiti di dosso ma ha dovuto subire ciò che
+
+0	2	0	lungo i
+						DET ADJ ADV NOUN	REPUBBLICA	Mentre gli altri , i non ricchi , cominciarono a ritirar- si	alla spicciolata lungo i	i sentieri meno frequentati e i mari interni meno ambiti d Europa .
+						DET ADV NOUN	REPUBBLICA	per tutta la settimana del summit , verrà assicurato anche presso le sedi delle più importanti emittenti televisive , oltre	che lungo i	percorsi previsti per i cortei ufficiali ) e , naturalmente , all interno , all esterno e in tutta la zona
+
+0	1	0	lungo immobilismo
+						DET ADV NOUN	REPUBBLICA	Il governo del premier Fitzgerald , di centro sinistra , si sta sforzando di uscire da	un lungo immobilismo	che ritiene dannosa per lo sviluppo del paese : ha firmato con Londra un accordo criticato di più accesi nazionalisti (
+
+0	2	0	lungo impegno
+						DET ADJ ADV NOUN	REPUBBLICA	cui la società stessa continuerà ad avvaler- si per importanti incarichi , sono stati espressi calorosi apprezzamenti e ringraziamenti per	il suo lungo impegno	impegno professionale e manageriale dedicato all azienda .
+						DET ADV NOUN	REPUBBLICA	una grazia ricevuta merito della dabbenaggine altrui , piuttosto che per la soddisfazione di avere ottenuto il giusto compenso per	un lungo impegno	.
+
+0	19	0	lungo incontro
+						DET ADV NOUN	REPUBBLICA	, Dario Franceschini , alla fine di una giornata intensa e complicata per l area cattolica , segnata anche da	un lungo incontro	tra Franco Marini e Francesco Cossiga .
+						DET ADV NOUN	REPUBBLICA	È stato il tenace commissario europeo alla concorrenza Karel Van Miert ad annunciar- lo ieri sera , dopo	un lungo incontro	chiarificatore , svolto- si a Bruxelles , con Agostino Gambino , ministro italiano delle Poste e Telecomunicazioni .
+						DET ADV NOUN	REPUBBLICA	Da domani il premier ( ieri per tutto il giorno a palazzo Chigi , ha avuto	un lungo incontro	con Veltroni ) avvierà i primi incontri e comincerà a misurare condizioni e pretese degli alleati per una ripresa che segnali
+						DET ADV NOUN	REPUBBLICA	E a dar- gli man forte arriva Fabio Mussi che ieri sera ha avuto	un lungo incontro	con Walter Veltroni e Massimo D Alema .
+						DET ADV NOUN	REPUBBLICA	E così ieri mattina Berlusconi ha deciso di muover- si di persona ed è andato a palazzo di Giustizia per	un lungo incontro	( un ora ) con il presidente vicario del Tribunale di Milano , Diego Curtò , che è anche presidente della
+						DET ADV NOUN	REPUBBLICA	L indicazione che trova ampi riscontri in ambienti finanziari , pur essendo priva di conferme ufficiali , è giunta dopo	un lungo incontro	protratto- si da metà mattinata sino al tardo pomeriggio in Mediobanca , al quale hanno partecipato tra gli altri Raul Gardini
+						DET ADV NOUN	REPUBBLICA	Ondangwa , il presidente del Consiglio di sicurezza , il sovietico Alexander Belonogov , ha avuto , ieri pomeriggio ,	un lungo incontro	con il segretario generale dell Onu Perez de Cuellar e ha deciso di riunire in serata il Consiglio .
+						DET ADV NOUN	REPUBBLICA	Per preparar- si all appuntamento con la Fiat ieri i vertici confederali della Cgil hanno avuto	un lungo incontro	con i responsabili della Fiom ed è in questa sede che tre segretari nazionali dei metalmeccanici , Giorgio Cremaschi , Paolo
+						DET ADV NOUN	REPUBBLICA	Sarebbe stato lo stesso mago inglese a far- gli aprire gli occhi nel corso di	un lungo incontro	notturno .
+						DET ADV NOUN	REPUBBLICA	Sull intera riforma , dopo aver- ne parlato il giorno precedente con Amato , il ministro ha avuto	un lungo incontro	ieri con De Mita .
+						DET ADV NOUN	REPUBBLICA	a Belgrado pare abbiano visto anche la presenza discreta del generale Mladic : lo sostiene Nase Borba che parla di	un lungo incontro	tra il generale ed il mediatore europeo Carl Bildt .
+						DET ADV NOUN	REPUBBLICA	ancora chiaro : per render- lo possibile ha dovuto recuperare il dialogo e la legittimazione di Mosca ( ha avuto	un lungo incontro	a Berlino con Gorbaciov in aprile ) e ammorbidire le frange radicali vicine alla Siria .
+						DET ADV NOUN	REPUBBLICA	casa  ) , il responsabile amministrativo Massimo Garzilli non ha mutato ieri il suo programma di lavoro che prevedeva	un lungo incontro	con il consiglio di fabbrica per questioni di inquadramento e di organico .
+						DET ADV NOUN	REPUBBLICA	come Anatolij Cjubais , attuale eminenza grigia del Cremlino che , sempre secondo la Tass , proprio ieri ha avuto	un lungo incontro	con il leader .
+						DET ADV NOUN	REPUBBLICA	del pomeriggio il presidente della Repubblica ha interrotto il suo silenzio soltanto per consultar- si con pochissimi : ha avuto	un lungo incontro	con Scalfaro e il presidente della Camera è stato così il primo in assoluto a essere messo al corrente della decisione
+						DET ADV NOUN	REPUBBLICA	dovuto scattare domenica prossima , è comunque slittato di una settimana  per consentir- ne il riesame  , dopo	un lungo incontro	che ieri Locatelli ha avuto con i sindacati .
+						DET ADV NOUN	REPUBBLICA	e Mandela , finalmente di nuovo faccia a faccia dopo la rottura delle trattative quattro mesi fa , hanno avuto	un lungo incontro	protratto- si per l intera giornata di ieri .
+						DET ADV NOUN	REPUBBLICA	generale dello Stato , Andrea Monorchio , e dallo staff tecnico della Ragioneria , ha dedicato l intera mattinata ad	un lungo incontro	con i colleghi Luigi Spaventa ( ministro del Bilancio ) e Sabino Cassese ( Funzione Pubblica ) .
+						DET ADV NOUN	REPUBBLICA	le mattine mi alzo pregando Iddio di evitar- me altre soprese  , ha ieri ammesso candidamente il presidente in	un lungo incontro	con un centinaio di turisti , in diretta alla Tv .
+
+0	4	0	lungo incubo
+						DET ADV NOUN	REPUBBLICA	Helen chiamerà Candyman , finendo per smarrir- si in	un lungo incubo	che le farà perdere l occasione di terminare la tesi , ma promuoverà anche lei al rango di mito metropolitano .
+						DET ADV NOUN	REPUBBLICA	Il paese e il popolo sembrano ancora non esser- si del tutto liberati da	un lungo incubo	, e la campagna elettorale non fa che rispondere a questi slogan cercando di catturar- ne la promessa di un voto
+						DET ADV NOUN	REPUBBLICA	La capitale del piccolo paese centroamericano sembra esser- si risvegliata da	un lungo incubo	.
+						DET ADV NOUN	REPUBBLICA	Quell uppercut sulla destra e quel diretto al centro stanno per mettere fine a	un lungo incubo	, alla tragedia di un fronte che divide in due l Italia e che , nel volontario letargo invernale degli alleati
+
+0	2	0	lungo infortunio
+						DET ADJ ADV NOUN	REPUBBLICA	appartiene ad un altro farmaco , magari uno di quelli che il giocatore ha assunto per recuperare la forma dopo	il suo lungo infortunio	infortunio .
+						DET ADV NOUN	REPUBBLICA	, io i giocatori ho bisogno di veder- li in campo  , il secondo è rientrato da poco dopo	un lungo infortunio	,  aspettiamo e vediamo come sta  .
+
+0	5	0	lungo inseguimento
+						DET ADJ ADV NOUN	REPUBBLICA	L anima cerca Dio : crede di conoscer- lo -- e alla fine	del suo lungo inseguimento	inseguimento scopre che tra lei e Dio non c è nessun rapporto , o che l unico legame che li stringe
+						DET ADV NOUN	REPUBBLICA	, e in un finale  travolgente  descrive la lotta tra Ray e Charlie , che danno vita a	un lungo inseguimento	dalla Pennsylvania fino a Long Island .
+						DET ADV NOUN	REPUBBLICA	Da Bugno innanzitutto , distinto- si in	un lungo inseguimento	alle spalle di Lauritzen ( in fuga solitaria per oltre 100 km ) e attivissimo nel finale più acceso .
+						DET ADV NOUN	REPUBBLICA	I testimoni sono riusciti ad appuntar- si il numero di targa di tre macchine e la polizia , dopo	un lungo inseguimento	ha intercettato le auto in fuga .
+						DET ADV NOUN	REPUBBLICA	infranta in un alba ormai storica per la boxe , da Muhammad Alì-Cassius Clay che in quell occasione , dopo	un lungo inseguimento	, si era riappropriato del titolo mondiale dei massimi che non aveva perduto sul ring ma che gli era stato sottratto
+
+0	1	0	lungo interesse
+						DET ADJ ADV NOUN	REPUBBLICA	le alture del paesaggio letterario internazionale , facendo narrativa , una fiction nuovissima , con un impiego meditato e cool	del suo lungo interesse	interesse per i testi  difficili  del pensiero scientifico .
+
+0	4	0	lungo interrogatorio
+						DET ADV NOUN	REPUBBLICA	A rivelar- lo è stato il difensore di Pollini , l avvocato Emilio Ricci , a conclusione di	un lungo interrogatorio	al quale l ex dirigente del partito è stato sottoposto nel pomeriggio dai magistrati .
+						DET ADV NOUN	REPUBBLICA	I familiari di Luigi Lombardini -- il magistrato suicidato- si l 11 agosto nel Palazzo di giustizia di Cagliari dopo	un lungo interrogatorio	da parte del pool di Palermo -- hanno presentato un esposto al ministro della Giustizia e al procuratore presso la Cassazione
+						DET ADV NOUN	REPUBBLICA	Potrebbe trattar- si di una ex terrorista oppure di una latitante comune Il riserbo è strettisimo Allarme in Procura per	un lungo interrogatorio	.
+						DET ADV NOUN	REPUBBLICA	l aeroporto dove avrei dovuto atterrare era stato circondato , ogni donna che scendeva dagli aerei era stata sottoposta ad	un lungo interrogatorio	e ben identificata , la mia abitazione era pure stata circondata dalle guardie di Zia e così pure quelle dei nostri
+
+0	6	0	lungo intervento
+						DET ADJ ADV NOUN	REPUBBLICA	divider- lo al suo interno , sabotar- ne la bussola , è invece il proposito che Massimo D Alema espone	nel suo lungo intervento	intervento al summit dell Ulivo .
+						DET ADV ADJ NOUN	REPUBBLICA	Per tentare di salvar- le la vita l hanno sottoposta ad	un lungo delicato intervento	chirurgico durato tre ore .
+						DET ADV NOUN	REPUBBLICA	, nel suo esposto-denuncia davanti al pool milanese di Mani Pulite adesso Luciano Nizzola si è fatto vivo , con	un lungo intervento	ad un agenzia di stampa , dal Kenya dov è in vacanza ( sino al 21 agosto ) .
+						DET ADV NOUN	REPUBBLICA	Ma gli attacchi Verdiglione li lascia ad altri , lui mira solo a difender- si ( in	un lungo intervento	di apertura ) fornendo una immagine composta , non arrogante , sicura dei propri meriti scientifici .
+						DET ADV NOUN	REPUBBLICA	Piegando le ultime resistenze nei palazzi apostolici , manifestate- si ancora il 25 aprile quando l Osservatore Romano uscì con	un lungo intervento	che rivendicava le ragioni della Resistenza .
+						DET ADV NOUN	REPUBBLICA	Quando il premier ha fatto il suo ingresso in aula , un vecchio deputato laburista stava pronunciando	un lungo intervento	di critica all appoggio tattico fornito dalla Thatcher agli americani all epoca del bombardamento sulla Libia .
+
+0	2	0	lungo inverno
+						DET ADV NOUN	REPUBBLICA	Australia ad allenar- si tra inverno e primavera per abituar- si piano piano al caldo , evitare i traumi di	un lungo inverno	sui nostri laghetti .
+						DET ADV NOUN	REPUBBLICA	le strade dell Aquitania e della Guascogna , del Tolosano , dell Alvernia e della Provenza , i rovi di	un lungo inverno	poetico .
+
+0	4	0	lungo iter
+						DET ADJ ADV NOUN	REPUBBLICA	ROMA -- Lo scandalo baseball è ad una svolta decisiva	nel suo lungo iter	iter giudiziario .
+						DET ADV NOUN	REPUBBLICA	Per ottener- le comincia	un lungo iter	burocratico cercando via via sedi di giudizio sempre più alte .
+						DET ADV NOUN	REPUBBLICA	Per superar- le , nel dicembre 91 è stata approvata una legge che ha avuto	un lungo iter	procedurale e che destina 1500 miliardi ai Comuni .
+						DET ADV NOUN	REPUBBLICA	chi gestisce la Rai in questo momento , rammentando- gli che il piano triennale appena consegnato ha davanti a sé	un lungo iter	istituzionale .
+
+0	1	0	lungo itinerario
+						DET ADJ ADV NOUN	REPUBBLICA	Sa però di avvicinar- si però alla fine	del suo lungo itinerario	itinerario .
+
+0	3	0	lungo lancio
+						DET ADV NOUN	REPUBBLICA	d obbligo , dunque , accontentar- si per ora della modesta verve della 1600 , che ha comunque -- dopo	un lungo lancio	-- una velocità superiore ai 170 Km / h .
+						DET ADV NOUN	REPUBBLICA	la è stato il Messico a cui ne sono riusciti due : al 22  con Quirarte che ha raccolto	un lungo lancio	di Boy , al 38  con Sanchez ( ammonito al 27  ) che approfittava di un calcio d angolo
+						DET ADV NOUN	REPUBBLICA	un finlandese che disperatamente cercava di interromper- ne la progressione bellissima ed efficace , colpendo poi di destro a seguire	un lungo lancio	di Platini .
+
+0	1	0	lungo legame
+						DET ADV NOUN	REPUBBLICA	Spoto si mettono in dubbio tutti questi flirt eterosessuali , ridotti a tempestose amicizie , mentre si dà per certo	un lungo legame	utilitaristico con Roger Brackett , un ricco pubblicitario di 15 anni più vecchio di lui .
+
+0	13	0	lungo letargo
+						DET ADJ ADV NOUN	REPUBBLICA	Altre iniziative sono state annunciate , con le quali il ministero dei beni culturali sembra destar- si	dal suo lungo letargo	letargo .
+						DET ADJ ADV NOUN	REPUBBLICA	La politica estera italiana , che in questi ultimi tempi sembra esser- si svegliata	dal suo lungo letargo	letargo con iniziative a getto continuo , aveva trovato un altro obiettivo .
+						DET ADV NOUN	REPUBBLICA	) che d un tratto gli promette un giudice cileno svegliato- si di soprassalto da	un lungo letargo	.
+						DET ADV NOUN	REPUBBLICA	Benvenuto accenna  all improvvisa carica di creatività politica dei gruppi parlamentari svegliati- si da	un lungo letargo	 e ricorda il momento dello  sbandamento  subito dopo il voto della Camera sulle richieste di autorizzazione a procedere
+						DET ADV NOUN	REPUBBLICA	Emozionato Sergio D Antoni davanti alla sua città , improvvisamente risvegliata- si da	un lungo letargo	.
+						DET ADV NOUN	REPUBBLICA	Gli impiegati sembrano svegliar- si da	un lungo letargo	.
+						DET ADV NOUN	REPUBBLICA	Molto ovattato , invece , il movimento della Ifi , la cassaforte di casa Agnelli , risvegliata- si dopo	un lungo letargo	.
+						DET ADV NOUN	REPUBBLICA	Soltanto ora le ferrovie stanno svegliando- si da	un lungo letargo	.
+						DET ADV NOUN	REPUBBLICA	Trascurati gli assicurativi , migliore Pirelli tra gli industriali come pure Parmalat che sembra esser- si risvegliata da	un lungo letargo	( + 4,98 per cento ) grazie all interesse di operatori esteri .
+						DET ADV NOUN	REPUBBLICA	l entusiasmo che tutto questo suscita in Italia : non sono queste le prove che forse stiamo ridiventando , dopo	un lungo letargo	, una nazione marinara ?
+						DET ADV NOUN	REPUBBLICA	qui alle nostre latitudini , con perturbazioni , ora deboli ora intense , che spesso sembrano risvegliar- si bruscamente da	un lungo letargo	estivo .
+						DET ADV NOUN	REPUBBLICA	su un suo possibile disimpegno da Credem ) e gli assicurativi trainati da Generali che sembra esser- si svegliata da	un lungo letargo	.
+						DET ADV NOUN	REPUBBLICA	universitaria promossa dal ministro socialista e suggerisce di non far- si ingabbiare nell agitazione demagogica fomentata da chi , dopo	un lungo letargo	, è oggi spaventato dal rischio di un successo riformista .
+
+0	1	0	lungo linea
+						DET ADV NOUN	REPUBBLICA	Pete non poteva far altro che difender- si , o tentare -- oh , poche volte --	un lungo linea	di rovescio .
+
+0	1	0	lungo litigio
+						DET ADV NOUN	REPUBBLICA	li tutti , i loro sketch , ma contentiamo- ci di citare l ultimo dei pochi che fanno insieme :	un lungo litigio	muto , su musica ( sinfonica e ovviamente tempestosa ) , durante il quale tutti i rinfacci sono pratica- ti ,
+
+0	1	0	lungo mantello
+						DET ADV NOUN	REPUBBLICA	Per una lei in grigio perla dal decolleté ricamato di tulle e cristalli e le spalle avvolte in	un lungo mantello	col collo di organza a ruches così fitte da sembrare pelliccia .
+
+0	1	0	lungo memoriale
+						DET ADV NOUN	REPUBBLICA	A raccontar- lo , in	un lungo memoriale	pervenuto ieri a  Repubblica  in una busta bianca con il timbro  On. Bettino Craxi  , è l
+
+0	1	0	lungo menù
+						DET ADV NOUN	REPUBBLICA	Al ristorante dell hotel Moskva i camerieri in smoking pongono	un lungo menù	, poi confessano che non sono disponibili più di tre o quattro piatti .
+
+0	1	0	lungo mese
+						DET ADV NOUN	REPUBBLICA	, dei numeri planetari della più grande festa popolare del mondo , le città toccate dal Mondiale , per tutto	un lungo mese	di estate si trasformino in fortezze , abbiano le piazze presidiate come per l attesa dei più luttuosi eventi di terrorismo
+
+0	1	0	lungo messaggio
+						DET ADV NOUN	REPUBBLICA	giorno prima a Milano un anonimo , che ha detto di parlare a nome della tedesca Raf , ha dettato	un lungo messaggio	di adesione e di sostegno militare alla Falange armata .
+
+0	2	0	lungo momento
+						DET ADV NOUN	REPUBBLICA	All inizio il sapiente non trova gusto alle cose e vuole suicidar- si per noia non per disperazione , per	un lungo momento	di giovinezza si immerge in esse con coraggio e disperasione ; ritornato vecchio ritrova lo spleen , che lo porta fino
+						DET ADV NOUN	REPUBBLICA	costringendo- lo per giorni e giorni all immobilità , quindi ad una serie di gesti contraddittori , e infine ad	un lungo momento	di totale perdita di controllo della situazione .
+
+0	1	0	lungo muro
+						DET ADV NOUN	REPUBBLICA	dovuto liberare qualche ettaro di baracche , che si sono spostate dall altro lato della strada , opportunamente mimetizzate dietro	un lungo muro	dipinto con graffiti variopinti .
+
+0	1	0	lungo naso
+						DET ADJ ADV NOUN	REPUBBLICA	di un altra bruttona la poetessa Edith Sitwell , noiosissima al punto da ipnotizzare , ma che forse a causa	del suo lungo naso	naso , non ebbe parti da protagonista nella frenetica attività sessuale dell artistico gruppo .
+
+0	1	0	lungo nastro
+						DET ADV NOUN	REPUBBLICA	cittadella , bianca di tende , rossa di bandiere ( cinquecento , e con la quercia ) e fasciata da	un lungo nastro	rosso-verde .
+
+0	1	0	lungo paradosso
+						DET ADV NOUN	REPUBBLICA	In realtà , a riconsiderar- la col senno di poi , l esperienza della rivista appare nel suo complesso come	un lungo paradosso	: si voleva che la tecnologia industriale divenisse una componente di primo piano dell immaginario artistico contemporaneo , e si ottenne
+
+0	2	0	lungo passo
+						DET ADV NOUN	REPUBBLICA	Per comprender- ne la ragione converrà fare	un lungo passo	indietro nel tempo e tornare al 1969 , quando la commissione parlamentare d inchiesta presieduta dal democristiano Giuseppe Alessi chiese al
+						DET ADV NOUN	REPUBBLICA	Per scoprir- lo , come nei migliori romanzi gialli , sarebbe forse necessario fare	un lungo passo	indietro , un  flash-back  sulla guerra del Vietnam , dove quasi tutti i protagonisti di questa sporca storia (
+
+0	1	0	lungo patto
+						DET ADJ ADV NOUN	REPUBBLICA	tabù , l erosione del cardine principale su cui si resse per oltre trent anni l equazione di Kadar ,	il suo lungo patto	patto con la società ungherese .
+
+0	2	0	lungo pellegrinaggio
+						DET ADV NOUN	REPUBBLICA	 Il vostro -- ricorda Giovanni Paolo II rivolgendo- si ai 20 mila -- è	un lungo pellegrinaggio	che ha attraversato la storia di questo paese venendo da lontano .
+						DET ADV NOUN	REPUBBLICA	Il nonno William e la nonna Antonia , entrambi settantenni , l hanno rapita , trascinando- la in	un lungo pellegrinaggio	.
+
+0	110	0	lungo periodo
+						DET ADV NOUN	REPUBBLICA	Forse la voglia di non sprecare , mettendo- la alla prova , la professionalità acquisita in	un lungo periodo	di lavoro .
+						DET ADV NOUN	REPUBBLICA	Il Piacenza ha avuto la forza di creder- ci , dopo	un lungo periodo	di sbandamento , ed è riuscito a segnare due volte nella stessa partita : impresa che ha pochi riscontri in questo
+						DET ADV NOUN	REPUBBLICA	tutto individuale  , come spiega Roberta De Fabritiis , 33 anni , trainer romana , tornata nella Capitale dopo	un lungo periodo	di apprendistato in California .
+						DET ADV NOUN	REPUBBLICA	Continua intanto il silenzio del tecnico silurato : Bagnoli ha deciso di prender- si	un lungo periodo	di vacanza .
+						DET ADV NOUN	REPUBBLICA	Gli amministratori del Policlinico tirano la cosa per le lunghe , la invitano a prender- si	un lungo periodo	di riposo .
+						DET ADV NOUN	REPUBBLICA	Ma sono l insegnamento e il mondo anglosassone che continuano ad attirar- lo : passa	un lungo periodo	prima in Inghilterra ( dove tiene la cattedra di Studi italiani a Oxford ) , poi negli Stati Uniti , a
+						DET ADV NOUN	REPUBBLICA	4 ) Mio padre , infine , non è mai stato a New York dopo il crack ; ha fatto	un lungo periodo	di carcere preventivo ( quattordici mesi ) a Regina Coeli ed ha pagato con la morte avvenuta soltanto il 3 giugno
+						DET ADV NOUN	REPUBBLICA	Il crack nella patria dei governi stabili è arrivato dopo	un lungo periodo	di polemiche a tre tra Pci , Psi e Pri .
+						DET ADV NOUN	REPUBBLICA	le opinioni rilevate nella nostra inchiesta mensile nessun cataclisma è in vista , al massimo c è da aspettar- si	un lungo periodo	di consolidamento e correzione , durante il quale bisognerà muover- si con precauzione .
+						DET ADV NOUN	REPUBBLICA	con la riduzione dell Iva ( dal 19 al 9 % ) non sapeva che le Ferrovie hanno bisogno di	un lungo periodo	tecnico per riuscire a modificare effettivamente le tariffe .
+						DET ADV NOUN	REPUBBLICA	, legatissimo alla figlia di Zhivkov , quando Ludmilla morì nel 1983 , cadde in disgrazia , e ha passato	un lungo periodo	in Unione Sovietica , non da rifugiato ma da ospite tanto gradito che dal suo recentissimo ritorno in auge l 11
+						DET ADV NOUN	REPUBBLICA	si un Coni più brillante , più attivo , più reattivo in futuro ed era la cosa più auspicabile dopo	un lungo periodo	di dormiveglia  .
+						DET ADV NOUN	REPUBBLICA	Troppo poco tempo è passato perché il nuovo corso possa considerar- si affermato per	un lungo periodo	.
+						DET ADV NOUN	REPUBBLICA	Fino al 1985 si pensava che il suo recupero fosse frutto di una ripresa tendente a privilegiar- la dopo	un lungo periodo	di crisi che in Italia si era fatto sentire più che nel resto dell Europa .
+						DET ADV NOUN	REPUBBLICA	la a diventare assistente per i bambini handicappati o a collaborare per il recupero dei tossicodipendenti , questa attività richiedeva	un lungo periodo	di tirocinio che la ragazza stava facendo al Centro Cremonesini di Pontevico , a due passi dalla casa del ragazzo .
+						DET ADV NOUN	REPUBBLICA	di attenuare senza però risolvere visto che da noi non basta nascere sul suolo nazionale e neppure risieder- vi per	un lungo periodo	di tempo per accedere , come altrove invece accade , automaticamente a un diritto che resta invece delegato a una concessione
+						DET ADV NOUN	REPUBBLICA	si limita a dire , senza troppo sbilanciar- si , che il XX Congresso avrebbe condizionato la scena politica per	un lungo periodo	di tempo .
+						DET ADV NOUN	REPUBBLICA	Ferragosto per avere maggior fresco e per vedere i suoi temporali bagnare i campi ed i boschi resi aridi da	un lungo periodo	di siccità .
+						DET ADV NOUN	REPUBBLICA	A cominciare dal boom di voti repubblicani avuto- si a Riesi dopo	un lungo periodo	di magra .
+						DET ADV NOUN	REPUBBLICA	Ciò vuol dire che al momento l industria automobilistica italiana deve attrezzar- si a fronteggiare	un lungo periodo	di crescenti difficoltà .
+						DET ADV NOUN	REPUBBLICA	da 5 mesi e mezzo e le trattative per rinnovar- lo sono interrotte da 15 giorni e che , dopo	un lungo periodo	di opacità , torna ad avere un ruolo centrale .
+						DET ADV NOUN	REPUBBLICA	In caso di riapertura del processo il poeta-guerrigliero sperava di veder- si commutata la pena in	un lungo periodo	detentivo .
+						DET ADV NOUN	REPUBBLICA	con i suoi bruschi passaggi da un boom a una crisi profonda , e viceversa , potrebbe essere sostituito da	un lungo periodo	di lenta crescita , con inflazione relativamente alta ma stabile , e redditi stagnanti .
+						DET ADV NOUN	REPUBBLICA	Vienna in un centro di riabilitazione a Gars am Kamp , nell Austria meridionale , dove dovrà sottopor- si ad	un lungo periodo	di fisioterapia .
+						DET ADV NOUN	REPUBBLICA	( con il dollaro debole contro yen sotto quota 105 nonostante gli interventi a sostegno ) possa protrar- si per	un lungo periodo	.
+						DET ADV NOUN	REPUBBLICA	Se la situazione politica continua a deteriorar- si , non si vede quale altra strategia possa evitare	un lungo periodo	di caos segnato probabilmente da ripetute elezioni a ritmi serrati .
+						DET ADV NOUN	REPUBBLICA	ammazzerete di nuovo di critiche  diceva Rambaudi , risalito finalmente sul suo piedistallo di fine assistente delle punte dopo	un lungo periodo	di buio , durante il quale è stato spietatamente punzecchiato .
+						DET ADV NOUN	REPUBBLICA	rock , protagonista di un ritorno clamoroso al successo con l acclamato  Supernatural  , fu sessualmente abusato per	un lungo periodo	da un americano quando era un bambino e viveva ancora in Messico .
+						DET ADV NOUN	REPUBBLICA	degli stessi investigatori , Nunzia Graviano non si sottrae al diktat del fratello , ma reagisce sospendendo i colloqui per	un lungo periodo	e obietta che gli argomenti utilizzati le precludono qualsiasi possibilità di una relazione esterna al loro ambiente .
+						DET ADV NOUN	REPUBBLICA	ANALISI Per la società del gruppo Ifi clamoroso rush in Borsa dopo	un lungo periodo	di diffidenza degli investitori .
+
+0	1	0	lungo pezzo
+						DET ADV NOUN	REPUBBLICA	Ma stavolta a raccontar- lo è un amico , uno che ha condiviso con il leader radicale	un lungo pezzo	di strada .
+
+0	2	0	lungo poema
+						DET ADV ADJ NOUN	REPUBBLICA	Giovanni Giudici non ha invece dubbi , tratta- si di  un poema ,	un lungo ossessivo poema	in prosa  , mentre per l allora giovanissimo Corrado Bologna , autore della prima e assai pirotecnica recensione del libro
+						DET ADV NOUN	REPUBBLICA	di William Shakespeare : uno studioso americano , Donald Forter , ha scoperto nella biblioteca di un college di Oxford	un lungo poema	funebre che a suo giudizio è senz altro farina del sacco del sommo drammaturgo inglese .
+
+0	3	0	lungo pomeriggio
+						DET ADV NOUN	REPUBBLICA	Angela Maria Marchetti , la hostess conosciuta al Giro d Italia , e di abbandonare le stanze dove aveva trascorso	un lungo pomeriggio	a raccontare ai giudici dei cinque caffè , della tanta Coca Cola e del té ingurgita- ti quel maledetto giorno d
+						DET ADV NOUN	REPUBBLICA	Ma cercherò comunque di dar- vi conto nel modo più fedele possibile di	un lungo pomeriggio	scandito dal battito di una pendola e trascorso in compagnia di un signore dai capelli candidi e l erre lievemente blesa
+						DET ADV NOUN	REPUBBLICA	Per comprender- lo abbiamo trascorso	un lungo pomeriggio	con tutti e due i Cecchi Gori .
+
+0	1	0	lungo ponte
+						DET ADV NOUN	REPUBBLICA	lo ha difeso bruscamente :  il ministro non è un carcerato , avrà pure il diritto di prender- si	un lungo ponte	 .
+
+0	1	0	lungo pranzo
+						DET ADV NOUN	REPUBBLICA	Si potrebbe guardar- lo anche come una versione più allegra , contemporanea e leggera di 	Il lungo pranzo	di Natale  , anche se qui , anziché di Natale , si tratta di Thanksgiving , la festa del rendimento
+
+0	10	0	lungo processo
+						DET ADV NOUN	REPUBBLICA	 Sarebbe il compier- si di	un lungo processo	di assimilazione di Venezia al peggio della modernità -- dice il deputato verde Gianfranco Bettin -- e finirebbe la città diversa
+						DET ADV NOUN	REPUBBLICA	Anche un economista occidentale ha definito importanti gli aumenti , definendo- li però solo l inizio di	un lungo processo	di riforma .
+						DET ADV NOUN	REPUBBLICA	anche se la decisione del summit non va vista fine a se stessa ma collocata come momento di sutura in	un lungo processo	per conciliare progressivamente le politiche economiche dei Sette .
+						DET ADV NOUN	REPUBBLICA	campo criminale le medesime dinamiche dei contesti più sviluppa- ti dell Occidente , che hanno visto decrescere nel corso di	un lungo processo	di trasformazione l uso della violenza privata .
+						DET ADV NOUN	REPUBBLICA	civile perché , da insegnante con un modesto stipendio , non può permetter- si di pagare un avvocato per seguire	un lungo processo	.
+						DET ADV NOUN	REPUBBLICA	fiorentini , ha brevettato un procedimento assolutamente innovativo , unico in Italia e segretissimo che dietro ai misteri risponde a	un lungo processo	tecnologico e a rigorosi requisiti agronomici .
+						DET ADV NOUN	REPUBBLICA	i protagonisti di un altra rivoluzione ( quella francese dell 89 : esattamente due secoli fa ) lo sottoposero ad	un lungo processo	.
+						DET ADV NOUN	REPUBBLICA	milione e mezzo di dollari per influenzare la selezione di 14.000 delegati seziona- li -- solo il primo passo di	un lungo processo	che porterà alla designazione dei delegati alla convenzione nazionale -- dà una idea di quanto sarà feroce in campo repubblicano la
+						DET ADV NOUN	REPUBBLICA	rilievo del professor Serianni che vorrebbe chiudere il dibattito su dialetto e italiano con questa semplice constatazione :  Dopo	un lungo processo	durato secoli l italiano è la lingua primaria per molti italiani , al Nord più ancora che al Sud  .
+						DET ADV NOUN	REPUBBLICA	verso una nuova costituzione , chiarisce de Klerk all inizio della conferenza stampa al Grand Hotel , essa scaturirà da	un lungo processo	negoziale tra tutti i gruppi e i partiti .
+
+0	1	0	lungo profilo
+						DET ADV NOUN	REPUBBLICA	E l autorevole quotidiano , dedicando- gli	un lungo profilo	elogiativo , afferma che in quattro anni di intense pubbliche relazioni , Petrignani è riuscito a far decollare l Italia dalla
+
+0	1	0	lungo prologo
+						DET ADJ ADV NOUN	REPUBBLICA	, giubbino casual grigio chiaro e jeans da ex sessantottino con qualche velleità di revival , Massimo Anastasi chiude così	il suo lungo prologo	prologo da imputato , davanti alla prima Corte d Assise che deve processar- lo per omicidio .
+
+0	2	0	lungo questionario
+						DET ADV NOUN	REPUBBLICA	A partire dal primo giugno nella contea di Lenawee sarà impossibile sposar- si senza aver seguito corsi e aver riempito	un lungo questionario	per testare l attitudine alla vita matrimoniale .
+						DET ADV NOUN	REPUBBLICA	Al party sono invitate sessanta fortunate lettrici , con accompagnatore o accompagnatrice , che hanno risposto a	un lungo questionario	: scelte tra 35 mila nomi del ricco indirizzario Harmony , hanno le caratteristiche delle lettrici del Romance , o Rosa
+
+0	1	0	lungo ragazzo
+						DET ADV NOUN	REPUBBLICA	la stampa di trovar- si di fronte a grandi attori , a future megastar : mentre poi si tratta di	un lungo ragazzo	insignificante e mielato , che cerca di dar- si un carattere con un berretto blu da marinaio , e di una
+
+0	2	0	lungo ragionamento
+						DET ADJ ADV NOUN	REPUBBLICA	Sotto il palco del congresso si fa largo Buttiglione per complimentar- si con De Mita che ha appena finito	il suo lungo ragionamento	ragionamento .
+						DET ADV NOUN	REPUBBLICA	 È possibile incontrar- si  L ipotesi-Martelli ( pare d	un lungo ragionamento	sul futuro del Psi nel quale si dice che i voti  vengono da tutte le parti  , ma soprattutto
+
+0	1	0	lungo rapimento
+						DET ADV NOUN	REPUBBLICA	più terribile  vendetta trasversale  compiuta contro un pentito ) , ucciso dalle Br romane nel luglio 81 dopo	un lungo rapimento	.
+
+0	3	0	lungo rapporto
+						DET ADV NOUN	REPUBBLICA	Il presidente ha convocato il gabinetto d urgenza per discuter- ne , e dopo	un lungo rapporto	del consigliere della sicurezza Scowcroft ha deciso di prendere posizione a favore della integrità territoriale irachena .
+						DET ADV NOUN	REPUBBLICA	incontrato più tardi i giornalisti che il problema con lui  era squisitamente personale  :  C è stato	un lungo rapporto	costruttivo , la chiusura in definitiva è stata unilaterale  spiega Andrea Melodia  Damato non si sentiva più gratificato dalla
+						DET ADV NOUN	REPUBBLICA	nostra vita , potesse riversar- si , in forme così brutali , su uomini coi quali pure lui ha avuto	un lungo rapporto	, qualcuno dei quali gli ha dato aperture , collaborazione , solidarietà .
+
+0	1	0	lungo recupero
+						DET ADV NOUN	REPUBBLICA	A ben pensar- ci la fiammata di rialzo potrebbe essere se non l avvio di	un lungo recupero	certamente un segnale che qualcosa sta per cambiare , che anche la nostra Borsa potrebbe rimuovere quella cappa di piombo che
+
+0	1	0	lungo referendum
+						DET ADV NOUN	REPUBBLICA	britannico ha da proporre al pubblico , ma al contrario un gigantesco juke-box vivente , con una scaletta costruita dopo	un lungo referendum	tra il pubblico che ha indicato negli scorsi mesi quali fossero le canzoni che avrebbe ascoltato più volentieri .
+
+0	4	0	lungo regno
+						DET ADJ ADV NOUN	REPUBBLICA	Ma il successore di Carlo , Ferdinando IV ,	nel suo lungo regno	regno , finì per battere strade assai diverse  .
+						DET ADJ ADV NOUN	REPUBBLICA	Nella primavera del 1774 , Luigi XV conclude	il suo lungo regno	regno e il nipote gli succede con il nome di Luigi XVI .
+						DET ADJ ADV NOUN	REPUBBLICA	indicato come il  partito della riforma  , embrione di una maggioranza di comodo per gli ultimi due anni	del suo lungo regno	regno .
+						DET ADV NOUN	REPUBBLICA	Major ha ancora bisogno di dimostrar- si paragonabile alla signora Thatcher che lo ha preceduto in	un lungo regno	di undici anni .
+
+0	1	0	lungo repertorio
+						DET ADJ ADV NOUN	REPUBBLICA	il concerto di Nick Cave , elegantissimo nel suo completo color carta da zucchero : un ora di canzoni pescate	nel suo lungo repertorio	repertorio , da  From here to eternity  dell 84 fino ai brani più recenti , e finale memorabile con
+
+0	4	0	lungo riposo
+						DET ADV NOUN	REPUBBLICA	 E pensare che l anno scorso avevo deciso di prender- me	un lungo riposo	.
+						DET ADV NOUN	REPUBBLICA	) dagli  anni di galera  , Verdi avrebbe potuto disporre a piacimento del proprio tempo , goder- si	un lungo riposo	e frattanto dare avvio ai lavori di restauro e di ingrandimento della villa di Sant Agata .
+						DET ADV NOUN	REPUBBLICA	Bisogna trattar- li come i muli da soma per cui	un lungo riposo	è più dannoso della fatica  .
+						DET ADV NOUN	REPUBBLICA	adattar- si e imparano a dormire come i gatti , per pochi minuti alla volta , ma niente può rimpiazzare	un lungo riposo	continuo .
+
+0	1	0	lungo ritiro
+						DET ADV NOUN	REPUBBLICA	andrà a preparar- si in quota con la squadra : proprio in Francia , a Les Deux Alpes ; poi	un lungo ritiro	in Sardegna .
+
+0	1	0	lungo rodaggio
+						DET ADV NOUN	REPUBBLICA	Maranello per ora c è solo una volenterosa comitiva di giovanotti che per competere con i giapponesi avrà bisogno di	un lungo rodaggio	e forse anche di tante testate nel muro .
+
+0	2	0	lungo rosario
+						DET ADV NOUN	REPUBBLICA	avvocato Giovanni Agnelli , stavano per preparar- si ad uscire , che è arrivata la doccia più fredda , dopo	un lungo rosario	di inefficienze della giustizia .
+						DET ADV NOUN	REPUBBLICA	per far- lo sceglie un appuntamento singolare , questo convegno di forlaniani che già alle prime battute esibisce al segretario	un lungo rosario	di spine .
+
+0	3	0	lungo saggio
+						DET ADV NOUN	REPUBBLICA	Lo scrittore ceco torna a interrogar- si sul romanzo moderno in	un lungo saggio	che sta per uscire in Francia .
+						DET ADV NOUN	REPUBBLICA	Quasi impossibile , a meno di addentrar- si in	un lungo saggio	.
+						DET ADV NOUN	REPUBBLICA	intervenuto il restauro , che ha fornito prove schiaccianti alla tesi sostenuta dalla studiosa , ed esposta finora soltanto in	un lungo saggio	apparso sull ultimo numero della rivista scientifica Arte Medievale .
+
+0	3	0	lungo sciopero
+						DET ADV NOUN	REPUBBLICA	Alekseyeva , la quale ha potuto ottenere il visto per emigrare dall Urss , e sposar- si , solo dopo	un lungo sciopero	della fame del marito e dello stesso Sacharov nel 1985 .
+						DET ADV NOUN	REPUBBLICA	contingenti : per protesta contro le molte tasse che gravavano sugli incassi , l industria cinematografica svedese proclamò nel 1951	un lungo sciopero	generale , bloccando ogni produzione .
+						DET ADV NOUN	REPUBBLICA	già ricoverato Antonio Lamarra , detto Cucciolo , il più giovane della gang di Magnis , in gravi condizioni dopo	un lungo sciopero	della fame in carcere .
+
+0	1	0	lungo seminario
+						DET ADV NOUN	REPUBBLICA	, Russell mi invitò a trascorrer- la con lui -- un legame libero -- a Littlewood , dove si tenne	un lungo seminario	e dove fummo felici .
+
+0	2	0	lungo sequestro
+						DET ADJ ADV NOUN	REPUBBLICA	Vorrei far- gli capire che non è mai stato solo durante tutto il periodo	del suo lungo sequestro	sequestro .
+						DET ADV NOUN	REPUBBLICA	La gang di Parma , incapace di gestire un operazione complessa , delicata e rischiosa come	un lungo sequestro	, avrebbe preferito cedere il suo prigioniero agli esperti calabresi .
+
+0	1	0	lungo serpente
+						DET ADV NOUN	REPUBBLICA	di bagliori metallici , Campo dei Fiori si popola di corvi rapaci , la fontana delle Tartarughe viene avvinghiata da	un lungo serpente	di ferro , mentre l elefantino della Minerva si aggira sconsolato sotto la scalinata di piazza di Spagna .
+
+0	1	0	lungo serpentone
+						DET ADV NOUN	REPUBBLICA	gente che il Giro lo voleva vedere sui tornanti più duri della corsa : eravamo lassù , sgranati e dispersi	nel lungo serpentone	di mezzi che precede la corsa , in attesa dell Evento , quando mancavano pochi minuti alle 14 , e la
+
+0	5	0	lungo servizio
+						DET ADV NOUN	REPUBBLICA	  La cultura delle celebrità -- ha scritto proprio ieri il Washington Post , dedicando- vi	un lungo servizio	nell inserto domenicale a colori -- tocca ormai tutti gli aspetti della vita nazionale   .
+						DET ADV NOUN	REPUBBLICA	A rivelar- lo , nel suo prossimo numero , è Epoca , che dedica	un lungo servizio	all influentissimo esponente della Dc campana finito nelle mani dei terroristi il 27 aprile dell 81 , dando vita a un
+						DET ADV NOUN	REPUBBLICA	Al delicato problema familiare del  prender- si cura degli animaletti virtuali  l Washington Post di domenica ha dedicato	un lungo servizio	.
+						DET ADV NOUN	REPUBBLICA	diciottenne Nelson Sagastume , membro appunto di una gang , al  New York Times  , che ha dedicato	un lungo servizio	all argomento , va al mare  perché voglio stare lontano dalla violenza e ho lasciato anche a casa la pistola
+						DET ADV NOUN	REPUBBLICA	e attricette , sperava di diventare il   Nuovo Principe di Hollywood   , come lo ha definito	un lungo servizio	appena pubblicato su   Vanity fair   .
+
+0	2	0	lungo set
+						DET ADV NOUN	REPUBBLICA	abecedario del rock duro , in una divertente ed esauriente pantomima sul rock  come dovrebbe essere  , in	un lungo set	svolto tutto attorno ad un unica idea musicale ripetuta molte volte con grande energia e forza .
+						DET ADV NOUN	REPUBBLICA	e quello del nuovo principe della chitarra blues , l americano Robert Cray , che ha concluso a notte inoltrata	un lungo set	nel quale ha dimostrato certamente di avere doti tecniche eccellenti .
+
+0	2	0	lungo sfogo
+						DET ADV NOUN	REPUBBLICA	, Rauti ha chiesto la parola per annunciare che le sue dimissioni erano definitive e irrinunciabili , abbandonando- si in	un lungo sfogo	.
+						DET ADV NOUN	REPUBBLICA	L ambasciatore italiano a Cuba , Carlo Civiletti , avrebbe la tentazione di lasciar- si andare ad	un lungo sfogo	.
+
+0	16	0	lungo silenzio
+						DET ADJ ADV NOUN	REPUBBLICA	avuto l illuminazione proprio in questi giorni : insomma , se non l ha detto prima , va bocciato innanzitutto	il suo lungo silenzio	silenzio .
+						DET ADV NOUN	REPUBBLICA	 dichiarò tanto tempo fa , prima che le sue parole diventassero così parche , fino a portar- lo a	un lungo silenzio	stampa dal novembre 94 ( casualmente : il ritorno di Gullit a Genova ) al luglio 95 .
+						DET ADV NOUN	REPUBBLICA	Di fronte al quotidiano bollettino di guerra della crisi , Eltsin ha deciso di trincerar- si dietro	un lungo silenzio	, forse aspettando di veder passare l onda alta della crisi .
+						DET ADV NOUN	REPUBBLICA	Francia , l ex premier rompe	un lungo silenzio	.
+						DET ADV NOUN	REPUBBLICA	Il candidato democristiano Chavez Mena ha dovuto arrender- si all evidenza e lunedì sera , dopo	un lungo silenzio	, ha accettato pubblicamente la sconfitta complimentando- si con Cristiani .
+						DET ADV NOUN	REPUBBLICA	Nel frattempo l opposizione laburista israeliana è tornata ad agitar- si dopo	un lungo silenzio	, accusando Netanyahu di essere  un bugiardo patentato  e di condurre il paese  alla guerra  .
+						DET ADV NOUN	REPUBBLICA	Se si prova a sollecitar- gli aneddoti lievi della sua giovane militanza comunista , risponde con	un lungo silenzio	.
+						DET ADV NOUN	REPUBBLICA	che non girava più un film : una bella rentrée  , commenta Felice Laudadio , sceneggiatore e produttore di	Il lungo silenzio	, alla cerimonia di premiazione conclusa dalla proiezione in anteprima americana di Blu di Kieslowski .
+						DET ADV NOUN	REPUBBLICA	come l estate del 1966 , prima del colpo di Stato dei colonnelli e , par di capire , di	un lungo silenzio	.
+						DET ADV NOUN	REPUBBLICA	di Svevo , di Gadda , con una produzione ricca di racconti e di umori stava per chiuder- si in	un lungo silenzio	, che sarà interrotto solo da sporadiche sortite in campo teatrale o poetico e dalla stesura di un romanzo , Le
+						DET ADV NOUN	REPUBBLICA	facendo- si tenerezze , per poi allargar- si a mostrare la scorta che li protegge anche nell intimità -- ,	Il lungo silenzio	, con tutte le sue nobili intenzioni e il suo lodevole pudore , manca soprattutto di una sviluppo drammaturgico che vada
+						DET ADV NOUN	REPUBBLICA	felici , ma soprattutto la Grecia non ha ancora conosciuto il colpo di stato dei colonnelli che indurrà in Alessandro	un lungo silenzio	creativo .
+						DET ADV NOUN	REPUBBLICA	monsignori , scollate le belle signore invitanti allo stupro nella illuminatissima sala da concerto : veniva nella lunga notte germanica	un lungo silenzio	 ) .
+						DET ADV NOUN	REPUBBLICA	più autentica natura , il suo animo luterano , potesse finalmente esprimer- si , al livello più alto , dopo	un lungo silenzio	o repressione cui lo aveva costretto la politica .
+						DET ADV NOUN	REPUBBLICA	rigide regole di segretezza  , racconta , in una intervista che ha concesso al quotidiano Vecernaja Moskva , rompendo	un lungo silenzio	.
+						DET ADV NOUN	REPUBBLICA	troppe speranze  e di  considerar- lo per quello che effettivamente è , una prima ripresa di contatto dopo	un lungo silenzio	 .
+
+0	1	0	lungo slittamento
+						DET ADV NOUN	REPUBBLICA	Ma ora il profilar- si di	un lungo slittamento	del previsto rimpasto di governo , avrebbe convinto Andreotti a bruciare i tempi ed a procedere subito alle sostituzioni : Giovanni
+
+0	1	0	lungo sodalizio
+						DET ADJ ADV NOUN	REPUBBLICA	si molto malato , con un ultima , febbricitante autoanalisi cerca di fare chiarezza su tutto : i risvolti psicologici	del suo lungo sodalizio	sodalizio con Freud , i motivi che lo hanno indotto a rimetter- ne in discussione l insegnamento , la personale concezione
+
+0	7	0	lungo soggiorno
+						DET ADV NOUN	REPUBBLICA	E il monzese ha deciso di preparar- si con	un lungo soggiorno	in quota .
+						DET ADV NOUN	REPUBBLICA	Est rifugiato- si a Mosca , con l implicito consenso di Bonn che voleva evitare dissapori coi sovietici , dopo	un lungo soggiorno	in un ospedale di una base dell Armata Rossa non lontano da Berlino .
+						DET ADV NOUN	REPUBBLICA	Grimaldi , che torna ad occupar- si di cinema italiano dopo	un lungo soggiorno	a Los Angeles , affronta l impresa più con entusiasmo che con apprensione .
+						DET ADV NOUN	REPUBBLICA	cavaliere dell intelletto e con la speranza di riprendere la tournée l anno prossimo , ha portato Raffaella Rossellini ad	un lungo soggiorno	in Italia .
+						DET ADV NOUN	REPUBBLICA	del cinema , soprattutto quello americano , che anni fa gli aveva chiuso le porte in faccia costringendo- lo a	un lungo soggiorno	in Europa .
+						DET ADV NOUN	REPUBBLICA	miracolo economico , di questo nuovo boom , che colpisce qualunque straniero in visita o anche noi quando rientriamo da	un lungo soggiorno	all estero , è l abbondanza dei consumi , l affollamento dei ristoranti e , in generale , un tenore di
+						DET ADV NOUN	REPUBBLICA	semplicemente sfiorato perché seduto in un importante consiglio d amministrazione , possa esser- si permesso un Rolex d oro o	un lungo soggiorno	nel più esclusivo hotel di Cortina d Ampezzo .
+
+0	8	0	lungo sonno
+						DET ADV NOUN	REPUBBLICA	, nel 1966 , quando il nostro reduce semisordo aveva già 55 anni e senza saper- lo si avviava ad	un lungo sonno	che ne sarebbe durati 19 .
+						DET ADV NOUN	REPUBBLICA	, scritta prima di arrender- me definitivamente , dopo aver aspettato troppi anni che le donne si svegliassero nuovamente da	un lungo sonno	, era la verifica che potevamo ritrovar- ci a discutere , a confrontare le nostre idee ed esperienze e , migliorando
+						DET ADV NOUN	REPUBBLICA	Accanto a lui , il tenente Maksim Jashenko , sembra svegliar- si d un tratto da	un lungo sonno	.
+						DET ADV NOUN	REPUBBLICA	I marziani vestiti di rosso , i marziani di Maranello risvegliati- si da	un lungo sonno	.
+						DET ADV NOUN	REPUBBLICA	Intanto però la sua prima notte da mister non è stata	un lungo sonno	tranquillo .
+						DET ADV NOUN	REPUBBLICA	Poi il fenomeno della droga nel milieu dello spettacolo affrontò	un lungo sonno	, significativamente coinciso con l approvazione della legge che nel 1975 consacrò il legittimo possesso di droga per uso personale .
+						DET ADV NOUN	REPUBBLICA	tutti i possibili prefissi della differenza e della ripetizione ( neo , anti , post ) , dopo aver dormito	un lungo sonno	che molti davano per eterno , il western è riapparso quest anno ritrovando senza problemi la sua classicità , l immutabilità
+						DET ADV NOUN	REPUBBLICA	universitari , quella che una volta si batteva contro la guerra in Vietnam e che oggi sembra risvegliar- si da	un lungo sonno	, proprio all insegna della protesta contro l apartheid .
+
+0	2	0	lungo soprabito
+						DET ADV NOUN	REPUBBLICA	Maria Tatò , la compagna che ha stretto la mano di Marcello sino all ultimo istante di vita : indossa	un lungo soprabito	color cammello , è alta , bella , fiera .
+						DET ADV NOUN	REPUBBLICA	gradi di colonnello , un giubbotto di camoscio sui pantaloni di  tweed  , la cravatta in tinta ,	un lungo soprabito	di pelle nera .
+
+0	2	0	lungo sorriso
+						DET ADV NOUN	REPUBBLICA	dir- lo , dentro il teleschermo in bianco e nero , era un viso largo , la bocca tirata in	un lungo sorriso	sopra una gran barba nera .
+						DET ADV NOUN	REPUBBLICA	e anche disponibile perfino ad arrivare con un quarto d ora di ritardo alla cena dopo esser- si fermato con	un lungo sorriso	a dire che la scuola di San Cipryene va molto bene .
+
+0	1	0	lungo sortilegio
+						DET ADV NOUN	REPUBBLICA	Per la prima volta , con una asprezza sconosciuta in questi anni come svegliando- si da	un lungo sortilegio	e riscoprendo una funzione dimenticata stampa e tv attaccano frontalmente il Presidente , pongono in dubbio la sua sincerità , la
+
+0	4	0	lungo sospiro
+						DET ADV NOUN	REPUBBLICA	 È vero , gli unici a rimetter- ci sono proprio loro  ammette l attaccante con	un lungo sospiro	 però io sono un professionista , che posso far- ci ?
+						DET ADV NOUN	REPUBBLICA	Ma ieri , per la prima volta dopo molti mesi , l Urss è sembrata abbandonar- si ad	un lungo sospiro	di sollievo , quando tv e giornali hanno annunciato l arrivo del primo aereo dei soccorsi tedeschi .
+						DET ADV NOUN	REPUBBLICA	Scese allora sul predellino del tram e già nel far- lo si pentì amaramente , fece	un lungo sospiro	e si chinò in avanti come un giaguaro .
+						DET ADV NOUN	REPUBBLICA	nella sconfitta com era nella vittoria già dimenticata dagli italiani smemorati , e non riesco a strappar- gli più di	un lungo sospiro	di rassegnazione quando gli chiedo che cosa abbia provato , leggendo l anatema pubblico del suo armatore .
+
+0	1	0	lungo spot
+						DET ADV NOUN	REPUBBLICA	Dopo i filmati , Badaloni avverte di  allacciar- si la cintura di sicurezza  : parte	un lungo spot	della Lufthansa -- generalmente proiettato per i passeggeri -- sulle grandi città americane .
+
+0	1	0	lungo stillicidio
+						DET ADV NOUN	REPUBBLICA	però , come per tutti gli altri diplomatici occidentali che hanno osato disobbedire al diktat di Saddam si prospetta adesso	un lungo stillicidio	di difficoltà , di minacce , di ripicche .
+
+0	2	0	lungo stop
+						DET ADV NOUN	REPUBBLICA	Deve operar- si ( con	un lungo stop	) o rassegnar- si a mesi di iniezioni e pause .
+						DET ADV NOUN	REPUBBLICA	aver insistito su Vanoli , nonostante il giocatore non sia ancora al meglio della condizione , facendo- lo rientrare dopo	un lungo stop	, nella zona dove l Ancona avrebbe dovuto turare i buchi , mentre invece il veronese ha continuato ad imperversare con
+
+0	6	0	lungo striscione
+						DET ADV NOUN	REPUBBLICA	A parte questo isolato episodio , la contestazione si è sviluppata attraverso cori , slogan e	un lungo striscione	con la scritta  Spinelli vattene  , fissato a cinque aste di legno e sostenuto da altrettanti volontari .
+						DET ADV NOUN	REPUBBLICA	Che ci fosse odore di bruciato , non imputabile alle buone caldarroste , lo capivi subito da	un lungo striscione	della curva interista .
+						DET ADV NOUN	REPUBBLICA	I verdi che in mattinata hanno fatto sit-in , reggono	un lungo striscione	giallo , il solito  no al nucleare  , addossati alla parete della sala conferenze , nella palazzina del centro
+						DET ADV NOUN	REPUBBLICA	comunista , un grande barcone giallo e blu con il timoniere in pantaloni corti e cappellino da baseball , e	un lungo striscione	di tela azzurra :  Venezia per tutti , no ai divieti !
+						DET ADV NOUN	REPUBBLICA	improvvisato un sit-in davanti al posto di blocco dopo che la loro richiesta di udienza era stata respinta , avevano	un lungo striscione	blu con la scritta in inglese : Benvenuto in Italia presidente Reagan , nel paese in cui ti trovi non c
+						DET ADV NOUN	REPUBBLICA	in occasione del derby d andata del quarto di coppa Italia , a fine gara i Boys nerazzurri avevano dimenticato	un lungo striscione	all interno dello stadio .
+
+0	1	0	lungo tappeto
+						DET ADV NOUN	REPUBBLICA	Le miti minoranze di giovani raccolte- si nel cuore di Parigi formavano una massa di mezzo milione :	un lungo tappeto	umano ai piedi della Torre Eiffel .
+
+0	7	0	lungo tavolo
+						DET ADV NOUN	REPUBBLICA	Ad attender- la , attorno ad	un lungo tavolo	ovale , c è una quindicina di giornalisti da tutta Europa ; più che un incontro per raccontare un disco ,
+						DET ADV NOUN	REPUBBLICA	E via , con i summit , quelle riunioni che vedono da anni , seduti attorno ad	un lungo tavolo	, illuminati dai flashes , i soliti generali dei carabinieri , della finanza , con i soliti capi ed alti funzionari
+						DET ADV NOUN	REPUBBLICA	Nell angolo di fronte al buvette , davanti a	un lungo tavolo	angolare , salgono sul podio le delegazioni per raccontare l esito del colloquio .
+						DET ADV NOUN	REPUBBLICA	accoglier- ci , iniziare il viaggio sotto le volte altissime di un corridoio dei passi perduti seduto al bordo di	un lungo tavolo	da refettorio ed intento ad un pranzo solitario .
+						DET ADV NOUN	REPUBBLICA	di rocchettari americani vestiti alla Robin Hood , tre impeccabili businessmen giapponesi , ma quel che sembrava preoccupar- li era	un lungo tavolo	vuoto .
+						DET ADV NOUN	REPUBBLICA	gente , molti giovani , tutti accalcando- si intorno a un paio di bancarelle e a quello che doveva essere	un lungo tavolo	.
+						DET ADV NOUN	REPUBBLICA	prelato vaticano in clergyman da  Uomo Vogue  seguito , durante la simbolica Ultima Cena dei convitati schierati dietro	un lungo tavolo	, dal corpo a corpo incestuoso con Beatrice esasperato iperrealisticamente e spruzzato da abbondanti tracce di sangue come in un
+
+0	1	0	lungo telo
+						DET ADV NOUN	REPUBBLICA	coi giudici di Atene che entrano in doppia fila incrociando- si come i boys di una rivista , e portano	un lungo telo	bianco , naturalmente decorato da greche , che alla fine avvolge tutta la scena .
+
+0	3	0	lungo tempo
+						DET ADV NOUN	REPUBBLICA	atteggiamento marziale , lo sguardo fieramente rivolto verso l alto , sembrava esser- si dimenticato di loro quando , dopo	un lungo tempo	imbarazzante , invece di riporre nel fodero la sciabola sguainata nel tradizionale rituale ha preso a dar- si con essa ripetuti
+						DET ADV NOUN	REPUBBLICA	dell attuale situazione , soprattutto dopo l autorevole invito del capo dello Stato : il protrar- si , ancora per	un lungo tempo	, dei contrasti in atto darebbe ulteriore negativa impressione di un Parlamento reso incapace di scegliere .
+						DET ADV NOUN	REPUBBLICA	si può immaginare , infatti , di affrontare una delicata fase di riconversione economica ed istituzionale affidando- si , per	un lungo tempo	, a governi tecnici sospesi tra la diffidenza delle forze politiche e l impopolarità delle misure cui si dovrà ricorrere .
+
+0	1	0	lungo tendaggio
+						DET ADV NOUN	REPUBBLICA	si in qualcosa di positivo , nè a trovare un unità , dentro alla bella scena di Thalia Istikopoulou :	un lungo tendaggio	grigio stampato che circonda a fisarmonica la radura dell azione , simulando la macchia o i tronchi del bosco mentre a
+
+0	1	0	lungo testa
+						DET ADV NOUN	REPUBBLICA	A favorir- ne l ascesa dopo	un lungo testa	a testa , con molti altri candidati di prestigio è stato l appoggio dello stesso segretario della Dc Arnaldo Forlani .
+
+0	2	0	lungo testo
+						DET ADV NOUN	REPUBBLICA	Poi aggiungono : Se però il nostro ufficio ricerche riuscisse a dimostrar- ci l efficacia in pubblicità di	un lungo testo	alla Proust , mezza agenzia sarebbe pronta ad infilare la via del romanzo .
+						DET ADV NOUN	REPUBBLICA	giungono immagini di bambini infelici ; le ha pubblicate il settimanale tedesco Der Spiegel nell ultimo numero accompagnando- le con	un lungo testo	sui brefotrofi-lager .
+
+0	4	0	lungo tirocinio
+						DET ADV NOUN	REPUBBLICA	Ancora ventiduenne , Giovanni ( Agnelli ) IV ha davanti a sè	un lungo tirocinio	.
+						DET ADV NOUN	REPUBBLICA	Giampiero Bianchi , cioè un suo contrario dall immagine più anodina di settentrionale , passato a sua volta , dopo	un lungo tirocinio	in uno Stabile ( Genova ) , per l esperienza dialettale al Gerolamo milanese di Umberto Simonetta , e bisognoso di
+						DET ADV NOUN	REPUBBLICA	per scatenar- ne tutta la potenza ( che è ovviamente proporzionata alle prestazioni ) , con il risultato che occorre	un lungo tirocinio	per educare il piede destro ad accarezzare il pedale .
+						DET ADV NOUN	REPUBBLICA	primi passi (  ho cominciato come lavapiatti , portiere di notte e fattorino , prima di immerger- me in	un lungo tirocinio	teatrale che mi ha portato in Corea , e al colera  ) , Caine attribuisce il suo successo a una
+
+0	1	0	lungo titolo
+						DET ADV NOUN	REPUBBLICA	Significativamente al culmine della pièce , che ha	un lungo titolo	stile Wertmuller o nuovi comici , Non mi chiamo Ramon e non ho mai organizzato un golpe alle Maracas , c
+
+0	2	0	lungo tormentone
+						DET ADV NOUN	REPUBBLICA	( sono uno di loro , uno di questa setta , scherza De Mita ) rifiuta di far- si coinvolgere	nel lungo tormentone	precongressuale che passa attraverso il vocìo sulle candidature .
+						DET ADV NOUN	REPUBBLICA	consigliato -- ieri -- una posizione sconcertante e risibile :  Il tempo in cui quest azione giudiziaria matura ed	il lungo tormentone	che da mesi l accompagna , mi rende perplesso , molto perplesso  .
+
+0	3	0	lungo torpore
+						DET ADJ ADV NOUN	REPUBBLICA	E chissà mai che proprio questi due panzer tedeschi possano destare la Borsa italiana	dal suo lungo torpore	torpore .
+						DET ADV NOUN	REPUBBLICA	col compier- si della Reconquista , dopo che nel 1462 Gibilterra era tornata spagnola e cristiana , la Rocca conobbe	un lungo torpore	.
+						DET ADV NOUN	REPUBBLICA	della clamorosa presa di distanza di Del Turco in Direzione ) ; una sinistra lombardiana che si sta rianimando dopo	un lungo torpore	.
+
+0	6	0	lungo tour
+						DET ADJ ADV NOUN	REPUBBLICA	Ma dicono che la decisione di prometter- si eterno amore sia stata presa a San Gimignano ,	nel loro lungo tour	tour alla ricerca di se stessi e sopratutto per trovare un po di pace .
+						DET ADV NOUN	REPUBBLICA	Così ad accoglier- lo a Milano , per il primo concerto di	un lungo tour	italiano ( che lo porterà domani sera a Caserta , il 1 a Roma , il 2 a Genova , il
+						DET ADV NOUN	REPUBBLICA	L unica nota di rilievo è appunto costituita dalla presa di posizione del premier inglese , partita per	un lungo tour	europeo .
+						DET ADV NOUN	REPUBBLICA	defezione di  Bonehead  e  Guigsy  è stata causata dalla reticenza dei due ad imbarcar- si in	un lungo tour	.
+						DET ADV NOUN	REPUBBLICA	gomito a gomito con il cast di sempre : Aldo , Giovanni e Giacomo ( reduci a loro volta da	un lungo tour	 live  ) , Raoul Cremona , Simona Ventura , Bebo Storti , Francesco Paolantoni ( assente Lippi , che
+						DET ADV NOUN	REPUBBLICA	moda , in giacca rosa e cravatta variopinta ; e il futuro è ricco di progetti : a gennaio partirà	un lungo tour	del quale ( ma non è ancora confermato ) il 18 dicembre al Palasport di Roma offrirà un assaggio .
+
+0	1	0	lungo tunnel
+						DET ADV NOUN	REPUBBLICA	E tutti raccontano la medesima esperienza :	un lungo tunnel	e in fondo una luce , forte , attraente , fonte di uno straordinario benessere .
+
+0	1	0	lungo verbale
+						DET ADV NOUN	REPUBBLICA	valigie piene di carte e i faldoni sotto il braccio : ci è andato con qualche segreta speranza di raccogliere	un lungo verbale	perché , il giorno di Pasqua , mentre interrogava uno dei manager Eni , gli era arrivato un bigliettino .
+
+0	3	0	lungo vertice
+						DET ADV NOUN	REPUBBLICA	Nicola Mancino a Palazzo Madama , Gava , Colombo e Rubbi si sono incontrati con Amato a Palazzo Chigi per	un lungo vertice	da cui è uscito il definitivo via libera all accordo .
+						DET ADV NOUN	REPUBBLICA	la Cgil ha esaminato la situazione determinata- si a Genova , prima in una riunione di segreteria , poi in	un lungo vertice	delle strutture sindaca- li dei porti italiani .
+						DET ADV NOUN	REPUBBLICA	statale sta per arricchir- si di un nuovo , preoccupante capitolo : le banche estere creditrici , nel corso di	un lungo vertice	svolto- si ieri a Londra , hanno ventilato l ipotesi di un blocco dei prestiti alle aziende italiane , pubbliche e
+
+0	39	0	lungo viaggio
+						DET ADV NOUN	REPUBBLICA	della buona borghesia di Stoccolma , Palme aveva cominciato ad occupar- si di politica ai tempi dell università quando dopo	un lungo viaggio	in America Latina torna a Stoccolma scosso dalla povertà e dalle ingiustizie sociali dei paesi sottosviluppati .
+						DET ADV NOUN	REPUBBLICA	Ciascuna opera inoltre sembra scandire le significative tappe di	un lungo viaggio	collocando- si come tabula picta nell immaginaria sconfinata raccolta d immagini , come sacre , che si dispiega sulle pareti della
+						DET ADV NOUN	REPUBBLICA	dell area di rigore ( Orano-Garbuglia autori ) l avventura di un gruppo di ragazzi romani che nel 1942 affrontano	un lungo viaggio	per vedere la squadra del cuore strappare il suo primo scudetto al leggendario Torino : la coscienza antifascista che soltanto uno
+						DET ADV NOUN	REPUBBLICA	attraverso una Tv a circuito chiuso , ha mobilitato i tifosi di Empoli e Triestina , pronti a sobbarcar- si	un lungo viaggio	in pullman per sostenere i loro colori , finiti sul banco degli imputati .
+						DET ADV NOUN	REPUBBLICA	dopo aver rifiutato varie offerte estive , la Gravina stava organizzando- si ,  come primo segno di rottura 	un lungo viaggio	in Tailandia , quando è arrivata la telefonata di Giancarlo Sbragia con una di quelle offerte che non si possono rifiutare
+						DET ADV NOUN	REPUBBLICA	E per questo posso conceder- me il lusso di	un lungo viaggio	in nave , un desiderio di derivazione letteraria : la suggestione che provo per i racconti di mare  .
+						DET ADV NOUN	REPUBBLICA	assoluta fiducia che nutro per il cardiochirurgo che mi ha visitato , sia perché non volevo assolutamente sottopor- me ad	un lungo viaggio	.
+						DET ADV NOUN	REPUBBLICA	di narrazione , in modo che tu sai subito , sin dall inizio , che stai per imbarcar- ti in	un lungo viaggio	pieno di svolte inattese .
+						DET ADV NOUN	REPUBBLICA	da viaggiatore , il Dalai Lama è giunto nei giorni scorsi a Milano per visitare una mostra sul Tibet dopo	un lungo viaggio	in alcune città europee , nel Baltico e negli Stati Uniti .
+						DET ADV NOUN	REPUBBLICA	Italia è pressoché impossibile : appena tornato dalla Spagna è partito per la Cina ; subito dopo andrà a fare	un lungo viaggio	in unione Sovietica .
+						DET ADV NOUN	REPUBBLICA	L anno dopo , ripreso- si , partì per	un lungo viaggio	in Giappone , ospite dell ambasciatore Boris Biancheri .
+						DET ADV NOUN	REPUBBLICA	futura first lady d America per Matilda Cuomo , la moglie del governatore di New York giunta in Italia per	un lungo viaggio	di lavoro e beneficenza , ma anche di vacanze e mondanità .
+						DET ADV NOUN	REPUBBLICA	Ad esempio abbiamo apprezzato molto la scelta del ministro Martino di impegnar- si in	un lungo viaggio	in Medio Oriente , ma poi l appuntamento della Conferenza di Casablanca e l assenza di iniziativa sulla crisi algerina sono
+						DET ADV NOUN	REPUBBLICA	che per curar- si delle loro malattie , ben 234 abitanti di Castellavazzo su 1700 , si siano sobbarca- ti	un lungo viaggio	fino in Campania , è suonato piuttosto strano ai dirigenti dell Usl di Belluno .
+						DET ADV NOUN	REPUBBLICA	unanimità di assegnare il premio al memoriale di Lenci , valutando- lo come un documento unico nel suo genere :	un lungo viaggio	nella solitudine e nel dolore di una vittima del terrorismo sopravvissuta nell indifferenza e nel rifiuto del sistema e della società
+						DET ADV NOUN	REPUBBLICA	ripreso dall operazione al cuore , ha consigliato una sede più vicina a Mosca , per non affaticar- lo con	un lungo viaggio	.
+						DET ADV NOUN	REPUBBLICA	Potrei dire che ci ho messo trentanove anni a realizzar- lo , è stato come	un lungo viaggio	, iniziato con Night and Day .
+						DET ADJ ADV NOUN	REPUBBLICA	del poeta-soldato degente si avventura passando da un gigantesco letto-sudario ad una specchiera , quasi un camerino d attore ,	nel suo lungo viaggio	viaggio al fondo della notte fitta di parole .
+						DET ADJ ADV NOUN	REPUBBLICA	Sono le onde oceaniche che dopo quattromila chilometri vengono ad infranger- si qui , capolinea	del loro lungo viaggio	viaggio .
+						DET ADV NOUN	REPUBBLICA	Poche volte mi era successo di sentir- me così debole ed in genere sempre dopo	un lungo viaggio	per via di un durissimo fuso orario o dopo una notte di bagordi .
+						DET ADV NOUN	REPUBBLICA	di una station wagon di lusso , in grado però di superare qualunque ostacolo , seppur senza sfigurare più in	un lungo viaggio	in autostrada .
+						DET ADV NOUN	REPUBBLICA	un italiano arrivato a cercar fortuna alternando il mestiere di pompiere a quello di boxeur ) , poi partirà per	un lungo viaggio	che toccherà cinquanta città del mondo , in Giappone , in America del Sud , in Europa , in Australia e
+						DET ADV NOUN	REPUBBLICA	, come fosse stata la sua prima conferenza stampa , più affabile del solito , pronto a preparar- si a	un lungo viaggio	attorno al mondo .
+						DET ADV NOUN	REPUBBLICA	un salario fisso che continui a mantener- le , coloro che vanno in congedo devono pagar- si le spese di	un lungo viaggio	che non possono affrontare .
+						DET ADV NOUN	REPUBBLICA	gli affetti per recar- si nei luoghi santi , affrontando i mille rischi e sfuggendo alle mille ingannevoli lusinghe di	un lungo viaggio	, diviene perciò , per l uomo medievale , pregnante metafora del cammino di penitenza necessario per raggiungere la meta del
+						DET ADV NOUN	REPUBBLICA	Soprattutto per i nostri 50 mila abbonati , siamo soddisfatti : ora non dovranno più sobbarcar- si	un lungo viaggio	e ulterori spese per seguire la squadra , per assistere ad una partita che avevano il diritto di guardare comodamente seduti
+						DET ADV NOUN	REPUBBLICA	grande passo : un po per conoscere la fidanzata del suo migliore amico , un po per conceder- si finalmente	un lungo viaggio	lontano dal piccolo paese bresciano dove era nato .
+						DET ADV NOUN	REPUBBLICA	si alza dalla sedia , toccando- si con le mani la schiena come fa chi ha le reni indolenzite da	un lungo viaggio	.
+						DET ADV NOUN	REPUBBLICA	stessa arrestata è poi stata convinta a salutare la ragazza dicendo- le che era in procinto di  partire per	un lungo viaggio	 .
+						DET ADV NOUN	REPUBBLICA	frettoloso o abitudinario , un approccio mediato invece , sul tipo di quello amabilmente trepidante che riserviamo ai preparativi di	un lungo viaggio	 .
+
+0	1	0	lungo viale
+						DET ADV NOUN	REPUBBLICA	e , per trovare qualcosa che lo ricordi , bisogna inoltrar- si nella Banlieu e approdare nell operaia Montreuil dove	un lungo viale	porta il suo nome .
+
+0	3	0	lungo volo
+						DET ADV NOUN	REPUBBLICA	Ieri sera l ultima replica dei Lombardi : poi la Scala al gran completo salirà su un jumbo Alitalia per	un lungo volo	non-stop , undici ore Vancouver-Milano .
+						DET ADV NOUN	REPUBBLICA	sud australe , un aereo potrà atterrare accanto alla base Amundsen - Scott South Pole Station e portar- la con	un lungo volo	dal Settimo al Quinto continente , dal cuore dell Antartico alla civiltà , la base di Christchurch in Nuova Zelanda .
+						DET ADV NOUN	REPUBBLICA	tramandato mille scene di cetacei infuriati che sollevano verso il cielo le scialuppe dei balenieri spedendo- li nell oceano dopo	un lungo volo	a gambe all aria .
+
+0	2	0	lungo week
+						DET ADV NOUN	REPUBBLICA	Di sicuro dovremo adattar- ci ad	un lungo week	end : si gioca di sabato ( con gli anticipi concessi ai club impegnati in Coppa Uefa e , da marzo
+						DET ADV NOUN	REPUBBLICA	si delle scadenze tecniche ( per la settimana prossima sono previsti sia la risposta premi che i riporti ) nonché	il lungo week	end che tradizionalmente invita gli operatori ad alleggerir- si di titoli .
+
+0	1	0	lungo week-end
+						DET ADV NOUN	REPUBBLICA	lira , che secondo gli operatori sono essenzialmente di natura tecnica e che sono state amplificate dall avvicinar- si di	un lungo week-end	( lunedì molti mercati , fra cui quello italiano , resteranno chiusi ) .
+
+0	2	0	lungo weekend
+						DET ADV NOUN	REPUBBLICA	piede sull autoblù e l altro sulla scaletta dell aereo , incerti se precipitar- si in Procura o sparire per	un lungo weekend	.
+						DET ADV NOUN	REPUBBLICA	principessa ha pianto e ha chiamato la sua amica lady Cosima Somerset e sono fuggite via a Maiorca per trascorrere	un lungo weekend	nell albergo di Richard Branson , la Residencia .
+

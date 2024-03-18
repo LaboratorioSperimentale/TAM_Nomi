@@ -26,18 +26,33 @@ def read_wikiconll(fname):
 
             else:
                 line = line.strip().split("\t")
+                # print(line)
+
+                id = int(line[0])
 
                 form = line[1]
                 lemma = line[2]
                 pos = line[3]
+                head = -1
+                deprel = ""
+                try:
+                    head = int(line[6])
+                    deprel = line[7]
+                except:
+                    pass
+                    #TODO add log
+                    # print("ignoring line", line)
 
                 if pos in pmaps.wikiCoNLL_map:
                     pos = pmaps.wikiCoNLL_map[pos]
+                elif pos[0] in pmaps.wikiCoNLL_map:
+                    pos = pmaps.wikiCoNLL_map[pos[0]]
                 else:
                     pass
                     #TODO add log
 
-                token = objs.Token(form, lemma, pos)
+
+                token = objs.Token(id, form, lemma, pos, head, deprel)
                 sentence.add_token(token)
         if not sentence.empty():
             yield sentence
@@ -56,6 +71,7 @@ def read_xlime(fname):
                 sentence = objs.Sentence(source="xlime")
             else:
                 line = line.split()
+                id = 0
                 form = line[0]
                 lemma = line[0]
                 pos = line[1]
@@ -66,7 +82,7 @@ def read_xlime(fname):
                     pass
                     #TODO add log
                 # print(line)
-                token = objs.Token(form, lemma, pos)
+                token = objs.Token(id, form, lemma, pos,-1, "")
                 sentence.add_token(token)
 
         if not sentence.empty():
@@ -89,7 +105,7 @@ def read_UDT(fname, subcorpus):
             else:
                 line = line.strip().split("\t")
 
-                token = objs.Token(line[1], line[2], line[4])
+                token = objs.Token(int(line[0]), line[1], line[2], line[4], -1, "")
                 sentence.add_token(token)
 
 
@@ -114,9 +130,12 @@ def read_repubblica(fname):
             else:
                 line = line.strip().split("\t")
 
-                form = line[1]
-                lemma = line[2]
-                pos = line[4]
+                id = int(line[0])
+                form = line[1].strip()
+                lemma = line[2].strip()
+                pos = line[4].strip()
+                head = int(line[6])
+                deprel = line[7].strip()
 
                 if pos in pmaps.repubblica_map:
                     pos = pmaps.repubblica_map[pos]
@@ -126,7 +145,7 @@ def read_repubblica(fname):
                     pass
                     #TODO add log
 
-                token = objs.Token(form, lemma, pos)
+                token = objs.Token(id, form, lemma, pos, head, deprel)
                 sentence.add_token(token)
         if not sentence.empty():
             yield sentence
@@ -148,7 +167,7 @@ def read_parseme(fname):
             else:
                 line = line.strip().split("\t")
 
-                token = objs.Token(line[1], line[2], line[3])
+                token = objs.Token(int(line[0]), line[1], line[2], line[3], -1, "")
                 sentence.add_token(token)
 
 
@@ -176,6 +195,7 @@ def read_itwac(fname):
                 line = line.strip().split("\t")
                 if len(line) == 3:
 
+                    id = 0
                     form = line[0]
                     lemma = line[2]
                     pos = line[1].split(":")[0]
@@ -185,7 +205,7 @@ def read_itwac(fname):
                         pass
                         #TODO add log
 
-                    token = objs.Token(form, lemma, pos)
+                    token = objs.Token(id, form, lemma, pos, -1, "")
                     sentence.add_token(token)
                 else:
                     pass
@@ -198,16 +218,22 @@ def read_itwac(fname):
 def read(filename, source):
 
     if source == "ITWAC":
+        print("Reading from ITWAC")
         return read_itwac(filename)
     elif source == "PARSEME":
+        print("Reading from PARSEME")
         return read_parseme(filename)
     elif source == "REPUBBLICA":
+        print("Reading from REPUBBLICA")
         return read_repubblica(filename)
     elif source == "XLIME":
+        print("Reading from XLIME")
         return read_xlime(filename)
     elif source == "WIKICONLL":
+        print("Reading from WIKICONLL")
         return read_wikiconll(filename)
     else:
+        print("Reading from UDT")
         return read_UDT(filename, source)
 
 
@@ -233,5 +259,8 @@ if __name__ == "__main__":
     #     # input()
 
     for sentence in read_wikiconll("/home/ludovica/Documents/CORPORA/WIKICONLL/wikiCoNLL"):
-        print(sentence)
-        # input()
+        pos = [x.pos for x in sentence.sentence]
+        pos = ":".join(pos)
+        if "DET:ADV:NOUN" in pos:
+            print([(x.form, x.pos) for x in sentence.sentence])
+            input()

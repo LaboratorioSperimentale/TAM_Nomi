@@ -1,0 +1,258 @@
+prefix	TOT	ITWAC	REPUBBLICA	WIKICONLL	ADV-N	ERR	semantica nome	serve contesto	animato	valore prefisso
+neo	5	0	5	0	neo-acquisita	x
+neo	102	48	31	23	neo-acquisto		condizione			ingressivo
+neo	5	5	0	0	neo-adjuvante	x
+neo	5	0	5	0	neo-alleati		relazione sociale			ingressivo
+neo	19	0	4	15	neo-allenatore		mestiere			ingressivo
+neo	25	0	25	0	neo-ambasciatore		mestiere			ingressivo
+neo	33	0	33	0	neo-amministratore		mestiere			ingressivo
+neo	15	0	0	15	Neo-Apostolica	x
+neo	12	12	0	0	neo-aristotelismo		movimento			iterativo
+neo	5	0	0	5	neo-arrivato	x
+neo	42	22	20	0	neo-assessore		ruolo			ingressivo
+neo	452	401	51	0	neo-assunti		condizione			ingressivo
+neo	21	21	0	0	Neo-assunti		condizione			ingressivo
+neo	127	116	7	4	neo-assunto		condizione			ingressivo
+neo	4	0	0	4	Neo-Atlantide	x
+neo	4	0	4	0	neo-attore		mestiere			ingressivo
+neo	6	0	6	0	neo-autonomi		appartenenza politica	x		?
+neo	5	0	5	0	neo-autoritarismo		movimento			iterativo
+neo	84	34	43	7	neo-avanguardia		movimento	x		iterativo
+neo	5	5	0	0	Neo-Avanguardia		movimento	x		iterativo
+neo	24	10	10	4	neo-avanguardie		movimento	x		iterativo
+neo	4	0	4	0	neo-azionista		condizione
+neo	9	0	9	0	neo-azionisti		condizione
+neo	4	4	0	0	neo-bio-logica	x
+neo	4	0	4	0	neo-borghesia		condizione			?
+neo	50	13	19	18	neo-campione		grado
+neo	18	0	14	4	neo-campioni		grado
+neo	7	0	7	0	neo-cancelliere		ruolo
+neo	6	0	6	0	neo-candidato		condizione
+neo	23	4	19	0	neo-capitalismo		movimento			iterativo
+neo	6	0	0	6	neo-capitano		ruolo
+neo	17	0	17	0	neo-capo		ruolo
+neo	10	0	10	0	neo-cardinale		mestiere
+neo	4	0	4	0	neo-cavalieri		mestiere
+neo	41	35	6	0	neo-centralismo		appartenenza politica			iterativo
+neo	18	0	18	0	neo-centrismo		appartenenza politica			iterativo
+neo	4	0	4	0	neo-centristi		appartenenza politica			?
+neo	4	4	0	0	neo-chicagoani	x
+neo	5	0	5	0	neo-classica		movimento	x		iterativo
+neo	4	0	0	4	neo-classical	x
+neo	25	0	13	12	neo-classicismo		movimento	x		iterativo
+neo	4	0	4	0	neo-classicista		movimento			iterativo
+neo	7	0	7	0	neo-classico		movimento			iterativo
+neo	4	0	0	4	neo-coach	x
+neo	6	6	0	0	neo-codacons	x		x
+neo	78	62	10	6	neo-colonialismo		movimento			iterativo
+neo	4	4	0	0	neo-colonianilismo	x
+neo	19	0	19	0	neo-commissario		mestiere
+neo	11	0	11	0	neo-comunismo		appartenenza politica			iterativo
+neo	10	0	10	0	neo-comunista		appartenenza politica			iterativo
+neo	76	8	68	0	neo-comunisti		appartenenza politica			iterativo
+neo	7	0	7	0	neo-comunitarismo		movimento			iterativo
+neo	6	0	0	6	neo-con	x
+neo	4	4	0	0	neo-conduttori		mestiere
+neo	72	72	0	0	neo-cons	x
+neo	29	20	9	0	neo-conservatore		appartenenza politica			iterativo
+neo	277	262	15	0	neo-conservatori		appartenenza politica			iterativo
+neo	22	16	6	0	neo-conservatorismo		appartenenza politica			iterativo
+neo	29	5	24	0	neo-consigliere		ruolo
+neo	22	0	22	0	neo-consiglieri		ruolo
+neo	10	0	10	0	neo-consociativismo		movimento			iterativo
+neo	4	0	4	0	neo-contrattualismo		movimento			iterativo
+neo	6	0	0	6	neo-convertiti		condizione
+neo	4	0	4	0	neo-corporativismo			x
+neo	27	0	8	19	neo-costituita	x
+neo	4	0	0	4	neo-costituite	x
+neo	125	0	0	125	neo-costituito	x
+neo	19	0	0	19	neo-cristiani		movimento			?
+neo	17	17	0	0	neo-criticismo		movimento			iterativo
+neo	8	0	8	0	neo-ct	x
+neo	12	0	12	0	neo-cubismo		movimento			iterativo
+neo	9	0	0	9	Neo-Dada		movimento			iterativo
+neo	15	5	10	0	neo-dc		appartenenza politica			iterativo
+neo	4	4	0	0	neo-delegati		ruolo
+neo	4	0	4	0	neo-deputata		ruolo
+neo	4	0	4	0	neo-deputati		ruolo
+neo	22	0	22	0	neo-deputato		ruolo
+neo	81	61	20	0	neo-diplomati		condizione
+neo	164	41	115	8	neo-direttore		ruolo
+neo	8	0	8	0	neo-direttori		ruolo
+neo	10	0	10	0	neo-dottore		condizione
+neo	9	0	9	0	neo-eletta		condizione
+neo	71	46	21	4	neo-eletti		condizione
+neo	305	211	61	33	neo-eletto		condizione
+neo	4	4	0	0	neo-emittente
+neo	19	4	15	0	neo-espressionismo		movimento			iterativo
+neo	4	0	0	4	neo-eurasiatismo		movimento			iterativo
+neo	40	15	25	0	neo-fascismo		appartenenza politica			iterativo
+neo	9	0	9	0	neo-fascista		appartenenza politica			iterativo
+neo	42	0	42	0	neo-fascisti		appartenenza politica			iterativo
+neo	13	13	0	0	neo-fondamentalismo		movimento			iterativo
+neo	4	4	0	0	neo-fondamentalisti		movimento			iterativo
+neo	5	0	0	5	neo-fondata	x
+neo	5	0	0	5	neo-formato	x
+neo	5	5	0	0	neo-formazione		condizione
+neo	42	37	5	0	neo-genitori		parentela
+neo	5	0	0	5	Neo-Geo	x
+neo	5	5	0	0	neo-gnosticismo		movimento			iterativo
+neo	6	0	6	0	neo-gollismo		appartenenza politica			iterativo
+neo	35	0	35	0	neo-gollista		appartenenza politica			iterativo
+neo	48	0	48	0	neo-gollisti		appartenenza politica			iterativo
+neo	4	0	0	4	neo-gotico		movimento			iterativo
+neo	26	0	22	4	neo-governatore		ruolo
+neo	4	0	4	0	neo-governo		condizione
+neo	6	6	0	0	neo-guelfismo		movimento			iterativo
+neo	29	19	10	0	neo-guerra		?
+neo	4	0	4	0	neo-hippie		condizione			iterativo
+neo	11	6	5	0	neo-idealismo		movimento			iterativo
+neo	6	0	6	0	neo-illuminismo		movimento			iterativo
+neo	4	0	0	4	neo-imperatore		ruolo
+neo	26	21	5	0	neo-imprenditore		mestiere
+neo	94	83	11	0	neo-imprenditori		mestiere
+neo	4	4	0	0	neo-impresa		condizione
+neo	36	36	0	0	neo-imprese		condizione
+neo	5	0	5	0	neo-impressionisti		movimento			iterativo
+neo	4	0	0	4	neo-indipendente		?
+neo	4	0	4	0	neo-individualismo		movimento			iterativo
+neo	12	8	4	0	neo-ingegnere		mestiere
+neo	4	0	4	0	neo-integralismo		movimento			iterativo
+neo	15	11	4	0	neo-iscritti		condizione
+neo	7	0	7	0	neo-isolazionismo		movimento			iterativo
+neo	7	0	0	7	neo-istituito	x
+neo	4	4	0	0	neo-istituzionalismo		movimento			iterativo
+neo	5	0	5	0	neo-italiano		condizione
+neo	5	0	0	5	neo-ittiti		condizione	x
+neo	6	0	6	0	neo-juventino		condizione
+neo	6	0	0	6	neo-latine	x
+neo	9	9	0	0	neo-laureata		condizione
+neo	475	417	54	4	neo-laureati		condizione
+neo	75	66	9	0	neo-laureato		condizione
+neo	23	4	19	0	neo-leader		ruolo
+neo	7	0	7	0	neo-liberale		appartenenza politica			iterativo
+neo	25	14	11	0	neo-liberali		appartenenza politica			iterativo
+neo	46	33	9	4	neo-liberalismo		appartenenza politica			iterativo
+neo	321	284	37	0	neo-liberismo		appartenenza politica			iterativo
+neo	15	5	10	0	neo-liberista		appartenenza politica			iterativo
+neo	68	62	6	0	neo-liberiste		appartenenza politica			iterativo
+neo	18	6	12	0	neo-liberisti		appartenenza politica			iterativo
+neo	4	4	0	0	neo-lingua		condizione
+neo	4	0	4	0	neo-madre		parentela
+neo	12	12	0	0	neo-madri		parentela
+neo	97	83	14	0	neo-mamma		parentela
+neo	142	127	15	0	neo-mamme		parentela
+neo	5	0	5	0	neo-manager		mestiere
+neo	18	0	7	11	neo-marito		parentela
+neo	4	0	4	0	neo-marxismo		appartenenza politica			iterativo
+neo	4	0	0	4	neo-marxisti		appartenenza politica			iterativo
+neo	4	0	0	4	neo-membro		ruolo
+neo	7	0	7	0	neo-miliardari		grado
+neo	6	0	6	0	neo-miliardario		grado
+neo	18	0	18	0	neo-ministri		ruolo
+neo	402	131	271	0	neo-ministro		ruolo
+neo	6	0	6	0	neo-missini	x
+neo	6	6	0	0	neo-misticismo		movimento			iterativo
+neo	15	0	7	8	neo-moglie		parentela
+neo	5	0	5	0	neo-moralismo		movimento			iterativo
+neo	6	0	0	6	Neo-Namecc	x
+neo	7	0	0	7	Neo-Nameck	x
+neo	11	0	0	11	neo-nata	x
+neo	8	0	0	8	neo-nato	x
+neo	10	0	10	0	neo-nazi	x
+neo	16	0	16	0	neo-nazionalismo		appartenenza politica			iterativo
+neo	5	0	5	0	neo-nazionalisti		appartenenza politica			iterativo
+neo	12	0	12	0	neo-nazismo		appartenenza politica			iterativo
+neo	47	32	15	0	neo-nazista		appartenenza politica			iterativo
+neo	122	46	72	4	neo-nazisti		appartenenza politica			iterativo
+neo	26	0	26	0	neo-neorealismo		movimento			iterativo
+neo	12	12	0	0	neo-noir		movimento			iterativo
+neo	4	0	4	0	neo-nominati		condizione
+neo	10	0	10	0	neo-nominato		condizione
+neo	6	0	6	0	neo-onorevole		ruolo
+neo	9	9	0	0	neo-operaista		?	x
+neo	6	0	6	0	neo-padre		parentela
+neo	4	0	4	0	neo-padrone		ruolo
+neo	10	4	6	0	neo-paganesimo		movimento			iterativo
+neo	5	5	0	0	neo-pagani		movimento			iterativo
+neo	18	9	9	0	neo-papà		parentela
+neo	7	0	7	0	neo-parlamentare		ruolo
+neo	5	0	5	0	neo-parlamentari		ruolo
+neo	5	0	5	0	neo-parlamentarismo		movimento			iterativo
+neo	15	4	11	0	neo-partito		condizione
+neo	11	0	11	0	neo-patentati		condizione
+neo	6	0	6	0	neo-pauperismo		movimento			iterativo
+neo	4	0	4	0	neo-pensionati		condizione
+neo	9	0	9	0	neo-pentito		condizione
+neo	4	0	0	4	neo-pitagorismo		movimento			iterativo
+neo	4	0	0	4	Neo-Platonismo		movimento			iterativo
+neo	4	0	0	4	neo-platonismo		movimento			iterativo
+neo	6	0	6	0	neo-politico		mestiere?
+neo	5	0	5	0	neo-populismo		movimento			iterativo
+neo	4	4	0	0	neo-populista		movimento			iterativo
+neo	10	0	10	0	neo-porporati		ruolo
+neo	9	0	9	0	neo-portavoce		ruolo
+neo	29	29	0	0	neo-positivismo		movimento			iterativo
+neo	6	6	0	0	neo-positivisti		movimento			iterativo
+neo	4	0	4	0	neo-prefetto		mestiere
+neo	75	13	62	0	neo-premier		ruolo
+neo	8	0	8	0	neo-premio		?	x
+neo	831	349	448	34	neo-presidente		ruolo
+neo	8	0	0	8	neo-Presidente		ruolo
+neo	5	0	5	0	neo-presidenti		ruolo
+neo	4	0	4	0	neo-primatista		grado
+neo	4	0	4	0	neo-principessa		ruolo
+neo	14	0	14	0	neo-pro	x
+neo	10	0	10	0	neo-procuratore		mestiere
+neo	10	0	10	0	neo-professionista		condizione
+neo	6	0	6	0	neo-professionisti		condizione
+neo	8	0	8	0	neo-professore		mestiere
+neo	4	0	0	4	neo-prog	x
+neo	26	0	12	14	neo-promossa		condizione
+neo	9	0	9	0	neo-promosse		condizione
+neo	24	0	10	14	neo-promosso		condizione
+neo	6	0	6	0	neo-proprietario		condizione
+neo	4	0	4	0	neo-protezionismo		movimento			iterativo
+neo	5	0	5	0	neo-psichedelia		?	x
+neo	5	0	5	0	neo-punk		condizione	x		iterativo
+neo	4	0	4	0	neo-qualunquisti		condizione	x		iterativo
+neo	8	0	0	8	Neo-Queen	x
+neo	6	0	6	0	neo-questore		ruolo			ingressivo
+neo	4	0	4	0	neo-razzismo		movimento	x		iterativo
+neo	59	17	36	6	neo-realismo		movimento	x		iterativo
+neo	8	0	0	8	Neo-Regina		ruolo			ingressivo
+neo	4	4	0	0	neo-regionalismo		movimento	x		iterativo
+neo	23	0	23	0	neo-regista		mestiere			ingressivo
+neo	13	0	13	0	neo-responsabile		ruolo			ingressivo
+neo	6	6	0	0	neo-retributivismo		movimento	x		iterativo
+neo	4	0	4	0	neo-ricchi		condizione			ingressivo
+neo	8	0	4	4	neo-romanticismo		movimento	x		iterativo
+neo	6	6	0	0	Neo-satanismo		movimento	x		iterativo
+neo	10	10	0	0	neo-scientismo		movimento	x		iterativo
+neo	93	8	85	0	neo-segretario		ruolo			ingressivo
+neo	47	0	43	4	neo-senatore		ruolo			ingressivo
+neo	4	0	4	0	neo-signora		condizione	x		ingressivo
+neo	89	22	67	0	neo-sindaco		ruolo			ingressivo
+neo	6	0	6	0	neo-socialista		appartenenza politica	x		iterativo
+neo	4	0	4	0	neo-socialisti		appartenenza politica	x		iterativo
+neo	19	0	19	0	neo-sottosegretario		ruolo			ingressivo
+neo	4	0	0	4	neo-soul	x
+neo	5	0	5	0	neo-sovrintendente		ruolo			ingressivo
+neo	4	0	4	0	neo-speaker	x
+neo	4	0	4	0	neo-sposa		parentela			ingressivo
+neo	7	0	0	7	neo-sposi		parentela			ingressivo
+neo	11	5	0	6	neo-tecnico		mestiere			ingressivo
+neo	11	4	7	0	neo-televisione	x
+neo	4	0	0	4	Neo-tifinagh	x
+neo	6	0	0	6	neo-tifinagh	x
+neo	8	0	0	8	Neo-Tokyo	x
+neo	6	0	0	6	Neo-Trantor	x
+neo	4	4	0	0	neo-tv	x
+neo	5	0	5	0	neo-umanesimo		movimento	x		iterativo
+neo	5	0	0	5	neo-vescovo		ruolo			ingressivo
+neo	15	0	15	0	neo-vicepresidente		ruolo			ingressivo
+neo	5	0	5	0	neo-volgarità	x	?	x		ingressivo
+neo	4	0	4	0	neo-yuppies		condizione	x		iterativo
+neo	5	0	5	0	neo-zelandese	x
+neo	4	0	4	0	neo-zelandesi	x
+neo	7	0	0	7	Neo-Zeon	x

@@ -1,0 +1,331 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	0	1	dopo A
+						DET ADV NOUN	WIKICONLL	La produzione CTI	del dopo A	& M Records è ora proprietà della Sony BMG Music Entertainment ed è distribuita dalla Epic Records ; gli album di
+
+0	0	1	dopo Concilio
+						DET ADV NOUN	WIKICONLL	 Giovani a Piombino negli anni della rivolta  , in  Movimenti cattolici e sociali a Piombino e Follonica	nel dopo Concilio	Vaticano II  ( Firenze , Libreria Editrice Fiorentina , 2006 ) ;  Condizione operaia e Resistenza .
+
+1	0	0	dopo Emittenza
+						DET ADV ADJ NOUN	ITWAC	ali del suo passato al Quirinale dopo una notte in bianco dopo una notte in bianco dopo una notte dopo	una dopo Sua Emittenza	dimissioni Sua Presidenza dimissioni Sua Prepotenza dimissioni Sua Astinenza dimissioni Sua Intromettenza dimissioni Sua Interferenza dimissioni Sua Invadenza dimissioni Soldi-sesso-successo e
+
+0	0	1	dopo Fava
+						DET ADV NOUN	WIKICONLL	Orioles è il punto di riferimento più forte nella redazione	del dopo Fava	, impegnato a contrastare in ogni modo il fenomeno della mafia ; guida un gruppo che si contraddistinguerà negli anni per
+
+1	0	0	dopo Fratello
+						DET ADV ADJ NOUN	ITWAC	Sul futuro non fa pronostici :  Spero però che	il dopo Grande Fratello	non sia più stressante di quanto è stato stare nella casa  .
+
+0	0	1	dopo Guerra
+						DET ADV NOUN	WIKICONLL	di  Foreign Affairs  del 1999 , Samuel P. Huntington scrisse che per rinforzare il proprio status nel mondo	del dopo Guerra	Fredda ,  gli Stati Uniti stanno , tra le altre cose tentando , o vengono percepiti come se stessero tentando
+
+0	0	1	dopo Hades
+						DET ADV NOUN	WIKICONLL	Esistono anche :  Tenkai-Hen : prologue  , una raccolta di otto tavole realizzata da Kurumada	sul dopo Hades	che ha ispirato il V film omonimo ; la  Taizen  l enciclopedia dei santi , con i disegni delle
+
+0	0	1	dopo Impero
+						DET ADV NOUN	WIKICONLL	grande , ma la vittoria fece emergere i militari come spina dorsale di quella che sarebbe diventata la Turchia laica	del dopo Impero	Ottomano , con alla guida il generale Mustafa Kemal .
+
+0	0	1	dopo Kobe
+						DET ADV NOUN	WIKICONLL	dei trasporti designò determinate strade e linee ferroviarie che vennero messe a norma con le più severe leggi antisismiche varate	nel dopo Kobe	.
+
+0	0	1	dopo Kun
+						DET ADV NOUN	WIKICONLL	Ma torna in patria poco dopo e come ebreo subisce la persecuzione	del dopo Kun	.
+
+0	0	1	dopo Larry
+						DET ADV NOUN	WIKICONLL	Alberto Bolognesi , Cisky , Lorenzo Gianoli , Carlo Maffini e Leo Mussini ) : la storia della musica house	del dopo Larry	Levan , i classici di tutti i tempi che hanno infiammato le “ dancefloors ” di tutto il mondo , i
+
+0	0	1	dopo Maestrelli
+						DET ADV NOUN	WIKICONLL	Nel 1976-77 viene chiamato ad allenare la Lazio dove deve pilotare il delicato periodo	del dopo Maestrelli	.
+
+0	0	1	dopo Mandela
+						DET ADV NOUN	WIKICONLL	in Albania ; i massacri dei fondamentalisti islamici in Algeria ; il conflitto in Serbia e Kosovo ; il Sudafrica	del dopo Mandela	.
+
+0	0	1	dopo Orvieto
+						DET ADV NOUN	WIKICONLL	In effetti il 10 dicembre ha luogo un incontro pubblico dove col pretesto di dibattere sul documento	del dopo Orvieto	, si cerca di dialogare con la sinistra Ds e possibilmente convincer- la ad aderire al progetto Se .
+
+0	0	1	dopo Pericle
+						DET ADV NOUN	WIKICONLL	La crisi dell Atene	del dopo Pericle	.
+
+0	0	1	dopo Pinochet
+						DET ADV NOUN	WIKICONLL	ottenuto il 44,7 % , contro il 29% del candidato del centro sinistra Eduardo Frei , secondo presidente della Repubblica	del dopo Pinochet	.
+
+0	0	1	dopo Saddam
+						DET ADV NOUN	WIKICONLL	Il 26 aprile 2004 il governo provvisorio annunciò una nuova bandiera per l Iraq	del dopo Saddam	.
+
+0	0	1	dopo Superga
+						DET ADV NOUN	WIKICONLL	A 36 anni lascia la maglia bianconera e veste quella granata nel Torino	del dopo Superga	chiudendo la carriera agonistica nel 1951 .
+
+0	0	1	dopo Tito
+						DET ADV NOUN	WIKICONLL	Alla Presidenza collegiale del Paese ( che ricalca il modello della vecchia Jugoslavia	del dopo Tito	) siedono un serbo , un croato e un musulmano , che a turno , ogni otto mesi , si alternano
+
+0	0	1	dopo a
+						DET ADV NOUN	WIKICONLL	uscirono pesantemente sconfitti : Carlo stesso fu catturato dal nemico e solo l ardimento di un ufficiale della cavalleria riuscì	poco dopo a	sottrar- lo al nemico .
+
+0	1	0	dopo abusivismo
+						DET ADV NOUN	REPUBBLICA	primo grande gruppo di progetti possibili -- le Regioni devono propor- li , il ministero valutar- li -- ruota attorno	al dopo abusivismo	.
+
+0	0	2	dopo alluvione
+						DET ADV NOUN	WIKICONLL	Nel 1969 , negli anni	del dopo alluvione	, fu stabilito che una nuova parrocchia sorgesse presso il vecchio borgo del Bandino e venne affidata alla cura dei Servi
+						DET ADV NOUN	WIKICONLL	Sindaco di Pontedera dal 1965 al 1975 ha quindi attraversato il momento difficile per la città	del dopo alluvione	del 1966 .
+
+0	2	0	dopo anni
+						DET ADJ ADV NOUN	REPUBBLICA	talento , di provare strade inedite , di affrontare quella lotta così occidentale che è la competizione , tanto temuta	dai sovietici dopo anni	anni di comodo e magari anche avvilente egualitarismo .
+						DET ADV ADJ NOUN	REPUBBLICA	, fin dall esordio nel 1991 con Luce del Nord ( Theoria ) , impietoso ritratto di un giovane piccolo-borghese	che dopo vari anni	trascorsi in America fra inconcludenze e dissipazioni , torna in una periferia romana che non conserva nulla del fascino ambiguo della
+
+0	0	1	dopo apartheid
+						DET ADV NOUN	WIKICONLL	Recentemente in città si è avuto un massiccio arrivo da parte di immigranti dal Sudafrica	del dopo apartheid	e dalla Corea del Sud .
+
+0	0	1	dopo attaccaron
+						DET ADV NOUN	WIKICONLL	 e la  King George V  vennero raggiunti dagli incrociatori  Norfolk  e  Dorsetshire  ,	poco dopo attaccaron	la corazzata tedesca , che era impossibilitata a manovrare a causa di un siluri lanciato da un aerosilurante Fairey Swordfish decollato
+
+0	0	1	dopo attentato
+						DET ADV NOUN	WIKICONLL	la città di Sharm el-Sheikh	del dopo attentato	, vista attraverso gli occhi degli italiani e degli egiziani che ci vivono .
+
+0	1	0	dopo barba
+						DET ADV NOUN	REPUBBLICA	Baresi sorride con quella faccia così segnata da render- lo testimonial davvero improbabile di	un dopo barba	antirughe , insieme al  nipotino  Costacurta ( lo spot è uscito da pochi giorni ) .
+
+0	1	0	dopo basket
+						DET ADV NOUN	REPUBBLICA	Chieti , qualche anno fa ) era laureato  disc-jockey  : stavano nascendo le radio libere , arrotondò anche	col dopo basket	.
+
+0	0	2	dopo bomba
+						DET ADV NOUN	WIKICONLL	 il Cantico  alla sua uscita è stato da tutti considerato un capolavoro del suo genere :  catastrofe	del dopo bomba	 .
+						DET ADV NOUN	WIKICONLL	stato costruito l Hiroshima Peace Memorial Museum , ricco di oggetti , foto , plastici , filmati del prima e	del dopo bomba	.
+
+0	1	0	dopo bufera
+						DET ADV NOUN	REPUBBLICA	dei trasoporti Claudio Burlando sono rimasti sulla graticola a rischio dimissioni per diversi giorni , ora si tenta la carta	del dopo bufera	.
+
+0	1	0	dopo campagna
+						DET ADV NOUN	REPUBBLICA	della Turco è un tentativo di costruire un movimento trasversale di parlamentari capace di non far- le uscire battute anche	dal dopo campagna	elettorale .
+
+0	6	0	dopo cena
+						DET ADV NOUN	REPUBBLICA	Così il premier scorrazza : un tè qui ,	un dopo cena	a casa dei vicini , un trekking a sfondo archeologico , persino due passi tra le torri di San Gimignano .
+						DET ADV NOUN	REPUBBLICA	Sono i tempi morti a deprimer- me ,	il dopo cena	 .
+						DET ADV NOUN	REPUBBLICA	Venerdì aveva fatto l alba nella hall del Turin Palace , prolungando	il dopo cena	con Moggi e altri che avevano partecipato alla tavolata fino alle 2.40 ( c erano anche Crippa e Ferrara ) .
+						DET ADV NOUN	REPUBBLICA	farebbero 714120 lire , senza calcolare le doverose e cospicue mance per il guardaroba , il taxi dall albergo ,	il dopo cena	al Jimmi  z o al Living Room di Michele Piepoli , transiti obbligatori delle follie notturne monegasche .
+						DET ADV NOUN	REPUBBLICA	naufragio nell arresa e nemmen troppo sogghignante esibizione dell ovvio ( ad esempio :  La cena terminò e venne	il dopo cena	 ; oppure :  Ogni bagno ha un inizio e una fine .
+						DET ADV NOUN	REPUBBLICA	si , tanto che mentre una volta dicevamo che il suo era un teatro digestivo , da dopo cena (	il dopo cena	della middle class matura e danarosa ) , oggi è un teatro aperitivo , nel senso che è frequentato da giovani
+
+0	3	0	dopo comunismo
+						DET ADV NOUN	REPUBBLICA	lo ammira :  È il massimo prammatista che abbiamo mai avuto , forse il più adatto a governar- ci	nel dopo comunismo	 .
+						DET ADV NOUN	REPUBBLICA	mondiale e della guerra fredda , agli eccessi della reganomics , Clinton , esponente della generazione del Vietnam , teso	al dopo comunismo	, appare un uomo nuovo : non il  dealer  abitua- le , l affarista del profondo Sud , ma
+						DET ADV NOUN	REPUBBLICA	tono i senatori democratici -- pochissime voci si sono levate contro il guerriero della fredda guerra che reggerà la Cia	nel dopo comunismo	.
+
+0	3	0	dopo concerto
+						DET ADV NOUN	REPUBBLICA	Ma non è solo una boutade come ha spiegato Rossi	nel dopo concerto	:  È un po che ci sto pensando e lo farò di sicuro : voglio incidere un disco da cantante
+						DET ADV NOUN	REPUBBLICA	Non c era , ma ha voluto far- se- lo raccontare dallo stesso Pavarotti	nel dopo concerto	.
+						DET ADV NOUN	REPUBBLICA	si gratuitamente , ha provveduto all amplificazione e alle luci e degli industriali irpini i quali hanno offerto il buffet	del dopo concerto	e le bibite .
+
+0	0	3	dopo concilio
+						DET ADV NOUN	WIKICONLL	Non bisogna dimenticare , poi , che le donne ,	nel dopo concilio	di Trento , non potevano certo parlare in pubblico di temi teologici , tanto meno commentare la Scrittura .
+						DET ADV NOUN	WIKICONLL	Occorre ricordare poi , che le donne ,	nel dopo concilio	di Trento , non potevano certo parlare in pubblico di temi teologici , tanto meno commentare la Scrittura .
+						DET ADV NOUN	WIKICONLL	possono essere definite di tardo manierismo , con chiari caratteri devozionali che nella realtà riflettevano i dettami della propaganda religiosa	del dopo concilio	di Trento .
+
+0	1	0	dopo congresso
+						DET ADV NOUN	REPUBBLICA	Già oggi il sindaco potrebbe incontrar- si a Roma con Martelli per ottenere garanzie precise anche per	il dopo congresso	: solo in questo caso , la crisi potrebbe rientrare , facendo tirare un sospiro di sollievo a quanti ( tifosi
+
+0	1	0	dopo corsa
+						DET ADV NOUN	REPUBBLICA	C è chi ipotizza per oggi	un dopo corsa	fibrillante di verifiche ed eventuali  sorprese  .
+
+0	2	0	dopo crisi
+						DET ADV NOUN	REPUBBLICA	, ha lodato l atteggiamento controllato di Israele dopo gli attacchi missilistici iracheni invitando comunque Tel Aviv a occupar- si	del dopo crisi	soprattutto in relazione alla questione palestinese .
+						DET ADV NOUN	REPUBBLICA	E insieme bisogna anche preparar- si	al dopo crisi	.
+
+0	0	1	dopo cristo
+						DET ADV NOUN	WIKICONLL	Le prime informazioni riguardo Incheon provengono	dal dopo cristo	, durante il regno del Re Jangsu della dinastia Goguryeo , quando il sito aveva il nome di Michuhol .
+
+1	0	0	dopo data
+						DET ADV ADJ NOUN	ITWAC	Iscritte /	i dopo tale data	, hanno diritto di parola e di essere eletti negli organismi dirigenti e delegati ai congressi superiori .
+
+0	1	0	dopo dieta
+						DET ADV NOUN	REPUBBLICA	tessere con sopra stampata l immagine di un ciccione che copre una figura di sé più snella , appunto quella	del dopo dieta	.
+
+0	0	1	dopo dittatura
+						DET ADV NOUN	WIKICONLL	ND vinse le prime elezioni	del dopo dittatura	, grazie ad una campagna improntata alla stabilità e ad evitare il rischio del ritorno della dittatura .
+
+1	0	0	dopo economy
+						DET ADV ADJ NOUN	ITWAC	Un dopo-Esperya , e più in generale	un dopo new economy	che in Italia tarda ad arrivare , o no ?
+
+0	1	0	dopo elezioni
+						DET ADV NOUN	REPUBBLICA	Ci sarà , dunque ,	un dopo elezioni	anche per l automobile ?
+
+1	0	0	dopo esami
+						DET ADV ADJ NOUN	ITWAC	curato subito con antibiotici , poi per puntura di insetto velenoso , forse zecca , poi dopo	un dopo vari esami	del sangue ( di cui aspettiamo ancora la cartella clinica ) ) ) e dopo varie visite neurologice e un esame
+
+0	0	2	dopo fascismo
+						DET ADV NOUN	WIKICONLL	In questo contesto la città di Salerno fu scelta per ospitare i primi governi	del dopo fascismo	: dal 10 febbraio al 15 luglio 1944 Salerno fu  Capitale d Italia  .
+						DET ADV NOUN	WIKICONLL	siciliani  , un raggruppamento dei latifondisti , fu chiamato dagli Alleati nel settembre 1943 come primo Sindaco di Palermo	del dopo fascismo	.
+
+0	0	2	dopo fusione
+						DET ADV NOUN	WIKICONLL	È il primo campionato	del dopo fusione	tra l Atalanta e la Bergamasca , le due principali entità calcistiche bergamasche hanno già unito le forze : i nuovi
+						DET ADV NOUN	WIKICONLL	prendendo i fratelli Pironi , il centravanti Chieppi ed il portiere Pelvi che nel 1926 fu il portiere del Napoli	del dopo fusione	.
+
+0	2	7	dopo gara
+						DET ADV NOUN	REPUBBLICA	E vai così , bisognava pur presentar- si agli stranieri	del dopo gara	, fa niente se  viola  è un concetto un po vago negli States e l americano domanda :
+						DET ADV NOUN	REPUBBLICA	confusione nella  mixed area  dello stadio Olimpico , quella dove gli atleti e i giornalisti possono incontrar- si	nel dopo gara	, è sempre notevole .
+						DET ADV NOUN	WIKICONLL	, ma i risultati della gara sono stati largamente oscurati dall annuncio fatto da Schumacher durante la conferenza stampa ufficiale	del dopo gara	, del suo ritiro al termine della stagione .
+						DET ADV NOUN	WIKICONLL	I commissari , però ,	nel dopo gara	, squalificheranno il brasiliano , reo di aver tagliato la chicane , consegnando così il titolo al compagno Prost .
+						DET ADV NOUN	WIKICONLL	Quando , però , Schumacher venne pesato	nel dopo gara	, il suo peso era sceso a 71.5 kg e , sebbene questo fosse combinato con quello della vettura , risultò
+						DET ADV NOUN	WIKICONLL	nel Gran Premio di San Marino , a cui non partecipava la maggior parte dei team inglesi : nelle verifiche	del dopo gara	venne però trovato sotto il peso minimo regolamentare , perdendo quindi la posizione .
+						DET ADV NOUN	WIKICONLL	posto , quindi nei punti , quando i commissari stabilirono	nel dopo gara	che Vitantonio Liuzzi , della Toro Rosso , aveva superato Sutil al 55 . giro , con le bandiere gialle .
+						DET ADV NOUN	WIKICONLL	su Radio2 sulle onde medie ( in realtà si chiamava Domenica Sport e seguiva i primi tempi e le interviste	nel dopo gara	) condotto da Mario Giobbe .
+						DET ADV NOUN	WIKICONLL	un ora la gara riparte ma c è subito il giallo della partenza anticipata di Didier Pironi che verrà penalizzato	nel dopo gara	.
+
+0	1	0	dopo golpe
+						DET ADV NOUN	REPUBBLICA	Se il summit avrà luogo , sarà il primo	del dopo golpe	: l ultimo si tenne infatti a Mosca a fine luglio .
+
+2	20	22	dopo guerra
+						DET ADV ADJ NOUN	ITWAC	E successo anche in Italia , nei cento anni tra l unificazione e	il dopo seconda guerra	mondiale , quando in ondate successive ben 29 milioni di cittadini si sono riversati non solo al nord , in tutta
+						DET ADV NOUN	REPUBBLICA	necessità che la Nato contribuisca a mantenere stabile il mondo e che instauri una costruttiva collaborazione con gli ex nemici	nel dopo guerra	fredda  .
+						DET ADV NOUN	REPUBBLICA	Il primo summit	del dopo guerra	fredda coll  amico-nemico Giappone le ha lasciato un gusto amaro in bocca : gigante militare , si è vista trattare
+						DET ADV NOUN	REPUBBLICA	realtà di un confronto molto più largo che si sta aprendo fra l Europa e l America nel convulso periodo	del dopo guerra	fredda .
+						DET ADV NOUN	REPUBBLICA	E poi , l importante è premunir- si per	il dopo guerra	, non per quanto può succedere domani .
+						DET ADV NOUN	REPUBBLICA	schiacciata tra la crisi del Golfo e la recessione , sembra delinear- si un esile schiarita sulla disputa più grave	del dopo guerra	fredda .
+						DET ADV NOUN	REPUBBLICA	Colombia e la Malaysia , ieri ha persino avvicinato Cuba per persuader- la a non boicottare il nuovo ordine internazionale	del dopo guerra	fredda , come ha detto il suo ambasciatore al Palazzo di Vetro , Thomas Pickering .
+						DET ADV NOUN	REPUBBLICA	I primi successi , così , debbono aspettar- li fino	al dopo guerra	, quando nel 48 l Italia firma con gli Usa il trattato di amicizia che  omologa sul nostro territorio
+						DET ADV NOUN	REPUBBLICA	Sono questioni importanti anche per gli Stati Uniti perché la partnership italo americana è tanto cruciale per noi	nel dopo guerra	fredda quanto lo fu nella guerra fredda  .
+						DET ADV NOUN	REPUBBLICA	Bisogna  rifondare l Europa  al fine di adattar- la al mondo	del dopo guerra	fredda ?
+						DET ADV NOUN	REPUBBLICA	la solidarietà regionale , che potrebbe -- sull esempio di quella che servì a incoraggiare l Europa a unir- si	nel dopo guerra	-- essere utilizzata per realizzare ancora attraverso l iniziativa di Contadora il meccanismo di un accordo , purché sorretta dalla solidarietà
+						DET ADV NOUN	REPUBBLICA	Gorbaciov sa ci ha dichiarato Robert Hormats , l ex sherpa di Reagan , che	nel dopo guerra	fredda non solo la sicurezza ma anche il benessere dell Urss dipende in larga misura dai tedeschi .
+						DET ADV NOUN	REPUBBLICA	, e che  fa solo proclami  , invece di fornire al mondo la leadership di cui ha bisogno	nel dopo guerra	fredda .
+						DET ADV NOUN	REPUBBLICA	vicepresidente Quayle alle truppe americane al fronte , sembra delinear- si un insperata , esile schiarita sulla disputa più grave	del dopo guerra	fredda .
+						DET ADV NOUN	WIKICONLL	La perdita progressiva di questo legame ebbe inizio dagli anni 40 , quando	nel dopo guerra	si introdussero in Europa nuovi vestiti pratici e leggeri .
+						DET ADV NOUN	WIKICONLL	È la storia vera di don Carlo Gnocchi , sacerdote che riesce nell Italia	del dopo guerra	, al suo ritorno dal fronte russo dove ha partecipato come cappellano militare degli alpini , a costruire un opera di
+						DET ADV NOUN	WIKICONLL	Un principio costante nell araldica militare italiana	del dopo guerra	prescrive che :  I Corpi che hanno diritto a fregiar- si di uno stemma sono tutti quelli forniti di una
+						DET ADV NOUN	WIKICONLL	Il periodo	del dopo guerra	si dedicò all insegnamento presso l Istituto Magistrale , prima a Foggia e successivamente a Lucera dove fu nominato Preside dell
+						DET ADV NOUN	WIKICONLL	La città di Milano e i suoi comuni limitrofi sono divenuti	nel dopo guerra	sempre più poli di attrazione per le popolazioni di quelle regioni in cui l economia tendeva a rimanere depressa e non
+						DET ADV NOUN	WIKICONLL	La produzione letteraria gaddiana ha parallelamente accompagnato la nuova ondata naturalistica	del dopo guerra	.
+						DET ADV NOUN	WIKICONLL	comune è agricola , artigianale ed industriale , con un occhio di riguardo alla produzione di scarpe , che sin	dal dopo guerra	ha caratterizzato lo sviluppo della vallata , infatti a partire dagli anni del grande boom economico del 1950 numerosi insediamenti calzaturieri
+						DET ADV NOUN	WIKICONLL	Nel 46 nonostante la difficoltà economica	del dopo guerra	, e la mancanza di tutte le materie prime necessarie alla continuazione dell opera , i lavori furono ripresi ed ultimati
+						DET ADV NOUN	WIKICONLL	menzionare che il dialetto metapontino è stato largamente influenzato dal campano fino alla fine del Regno di Napoli , invece	dal dopo guerra	, soprattutto con l avvento della tv , il dialetto ha subito trasformazioni con influenze della lingua italiana e con influenze
+						DET ADV NOUN	WIKICONLL	il centro della città di Havre ricostruita da Auguste Perret come “ un esempio eccezionale dell architettura e dell urbanistica	del dopo guerra	” ed il 15 luglio 2005 , ha deciso di inserir- lo tra i Patrimoni dell umanità .
+						DET ADV NOUN	WIKICONLL	Fuchs , è stato usato nel 1991 dagli americani , carenti in mezzi da ricognizione NBC , per le ricognizioni	nel dopo guerra	del Golfo .
+						DET ADV NOUN	WIKICONLL	Il campionato italiano di calcio di Promozione Lombarda 1968-69 è stato il 13° campionato di Promozione organizzato in Italia	nel dopo guerra	dal Comitato Regionale Lombardo ( C.R.L. ) .
+						DET ADV NOUN	WIKICONLL	macerie le città Europee distrutte ; i primi modelli erano di ridotte dimensioni e con ruote , mentre quelli utilizzati	nel dopo guerra	erano enormi , potentissimi e dotati di cingoli come i carri armati Si narra che a Berlino , distrutta dai bombardamenti
+						DET ADV NOUN	WIKICONLL	oggetto la politica e la morale nazionale americana , il proibizionismo ante litteram , visto che esso fu introdotto solo	nel dopo guerra	nel luglio 1919 , come Fitzgerald non manca di registrare .
+						DET ADV NOUN	WIKICONLL	Il campionato di Promozione Lombarda 1969-70 è stato il 14° campionato di Promozione organizzato in Italia	nel dopo guerra	dal Comitato Regionale Lombardo ( C.R.L. ) .
+
+0	3	0	dopo i
+						DET ADV NOUN	REPUBBLICA	Roma , il premier ieri mattina all Umberto	I dopo i	casi dei neonati infetta- ti .
+						DET ADV NOUN	REPUBBLICA	ad accennare al fatto che  la riforma presentata dal governo era l unica possibile prima dei referendum e resta	tale dopo i	referendum  .
+						DET ADV NOUN	REPUBBLICA	poi dovremo contentar- ci di cosa passa il convento , parlare in termini di governo e di opposizione , lasciare	al dopo i	grandi disegni .
+
+0	0	1	dopo impero
+						DET ADV NOUN	WIKICONLL	riguardo allo strumento : con l avanzare del tempo queste opere vennero tradotte in latino , lingua della cultura scientifica	del dopo impero	romano e del medioevo .
+
+0	0	1	dopo in
+						DET ADV NOUN	WIKICONLL	Giovanni X morì	poco dopo in	prigione , probabilmente per soffocamento .
+
+0	0	1	dopo incidente
+						DET ADV NOUN	WIKICONLL	Le conseguenze	del dopo incidente	.
+
+0	1	0	dopo invasione
+						DET ADV NOUN	REPUBBLICA	dentro pullula di notabili e uomini armati i quali , mitra alla mano , proteggono il primo ma significativo summit	del dopo invasione	.
+
+0	1	0	dopo laurea
+						DET ADV NOUN	REPUBBLICA	 E di render- me subito indipendente dopo gli studi  , dice Alessandra ricordando le inquietudini dei mesi	del dopo laurea	passati in scuole private più o meno rispettabili .
+
+0	0	1	dopo lavoro
+						DET ADV NOUN	WIKICONLL	Solo allora inizia a studiare	nel dopo lavoro	, da autodidatta , chitarra , basso e organo .
+
+0	0	4	dopo le
+						DET ADJ ADV NOUN	WIKICONLL	IV ebbe il riconoscimento da parte dell Impero bizantino della sua supremazia incontrastata sulla Dalmazia , che era stata persa	dai croati dopo le	le guerre di successione del 997 .
+						DET ADV NOUN	WIKICONLL	L ultima azione di disarmo operata dai tedeschi è quella contro l aeroporto militare che	poco dopo le	otto viene sorpreso da due camionette della Wehrmacht .
+						DET ADV NOUN	WIKICONLL	correndo per prendere l ultimo treno diretto in città alle 21 , e dopo l ha chiamata dall appartamento londinese	poco dopo le	23 .
+						DET ADV NOUN	WIKICONLL	da Roberto I di Artois , fratello del Re di Francia Luigi IX il Santo ) . Agnese fu ripudiata	poco dopo le	nozze e ritornò alla corte del fratello , Carlo II il Malvagio ( 1332 – 1387 ) , conte di Évreux
+
+0	1	0	dopo liberalizzazione
+						DET ADV NOUN	REPUBBLICA	, direttore generale del Banco di Napoli , spiegare il nuovo scenario in cui vengono a trovar- si le banche	del dopo liberalizzazione	e fare previsioni sul costo del denaro .
+
+0	1	1	dopo match
+						DET ADV NOUN	REPUBBLICA	che nonostante la brutalità ci sia una certa purezza nei rapporti personali tra i pugili , una sorta di affetto	del dopo match	.
+						DET ADV NOUN	WIKICONLL	Essi vennero aggrediti	nel dopo match	da Flair e Ramon , fingendo per Warrior un infortunio che gli avrebbe impedito di disputare Survivor Series .
+
+1	0	0	dopo media
+						DET ADV ADJ NOUN	ITWAC	primi due anni di scuola media , potrebbero essere scomposte e ricostituite sulla base delle scelte previste o presumibili per	il dopo terza media	?
+
+0	2	0	dopo mercato
+						DET ADV NOUN	REPUBBLICA	E i cambisti del governatore Ciampi tornano a vigilare i monitor , a controllare il mercato e	il dopo mercato	.
+						DET ADV NOUN	REPUBBLICA	di ulteriori sinergie verso la nascita di holding , un evoluzione necessaria questa per reggere la concorrenza nazionale e internazionale	del dopo mercato	unico e contenere i costi .
+
+0	2	0	dopo mezzanotte
+						DET ADV NOUN	REPUBBLICA	il mattino seguente finché non gli salteranno le corde vocali o saranno ricoverati per esaurimento da quiz e figuriamo- ci	il dopo mezzanotte	quando su cinquecento su mille canali si rovescerà il sesso totale , con le spogliarelliste che si dipingono e tagliano il
+						DET ADV NOUN	REPUBBLICA	sedere sulla poltroncina da psicanalista di Gigi Marzullo che , Sottovoce , gli chiede , nemmeno fosse il solito Vip	del dopo mezzanotte	, notizie della sua vita , dell infanzia passata davanti al piccolo schermo , delle donne  A me quelle della
+
+0	0	1	dopo morte
+						DET ADV NOUN	WIKICONLL	di Giovanni Luigi Valesio ( 1585 - 1650 ) , artista bolognese che godette di molta stima in vita e	poca dopo morte	.
+
+0	0	2	dopo olocausto
+						DET ADV NOUN	WIKICONLL	Hokuto aveva capito che era necessaria la forza per impor- si sulle bande di predoni che terrorizzavano gli insediamenti umani	del dopo olocausto	, ma una volta ottenuto il predominio non aveva saputo stemperare la sete di potere con la compassione per l altrui
+						DET ADV NOUN	WIKICONLL	era stato sempre portatore avrebbe potuto dare ordine al mondo , pur essendo stata necessaria per far terminare le barbarie	del dopo olocausto	.
+
+0	0	2	dopo partita
+						DET ADV NOUN	WIKICONLL	Dal 1982 affianca Enrico Ameri per le interviste	del dopo partita	nel programma di Radio2  Domenica Sport  condotto da Mario Giobbe , in onda dopo  Tutto il calcio minuto
+						DET ADV NOUN	WIKICONLL	Tra le dichiarazioni	del dopo partita	si registrò anche quella di Herrera :  Il Celtic ha meritato di vincere , e la loro è stata la
+
+0	7	0	dopo referendum
+						DET ADV NOUN	REPUBBLICA	Il compito di Dini è convincer- li di voler fare sul serio , nonostante gli intoppi politici	del dopo referendum	; il suo obiettivo è rafforzare la credibilità del paese : ieri sera , nella prima cena di lavoro di questo
+						DET ADV NOUN	REPUBBLICA	Il fronte politico , intanto , continua a divider- si	sul dopo referendum	.
+						DET ADV NOUN	REPUBBLICA	al presidente della regione Emilia Romagna e all assessore all Industria Federico Castellucci , per valutare il da far- si	sul dopo referendum	.
+						DET ADV NOUN	REPUBBLICA	governo si erano impegnati a muover- si , e a muover- si in maniera concorde , sulle soluzioni legislative per	il dopo referendum	.
+						DET ADV NOUN	REPUBBLICA	ore , forse anche oggi o domani , il governo polacco dovrebbe riunir- si a consulto per un esame politico	del dopo referendum	.
+						DET ADV NOUN	REPUBBLICA	pallino radicale : la prima proposta risale al 1974 , Pannella l ha rinverdita ieri da Bruxelles , nell esultanza	del dopo referendum	.
+						DET ADV NOUN	REPUBBLICA	risiede il nodo del litigio che rischia di mutilar- ne l efficienza , l altra incognita che complica ed imbroglia	il dopo referendum	francese .
+
+0	0	1	dopo riforma
+						DET ADV NOUN	WIKICONLL	Nell Inghilterra	del dopo riforma	, il sacrilegio rimase per secoli un delitto penale , anche se la sua definizione fu molto variabile .
+
+0	0	1	dopo rock
+						DET ADV NOUN	WIKICONLL	a cura di John Vignola ( Arcana editrice ) viene dedicato un capitolo ai Gatto Ciliegia come  via italiana	al dopo rock	 .
+
+0	0	1	dopo sbronza
+						DET ADV NOUN	WIKICONLL	essere i figli di un fantomatico signor Katzenjammer , ma poiché la parola in tedesco il termine indica il malessere	del dopo sbronza	, si può intendere che forse i due sono figli di qualche  peccatuccio  compiuto sotto spirito alcolico , come
+
+1	0	0	dopo scoperte
+						DET ADV ADJ NOUN	ITWAC	Eppure , anche nel viaggiare c è stato , storicamente , un prima e	un dopo certe scoperte	e invenzioni , che spesso ci sfugge .
+
+0	0	2	dopo scudetto
+						DET ADV NOUN	WIKICONLL	Direttore Tecnico di quella squadra era Eraldo Monzeglio , L immediato declino	del dopo scudetto	.
+						DET ADV NOUN	WIKICONLL	La stagione	del dopo scudetto	biancoceleste fu quella del riscatto per la Roma che grazie ad una solida difesa ( solo 15 gol incassati in tutto
+
+0	0	1	dopo scuola
+						DET ADV NOUN	WIKICONLL	Più tardi , Rachel ritorna da Brooke che confessar- le che Nick , usando la scuola	del dopo scuola	e della rivista , ha fatto delle avances .
+
+0	0	1	dopo sisma
+						DET ADV NOUN	WIKICONLL	Problemi economici	del dopo sisma	.
+
+1	0	0	dopo storia
+						DET ADV ADJ NOUN	ITWAC	Stai solo vivendo l iter normale di	un dopo fine storia	.
+
+0	0	1	dopo talebani
+						DET ADV NOUN	WIKICONLL	 Il vento di Kabul  è un viaggio nell Afghanistan	del dopo talebani	; un viaggio per capire perché la pace e la stabilità siano ancora così lontane nella terra che ha ospitato Osama
+
+0	9	12	dopo terremoto
+						DET ADV NOUN	REPUBBLICA	Lauro ; e la richiesta di archiviazione per l ex sindaco pci Maurizio Valenzi , indagato per concussione nell istruttoria	sul dopo terremoto	.
+						DET ADV NOUN	REPUBBLICA	Ma spesso a ripropor- la , più dei pregiudizi , sono i fatti , concreti e ripetuti come le speculazioni	sul dopo terremoto	e i finanziamenti delle banche napoletane alle società dei boss .
+						DET ADV NOUN	REPUBBLICA	ad Annifo e a Verchiano , viene accolta come una sorta di liberazione dal popolo costretto a vivere nei container	del dopo terremoto	.
+						DET ADV NOUN	REPUBBLICA	alle critiche di Verdi e Rete per aver collaudato , a pagamento , come altri suoi colleghi , le opere	del dopo terremoto	e per avuto un atteggiamento troppo prudente nei confronti dei potenti .
+						DET ADV NOUN	REPUBBLICA	da parlamentari arrestati o inquisiti , chiede al governo nazionale di sostituir- si a quello regionale per gestire la ricostruzione	del dopo terremoto	.
+						DET ADV NOUN	REPUBBLICA	di associazione di stampo mafioso per una serie di illeciti , compresi quelli commessi in Irpinia nella concessione degli appalti	del dopo terremoto	.
+						DET ADV NOUN	REPUBBLICA	e di comportamenti dannosi per le pubbliche finanze ( rammento vicende legate alla forestazione calabrese , agli enti lirici ,	al dopo terremoto	in Irpina , all uso disinvolto di beni pubblici e tante altre ) .
+						DET ADV NOUN	REPUBBLICA	mirano ad aggredire l immagine istituzionale del presidente del Consiglio , e preciserà anche che la storia dell Irpinia e	del dopo terremoto	costituisce un capitolo a parte dell intreccio .
+						DET ADV NOUN	REPUBBLICA	toccherà alla commissione d inchiesta insediata- si nell aprile dell 89 fare luce sui fatti e misfatti che hanno caratterizzato	il dopo terremoto	in Campania .
+						DET ADV NOUN	WIKICONLL	è stata eretta una statua dedicata al cantante Franco-Armeno Charles Aznavour che ha raccolto fondi per il soccorso alla popolazione	nel dopo terremoto	.
+						DET ADV NOUN	WIKICONLL	Anche se notevolmente rimaneggiato nel periodo	del dopo terremoto	, il centro storico di Piscinola conserva ancora molte interessanti testimonienze archiettoniche del passato .
+						DET ADV NOUN	WIKICONLL	Diviene sindaco di Gibellina , nella Valle del Belice , ed è l artefice ,	nel dopo terremoto	del gennaio 1968 , della chiamata a raccolta di tanti artisti , da Pietro Consagra ad Alberto Burri , che riempiono
+						DET ADV NOUN	WIKICONLL	Elenco dei Parroci a partire	dal dopo terremoto	1783 .
+						DET ADV NOUN	WIKICONLL	Entro questi limiti si era ormai stabilizzato lo sviluppo urbano che aveva caratterizzato il periodo che va	dal dopo terremoto	fino alla prima metà dell ottocento .
+						DET ADV NOUN	WIKICONLL	Il 6 aprile 2009 viene nominato commissario straordinario per l emergenza nella gestione	del dopo terremoto	dell Abruzzo .
+						DET ADV NOUN	WIKICONLL	La ricostruzione	del dopo terremoto	del 1980 , ha ridonato a Gesualdo la bellezza di un tempo , e grazie all impegno delle associazioni che operano
+						DET ADV NOUN	WIKICONLL	Oggi San Giorgio del Sannio si presenta come un paese in continua espansione ; il boom demografico corrisponde alla ricostruzione	del dopo terremoto	degli anni 80 .
+						DET ADV NOUN	WIKICONLL	Sita in posizione preminente sul colle della Caperrina , fu il primo edificio di culto ricostruito	nel dopo terremoto	; è legata all apparizione della Madonna in difesa dei messinesi assediati dai Francesi nel corso della guerra del Vespro (
+						DET ADV NOUN	WIKICONLL	Superata la complicata fase	del dopo terremoto	— quando Camagna era il principale ispiratore di Giovanni Giolitti riguardo la nomina di un commissario straordinario per governo e ricostruzione
+						DET ADV NOUN	WIKICONLL	essere nominato Ministro del governo Berlusconi , nell ambito di indagini della magistratura in seno a corruzione per la ricostruzione	del dopo terremoto	de l Aquila ed il mancato G8 alla Maddalena
+						DET ADV NOUN	WIKICONLL	ore successive all evento , alcune fonti di stampa e giornalisti hanno denunciato il rischio di infiltrazioni criminali nei lavori	del dopo terremoto	.
+
+0	0	1	dopo unità
+						DET ADV NOUN	WIKICONLL	Insieme al suo coetaneo Annibale Brugnoli , fu uno dei protagonisti della pittura Liberty nella Perugia	del dopo unità	d Italia , affrescando tra gli altri Palazzo Cesaroni .
+
+0	1	0	dopo vertice
+						DET ADV NOUN	REPUBBLICA	di aver- gli mobilitato contro la  quinta colonna  dell opinione pubblica interna , i fatti e le sensazioni	del dopo vertice	li smentiscono drasticamente .
+
+0	0	1	dopo voto
+						DET ADV NOUN	WIKICONLL	Il 15 aprile Folena dice la sua	sul dopo voto	: « Su queste macerie non si costruisce niente .
+

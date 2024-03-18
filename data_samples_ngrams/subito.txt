@@ -1,0 +1,403 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	0	1	subito Agilulfo
+						DET ADV NOUN	WIKICONLL	militari del 590 , avevano disertato il capo longobardo per unir- si a Franchi e Bizantini : costoro non accettarono	da subito Agilulfo	come re , e il sovrano fu costretto a conquistar- si con le armi la fedeltà .
+
+0	0	1	subito Aladdin
+						DET ADV NOUN	WIKICONLL	rifugio , le guardie fanno irruzione e costringono i 2 alla fuga , anche se non durerà molto , infatti	da subito Aladdin	viene catturato , allora la la fanciulla ordina alle guardie di fermando- si , scopre il suo viso e mostra a
+
+0	0	1	subito Bishop
+						DET ADV NOUN	WIKICONLL	Gli Stati Uniti che male vedevano il sorgere di un nuovo paese socialista nell are del centro america osteggairono	da subito Bishop	e il presidente americano Ronald Reagan accusò Grenada di approntare strutture per diventare un avamposto militare dell Unione Sovietica .
+
+0	0	1	subito Capogruppo
+						DET ADV NOUN	WIKICONLL	Nel 2006 è stato eletto al Consiglio Comunale di Milano nella lista di Alleanza Nazionale , diventandone	da subito Capogruppo	.
+
+0	0	1	subito Cordelli
+						DET ADV NOUN	WIKICONLL	La rapina inizialmente viene rivendicata da un gruppo terroristico , ma	da subito Cordelli	e Vinci nutrono dubbi che la rivendicazione sia autentica e convengono che per portar- la a termine era necessario un basista
+
+0	0	1	subito Danielle
+						DET ADV NOUN	WIKICONLL	Nel castello c è uno strano quadro , che rappresenta una morte sul rogo e che turba	da subito Danielle	.
+
+0	0	1	subito Inconis
+						DET ADV NOUN	WIKICONLL	Nel 1982 , iniziò un percorso di studi col maestro Karl Öhlberger , I fagotto dei Wiener Philharmoniker , e	da subito Inconis	fu scelto per suonare come I fagotto all Internationale Orchesterwochen in Austria .
+
+0	0	1	subito Internet
+						DET ADV NOUN	WIKICONLL	L organizzazione sperimentò	da subito Internet	come mezzo di espansione e crebbe considerevolmente .
+
+1	0	0	subito Lamento
+						DET ADV ADJ NOUN	ITWAC	formato fin dal libro d esordio , Addio , Columbus ( 1959 ) ; nella dozzina di titoli pubblicati fra	il subito leggendario Lamento	di Portnoy ( 1969 ) e il Teatro di Sabbath ( 1995 ) , la sua carriera ha conosciuto molti più
+
+0	0	1	subito Meg
+						DET ADV NOUN	WIKICONLL	i camion e si nascosero dietro un muro e aspettarono ; videro Anna che andava in una macchina speciale e	a subito Meg	si trasformò in cavallo con Damon sulla schiena .
+
+0	0	1	subito Santo
+						DET ADV NOUN	WIKICONLL	Rodolfo fu sepolto nella cattedrale di Gubbio ; il popolo eugubino lo acclamò	da subito Santo	per la sua carità esemplare e il suo distacco dal mondo .
+
+0	0	1	subito Sclavi
+						DET ADV NOUN	WIKICONLL	Il direttore Alfredo Barberis gli affida una serie e	da subito Sclavi	comincia ad esprimere la sua inesauribile vena comico - surreale inventando un poliziesco umoristico con due sgangherati investigatori di San Francisco
+
+0	0	1	subito Steven
+						DET ADV NOUN	WIKICONLL	La New Regency Productions ha acquisito i diritti cinema tografici del romanzo  Jumper  nel novembre 2005 , assumendo	da subito Steven	Gould come regista .
+
+0	0	1	subito Viggo
+						DET ADV NOUN	WIKICONLL	Per la scelta del cast , Harris volle	da subito Viggo	Mortensen , con il quale aveva già lavorato in  A History of Violence  di David Cronenberg , per il
+
+0	0	1	subito abitudine
+						DET ADV NOUN	WIKICONLL	Dotato , a norma di Codice della strada , di carburatore Dell Orto da 14mm , divenne	da subito abitudine	degli utenti il cambio dello stesso con quello maggiorato da 19mm per un miglioramento significativo delle prestazioni .
+
+2	0	0	subito accidente
+						DET ADV NOUN	ITWAC	lo Stramba dolersi e accusar la Simona che con inganno avvelenato l avesse , e ella , per lo dolore	del subito accidente	che il suo amante tolto avesse quasi di sé uscita , non sappiendosi scusare , fu reputato da tutti che cosí
+						DET ADV NOUN	ITWAC	lo Stramba dolersi e accusare la Simona che con inganno avvelenato l avesse , ed ella , per lo dolore	del subito accidente	che il suo amante tolto avesse , quasi di sé uscita , non sappiendosi scusare , fu reputato da tutti che
+
+0	0	1	subito adesione
+						DET ADV NOUN	WIKICONLL	A Firenze , i bandi di arruolamento della Repubblica Sociale Italiana ebbero	da subito adesione	assai scarsa .
+
+1	0	0	subito aggravamento
+						DET ADV NOUN	ITWAC	La poveretta , al colpo inatteso , s era dovuta mettere a letto per	un subito aggravamento	del male .
+
+0	1	0	subito aiuti
+						DET ADV NOUN	REPUBBLICA	Ecco Enrico La Loggia , capogruppo di Forza Italia al Senato :  Noi chiediamo che il governo	vari subito aiuti	per gli imprenditori italiani che hanno impiantato delle fabbriche in terra albanese e che le hanno difese , anche con le
+
+0	0	2	subito amico
+						DET ADV ADJ NOUN	WIKICONLL	Fin dal suo esordio , diventa comunque	da subito grande amico	del ranger e protagonista , insieme al connazionale Gros-Jean , di molte storie ambientate nel suo paese , il Canada .
+						DET ADV NOUN	WIKICONLL	Un po timido e curioso è	da subito amico	di Spank , Torakiki e di Jack il vagabondo .
+
+0	1	0	subito anni
+						DET ADV ADJ NOUN	REPUBBLICA	Di qui , e soprattutto	dai subito successivi anni	di guerra , muove la mostra di oggi : che infatti il curatore , Valerio Rivosecchi , ha voluto sottotitolare Elogio
+
+4	0	0	subito arresto
+						DET ADV NOUN	ITWAC	Avrebbe potuto facilmente lasciarlo infilzare , tenendo ferma e diritta la sciabola , in	un subito arresto	: ma scacciò tosto la tentazione e seguitò a parare .
+						DET ADV NOUN	ITWAC	Così pure cammina Paola Turroni : il senso della ricerca sta nel cammino , nei possibili abissi circostanziali e non	nel subito arresto	che ogni ricerca sulla presenza o meno del  linguaggio puro  possa evventualmente provocare .
+						DET ADV NOUN	ITWAC	Cosi pure cammina Paola Turroni : il senso della ricerca sta nel cammino , nei possibili abissi circostanziali e non	nel subito arresto	che ogni ricerca sulla presenza o meno del  linguaggio puro  possa evventualmente provocare .
+						DET ADV NOUN	ITWAC	ch  or ti danna per nove anni interi Al carcer duro , e computato in questi Il tempo tutto	del subito arresto	, ecc. È noto che discendesti Da madre convulsiva e che pur fosti Ad attacchi epilettici soggetta Le tante volte che
+
+0	0	1	subito attenzione
+						DET ADV NOUN	WIKICONLL	propri risparmi il suo primo cortometraggio ,  Saute ma ville  ( 1968 ) , grazie al quale ricevette	da subito attenzione	dalla critica ed il supporto del regista belga André Delvaux .
+
+0	0	1	subito attrice
+						DET ADV ADJ NOUN	WIKICONLL	Nel 1979 è al fianco di Gianni Boncompagni nella trasmissione  Discoring  . Si dichiara	da subito aspirante attrice	e dopo aver studiato scenografia ed esser- si diplomata presso il laboratorio di Gigi Proietti , comincia la sua carriera come
+
+0	0	1	subito avversarie
+						DET ADV ADJ NOUN	WIKICONLL	Nel 1963 , la Shūeisha ha iniziato la pubblicazione della  Margaret  , e le due riviste sono diventate	da subito grandi avversarie	nelle vendite .
+
+0	0	1	subito avvio
+						DET ADV NOUN	WIKICONLL	Nel 1886 il proprietario diventò il signor Marcello Galli-Dun che	da subito avvio	grandi restauri che trasformarono il monastero in una villa in stile neogotico .
+
+0	0	1	subito azioni
+						DET ADV NOUN	WIKICONLL	Il re , che era stato in stretto contatto con il modello di gestione inglese , intraprese	da subito azioni	decise per riottenere autorità e controllo nel regno .
+
+0	0	1	subito canto
+						DET ADV NOUN	WIKICONLL	Giuseppe Bianchi nacque in una famiglia povera a Cremona , e studiò	da subito canto	sotto il maestro Cima .
+
+0	0	1	subito capacità
+						DET ADV ADJ NOUN	WIKICONLL	Egli rivelò	da subito grandi capacità	organizzative e Ceuta nell anno dell occupazione di Oran nel 1731 .
+
+0	0	1	subito capitano
+						DET ADV NOUN	WIKICONLL	Compì studi a Roma e all età di 26 anni si arruolò nella Marina Spagnola diventando	da subito capitano	di fregata comandando le fregate  San Cristobal  ,  Juno  e  Rosa  .
+
+1	0	1	subito centro
+						DET ADV NOUN	ITWAC	venuti a coincidere il mondo del critico e il mondo del poeta , al momento dell esegesi è fatto d	un subito centro	intenso di polemica vitale e Alfieri e De Sanctis combattono insieme , difensori dell immanentismo moderno contro il dogmatico  Proudhon
+						DET ADV NOUN	WIKICONLL	Eretta nella seconda metà del XIII secolo , divenne	da subito centro	di aggregazione della nuova città e dell omonimo quartiere , uno dei più attivi e popolosi , dimora di famiglie importanti
+
+1	0	0	subito conforto
+						DET ADV NOUN	ITWAC	40 Se da Iocondo il re bramava udire onde venisse	il subito conforto	, non men Iocondo lo bramava dire , e fare il re di tanta ingiuria accorto ; ma non vorria che
+
+0	0	1	subito connessioni
+						DET ADV NOUN	WIKICONLL	In particolare nel CD sono stati inclusi numerosi strumenti per configurare	da subito connessioni	tramite differenti tipologie di rete , compresi wi-fi , bluetooth e UMTS / 3G .
+
+0	0	1	subito connotati
+						DET ADV NOUN	WIKICONLL	L incontro assunse quindi	da subito connotati	politici di sfida tra il blocco sovietico e gli avversari occidentali , che per certi versi replicarono le modalità del
+
+0	0	1	subito connotato
+						DET ADV NOUN	WIKICONLL	( 1919 ) , insieme a Camillo Bellieni ed altri reduci , Lussu fondò il Partito Sardo d Azione ,	da subito connotato	come movimento autonomista e federalista , che pose al centro della sua azione politica la  questione nazionale sarda  .
+
+0	0	4	subito consensi
+						DET ADV ADJ NOUN	WIKICONLL	Il disco riceve	da subito forti consensi	da parte di critica e pubblico , con i consecutivi riconoscimenti - menzione Targa Tenco sez. Opera Prima , prima ex
+						DET ADV ADJ NOUN	WIKICONLL	Il programma riscuote	da subito numerosi consensi	per l efficacia con cui interviene in difesa dei diritti dei cittadini .
+						DET ADV ADJ NOUN	WIKICONLL	divenne agli occhi della popolazione europea una Casa rivoluzionaria nel campo delle monovolume e così anche la Mégane Scénic ottenne	da subito grossi consensi	.
+						DET ADV NOUN	WIKICONLL	Pur essendo nata per favorire lo sviluppo delle capacità dei figli dei proletari , la scuola Waldorf ha raccolto	da subito consensi	tra coloro che desideravano un educazione moderna e creativa per i propri figli .
+
+0	0	1	subito contatto
+						DET ADV NOUN	WIKICONLL	Virginia il 19 febbraio 1755 con due regimenti di truppe regolari britanniche.A aprtire dal 14 aprile dello stesso anno prese	da subito contatto	con diverse autorità coloniali .
+
+0	0	1	subito contrasti
+						DET ADV ADJ NOUN	WIKICONLL	Pur lavorando in coppia , McCluskie e Bailey ebbero	da subito accesi contrasti	a causa delle rispettive personalità e delle diverse opinioni politiche .
+
+0	0	1	subito coordinatore
+						DET ADV NOUN	WIKICONLL	D Alema divenne	da subito coordinatore	della segreteria del neonato partito , acquistando- vi una posizione eminente ( anche grazie al controllo delle leve organizzative ) e
+
+1	0	0	subito coscienza
+						DET ADV NOUN	ITWAC	Allora Dorina riprese d	un subito coscienza	: - Eccomi , eccomi ...
+
+1	0	0	subito cum
+						DET ADV ADJ NOUN	ITWAC	Il generico valore di  bibliothecae  , come lo prospetta Carl Becker , appare ancor più sconsigliabile a causa	del subito successivo cum	ipsis Hebraicis ( « samt den Hebraischen Originalen » ) : perché mai alle biblioteche di Tolomeo dovrebbero corrispondere degli originali
+
+1	0	0	subito danno
+						DET ADV NOUN	ITWAC	del g.a. ) senza una previa , tempestiva impugnazione dell atto illegittimo additato come elemento dal quale è poi gemmato	il subito danno	.
+
+1	0	0	subito detrimento
+						DET ADV NOUN	ITWAC	74 , dopo le parole :  delle indennita di espropriazione  sono inserite le seguenti :  o per	il subito detrimento	 .
+
+0	0	1	subito difficoltà
+						DET ADV ADJ NOUN	WIKICONLL	Il previsto trasferimento via nave , però , presentò	da subito insormontabili difficoltà	tecniche dovute al dominio dei mari della Gran Bretagna , in guerra con la Germania .
+
+0	0	1	subito dimensioni
+						DET ADV NOUN	WIKICONLL	Il carro , metafora del trionfo della santa , diventa ben presto il centro della celebrazione , assume	da subito dimensioni	notevoli e ed è stato più volte sostituito , nella ricerca di effetti scenografici sempre più solenni .
+
+0	0	1	subito disaccordi
+						DET ADV NOUN	WIKICONLL	Si ebbero però	da subito disaccordi	, soprattutto da don Antonio Macrì e don Mico Tripodo , soprattutto per il fatto che potesse tradire la propria
+
+1	0	0	subito disfacimento
+						DET ADV NOUN	ITWAC	( Haynau ) ordinò la consegna di ogni arma ,	il subito disfacimento	delle barricate , l immediato accomodamento delle vie per opra degli stessi cittadini .
+
+0	0	1	subito doti
+						DET ADV NOUN	WIKICONLL	Passato professionista nel 2002 con la Saeco , dimostra	da subito doti	di scalatore : è compagno di squadra di Gilberto Simoni e di Damiano Cunego .
+
+0	0	1	subito duca
+						DET ADV NOUN	WIKICONLL	Come figlio primogenito del sovrano inglese , egli divenne	da subito duca	di Cornovaglia e duca di Rothesay ; egli venne creato principe del Galles e conte di Chester pochi mesi dopo la
+
+0	0	1	subito emiro
+						DET ADV NOUN	WIKICONLL	successore , ʿAbd al-Raḥmān ibn Muʿāwiya , che era uno dei pochi omayyadi scampati alla strage , invece si proclamò	da subito emiro	, mettendo in rilievo l autonomia di al-Andalus dal califfato di Damasco .
+
+0	0	2	subito fama
+						DET ADV NOUN	WIKICONLL	Qui ottiene	da subito fama	e successo , anche a livello europeo oltre che il ruolo di pittore di corte .
+						DET ADV NOUN	WIKICONLL	il loro primo singolo  Short Dick Man  del 1994 ( in collaborazione con Gillette ) , hanno suscitato	da subito fama	e clamore a causa dei loro testi con precisi riferimenti sessuali .
+
+1	0	0	subito famiglia
+						DET ADJ ADV NOUN	ITWAC	89 Come talor si getta e si periglia e da finestra e da sublime loco	l esterrefatta subito famiglia	famiglia , che vede appresso e d ogn  intorno il fuoco , che mentre le tenea gravi le ciglia il
+
+0	0	1	subito favori
+						DET ADV ADJ NOUN	WIKICONLL	La sua comicità , basata soprattutto su osservazioni pungenti e ironiche sui normali fatti della vita , non ottiene	da subito grandi favori	.
+
+0	0	1	subito feudo
+						DET ADV NOUN	WIKICONLL	Il borgo fu	da subito feudo	della famiglia di Lavagna i Fieschi che nell XI secolo dotarono il paese di un castello .
+
+0	0	1	subito filo
+						DET ADV NOUN	WIKICONLL	Subaru in ogni caso si presenta al via del rally di Corsica con un Impreza molto migliorata e Sainz difatti	da subito filo	da torcere ad Auriol che cerca di scappare al comando .
+
+0	0	1	subito forme
+						DET ADV NOUN	WIKICONLL	I lepospondili , dal canto loro , sviluppano	da subito forme	molto specializzate ( Aistopoda ) .
+
+0	0	1	subito fortuna
+						DET ADV NOUN	WIKICONLL	George Anson entrò in marina nel 1712 , ed ebbe	da subito fortuna	: nel 1716 fu nominato luogotenente , nel 1722 comandante e nel 1724 vice capitano .
+
+2	0	0	subito furto
+						DET ADV NOUN	ITWAC	pubblicitaria dell annotazione nel pubblico registro automobilistico della perdita di possesso dell autoveicolo da parte del proprietario intestatario a seguito	del subito furto	non ha effetto dal momento in cui l interessato ha inoltrato la relativa richiesta , ma da quello , anteriore ,
+						DET ADV NOUN	ITWAC	sia senz altro spazio per un annullamento degli arretrati qualora il contribuente sia in grado di farsi attestare non solo	il subito furto	, ma anche la circostanza che l autoveicolo era in realtà ridotto a rottame fin dalla data del ritrovamento e che
+
+1	0	0	subito genti
+						DET ADV ADJ NOUN	ITWAC	Di poi , venendo alle mani , in	un subito quelle genti	poste nel mezzo fece camminare adagio ed i corni dello esercito con celerità farsi innanzi ; di modo che solo i
+
+1	0	0	subito goal
+						DET ADV NOUN	ITWAC	La Pro è doppiamente sotto , per	il subito goal	all andata , potrebbe gettare la spugna e pensare solo agl  impellenti impegni di campionato ed invece non molla con
+
+1	0	0	subito imbarazzo
+						DET ADV NOUN	ITWAC	 S era interrotto per	un subito imbarazzo	, notando che la sorella di Roberto , nel vedersi tirata in ballo quando men se l aspettava , s era
+
+1	0	0	subito impeto
+						DET ADV NOUN	ITWAC	Le due bambine ne sono atterrite , tutte e due ; ma l una rivolta le spalle in	un subito impeto	, e fugge , vola con le braccia tese , verso l uscio di casa sua ; l altra , no
+
+0	0	1	subito inclinazione
+						DET ADV NOUN	WIKICONLL	Circondata dagli strumenti musicali , mostra	da subito inclinazione	per la musica .
+
+0	0	1	subito interesse
+						DET ADV NOUN	WIKICONLL	Cagli mostrò	da subito interesse	per le opere di Perosino , facendo- si promotore di due mostre personali a Roma , una nel 1968 , alla
+
+2	0	0	subito intonazione
+						DET ADV ADJ NOUN	ITWAC	evitati ; poi tossiva , si schiariva la voce , cominciava a maltrattare la chitarra , e diceva , accennando	una subito soffocata intonazione	, all incirca le parole seguenti ( la traduzione , frettolosa , è del nostro collaboratore Benito D Ippolito - che
+						DET ADV ADJ NOUN	ITWAC	evitati ; poi tossiva , si schiariva la voce , cominciava a maltrattare la chitarra , e diceva , accennando	una subito soffocata intonazione	, all incirca le parole seguenti ( la traduzione , frettolosa , e del nostro collaboratore Benito D Ippolito - che
+
+0	0	1	subito legami
+						DET ADV NOUN	WIKICONLL	ebbero un ruolo chiave nell organizzazione DiMeo , con le due bande capitanate da Johnny Boy e Junior : intrattennero	da subito legami	criminali con le cosiddette  Cinque famiglie  di New York : in particolare con la Famiglia Lupertazzi ( il cui
+
+1	0	0	subito legat
+						DET ADV NOUN	ITWAC	un mesa fa mi sare	i subito legat	a voil adesso nvece i vostri post sono i più dsolorosi per me da ingoiare .
+
+0	0	1	subito lezioni
+						DET ADV NOUN	WIKICONLL	Ha preso	da subito lezioni	di ballo e canto .
+
+0	0	1	subito luoghi
+						DET ADV NOUN	WIKICONLL	I suoi centri principali divennero	da subito luoghi	di elezione del Jet set internazionale e tra le mete più ambite nel Mediterraneo .
+
+0	0	1	subito malcontento
+						DET ADV ADJ NOUN	WIKICONLL	Tale decisione suscitò	da subito grande malcontento	nella popolazione canavesana , che considerò sempre un grave affronto del regime alla propria  italianità  l essere inglobata in
+
+0	0	1	subito membro
+						DET ADV NOUN	WIKICONLL	Milano , partecipa al Congresso di Fiuggi che vede la nascita di Alleanza Nazionale , partito per il quale è	da subito membro	dell Assemblea Nazionale .
+
+0	0	2	subito meta
+						DET ADV NOUN	WIKICONLL	i suoi palazzi il fiorire del tardo neoclassico a Trieste , la pasticceria , in delicato stile liberty , fu	da subito meta	di nobiltà , borghesia e intelligenza triestina , la frequentavano letterati e scrittori , un nome per tutti : James Joyce
+						DET ADV NOUN	WIKICONLL	raggiunta fece sì che il suo sepolcro divenne	da subito meta	di pellegrinaggio .
+
+0	0	1	subito mezzi
+						DET ADV ADJ NOUN	WIKICONLL	Le grandi distanze delle ferrovie nordamericane richiesero	da subito potenti mezzi	di trazione , robusti ed affidabili , per trainare una grande quantità di merci in pochi convogli .
+
+0	0	1	subito miseria
+						DET ADV NOUN	WIKICONLL	Una vicenda assurda e sconcertante che determinò	da subito miseria	ed emigrazione .
+
+0	1	0	subito modifiche
+						DET ADV NOUN	REPUBBLICA	 E allora il governo	vari subito modifiche	adeguate alle normative sui fondi pensione , sui mercati finanziari e sul loro controllo  .
+
+1	0	0	subito moschettieri
+						DET ADV ADJ NOUN	ITWAC	Ma in	un subito cento moschettieri	che prima non erano potuti entrare in niuna casa , fanno impeto con leve e scuri contro la porta di dietro
+
+0	0	1	subito oggetto
+						DET ADV NOUN	WIKICONLL	corso di una conferenza stampa nel Cortile del Podestà di Palazzo Pubblico una settimana circa prima della corsa ed è	da subito oggetto	di grande curiosità , in quanto si cerca di scorgere al suo interno dei particolari che  predìcano  quale sarà
+
+0	0	1	subito online
+						DET ADV NOUN	WIKICONLL	installazione che con un solo click è in grado di copiare su host e configurare tutto il necessario per mettere	da subito online	l applicativo .
+
+0	0	1	subito organo
+						DET ADV NOUN	WIKICONLL	Dal 23 settembre del 1943 la sede di Radio Bari viene occupata dagli Americani che ne fanno	da subito organo	del loro quartier generale di Algeri .
+
+0	0	1	subito parte
+						DET ADV NOUN	WIKICONLL	Poco tempo dopo viene creata la Ligue communiste révolutionnaire , di cui Krivine fa	da subito parte	degli organismi dirigenti , restandone membro fino ai giorni nostri .
+
+1	0	0	subito partito
+						DET ADV NOUN	ITWAC	Ma assaltato	dal subito partito	, per le cagioni che di sopra si dicono , le concesse .
+
+0	0	1	subito pedine
+						DET ADV ADJ NOUN	WIKICONLL	giovani proseguì , come certificarono gli acquisti dei centrocampisti Dietmar Danner e Christian Kulik e del libero Hans-Jürgen Wittkamp ,	da subito importanti pedine	dell undici titolare .
+
+2	0	0	subito pensiero
+						DET ADV NOUN	ITWAC	LAUDISI : ( acceso da	un subito pensiero	) Oh Dio , signori !
+						DET ADV NOUN	ITWAC	LAUDISI ( acceso da	un subito pensiero	) Oh Dio , signori !
+
+0	0	1	subito perdite
+						DET ADV ADJ NOUN	WIKICONLL	Grazie alla strategia di Munro , i nemici subiscono	da subito gravi perdite	e infine vengono colti di sorpresa da un secondo gruppo di soldati Delaware a cavallo , che li costringono alla fuga
+
+0	0	1	subito personaggi
+						DET ADV ADJ NOUN	WIKICONLL	Il sovrano oristanese si alienò	da subito importanti personaggi	e ufficiali di corte , tra cui Giovanni de Ligia ed il figlio Valore .
+
+0	0	1	subito personalità
+						DET ADV ADJ NOUN	WIKICONLL	A Reggio Calabria inizia la stagione da titolare , mostrando	da subito forte personalità	e notevole tecnica , diventando un punto fisso nel centrocampo amaranto .
+
+1	0	0	subito piacere
+						DET ADV ADJ NOUN	ITWAC	la terra , sereno il cielo e reso torbido unicamente dal fumo delle artiglierie , sembrava che tutto ciò infondesse	un subito indicibile piacere	in ogni ordine di persone .
+
+1	0	0	subito piano
+						DET ADV ADJ NOUN	ITWAC	proble ­ matica giuridica della lingua adoperata nel provvedimento di espulsione di persona straniera , si dovrebbe allora comunque lasciare	al subito successivo piano	attuativo della disposizione di legge il compito di salvaguardare e soddi ­ sfare quanto più è possibile & # 8209 ;
+
+0	0	1	subito polemiche
+						DET ADV ADJ NOUN	WIKICONLL	Nel novembre del 2006 il movimento si presentò alle elezioni scolastiche a Roma , ottenendo discreti risultati , ma causando	da subito aspre polemiche	.
+
+0	0	1	subito popolarità
+						DET ADV ADJ NOUN	WIKICONLL	risalente al 1876 , si volle dare al Corpo Musicale della Guardia Nazionale un orientamento più concertistico che gli procurò	da subito grande popolarità	e riconoscimenti anche a livello Europeo .
+
+4	0	0	subito pregiudizio
+						DET ADJ ADV NOUN	ITWAC	Come già affermato da questa Sezione Giurisdizionale con le menzionate Sentenze ,  il risarcimento o la riparazione di	un siffatto subito pregiudizio	pregiudizio - da ritenere proprio sia dell illecito extracontrattuale che dell inadempimento contrattuale  - , a parte la tecnica della
+						DET ADJ ADV NOUN	ITWAC	Come già affermato da questa Sezione Giurisdizionale con le menzionate Sentenze ,  il risarcimento o la riparazione di	un siffatto subito pregiudizio	pregiudizio - da ritenere proprio sia dell illecito extracontrattuale che dell inadempimento contrattuale - , a parte la tecnica della sua
+						DET ADV NOUN	ITWAC	con riguardo alle finalità perseguite con la previsione dell indennità di avviamento , che sono quella di ristorare il conduttore	del subito pregiudizio	( anche se stabilito presuntivamente dal legislatore secondo l id quod plerumque accidit ) e quella di porre un deterrente per
+						DET ADV NOUN	ITWAC	interesse  pretensivo  vantato dal privato ricorrente , ed in relazione al quale quest ultimo invochi il ristoro d	un subito pregiudizio	, riconducibile alla illegittimità dell atto vittoriosamente attaccato in sede demolitoria .
+
+0	0	1	subito presidente
+						DET ADV NOUN	WIKICONLL	Mosna divenne	da subito presidente	della società e , grazie alla fama acquisita in campo imprenditoriale , riuscì a far confluire nel  progetto volley
+
+0	0	1	subito previsioni
+						DET ADV NOUN	WIKICONLL	statistiche ; il grado di apparente utilizzabilità immediata non deve trarre in inganno , pur permettendo all utente di effettuare	da subito previsioni	o classificazioni , seppure con i limiti del caso .
+
+0	0	4	subito problemi
+						DET ADV ADJ NOUN	WIKICONLL	La maggior parte di essi mostrò	da subito gravi problemi	legati da un lato agli impianti elettrici malfunzionanti per l elevatissima umidità ambientale , dall altro agli impianti di condizionamento funzionanti
+						DET ADV ADJ NOUN	WIKICONLL	La vettura mostrò	da subito grandi problemi	riguardanti la tenuta di pista , e anche se durante la stagione si verificarono miglioramenti la HS1 rimase sempre fortemente penalizzata
+						DET ADV ADJ NOUN	WIKICONLL	Sfortunatamente , la V14 ebbe	da subito grossi problemi	di inaffidabilità del motore e ciò ne penalizzò enormemente le vendite .
+						DET ADV NOUN	WIKICONLL	Questa nuova compagnia ebbe	da subito problemi	di tipo economico così che il suo fondatore dovette far arrivare nuovi capitali e nuovi soci .
+
+0	0	2	subito proposta
+						DET ADV NOUN	WIKICONLL	La Stilo è stata	da subito proposta	in due varianti di carrozzeria , 3 e 5 porte , differenti tra loro nella parte posteriore : più slanciata e
+						DET ADV NOUN	WIKICONLL	Nonostante Elsie si fosse	da subito proposta	per l orrendo sacrificio , Enrico rifiutò sdegnato , preferendo ascoltare il parere dei medici .
+
+0	0	1	subito protagonista
+						DET ADV NOUN	WIKICONLL	Negli anni 60 la Scuola è stata rinominata Scuola di Ingegneria Aerospaziale ed è stata	da subito protagonista	dell era spaziale grazie al progetto San Marco di Luigi Broglio , pioniere e fondatore dello spazio in Italia .
+
+0	0	1	subito prova
+						DET ADV NOUN	WIKICONLL	fida di loro , ma col tempo questa imparerà a fidar- si di loro , anche grazie all affetto che	da subito prova	per Tuxedo Kamen .
+
+0	0	1	subito provincia
+						DET ADV NOUN	WIKICONLL	L epiro venne conquistato dai romani verso il 168 a.C. Non diviene	da subito provincia	autonoma ma viene incorporata nella Macedonia , istituita nel 146 a.C. Con Augusto ci fu una riorganizzazione provinciale e l Epiro
+
+0	0	1	subito punti
+						DET ADV NOUN	WIKICONLL	, si è sviluppata la tendenza a privilegiare un tipo di insegnamento che metta in condizioni gli allievi di guadagnare	da subito punti	in gara , privilegiando talora posizioni statiche del tutto contrarie alla filosofia della  via della cedevolezza  ( che è
+
+0	0	2	subito punto
+						DET ADV NOUN	WIKICONLL	Dal 1866 risiede a Bologna , dove è diventata	da subito punto	di riferimento della cultura cittadina , pubblicando le opere di Carducci e Pascoli oltre che i  Postuma  di Olindo
+						DET ADV NOUN	WIKICONLL	su corso Garibaldi ( la facciata ) e sul  Giro Esterno  ( il fianco sinistro ) , divenendo	da subito punto	di riferimento imprescindibile per la città .
+
+0	0	1	subito rapporti
+						DET ADV NOUN	WIKICONLL	La formazione , nonostante la lontananza geografica , strinse	da subito rapporti	con la Cichero , nella quale entrò ufficialmente a fine settembre 44 .
+
+0	0	1	subito relazioni
+						DET ADV ADJ NOUN	WIKICONLL	Sia Giovanni Alfonso Borelli sia lo stesso Cassini stesero	da subito precise relazioni	sul movimento dei quattro satelliti galileiani , riuscendo a calcolar- ne la posizione con grande accuratezza .
+
+1	0	0	subito reportage
+						DET ADV NOUN	ITWAC	fix 2004/11/4 18:39 bentornata /	i subito reportage	dal vivo cella 2004/11/4 15:52 mitica !!!!!!!!! ciao !!!
+
+0	0	1	subito restauri
+						DET ADV ADJ NOUN	WIKICONLL	Per arrivare all aspetto attuale la chiesa	a subito numerosi restauri	, uno dei più importanti risale al 1845 a opera di Don Buti , come riportato nella lapide a lui dedicata
+
+1	0	0	subito richiamo
+						DET ADV NOUN	ITWAC	cuore , ciò che brilla in cielo ; noi s è la buona umanità che ascolta l esile strido ,	il subito richiamo	, il dubbio della umanità sepolta : e le risponde : - Io vivo , sì , viviamo .
+
+1	0	0	subito riflesso
+						DET ADV NOUN	ITWAC	Ogni immagine sonora , luminosa , olfattiva , tattile , trovava	il subito riflesso	nell armonioso vocabolo , che , nato dal prodigio , prodigiosamente , rievocava le immagini , risuscitava nel cervello degli uditori
+
+0	0	1	subito riforme
+						DET ADV ADJ NOUN	WIKICONLL	borgo di Castellazzo de Stampi si ritrovò di colpo catapultato nel neonato Regno Lombardo-Veneto ( 1815 ) il quale apportò	da subito innovative riforme	anche per le campagne : già dal 1833 , nella vicina località di Cascina Pobbia , venne eretta la prima scuola
+
+0	0	6	subito risultati
+						DET ADV ADJ NOUN	WIKICONLL	Dino Viola ottiene	da subito buoni risultati	vincendo due Coppe Italia consecutive superando in entrambe le finali il Torino ai rigori .
+						DET ADV ADJ NOUN	WIKICONLL	Melquíades comincia la sua carriera da giovane , ottenendo	da subito ottimi risultati	.
+						DET ADV ADJ NOUN	WIKICONLL	Nato nell allora Germania Est , da adolescente iniziò a gareggiare nel salto con gli sci , dove ottenne	da subito ottimi risultati	.
+						DET ADV ADJ NOUN	WIKICONLL	Nel 1990 fu promossa in LNV Pro A ; conseguì	da subito buoni risultati	.
+						DET ADV ADJ NOUN	WIKICONLL	Nel dicembre 2008 pubblicano il loro primo album ,  Fleet Foxes  , il quale	da subito buoni risultati	di vendita sia in America che in Europa .
+						DET ADV NOUN	WIKICONLL	La riproduzione in cattività diede	da subito risultati	eccellenti .
+
+0	0	1	subito scalpore
+						DET ADV NOUN	WIKICONLL	Lo stile e l aspetto di Hendrix fecero	da subito scalpore	nel periodo in cui calcò le scene : il suo aspetto selvaggio e la sua furiosa attitudine chitarristica divennero proverbiali fino
+
+0	0	1	subito scandali
+						DET ADV NOUN	WIKICONLL	addetti ai lavori , il film viene proiettato in pubblico in prima nazionale a Milano nel febbraio 1960 , destando	da subito scandali	e polemiche .
+
+0	0	2	subito sede
+						DET ADV NOUN	WIKICONLL	Ave Maria sarà	da subito sede	di una università cattolica e di una cattedrale .
+						DET ADV NOUN	WIKICONLL	La stazione fu	da subito sede	di una importante movimentazione di carri merci per la spedizione di prodotti agricoli e soprattutto di agrumi verso i mercati della
+
+1	0	0	subito sequestro
+						DET ADV NOUN	ITWAC	le dichiarazioni rese da Abbatino , perché numerosi erano stati i riscontri acquisiti : a ) Paolo Aleandri aveva confermato	il subito sequestro	e le ragioni che lo avevano determinato ; b ) negli scantinati del Ministero della Sanità il 25 novembre 1981 era
+
+0	0	1	subito soluzioni
+						DET ADV NOUN	WIKICONLL	, ovvero quegli ambiti di utilizzo nei quali le caratteristiche di alta efficienza e ridotte dimensioni dei SoC possono rappresentare	da subito soluzioni	di riferimento .
+
+0	0	2	subito sospetti
+						DET ADV NOUN	WIKICONLL	La suora , pur nutrendo	da subito sospetti	sulla dichiarazione di innocenza del giovane condannato , fa di tutto per rinviare il giorno dell esecuzione , in attesa di
+						DET ADV NOUN	WIKICONLL	ufficialmente solo per la produzione di MTR , ma i difficili rapporti con gli Stati Uniti d America hanno causato	da subito sospetti	nel mondo occidentale .
+
+1	0	0	subito sottovesti
+						DET ADV ADJ NOUN	ITWAC	Splendida la Bosè sia nelle ricche mise disegnate da un giovanissimo Fausto Sarli , sia	nelle subito mitiche sottovesti	.
+
+0	0	1	subito spazi
+						DET ADV ADJ NOUN	WIKICONLL	Alla prima stagione con la maglia azulgrana si conferma un buon talento , conquistando	da subito ampi spazi	da titolare .
+
+1	0	0	subito spettacolo
+						DET ADV NOUN	ITWAC	al palpitante coro narrava , come furiando Edipo al talamo corresse incestuoso ; come le porte rovescionne , e come	al subito spettacolo	risté quando vicina del nefando letto vide in un corpo solo e sposa e madre pender strozzata ; e del fatale
+
+0	0	1	subito stufe
+						DET ADV NOUN	WIKICONLL	È l unica in redazione a non andare d accordo con le colleghe ,	da subito stufe	della sua saccenza e il suo aperto atteggiamento di superiorità al punto da chiamar- la  Alien  e ignorar- la
+
+0	0	1	subito successi
+						DET ADV ADJ NOUN	WIKICONLL	Questo lo portò a scontrar- si con l esercito inglese nel 1779 , ottenendo	da subito grandi successi	; l anno seguente si trasferì in America .
+
+1	0	0	subito test
+						DET ADJ ADV NOUN	ITWAC	Per	il romano subito test	test estremamente positivi .
+
+0	0	2	subito titolare
+						DET ADV NOUN	WIKICONLL	Coi Blues è stato	da subito titolare	: uno dei migliori momenti della sua carriera è stato il gol ( 88  minuto ) contro l  Arsenal
+						DET ADV NOUN	WIKICONLL	Il suo talento ha catturato l attenzione dell allenatore della squadra ed è stato	da subito titolare	nel campionato di calcio uruguayano e contemporaneamente ha anche impressionato gli osservatori della nazionale di calcio uruguayana .
+
+1	0	0	subito tradimento
+						DET ADV NOUN	ITWAC	Non su ordine di Mussolini per	il subito tradimento	( che qualche fedele gerarca a Mussolini suggeriva di fare ) ma con un mandato con precise disposizioni impartite da Badoglio
+
+0	0	1	subito vicedirettore
+						DET ADV NOUN	WIKICONLL	Alfredo Frassati , che ne assunse la piena proprietà nel 1902 , ne fu	da subito vicedirettore	e poi , dal 1900 al 1920 , direttore a tutti gli effetti .
+
+0	0	1	subito volta
+						DET ADV NOUN	WIKICONLL	novembre 1965 dalla leggendaria coppia di attori Jerry Stiller e Anne Meara , non sorprende che la sua carriera sia	da subito volta	al mondo dello spettacolo .
+

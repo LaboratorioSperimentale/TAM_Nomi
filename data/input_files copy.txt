@@ -1,0 +1,25 @@
+WIKICONLL 0 /home/ludovica/Documents/CORPORA/WIKICONLL/wikiCoNLL
+
+ITWAC   1   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-1.xml
+ITWAC   2   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-2.xml
+ITWAC   3   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-3.xml
+ITWAC   4   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-4.xml
+ITWAC   5   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-5.xml
+ITWAC   6   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-6.xml
+ITWAC   7   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-7.xml
+ITWAC   8   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-8.xml
+ITWAC   9   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-9.xml
+ITWAC   10   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-10.xml
+ITWAC   11   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-11.xml
+ITWAC   12   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-12.xml
+ITWAC   13   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-13.xml
+ITWAC   14   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-14.xml
+ITWAC   15   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-15.xml
+ITWAC   16   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-16.xml
+ITWAC   17   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-17.xml
+ITWAC   18   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-18.xml
+ITWAC   19   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-19.xml
+ITWAC   20   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-20.xml
+ITWAC   21   /home/ludovica/Documents/CORPORA/ITWAC/ITWAC-21.xml
+
+REPUBBLICA  0  /home/ludovica/Documents/CORPORA/REPUBBLICA/repubblica.parsed.utf8.xml

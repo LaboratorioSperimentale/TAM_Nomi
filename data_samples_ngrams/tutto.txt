@@ -1,0 +1,1476 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	63	0	tutto --
+						DET ADV ADJ NOUN	REPUBBLICA	 L aumento del 150 % del bollo sui motorini è	del tutto ingiustificato --	sostiene Paolo Sesti , presidente della Federazione Motociclistica italiana -- anche perché i ciclomotori garantiscono dei tempi di percorrenza inferiori del
+						DET ADV ADJ NOUN	REPUBBLICA	 Decisioni	del tutto opinabili --	continua Locatelli -- perché l aumento automatico del costo dei finanziamenti a ogni rialzo del tasso di sconto non ha ragion
+						DET ADV ADJ NOUN	REPUBBLICA	Un assenza di regole certe , un comportamento	del tutto arbitrario --	venisse dai reparti dell esercito o dai coloni forniti di mitragliatore -- nei confronti della popolazione palestinese .
+						DET ADV ADJ NOUN	REPUBBLICA	 Tornata dalla Cina mi sono resa conto che i compiti solo consultivi della Commissione erano	del tutto insufficienti --	ha spiegato Lagostena Bassi -- .
+						DET ADV ADJ NOUN	REPUBBLICA	, e che invece il governo di fasi  alte  -- e l attuale lo è probabilmente in misura	del tutto straordinaria --	richieda qualcosa di diverso , in grado di raccogliere e di valorizzare in modo nuovo la spinta al mercato e alla
+						DET ADV ADJ NOUN	REPUBBLICA	E però , chi ci assicura che su altri pianeti -- in contesti ambientali	del tutto differenti --	non si potrebbero produrre storie biologiche diverse ?
+						DET ADV ADJ NOUN	REPUBBLICA	 è	del tutto evidente --	ha spiegato Bassolino -- che uno dei compiti che avrò , sia in base alla mia esperienza sia perché il tema
+						DET ADV ADJ NOUN	REPUBBLICA	 Libertini non voleva sapere nulla di quelle cose , era	del tutto contrario --	avrebbe spiegato Marzocco -- ma io gli spiegai che era il contributo volontario di un simpatizzante  .
+						DET ADV ADJ NOUN	REPUBBLICA	Quanto a Parlato , è fermo sul no , dato che -- con una divinazione	del tutto contraddittoria --	egli pronostica che la partita di D Alema risulterà  assolutamente perdente  , poiché , ad un tempo ,
+						DET ADV ADJ NOUN	REPUBBLICA	 Appare poi	del tutto erronea --	si legge al punto B dell ordinanza -- l affermazione dell avvocato Gamberini che questa Corte abbia ritenuto rilevante la prova
+						DET ADV ADJ NOUN	REPUBBLICA	Suo scritto se ne ricava l imprecisione che la polemica contro la sinistra -- polemica che a prima vista sembra	del tutto unitaria --	si articola in due serie di idee inconciliabili o per lo meno eterogenee fra loro .
+						DET ADV ADJ NOUN	REPUBBLICA	 Il nome di Buscetta non mi era	del tutto nuovo --	ha precisato Martinazzoli -- poiché qualche tempo prima il ministro degli Esteri Andreotti ci aveva raccomandato un maggiore rigore nella formulazione
+						DET ADV ADJ NOUN	REPUBBLICA	Una visita , la sua , che doveva avere un carattere	del tutto privato --	ha detto -- ma la concomitanza con le motivazioni della sentenza con la quale il tribunale di Rimini condannò Vincenzo Muccioli
+						DET ADV ADJ NOUN	REPUBBLICA	 È	del tutto ovvio --	prosegue con tranquilla sicurezza la nota -- che in tali indirizzi troveranno equilibrato svolgimento tanto le esigenze di risanamento della finanza
+						DET ADV ADJ NOUN	REPUBBLICA	in sè di uno Stato anchilosato e a sua volta pieno di magagne , ci fu poi l insorgere --	del tutto naturale --	del garantismo .
+						DET ADV ADJ NOUN	REPUBBLICA	 È	del tutto chiaro --	ha dichiarato Dennis Rawlins , uno specialista della navigazione aerea che ha esaminato il diario -- che Byrd esagerò il suo
+						DET ADV ADJ NOUN	REPUBBLICA	assunto sin d ora con la comunità europea di chiudere entro un anno l area fusoria di Bagnoli , rende	del tutto aleatoria --	ha sostenuto il segretario nazionale della Fiom Paolo Franco -- la decisione di mantenere il treno di laminazione , svuota la
+						DET ADV ADJ NOUN	REPUBBLICA	Muovendosi sul terreno in maniera	del tutto autonoma --	 e spesso a costo di difficili compromessi con le diverse fazioni dei paesi assistiti  , rivelano gli esponenti presenti
+						DET ADV ADJ NOUN	REPUBBLICA	documento infatti è stato presentato come una nota -- commento dell agenzia sovietica Novosti ed è stato diffuso -- cosa	del tutto inusitata --	dall ambasciata sovietica di Washington .
+						DET ADV ADJ NOUN	REPUBBLICA	 È	del tutto falsa --	dice Paolo Francia , direttore della radiofonia pubblica -- l affermazione contenuta nell articolo di Carlo Ciavoni del 7 gennaio scorso
+						DET ADV ADJ NOUN	REPUBBLICA	A parte una quota di rimostranze	del tutto scontata --	non si è mai vista una legge finanziaria varata con la benedizione anche di una sola delle parti sociali -- si
+						DET ADV ADJ NOUN	REPUBBLICA	 La polemica di Confindustria è	del tutto sproporzionata --	ha detto Pizzinato -- .
+						DET ADV ADJ NOUN	REPUBBLICA	U.S. NEWS WASHINGTON DECADENTE  Per anni , le autorità di Washington , di questa città-stato	del tutto anomala --	scrive U.S. News & World Report -- hanno ignobilmente trascurato di spendere quanto dovevano per salvaguardare l acqua potabile , revisionare
+						DET ADV ADJ NOUN	REPUBBLICA	 È una misura	del tutto preventiva --	sottolinea Lucio Messina , il vice prefetto cui è affidata la responsabilità del centro operativo avanzato di Zafferana -- in caso
+						DET ADV ADJ NOUN	REPUBBLICA	Anzitutto , quella cifra è calcolata a legislazione invariata , cioè nell ipotesi --	del tutto astratta --	che la Finanziaria 1998 di cui si sta per cominciare a discutere non contenga neanche una lira di risparmio .
+						DET ADV ADJ NOUN	REPUBBLICA	 La notizia è	del tutto inventata --	ha replicato Forlani -- .
+						DET ADV ADJ NOUN	REPUBBLICA	Inoltre , in maniera	del tutto inopinata --	conclude la nota -- la Casa Bianca ha minacciato nei giorni scorsi pesanti ritorsioni se tale sostegno non verrà eliminato .
+						DET ADV ADJ NOUN	REPUBBLICA	È una cosa	del tutto naturale --	ha detto Mikhail Gorbaciov -- a condizione che si sappia resistere alla tentazione di approfittare dei complicati processi di trasformazione in
+						DET ADV ADJ NOUN	REPUBBLICA	 È	del tutto chiaro --	ha ammesso il portavoce dell Onu a Sarajevo Colum Murphy -- che non siamo riusciti ad impedire l attacco alla zona
+						DET ADV ADJ NOUN	REPUBBLICA	L accusa --	del tutto nuova --	verte sul fatto che la Philip Morris , contrariamente a quanto dichiarato , avrebbe  una stabile organizzazione  in Italia
+
+0	0	1	tutto Albus
+						DET ADV NOUN	WIKICONLL	Per questo motivo Aberforth non perdonerà mai	del tutto Albus	.
+
+0	0	1	tutto Ankama
+						DET ADV ADJ NOUN	WIKICONLL	Oltre alle creature riprese da dofus , sono state disegnate anche creature	del tutto nuove Ankama	Games .
+
+0	0	1	tutto Asuka
+						DET ADV NOUN	WIKICONLL	Dopo questo esperimento , la madre inizia ad accudire una bambola credendo- la la sua vera figlia , ignorando	del tutto Asuka	, fino a  inscenare  l omicidio della bambola stessa , ( manifestando la volontà di uccidere Asuka ) poco
+
+0	0	1	tutto Baroni
+						DET ADV NOUN	WIKICONLL	Il giudice allora si rifiuta di richiedere i tabulati telefonici , che avrebbero potuto scagionare	del tutto Baroni	, poiché la questione era ormai chiara , ed attendere i tabulati sarebbe stata soltanto  una perdita di tempo e
+
+0	1	0	tutto Cosa
+						DET ADV NOUN	REPUBBLICA	Anche se Caselli ribadisce che i successi ottenuti non hanno certo sconfitto	del tutto Cosa	nostra .
+
+0	0	1	tutto Dickens
+						DET ADV NOUN	WIKICONLL	successive due illustrazioni le fece RW Buss , un ritrattista di buon successo , ma entrambi gli artisti non convincevano	del tutto Dickens	.
+
+0	0	1	tutto Giorgetta
+						DET ADV NOUN	WIKICONLL	Nel frattempo Ollio ha dimenticato	del tutto Giorgetta	, ma va a chiedere informazioni proprio a lei senza esser- si reso conto di aver- la poi del tutto ricordata
+
+0	0	1	tutto Jarier
+						DET ADV NOUN	WIKICONLL	I freni abbandonano	del tutto Jarier	che deve ritirar- si quando è quarto .
+
+0	0	1	tutto K
+						DET ADV NOUN	WIKICONLL	si recano nel bar e incontrano la donna misteriosa , che sceglie di seder- si insieme a Joel , ignorando	del tutto K	.
+
+0	0	1	tutto Marte
+						DET ADV NOUN	WIKICONLL	Potrebbe aver mancato	del tutto Marte	o essere saltato fuori dall atmosfera del pianeta ed essere entrato in orbita attorno al Sole o ancora essere bruciato durante
+
+0	0	1	tutto Mister
+						DET ADV NOUN	WIKICONLL	Intuendo un grande potere spirituale in Mighty Mask , C-18 lo attacca ignorando	del tutto Mister	Satan , che quindi resta in disparte ad assistere spaventato alla lotta tra i due .
+
+0	0	1	tutto Montereale
+						DET ADV NOUN	WIKICONLL	Il 14 gennaio 1703 una violentissima scossa di terremoto annientò quasi	del tutto Montereale	, provocando 800 vittime .
+
+0	0	1	tutto Panoramix
+						DET ADV NOUN	WIKICONLL	Il secondo trauma ha l effetto di far rinsavire	del tutto Panoramix	che , preparata a tempo di record la bevanda magica , si precipita a bordo ring .
+
+0	0	1	tutto Parigi.Quasimodo
+						DET ADV NOUN	WIKICONLL	si affrontano a corpo a corpo dove il campanaro ha la La zingara viene però portata via dagli zingariche lasciano	del tutto Parigi.Quasimodo	rimane di nuovo solo .
+
+0	1	0	tutto Polemica
+						DET ADV ADJ NOUN	REPUBBLICA	Tutti i ministri di quel partito sono stati confermati anche quelli che si erano mostrati	del tutto insufficienti Polemica	sui  tecnici  .
+
+0	0	1	tutto Pu
+						DET ADV NOUN	WIKICONLL	infine , al termine della guerra , i giapponesi vengono sconfitti definitivamente durante i giorni di Hiroshima , e abbandonano	del tutto Pu	Yi al suo destino : l imperatore viene inevitabilmente catturato dai sovietici , e trascorre cinque anni di detenzione in Russia
+
+0	0	1	tutto Ron
+						DET ADV NOUN	WIKICONLL	Non si crea scrupoli , infatti , nell ignorare	del tutto Ron	, mentre è entusiasta di Harry e di Hermione , descritta a Lumacorno da Harry come  una delle migliori del
+
+0	0	1	tutto Rubén
+						DET ADV NOUN	WIKICONLL	illuminante , giacché si trovano elementi di Simbolismo e di Modernismo ; senza tener conto di Bécquer è difficile comprendere	del tutto Rubén	Darío , Salvador Rueda , Antonio Machado , Juan Ramón Jiménez , Rafael Alberti , Gerardo Diego .
+
+0	0	1	tutto Valle
+						DET ADV ADJ NOUN	WIKICONLL	Sempre a ponente la selvaggia e	del tutto incontaminata Valle	del Rio Gandolfi che conduce ai monti più alti della zona , sui 1000 metri ( Punta Martin , Monte Penello
+
+0	0	1	tutto Venere
+						DET ADV NOUN	WIKICONLL	I satiri sembrano tormentare Marte disturbando il suo sonno , mentre ignorano	del tutto Venere	, vigile e cosciente ; questa scena sarebbe la figurazione di un altro degli ideali cardine del pensiero neoplatonico , ossia
+
+0	0	1	tutto William
+						DET ADV NOUN	WIKICONLL	La ragazza ignora	del tutto William	Dobbin , che la ama disperatamente per anni , da quando la vede per la prima volta , e lo tratta
+
+0	0	1	tutto Willow
+						DET ADV NOUN	WIKICONLL	Nell episodio  Il narratore  ignora	del tutto Willow	e Kennedy prese da un momento di intimità , preferendo commentare il lavoro di Xander sulle finestre , e dopo in
+
+0	2	0	tutto a
+						DET ADV NOUN	REPUBBLICA	13 aprile , allorché il presidente Chun sospese i negoziati con i rappresentanti dell opposizione sulla riforma elettorale , rinviando	il tutto a	dopo le Olimpiadi .
+						DET ADV NOUN	REPUBBLICA	non essendo- ne affatto persuaso , prendere tempo , avviare un lungo dibattito nel paese e nel governo e rinviare	il tutto a	dopo le prossime elezioni .
+
+0	1	0	tutto accenni
+						DET ADV ADJ NOUN	REPUBBLICA	La stessa Kristeva è stata una straniera in Francia , e vi sono brevi e	del tutto impersonali accenni	anche a questa esperienza .
+
+0	0	1	tutto acqua
+						DET ADV NOUN	WIKICONLL	stata appena lasciata da Jimmy , il quale non è convinto che i sentimenti che Chloe nutre per Clark siano	del tutto acqua	passata .
+
+0	1	0	tutto afasici
+						DET ADV NOUN	REPUBBLICA	ostinano a voler morire per un loro fuggitivo  Principe Azzurro  , come tuttora chiamano certi giovanotti metallari e	del tutto afasici	, le convincerei più velocemente della loro insensatezza , perdita di tempo , disistima .
+
+0	1	1	tutto aliene
+						DET ADV NOUN	REPUBBLICA	, presumibilmente , di Giulio Caprin ) : sebbene la prosa dell articolista rifletta , come dice Contini , volgarità	del tutto aliene	dal mio modo di scrivere , Gadda l attribuisce all amico e gli dice di aver ammirato il passaggio dall arduo
+						DET ADV NOUN	WIKICONLL	Leone fu sempre rispettoso del dettato costituzionale , e nell avvaler- si delle sue prerogative effettuò delle scelte	del tutto aliene	da impostazioni ideologiche ( ad esempio , nella nomina dei giudici costituzionali optò per giuristi insigni di area politica del tutto
+
+0	0	1	tutto alieni
+						DET ADV NOUN	WIKICONLL	scrisse che Weinbaum « sapeva immaginare situazioni , psicologie ed entità totalmente aliene , escogitare eventi coerenti prodotti da motivi	del tutto alieni	ed evitare i melodrammi di bassa lega in cui sguazzano tutti gli scrittori di avventure pulp » .
+
+0	1	0	tutto alleanze
+						DET ADV ADJ NOUN	REPUBBLICA	È all interno di questo progetto , che si colloca nell area del centro-sinistra (  mi sembrano	del tutto impossibili alleanze	con Gnutti , visto che dichiara di guardare al Polo  ) che Martinazzoli accetta di parlare di una sua possibile
+
+0	2	1	tutto alternativa
+						DET ADV NOUN	REPUBBLICA	lui che ha approvato con me le conclusioni del consiglio generale mi spiega che la proposta di Del Turco era	del tutto alternativa	all ipotesi della formazione di una maggioranza di programma in Cgil ; che le correnti in Cgil si sono fondate sulle
+						DET ADV NOUN	REPUBBLICA	nella storia della Cisl un caso così clamoroso di costituzione di una organizzazione parallela , con una propria linea politica	del tutto alternativa	.
+						DET ADV NOUN	WIKICONLL	più il carattere innovativo del suo pensiero , che nell ambito della filosofia del diritto ha saputo offrire una prospettiva	del tutto alternativa	ai modelli kelseniani del normativismo dominante e all ispirazione socialdemocratica che ancora prevale all interno delle scienze sociali .
+
+0	1	0	tutto alternative
+						DET ADV NOUN	REPUBBLICA	Mi ha già fatto delle proposte fantastiche ,	del tutto alternative	a Macao  .
+
+0	1	0	tutto amica
+						DET ADV NOUN	REPUBBLICA	La fortuna non è però	del tutto amica	di Galileo .
+
+0	7	0	tutto amichevole
+						DET ADV NOUN	REPUBBLICA	È il maggior takeover della storia per una banca d investimenti , ed è come si diceva su base	del tutto amichevole	.
+						DET ADV NOUN	REPUBBLICA	È stato un incarico che avevo accettato , in via	del tutto amichevole	, da una persona con cui ho sempre avuto buoni rapporti .
+						DET ADV NOUN	REPUBBLICA	Gheddafi è stato accolto all aeroporto dal presidente Mubarak che , in modo	del tutto amichevole	, si è prestato a far- gli da autista per una breve visita al centro del Cairo , passando non molto
+						DET ADV NOUN	REPUBBLICA	In via	del tutto amichevole	, Veltroni si è concesso solo un  Bravo , Jean Marie  al coproduttore del film , Gian Mario Feletti
+						DET ADV NOUN	REPUBBLICA	Quanto alla documentazione sull assetto societario di Retemia , l Authority si è limitata a fornire un parere in via	del tutto amichevole	.
+						DET ADV NOUN	REPUBBLICA	come Alberto Michelini , che mette in nota spese la consulenza gratuita di un pubblicitario stimata ,  in via	del tutto amichevole	 , tre milioni .
+						DET ADV NOUN	REPUBBLICA	per la trasformazione dell offerta pubblica di acquisto dei titoli del Credito romagnolo da parte del Credito italiano in operazione	del tutto amichevole	.
+
+0	1	0	tutto ammissione
+						DET ADV ADJ NOUN	REPUBBLICA	UNA CANDIDA e	del tutto lecita ammissione	, rivelatrice però di una mentalità che può essere estirpata solo con una maggiore mobilità del corpo magistrale .
+
+0	1	0	tutto amore
+						DET ADV ADJ NOUN	REPUBBLICA	A Khashoggi , conosciuto dai lettori dei giornali rosa per un rapido e	del tutto presunto amore	dorato con la bella Lori Del Santo , lo scrittore britannico Anthony Sampson ha dedicato oltre venti pagine del suo libro
+
+0	1	0	tutto antibiotici
+						DET ADV NOUN	REPUBBLICA	tasso di natalità è calato del trenta per cento , che le morti  prenatali  sono raddoppiate : mancano	del tutto antibiotici	, si partorisce senza anestesia , non funzionano più , per mancanza di pezzi di ricambio , le apparecchiature di analisi
+
+0	1	0	tutto appannaggio
+						DET ADV NOUN	REPUBBLICA	Questa chirurgia è quasi	del tutto appannaggio	degli uomini .
+
+0	1	0	tutto aspirine
+						DET ADV NOUN	REPUBBLICA	Almeno cinque milioni di italiani negli ultimi anni hanno progressivamente diminuito e poi abbandonato	del tutto aspirine	ed antibiotici per cercare rimedio ai loro mali nel variegato mondo delle terapie naturali .
+
+0	1	0	tutto attenzione
+						DET ADV ADJ NOUN	REPUBBLICA	affetto per ciascuno dei compagni di strada di allora : in una fedeltà che sapeva unire ad una generosa e	del tutto inusitata attenzione	verso le ricerche dei più giovani .
+
+0	1	0	tutto attesa
+						DET ADV NOUN	REPUBBLICA	Questa Martina non	del tutto attesa	mi costringe a sbrigare in poche righe la vicenda di Becker .
+
+0	1	0	tutto auto
+						DET ADV NOUN	REPUBBLICA	Detto questo , però , non si può dimenticare che il prezzo pagato alla follia	del tutto auto	è elevatissimo  .
+
+0	1	0	tutto autodidatta
+						DET ADV NOUN	REPUBBLICA	Maestri ne avrà anche avuti , nessun vero talento è	del tutto autodidatta	; ma qui veniamo a sapere che era molto indipendente , che era un raffinato colorista e che dipingeva con rabbia
+
+0	1	0	tutto autoindulgenti
+						DET ADV NOUN	REPUBBLICA	settimana in Svizzera : deve al più presto scrollar- si di dosso quest immagine di club per pochi intimi ,	del tutto autoindulgenti	sulle rispettive malefatte .
+
+0	7	0	tutto autonoma
+						DET ADV NOUN	REPUBBLICA	Città nella città ,	del tutto autonoma	rispetto al contesto urbano , organizzata al suo interno da un insieme di norme comportamentali e di riti collettivi tesi a
+						DET ADV NOUN	REPUBBLICA	Granelli , a nome della sinistra , rintuzza gli attacchi e non esclude che il suo gruppo avanzi una candidatura	del tutto autonoma	Gli uomini vicini al ministro degli Esteri adesso fanno il nome di Benigno Zaccagnini per la presidenza .
+						DET ADV NOUN	REPUBBLICA	In realtà i due organi di stampa , gestiti in maniera	del tutto autonoma	l uno dall altro , sono concorrenziali perché si contendono un mercato pubblicitario molto simile , lettori esteri che già comprano
+						DET ADV NOUN	REPUBBLICA	L Eni vive di luce propria	del tutto autonoma	rispetto al resto del listino del tutto incurante di quanto accade intorno .
+						DET ADV NOUN	REPUBBLICA	La giuria popolare che giudicherà Pietro Venezia è	del tutto autonoma	rispetto al governo dello Stato della Florida ; anche i ricorsi contro la condanna verranno decisi da organi giurisdizionali -- in
+						DET ADV NOUN	REPUBBLICA	il Dipartimento di pubblica sicurezza del ministero dell Interno , assumendo come modello il Marshals Service americano , struttura amministrativa	del tutto autonoma	rispetto al pubblico ministero ed agli organi investigativi .
+						DET ADV NOUN	REPUBBLICA	organismi societari Mondadori fino al 96 avrebbe cominciato ad un tratto ad andare stretta alla Cir , che per essere	del tutto autonoma	avrebbe dato la scalata alle azioni privilegiate , che invece il gruppo De Benedetti sostiene di aver comprato solo per controbilanciare
+
+0	2	0	tutto autonome
+						DET ADV NOUN	REPUBBLICA	, non si può parlare proprio di ritorno al 1991 quando nacquero le superpolizie avendo la possibilità di fare investigazioni	del tutto autonome	che non dovevano fare i conti con l apparato gerarchico locale .
+						DET ADV NOUN	REPUBBLICA	Sono figure	del tutto autonome	che presentano il loro parere durante il procedimento .
+
+0	1	1	tutto autonomia
+						DET ADV NOUN	REPUBBLICA	continuare a fare marciare bene la pubblicità : la rete di raccolta Mondadori , affidata ad Urbano Cairo , è	del tutto autonomia	dalla Publitalia Fininvest .
+						DET ADV NOUN	WIKICONLL	Fu con questa  ordinatio  che al regno longobardo venne tolta	del tutto autonomia	.
+
+0	1	0	tutto autori
+						DET ADV NOUN	REPUBBLICA	di  opera lirica americana  rintracciabile , seppur di rado , nei programmi dei teatri italiani dai quali mancano	del tutto autori	 storici  come Barber e Copland .
+
+0	0	1	tutto banale
+						DET ADV NOUN	WIKICONLL	ActionScript , che permette di gestire in modo semplice ed efficace le interazioni tra i controlli grafici , e rende	del tutto banale	la gestione delle animazioni più comuni ( dissolvenze , ingrandimenti , spostamenti ecc . ) .
+
+0	1	0	tutto bandita
+						DET ADV NOUN	REPUBBLICA	Ma la dinamite non è stata	del tutto bandita	e questa ventata di destra , questa protesta che sceglie lo strumento del Msi , del nazionismo cieco può funzionare da
+
+0	1	0	tutto bandite
+						DET ADV NOUN	REPUBBLICA	Le regole della Mammì sono chiare : le opere vietate ai diciottenni sono	del tutto bandite	, quelle interdette ai quattordicenni devono andare in onda la sera tardi o di notte .
+
+0	1	0	tutto banditi
+						DET ADV NOUN	REPUBBLICA	purtroppo quasi del tutto scomparsa , persino nei film non se ne trova più uno , in televisione poi sono	del tutto banditi	, perché non necessari a pubblicizzare automobili e pizze surgelate .
+
+0	0	1	tutto batteri
+						DET ADV NOUN	WIKICONLL	ad alte temperature ( come la tecnologia UHT , Ultra High Temperature ) per brevi periodi di tempo per eliminare	del tutto batteri	e microorganismi nocivi all essere umano .
+
+0	1	0	tutto battute
+						DET ADV NOUN	REPUBBLICA	parli davanti alle telecamere di Retequattro , sia che pronunci un discorso in piazza , il leader del Psi abbandona	del tutto battute	sferzanti e toni polemici .
+
+0	0	1	tutto benzina
+						DET ADV NOUN	WIKICONLL	particolari celle o pile , che generano tensione elettrica capace di muovere un qualsiasi motore elettrico , senza però rimpiazzare	del tutto benzina	e gasolio : infatti l idrogeno non si trova in natura e per questo motivo , attualmente , non è una
+
+0	1	1	tutto brani
+						DET ADV NOUN	REPUBBLICA	In più per non far percepire	del tutto brani	dati con qualche illusione per scontati , si adoperano la simultaneità nelle scene corali e la cattiva acustica contribuisce .
+						DET ADV ADJ NOUN	WIKICONLL	molto apprezzato dagli utenti , in quanto ha la capacità di  raccomandare  o  consigliare  in maniera	del tutto automatica brani	possibilmente poco conosciuti che però corrispondono o si avvicinano alle preferenze dell utente .
+
+0	2	0	tutto calata
+						DET ADV NOUN	REPUBBLICA	Ma la giovane Suzanne non sembra ancora	del tutto calata	nel personaggio della star : vestita con abiti semplicissimi , timida nei gesti e nelle parole , visibilmente a disagio nella
+						DET ADV NOUN	REPUBBLICA	Sull espulsione , che nessuno della tribuna ha visto perché la nebbia era già	del tutto calata	, Virdis dice : Semplicemente assurda .
+
+0	2	1	tutto calma
+						DET ADV NOUN	REPUBBLICA	Altre fonti negano invece che siano in corso operazioni militari , e che Bagdad appare	del tutto calma	.
+						DET ADV NOUN	REPUBBLICA	Ma c è fermento anche a Lushnja e a Fier , dove sembrava che la situazione fosse	del tutto calma	.
+						DET ADV NOUN	WIKICONLL	Il gruppetto successivo è quello della Venere terrena ,	del tutto calma	, in contrapposizione al Minerva e trasportata dal centauro , simbolo entrambi della Lussuria .
+
+0	1	0	tutto cancellata
+						DET ADV NOUN	REPUBBLICA	Ma ha insistito perché l obiezione di coscienza non venga	del tutto cancellata	:  In caso di chiamata generale alle armi -- ha detto riferendo- si ai casi estremi previsti dalla nuova legge
+
+0	0	1	tutto cariche
+						DET ADV NOUN	WIKICONLL	Questo può far sì che anche un caricabatterie intelligente non avverta che le batterie sono già	del tutto cariche	e continui a caricar- le .
+
+0	1	0	tutto caso
+						DET ADV ADJ NOUN	REPUBBLICA	LA VERITÀ , per il momento , è affidata alle testimonianze dei protagonisti di questo non	del tutto inedito caso	letterario-giudiziario , che editorialmente s è già risolto con l acquisto dei diritti da parte della Baldini & Castoldi e la
+
+0	1	0	tutto cattivi
+						DET ADV NOUN	REPUBBLICA	film gentile e nostalgico , di stile piuttosto televisivo , con personaggi realistici : nè del tutto buoni , nè	del tutto cattivi	.
+
+0	0	1	tutto causale
+						DET ADV NOUN	WIKICONLL	La camera è comandata da un computer che decide , in maniera	del tutto causale	e senza apparenti linee guida , che cosa riprendere ; se fare uno zoom o una panoramica , un primo piano
+
+0	1	0	tutto centinaia
+						DET ADV ADJ NOUN	REPUBBLICA	La forza del fenomeno , in certe zone , è riuscito , addirittura , a rendere	del tutto impraticabili centinaia	di chilometri di strada e interi villaggi turistici , conoscuti fino a una settimana fa solo per i lussuosi bungalow che
+
+0	0	2	tutto cessate
+						DET ADV NOUN	WIKICONLL	Ancor oggi non è chiaro se le attività terroristiche siano	del tutto cessate	.
+						DET ADV NOUN	WIKICONLL	McWilliams rese noto che egli aveva completato la sua sperimentazione ma le polemiche su tutta la questione non sono	del tutto cessate	.
+
+0	1	0	tutto chiarezza
+						DET ADV NOUN	REPUBBLICA	Con i nuovi processi sarà fatta	del tutto chiarezza	?
+
+0	0	1	tutto circostanze
+						DET ADV NOUN	WIKICONLL	La controindicazione si intende assoluta quando mancano	del tutto circostanze	ragionevoli per intrapendere una determinata azione che dovrebbe portare migliorie alle condizioni del soggetto .
+
+0	1	0	tutto code
+						DET ADV NOUN	REPUBBLICA	Non è bastato a eliminare	del tutto code	e ingorghi , né a rendere respirabile l aria delle circonvallazioni e delle vie immediatamente a ridosso del centro , tuttavia
+
+0	1	0	tutto collaborazione
+						DET ADV ADJ NOUN	REPUBBLICA	MA INTANTO , proprio grazie a	del tutto anomala collaborazione	del Sismi , alcuni punti essenziali cominciano a emergere con una evidenza che , sino a pochi giorni fa , sarebbe
+
+0	2	0	tutto colpa
+						DET ADV NOUN	REPUBBLICA	Anche se va detto che in fondo non è	del tutto colpa	loro , quanto piuttosto di un meccanismo che ne decreta il trionfo come se fossero il meglio della nostra canzone .
+						DET ADV NOUN	REPUBBLICA	Non è	del tutto colpa	sua se l Italia a Stoccarda ha rimediato la seconda sconfitta consecutiva ( 2 - 1 ) , la terza della
+
+0	1	0	tutto complici
+						DET ADV NOUN	REPUBBLICA	E accontona	del tutto complici	gli impegni di Occhetto l idea di riunire il Consiglio nazionale prima del congresso socialista .
+
+0	1	0	tutto complotti
+						DET ADV ADJ NOUN	REPUBBLICA	Cioè la convinzione che nella vicenda della microspia siano	del tutto estranei complotti	politici o , meglio , di partito , della sinistra .
+
+0	0	1	tutto comprese.Tale
+						DET ADV NOUN	WIKICONLL	bassissimo amperaggio ma ad alto voltaggio non dovuta alle forze elettrochimiche , bensì a forze idrodinamiche che ancora non sono	del tutto comprese.Tale	generatore non avrebbe un consumo di materiale nel tempo a differenza della pila su descritta , pur non essendo altrettanto potente
+
+0	1	0	tutto conclusione
+						DET ADV ADJ NOUN	REPUBBLICA	Ma poi , fu l amara e non	del tutto infondata conclusione	,  voi non trovate di meglio , per correggere questa situazione , che rafforzare il potere di quello Stato e
+
+0	1	0	tutto concorrenza
+						DET ADV ADJ NOUN	REPUBBLICA	Altrimenti in nome di una futura e ad oggi	del tutto imprecisata concorrenza	, si rafforza solo il monopolio dell Enel anche sul versante della produzione , cancellando i passi avanti compiuti negli ultimi
+
+0	1	0	tutto confidential
+						DET ADV NOUN	REPUBBLICA	le proprie debolezze o le proprie ambizioni , possono sempre far ricorso al centro di istruzione elettronico dove in via	del tutto confidential	i computer gli insegnano come si diventa manager di successo , come si impara l arte della negoziazione , come si
+
+0	1	0	tutto conservatrice
+						DET ADV NOUN	REPUBBLICA	Mettendo insieme un anima creativa e una	del tutto conservatrice	, gli U 2 hanno saputo praticare l utopia , facendo diventare il loro rock rumore , forza , grimaldello necessario
+
+0	1	0	tutto consistenza
+						DET ADV NOUN	REPUBBLICA	In questo modo il privilegio sul dividendo ( che è legato solo al valore nominale ) perde	del tutto consistenza	.
+
+0	1	0	tutto contenuto
+						DET ADV ADJ NOUN	REPUBBLICA	Né vale il richiamo	del tutto generico contenuto	nella requisitoria del procuratore generale aggiunge il presidente Raffaele Dolce nella sentenza a una impossibilità per l esercizio della giurisdizione di
+
+0	4	0	tutto contingente
+						DET ADV NOUN	REPUBBLICA	Che l insieme dei provvedimenti del governo sia un tamponamento	del tutto contingente	dei conti lo ha ammesso a chiare lettere lo stesso premier quando , al termine del Consiglio dei ministri , si
+						DET ADV NOUN	REPUBBLICA	E ha convinto in tempi rapidissimi il suo partito a trasformare l uscita dal governo , nata su una questione	del tutto contingente	, in una scelta strategica .
+						DET ADV NOUN	REPUBBLICA	Un problema così ampio e complesso è stato affrontato da politici e giornalisti partecipanti in un ottica	del tutto contingente	, elettoralistica e di basso profilo .
+						DET ADV NOUN	REPUBBLICA	una parte c era la mia irritazione per qualche schizzo di fango che mi ha improvvisamente colpito : un fatto	del tutto contingente	, sul quale non vale spendere troppe parole .
+
+0	0	1	tutto contingenti
+						DET ADV NOUN	WIKICONLL	A volte poi la maggiore o minore presenza di testimonianze è dovuta a fatti	del tutto contingenti	, come il clima o l indole di singole persone ... ma questa impotenza dello storico davanti alla mancanza di documenti
+
+0	4	0	tutto contraddittorio
+						DET ADV NOUN	REPUBBLICA	 Quello dei repubblicani è un atteggiamento	del tutto contraddittorio	perché da un lato contestano e dall altro seguitano a mantenere tutti i loro rappresentanti negli organismi che hanno occupato in
+						DET ADV NOUN	REPUBBLICA	Non solo : esso risulta	del tutto contraddittorio	con il proposito di non voler restituire ai contribuenti il maltolto da  fiscal drag  per non distoglier- ne la
+						DET ADV NOUN	REPUBBLICA	Orcia ; megaprogetto che , a parte le pesanti obiezioni che in sé solleva , si rivelerebbe a questo punto	del tutto contraddittorio	con la lettera e soprattutto con lo spirito del progettato Parco .
+						DET ADV NOUN	REPUBBLICA	nei luoghi storici della produzione , ma sempre più sul terreno delle risorse pubbliche e di quelle naturali , è	del tutto contraddittorio	ritenere che sia ancora una volta la classe operaia a dover- se- ne far carico , come invece gli assertori dello
+
+0	1	0	tutto controcorrente
+						DET ADV NOUN	REPUBBLICA	Nato a Crotone il 3 gennaio 1898 , Falcone Lucifero fu un personaggio	del tutto controcorrente	dell entourage dei Savoia nel biennio che precedette il crollo della monarchia .
+
+0	1	0	tutto controtendenza
+						DET ADV NOUN	REPUBBLICA	giornalisti de L Unità che si domandano come mai l editore di riferimento  , il Pds , segua criteri	del tutto controtendenza	rispetto alla grande editoria che punta sul fertile mercato delle edizioni periferiche .
+
+0	1	0	tutto controversie
+						DET ADV ADJ NOUN	REPUBBLICA	Sul primo aspetto c è poco da dire : continueranno le già note quanto	del tutto inutili controversie	tra Poli , partiti e partitini su questioni o irrisolvibili o inesistenti ; ciascuno lancerà ultimatum che tutti gli altri rinvieranno
+
+0	1	0	tutto conviti
+						DET ADV NOUN	REPUBBLICA	Probabilmente si , ma finché non vedremo anche Diabolik alla guida di una nuova S-Type forse non ne saremo	del tutto conviti	...
+
+0	1	0	tutto corrotti
+						DET ADV NOUN	REPUBBLICA	e non ancora spezzati , i cittadini non disposti alla resa , i pochi politici e i pochi militari non	del tutto corrotti	continuino a combattere sul fronte della cocaina fino a che il miracolo avvenga .
+
+0	3	1	tutto cosa
+						DET ADV ADJ NOUN	REPUBBLICA	Anche perché , mentre Todt dichiarava :  In realtà , non è	del tutto chiaro cosa	sia successo al cambio  , Schumacher informava che questa mattina -- in quella che dovrebbe essere la sua giornata di
+						DET ADV ADJ NOUN	REPUBBLICA	Non è ancora	del tutto chiaro cosa	sapesse il presidente : ma se conosceva tutti gli imbrogli nati nei sotterranei della Casa Bianca , ne deve condividere pienamente
+						DET ADV ADJ NOUN	REPUBBLICA	deve fare i conti con un enorme deficit di bilancio ed un altrettanto grave disavanzo commerciale e ancora non è	del tutto chiaro cosa	accadrà dopo le elezioni , cosa se vincerà Bush o Dukakis .
+						DET ADV ADJ NOUN	WIKICONLL	Non è	del tutto chiaro cosa	sia successo nei 15 anni successivi , ma il TERUEL è una sorta di versione ingrandita , strutturalmente parlando , dei
+
+0	2	0	tutto coscienza
+						DET ADV NOUN	REPUBBLICA	ha iniziato Occhetto poteva apparire come l unica risorsa della politica italiana fino a che il Pci non aveva preso	del tutto coscienza	della necessità di introdurre una discontinuità nel sistema politico attraverso la proposta di una reale alternativa di governo .
+						DET ADV NOUN	REPUBBLICA	si dorme di meno , ma il sonno diventa così leggero che si ha la falsa sensazione di non perdere	del tutto coscienza	.
+
+0	1	0	tutto credito
+						DET ADV NOUN	REPUBBLICA	Se così fosse , perderebbero	del tutto credito	le indiscrezioni che vedevano nel passaggio di Bignardi alla guida del Fondo di garanzia il preludio per una sua definitiva uscita
+
+0	2	0	tutto daccordo
+						DET ADV NOUN	REPUBBLICA	Non è	del tutto daccordo	con Luciano Violante .
+						DET ADV NOUN	REPUBBLICA	Sono però	del tutto daccordo	sul fatto che i comunisti vadano frustati .
+
+0	0	1	tutto danni
+						DET ADV NOUN	WIKICONLL	di una commissione d esame , non si poté comunque dimostrare con assoluta certezza detto impatto , in quanto mancavano	del tutto danni	tipici causati da un evento naturale di tale tipo .
+
+0	1	1	tutto dati
+						DET ADV ADJ NOUN	REPUBBLICA	Ma allo stesso tempo non si è trattato di un revival ( cosa comunque	del tutto improbabile dati	i personaggi in questione ) , casomai di un approfondita voglia di rileggere e rivitalizzare un percorso .
+						DET ADV NOUN	WIKICONLL	Dell autore mancano	del tutto dati	biografici e cronologici .
+
+0	3	1	tutto dato
+						DET ADV ADJ NOUN	REPUBBLICA	Il recupero liberal-democratico (	del tutto inatteso dato	che il partito di Ashdown veniva descritto al tramonto ) spalanca poi l ipotesi che alle elezioni generali possa emergere una
+						DET ADV ADJ NOUN	REPUBBLICA	L attacco al Guardasigilli sarebbe inoltre	del tutto gratuito dato	che , continua l esponente socialista , Vassalli ha avviato in questi anni un importante processo riformatore , risolvendo alcune vecchie
+						DET ADV ADJ NOUN	REPUBBLICA	trombati che affollano le Usl con altrettanti emuli di Carlo De Benedetti o di Mario Schimberni : il che sarebbe	del tutto logico dato	che per esempio la Usl di Torino ha un fatturato di 1094 miliardi e la Usl Rm / 1 di Roma
+						DET ADV ADJ NOUN	WIKICONLL	secondo cui avrebbe studiato anche con Antonio Lotti non trova riscontri documentari e v è motivo di credere che sia	del tutto falsa dato	che Marcello recensì con grande severità una raccolta di composizioni vocali di questo autore .
+
+0	2	0	tutto decisioni
+						DET ADV ADJ NOUN	REPUBBLICA	Però De Mita , alla vigilia di importanti e forse non	del tutto popolari decisioni	di politica economica , non disdegnerebbe un piccolo tonico elettorale per le liste dello scudo crociato .
+						DET ADV NOUN	REPUBBLICA	sostiene Enrico Salza , vicepresidente del San Paolo -- non deve essere usato come alibi per ritardare o per bloccare	del tutto decisioni	già prese , come l attuazione del piano regolatore o il collegamento con l alta velocità  .
+
+0	1	0	tutto demente
+						DET ADV NOUN	REPUBBLICA	ritratto del medico , occhiuto collezionista delle opere neglette di quel suo paziente via di testa , per una cifra	del tutto demente	, 85 milioni di dollari .
+
+0	1	0	tutto dementi
+						DET ADV NOUN	REPUBBLICA	lira da spendere ed essendo i modi per spender- li nel famoso tempo libero illustrati da briosi servizi televisivi ,	del tutto dementi	oltre che avvilenti , perché non accedere a queste signorine ridenti e giocherellone , di ogni mole e colore , come
+
+0	1	0	tutto desiderio
+						DET ADV ADJ NOUN	REPUBBLICA	secondo l accusa , l arzillo barone , che oggi ha 79 anni , pur di coronare il suo non	del tutto disinteressato desiderio	di paternità , non avrebbe esitato a tenere sequestrata in casa sua , per una settimana , un altra ragazza .
+
+0	1	0	tutto dichiarazioni
+						DET ADV NOUN	REPUBBLICA	Sono scomparse	del tutto dichiarazioni	del tipo :  Si va a Cremona ( Udine , Lecce , Reggio Emilia ) per vincere  , che
+
+0	1	0	tutto didascalia
+						DET ADV ADJ NOUN	REPUBBLICA	subito , se si conosce il soggetto : del tutto inutile , se per decifrar- la seguiamo la generica e	del tutto sbagliata didascalia	:  Monaco tentato dal diavolo  .
+
+0	0	1	tutto differenze
+						DET ADV NOUN	WIKICONLL	Al contrario per atomi dello stesso tipo nello stesso stato quantistico  non ci sono	del tutto differenze	 .
+
+0	1	0	tutto dinnanzi
+						DET ADV ADJ NOUN	REPUBBLICA	 Siamo	del tutto impotenti dinnanzi	a questo tipo di attentati  , ha detto un esponente del governo che si è dichiarato tuttavia contrario al ripristino
+
+0	3	0	tutto dipendenti
+						DET ADV NOUN	REPUBBLICA	Ammettere di essere stati , una volta ,	del tutto dipendenti	dalla propria madre , dovrebbe liberar- ci dalla paura della sopraffazione e animare la creatività connessa alla capacità di gratitudine .
+						DET ADV NOUN	REPUBBLICA	I produttori indipendenti , in realtà , sono	del tutto dipendenti	dall istituzione per quanto riguarda i fondi .
+						DET ADV NOUN	REPUBBLICA	settore cinematografico e televisivo è contestata per l Endorfun , un popolarissimo computer-game del quale i ragazzi inglesi potrebbero diventare	del tutto dipendenti	.
+
+0	1	0	tutto diretta
+						DET ADV NOUN	REPUBBLICA	letti insieme ed è abbastanza irrilevante , politicamente , stabilire se la cessione dei voti comunisti ai socialisti è stata	del tutto diretta	oppure è passata attraverso una complicata catena di dare e avere .
+
+0	1	0	tutto disadatto
+						DET ADV NOUN	REPUBBLICA	È abbastanza ovvio che uno sconosciuto vecchio cronista ,	del tutto disadatto	agli scoop , non possa chiedere più di tanto a un tennista , ancorché disponibile .
+
+0	1	0	tutto disposizioni
+						DET ADV NOUN	REPUBBLICA	1 gennaio l entrata in vigore ; ci sono errori nell attribuzione alla Regione siciliana delle deleghe finanziarie ; spariscono	del tutto disposizioni	sulle mansioni superiori del personale e in materia di ambiente .
+
+0	1	0	tutto distinta
+						DET ADV NOUN	REPUBBLICA	liberò ritornando alla sua autonomia statale , atteggiando- si a vittima dell annessione di Hitler e assumendo internazionalmente una posizione	del tutto distinta	.
+
+0	3	0	tutto distinte
+						DET ADV NOUN	REPUBBLICA	Da questo punto di vista reddito e capitale erano due cose	del tutto distinte	non assimilabili , proprio come l albero e il frutto , e quindi , a rigore , nessun guadagno di capitale
+						DET ADV NOUN	REPUBBLICA	La prima riguardava l impossibilità di considerare	del tutto distinte	la questione del governo e quella delle riforme istituzionali .
+						DET ADV NOUN	REPUBBLICA	pubblicato gli elenchi delle  logge massoniche coperte  che hanno forme organizzative -- si legge nella premessa -- 	del tutto distinte	, storicamente e sostanzialmente dalla loggia massonica P 2 oggetto dell inchiesta parlamentare  .
+
+0	1	0	tutto dittatura
+						DET ADV ADJ NOUN	REPUBBLICA	nazionali che , pieni di reclame e seducenti programmi , nel giro di brevissimi mesi hanno prodotto una nuova e	del tutto inaspettata dittatura	con aspetti forse mai conosciuti prima .
+
+0	1	0	tutto divergenti
+						DET ADV NOUN	REPUBBLICA	si -- entrambi come primi ministri -- nelle rispettive  fortezze  nazionali per portare avanti programmi economici e sociali	del tutto divergenti	.
+
+0	1	0	tutto diversità
+						DET ADV ADJ NOUN	REPUBBLICA	Mi stupisce allora come eventuali ,	del tutto legittime diversità	di opinione in merito a problematiche generali ed astratte ( non escluse quelle concernenti la Procura nazionale e le procure distrettuali
+
+0	0	1	tutto divise
+						DET ADV NOUN	WIKICONLL	Dopo lo scioglimento del 1996 le strade dei componenti non si sono mai	del tutto divise	.
+
+0	1	0	tutto droga
+						DET ADV ADJ NOUN	REPUBBLICA	tra l Albania e l Italia , tra quelle stesse mafie che oggi si scambiano con grande tranquillità e quasi	del tutto indisturbate droga	, armi , esplosivo .
+
+0	1	0	tutto drogato
+						DET ADV NOUN	REPUBBLICA	 Il mercato dei diritti è ormai	del tutto drogato	, si danno anticipi travolgenti per opere che magari non mantengono le promesse e anche questo contribuisce alla crisi dell editoria
+
+0	1	0	tutto eccentrico
+						DET ADV NOUN	REPUBBLICA	È forse per questo che Pannella si è spesso rivolto ai comunisti , sia pure in modo	del tutto eccentrico	, sollecitando- li a schierar- si sullo stesso fronte per la difesa dello stato di diritto , per costruire la vera
+
+0	1	0	tutto eccezioni
+						DET ADV ADJ NOUN	REPUBBLICA	, da un oggettiva corresponsabilità , da una dipendenza collettiva nei confronti del  capo  , con rare e	del tutto isolate eccezioni	.
+
+0	0	1	tutto ecologista
+						DET ADV NOUN	WIKICONLL	) , che ha ottentuo l 1,8% dei voti ed eletto 2 seggi , sulla base di una piattaforma elettorale	del tutto ecologista	e scevra da qualsiasi riferimento economico sociale di rilievo .
+
+0	1	0	tutto effimere
+						DET ADV NOUN	REPUBBLICA	l apertura della stagione lirica italiana , mescolando le toilettes delle sgallettate e le cene delle stracciacule con gravissime discussioni	del tutto effimere	.
+
+0	1	0	tutto en
+						DET ADV NOUN	REPUBBLICA	cristiana mi piace com è ; un altra volta , nel corso di un intervista , si lascia sfuggire ,	del tutto en	passant , che il libro italiano più applaudito degli ultimi anni gli pare assolutamente privo di qualità letterarie .
+
+0	1	0	tutto equazione
+						DET ADV ADJ NOUN	REPUBBLICA	 Se si instaura una non	del tutto errata equazione	tra fumo e controllo dell appetito e quindi fra uso delle sigarette e magrezza del corpo , veniamo a trovar- ci
+
+0	0	1	tutto eretico
+						DET ADV NOUN	WIKICONLL	la sua fede nella riapertura del ciclo profetico nella persona del suo fondatore , Mirza Ahmad , lo fa considerare	del tutto eretico	da tutto il mondo islamico sunnita e sciita .
+
+0	0	1	tutto erotismo
+						DET ADV NOUN	WIKICONLL	( non riciclabile ) diretto da Ninì Grassia è un porno mancato morbosamente inconsistente , dove il sesso pecoreccio ignora	del tutto erotismo	e buon gusto .
+
+0	1	0	tutto esempi
+						DET ADV NOUN	REPUBBLICA	Neppur qui , comunque , mancano	del tutto esempi	di quegli esordi figurativi di Nicholson tuttora meno noti , e già colmi della serena liricità che sarà sempre sua :
+
+0	1	0	tutto esistenza
+						DET ADV ADJ NOUN	REPUBBLICA	In conformità a ciò , il suo mondo interiore si manteneva entro i limiti della sua ,	del tutto propria esistenza	, che egli definiva  Existenz  .
+
+0	1	0	tutto esperimenti
+						DET ADV ADJ NOUN	REPUBBLICA	un incentivo potente alla riduzione della manodopera , in ogni caso frena nuove assunzioni e perfino rende poco convenienti o	del tutto impraticabili esperimenti	-- come quelli tentati in Germania -- di addomesticare l impatto sociale delle crisi occupazionali attraverso la riduzione dei salari a
+
+0	0	1	tutto esperto
+						DET ADV NOUN	WIKICONLL	- In questo capitolo di Alone in the Dark si può capire che Edward non è	del tutto esperto	del paranormale pure se dimostra le sue doti riuscendo a localizzare la strega .
+
+0	3	0	tutto esterno
+						DET ADV NOUN	REPUBBLICA	Ora la soluzione escogitata per la crisi si realizza attraverso un patto fra segreterie di partito	del tutto esterno	alla volontà del Parlamento , che è o dovrebbe essere l unica fonte della sovranità statale delegata nel nostro sistema di
+						DET ADV NOUN	REPUBBLICA	a distruggere l immagine della vittima di turno , innocente o colpevole che sia poco importa , seguendo un percorso	del tutto esterno	al circuito delle garanzie .
+						DET ADV NOUN	REPUBBLICA	origine di questa rinnovata curiosità dei seguaci di Santa Romana Chiesa per il mondo del profitto c è un rivolgimento	del tutto esterno	al sistema capitalistico .
+
+0	0	1	tutto estinta
+						DET ADV NOUN	WIKICONLL	Il lettore presto scopre che nella sua forma incarnata Lasher appartiene ai Taltos una razza ormai quasi	del tutto estinta	di super-uomini che un tempo abitavano le Highlands della Scozia .
+
+0	1	0	tutto estinte
+						DET ADV NOUN	REPUBBLICA	Sopite certo ma non	del tutto estinte	, al contrario in alcuni casi ancora calde .
+
+0	2	0	tutto estranea
+						DET ADV NOUN	REPUBBLICA	Cioè da una forza	del tutto estranea	ai classici revisionismi comunisti .
+						DET ADV NOUN	REPUBBLICA	Ma è	del tutto estranea	al XV secolo e alle intenzioni di Benozzo Gozzoli che caricò i dipinti di azzurri veneziani e di oro fine di
+
+0	41	1	tutto estranee
+						DET ADV NOUN	REPUBBLICA	questa dichiarazione  contravviene palesemente al principio costituzionale di neutralità della magistratura e del suo operato , facendo intravedere finalità	del tutto estranee	quali quelle di sollecitare lo scioglimento anticipato delle Camere addirittura per fini di un generale mutamento del regime politico  .
+						DET ADV NOUN	REPUBBLICA	motori non abbastanza sollecitati , essi ritengono di poter cogliere segni di avversione in atti che hanno determinanti casuali ,	del tutto estranee	a disegni tenebrosi , perpetrati dal Palazzo ostile .
+						DET ADV NOUN	REPUBBLICA	 Queste azioni sono ovviamente	del tutto estranee	alla cultura del centro sociale .
+						DET ADV NOUN	REPUBBLICA	Eventi simili non sono ignoti in Italia , come non è ignoto lo sciopero improvviso nei trasporti che blocca persone	del tutto estranee	a una disputa di lavoro , per quanto legittima , nel vuoto e nell abbandono .
+						DET ADV NOUN	REPUBBLICA	 Fiction , ma anche racconto che evoca situzioni a noi non	del tutto estranee	 ...
+						DET ADV NOUN	REPUBBLICA	Codice , invece delle norme penali comuni , a fatti avvenuti in luogo militare , anche se commessi per cause	del tutto estranee	al servizio ed alla disciplina militare .
+						DET ADV NOUN	REPUBBLICA	 gravità  dal punto di vista spirituale e sociale del fenomeno , ricordando che magia e superstizione sono realtà	del tutto estranee	alla fede cristiana .
+						DET ADV NOUN	REPUBBLICA	Siciliano prima ha sussurrato nomi di persone risultate	del tutto estranee	alla vicenda ; poi , si è trincerato dietro i non ricordo .
+						DET ADV NOUN	REPUBBLICA	in cui si muoverà la manovra aggiuntiva , con un riferimento ai mercati finanziari , in difficoltà  per cause	del tutto estranee	alla situazione italiana , quali il terremoto in Giappone e la crisi finanziaria del Messico  .
+						DET ADV NOUN	REPUBBLICA	impossibilità di rincorrere , con smentite , presunte notizie fatte circolare ad arte dagli operatori per ragioni che ci sono	del tutto estranee	 .
+						DET ADV NOUN	REPUBBLICA	Ciò però non accade ; anzi , bevute in un sorso le storie , le si avverte poi quasi	del tutto estranee	lontane , inattingibili , come se ci giungessero da un altro mondo .
+						DET ADV NOUN	REPUBBLICA	Premetto che ho scelto di insegnare sottolineo il termine scelto dopo aver sperimentato altre professioni	del tutto estranee	al mondo della scuola .
+						DET ADV NOUN	REPUBBLICA	stravolto , come è accaduto in passato , da interessi particolari volti a promuovere qualche Istituto per  benemerenze 	del tutto estranee	alla buona produzione scientifica e ad una equilibrata loro programmazione , è prevedibile che la competitività italiana nel campo della ricerca
+						DET ADV NOUN	REPUBBLICA	Procura di Roma i  veri colpevoli della penuria  di  bionde  , ovvero  persone ed organizzazioni	del tutto estranee	alla categoria dei tabaccai e dei gestori dei magazzini  .
+						DET ADV NOUN	REPUBBLICA	la conoscenza e i rapporti dell uomo con l ambiente naturale , alimentò la proliferazione di tendenze e forme espressive	del tutto estranee	a ogni prospettiva di acquisizione e di analisi concreta della realtà .
+						DET ADV NOUN	REPUBBLICA	un dibattito politico confuso , apparentemente teso a individuare chi deve decidere , ma nella sostanza largamente intriso di rivalse	del tutto estranee	alla logica industriale  .
+						DET ADV NOUN	REPUBBLICA	, lo stato nascente di partiti cosiddetti  catalani  -- fenomeni politici che si collocano su linee di confine	del tutto estranee	alla contrapposizione destra-sinistra -- ci dicono che il sistema rappresentativo repubblicano si è irrimediabilmente sparigliato .
+						DET ADV NOUN	REPUBBLICA	Anche se poi attribuiscono a queste due reti  limiti di tipo qualitativo dettati da esigenze di ordine commerciale	del tutto estranee	al loro modello  ideale  di televisione per l infanzia  .
+						DET ADV NOUN	REPUBBLICA	Ma poi , nelle foto dei bozzetti di scene e costumi c erano cose	del tutto estranee	al nostro discorso  .
+						DET ADV NOUN	REPUBBLICA	impropriamente ipotizzato un collegamento tra il nostro debito e le tensioni che si sono verificate sui mercati internazionali per cause	del tutto estranee	alla situazione italiana .
+						DET ADV NOUN	REPUBBLICA	la chiusura forzata ed indiscriminata di decine di servizi amatoriali chiude un epoca di libertà telematica , coinvolge molte persone	del tutto estranee	al mondo della pirateria e che , anzi , hanno operato anche culturalmente per far maturare nell utenza italiana il rispetto
+						DET ADV NOUN	REPUBBLICA	che i nomi dei proprietari dei suoli , in 18 casi , corrispondono a persone morte da anni , oppure	del tutto estranee	alla coop .
+						DET ADV NOUN	REPUBBLICA	cominciare dalla distruzione delle libertà in un industria di prototipi qual  è quella cinematografica , ad opera di logiche	del tutto estranee	al cinema ; 3 ) I criteri della esperienza professionale e delle garanzie aziendali sostituiscono , per ottenere i benefici di
+						DET ADV NOUN	REPUBBLICA	cinque diverse occasioni ho ottenuto che fossero cassate norme , surrettiziamente introdotte dal governo in decreti legge che trattavano materie	del tutto estranee	che rifinanziavano in vario modo i su richiamati piani di Ancona , Macerata e Ariano Irpino .
+						DET ADV NOUN	REPUBBLICA	Esse sono	del tutto estranee	alla costituzione e alla movimentazione di detti conti .
+						DET ADV NOUN	REPUBBLICA	Le sue teorie come il suo stile sono considerate	del tutto estranee	alla tradizione tory .
+						DET ADV NOUN	REPUBBLICA	severamente criticato la tendenza di alcuni magistrati a chiamare in causa , in sentenze di rinvio a giudizio , persone	del tutto estranee	al procedimento , senza che queste potessero tutelar- si .
+						DET ADV NOUN	REPUBBLICA	perché la discussione di queste ultime settimane è stata pressoché completamente assorbita da due proposte per lo meno stravaganti ,	del tutto estranee	alla realtà istituzionale italiana : il ricorso a una vera e propria Assemblea Costituente per riscrivere la Costituzione e il mutamento
+						DET ADV NOUN	REPUBBLICA	al coordinamento di polizia e carabinieri , Sica apre la battaglia contro quelle che definisce  manifestazioni criminose efferate e	del tutto estranee	al costume delle genti emiliano romagnole  e in settimana entrerà nel cuore del problema incontrando il pool di magistrati .
+
+0	1	0	tutto extrabiglietto
+						DET ADV NOUN	REPUBBLICA	Come se il diritto al posto fosse	del tutto extrabiglietto	.
+
+0	1	0	tutto falce
+						DET ADV NOUN	REPUBBLICA	Benché abbia fatto le cose a metà : se avesse tolto	del tutto falce	e martello e l aggettivo comunista sarebbe stato meglio .
+
+0	0	2	tutto falso
+						DET ADV NOUN	WIKICONLL	Ciò non era	del tutto falso	, visto che i centri di istruzione superiori più prestigiosi , ( Oxford e Cambridge ) si trovavano da sempre nel
+						DET ADV NOUN	WIKICONLL	e l indirizzo del mittente visualizzati nel programma client del destinatario , inducendo l utente a ritenere attendibile un messaggio	del tutto falso	.
+
+0	0	1	tutto farina
+						DET ADV NOUN	WIKICONLL	In realtà anche la musica di  Carlo Martello  non è	del tutto farina	del sacco di De André , in quanto è molto simile ad una canzone popolare francese ripresa ed incisa dalla cantautrice
+
+0	1	0	tutto fastidio
+						DET ADV NOUN	REPUBBLICA	, che sono bene avvertite del rischio , quanto qualche settore politico di matrice vetero-ideologica cui tutto questo non dà	del tutto fastidio	anche se si prendono le distanze .
+
+0	1	0	tutto favolistica
+						DET ADV NOUN	REPUBBLICA	, alla maniera di Violet LeDuc , l architetto francese che con i suoi rimaneggiamenti strutturali amava dare una interpretazione	del tutto favolistica	al Medio Evo .
+
+0	1	0	tutto fedeli
+						DET ADV NOUN	REPUBBLICA	 Le ho incise in modo scolastico , i bassi del pianoforte corrispondono ai violoncelli e così via ,	del tutto fedeli	a come erano state scritte , non mi sarei permesso di cambiare una virgola  .
+
+0	0	1	tutto fiducia
+						DET ADV NOUN	WIKICONLL	ciò che la gente non conosce , quanto in ciò che la gente conosce ma di cui non può avere	del tutto fiducia	.
+
+0	1	0	tutto fila
+						DET ADV NOUN	REPUBBLICA	Ma a	Maranello tutto fila	liscio e bisogna pensare ai preparativi per la prossima gara , il Gp del Canada , che rischia di assumere i
+
+0	0	1	tutto fine
+						DET ADV NOUN	WIKICONLL	Non vi furono altre stagioni dello show ; la fine di Most Wanted ha posto	del tutto fine	alla serie di programmi televisivi pomeridiani che avevano un filo diretto con i telespettatori , iniziato 7 anni prima con Select
+
+0	1	1	tutto forme
+						DET ADV NOUN	REPUBBLICA	Rifondazione continua a chiedere le 35 ore entro il Duemila , per legge , ma non si escludono	del tutto forme	di concertazione fra governo e imprenditori .
+						DET ADV NOUN	WIKICONLL	Alla riproduzione sessuale si accompagnano o si sostituiscono	del tutto forme	di riproduzione basate sulla partenogenesi telitoca .
+
+0	1	0	tutto francofona
+						DET ADV NOUN	REPUBBLICA	Non ci sono stati mai problemi a Comines , città fiamminga per la geografia ma	del tutto francofona	anche perché posta proprio a ridosso della frontiera con la Francia .
+
+0	1	0	tutto frasi
+						DET ADV ADJ NOUN	REPUBBLICA	Gianfranco Calcagnetti Roma MAI PRONUNCIATO QUELLE FRASI Ottavio Lucarelli nell articolo pubblicato ieri mi ha attribuito in maniera	del tutto fantasiosa frasi	ed opinioni che non ho mai espresso .
+
+0	0	1	tutto frazioni
+						DET ADV ADJ NOUN	WIKICONLL	Una strada militare , assai panoramica , la percorre sul fianco nord , collegando le poche e ormai quasi	del tutto disabitate frazioni	sparse : Chiout Martin , Roncheschin , Chiout di Puppe , Chiout di Gus , Chiout Zucuin , Chiout , Costasacchetto
+
+0	0	1	tutto frutto
+						DET ADV NOUN	WIKICONLL	2006 . mentre William Weber , legale di Ronald DeFeo al processo del 1975 , dichiarò che la storia era	del tutto frutto	della fantasia di DeFeo e dalla famiglia Lutz .
+
+0	1	1	tutto fuorilegge
+						DET ADV NOUN	REPUBBLICA	I giudici sono nominati a vita , egli ha quindi molto tempo per sperare di realizzare l obiettivo di mettere	del tutto fuorilegge	l aborto .
+						DET ADV NOUN	WIKICONLL	Mentre il FLNC ( dal 1983	del tutto fuorilegge	e poi diviso- si ) porta avanti la sua campagna clandestina , sorgono diverse formazioni politiche autonomiste ed indipendentiste che partecipano
+
+0	1	0	tutto gay
+						DET ADV NOUN	REPUBBLICA	Alla sfilata si arrovellano gli uomini non	del tutto gay	: quale trucco negromantico fa sì che quelle signorine che sotto il trasparente non hanno niente , appaiano se non caste
+
+0	2	0	tutto giustizia
+						DET ADV NOUN	REPUBBLICA	) è quello di raccontare una storia fin troppo nota a chi l ha vissuta , e forse senza rendere	del tutto giustizia	alla sua complessità , e che non interessa o peggio fa sorridere chi ne è stato distante .
+						DET ADV NOUN	REPUBBLICA	Certo , è vero che la promozione e il lancio non rendono	del tutto giustizia	al film , che le presentazioni -- dai trailer in tv ai manifesti per strada -- omologano un po tutto e
+
+0	1	0	tutto governo
+						DET ADV ADJ NOUN	REPUBBLICA	come previsto , arriva Andreotti che , se il tam tam della giungla politica non inganna , darà vita ad	del tutto inedito governo	Andreotti -- Amato .
+
+0	7	4	tutto grazie
+						DET ADV ADJ NOUN	REPUBBLICA	L intero progetto ( corso di formazione e rete di assistenza per lo sviluppo di mini-imprese ) è	del tutto gratuito grazie	al fondo sociale europeo .
+						DET ADV ADJ NOUN	REPUBBLICA	La formazione ,	del tutto gratuita grazie	all intervento della Regione attraverso il Fondo Sociale Europeo , richiederà un impegno di 1100 ore complessive , di cui 400
+						DET ADV ADJ NOUN	REPUBBLICA	Un corso ,	del tutto gratuito grazie	ai finanziamenti del Fondo Sociale Europeo e all intervento della Società per l Imprenditorialità Giovanile , creato ad hoc per formare
+						DET ADV ADJ NOUN	REPUBBLICA	leggere e registrare dati sullo stesso disco per un numero praticamente infinito di volte ; l Hybrid , uno standard	del tutto nuovo grazie	al quale è possibile suddividere lo stesso disco in sezioni registrabili ed altre a sola lettura .
+						DET ADV NOUN	REPUBBLICA	Però riesce a dare continuità	al tutto grazie	a un tono costante di commedia nera e violenta , sostiene le situazioni con dialoghi più brillanti della media , ci
+						DET ADV NOUN	REPUBBLICA	con replay e moviole come e quando più ti aggrada ; e pure cambiar- ti il finale degli sceneggiati ,	il tutto grazie	ad un apparecchio poco più ingombrante di un videoregistratore .
+						DET ADV NOUN	REPUBBLICA	quali l arrossamento , l eritema , l ustione si controllano bene , si attenuano e si possono perfino evitare	del tutto grazie	ai filtri solari cosmetici  .
+						DET ADV NOUN	WIKICONLL	, fu interamente ricostruito nei più minimi dettagli , dagli utensili fino alle scritte sul soffitto realizzate da Chris ,	il tutto grazie	al sopralluogo avvenuto al vero Magic Bus che si trova a tutt oggi in Alaska .
+						DET ADV NOUN	WIKICONLL	è più al potere e in Ungheria il Partito Socialista Ungherese dei Lavoratori cambia nome ed apre le frontiere ,	il tutto grazie	al PCUS di Gorbaciov che dal 1988 ha deciso di non ingerire più negli stati satelliti .
+						DET ADV NOUN	WIKICONLL	Il suo spirito , però , non si è perso	del tutto grazie	alle splendide storie che ha realizzato < il maestro Romano Scarpa e alle recenti avventure scritte da Casty per il settimanale
+						DET ADV NOUN	WIKICONLL	e tutt ora può venire lavata solo dalla confessione dal sincero pentimento , la seconda poteva venire alleviata o cancellata	del tutto grazie	alle opere di misericordia , alle preghiere , alle messe o pellegrinaggi , eccetera .
+
+0	1	0	tutto gruppi
+						DET ADV ADJ NOUN	REPUBBLICA	delle varie specie di frutta è molto specifico e privilegia , talvolta , una o due vitamine mentre mancano quasi	del tutto altri gruppi	vitaminici , come il complesso B o la vitamina A. Gli agrumi sono un tipico esempio di abbondanza di vitamina C
+
+0	1	0	tutto happy
+						DET ADV NOUN	REPUBBLICA	Lo happy ending , che se fosse romanzesco sembrerebbe spudorato , non è né spudorato né	del tutto happy	, perché nella realtà della vita di Helfgott resta pur sempre la ferita lasciata dalla schizofrenia -- o dalle sue cure
+
+0	1	0	tutto hard
+						DET ADV NOUN	REPUBBLICA	regina degli elefanti  , oscuro capolavoro del compianto Joe D Amato , il primo film hard ( interamente ,	del tutto hard	) che verrà trasmesso da Telepiù .
+
+0	9	0	tutto i
+						DET ADV NOUN	REPUBBLICA	 a due donne senza velo ma con l hijab , il foulard che scende fino alla gola e copre	del tutto i	capelli : sono due donne che parlano , quindi due eccezioni .
+						DET ADV NOUN	REPUBBLICA	Bagliori nel buio e si preoccupa di dare allo spettacolo la giusta dose di effetti speciali , senza dissipar- ne	del tutto i	dubbi ( il boscaiolo ha detto la verità ?
+						DET ADV NOUN	REPUBBLICA	Veste strano : short verdi , camiciona a fiori vermigli e verde marcio lunga fino a coprire	del tutto i	pantaloni , cappellino nero con la sigla della sua nuova azienda MMI , Modern Man Incorporated .
+						DET ADV NOUN	REPUBBLICA	da parte di Gheddafi sembrano essere diminuiti , l approssimar- si del grande momento del cambio non consente di scartare	del tutto i	timori da quella frontiera .
+						DET ADV NOUN	REPUBBLICA	ha fatto chiaramente capire le sue simpatie , a cinque giorni dal summit di Londra che potrebbe rilanciare o compromettere	del tutto i	negoziati di pace in Medio Oriente .
+						DET ADV NOUN	REPUBBLICA	i personaggi che sono riusciti a far- si largo nelle  charts  , e come al solito non rispecchiano	del tutto i	risultati del festival .
+						DET ADV NOUN	REPUBBLICA	possano ridurre i propri tassi , mentre il Vecchio Continente possa muover- si nella direzione esattamente opposta , per spegnere	del tutto i	nuovi focolai d inflazione  .
+						DET ADV NOUN	REPUBBLICA	quinto per la strage Chinnici e l appello del processone alle cosche dello Stretto , accade che in tribunale manchino	del tutto i	controlli : neanche un metal-detector all ingresso .
+						DET ADV NOUN	REPUBBLICA	una spinta ai settori meno integrati , come il mercato dei servizi ; perfezionare la libera circolazione delle persone sopprimendo	del tutto i	controlli alle frontiere , migliorando le regole del diritto di soggiorno in uno Stato membro diverso da quello d origine e
+
+0	1	0	tutto ideale
+						DET ADV NOUN	REPUBBLICA	Su questa strada ,	del tutto ideale	, vorrei crescere fino a statura europea , che è un po più imponente di quella mediterranea .
+
+0	2	0	tutto ignota
+						DET ADV NOUN	REPUBBLICA	e della curatrice Dorine Mignot che , con una fede nell artista e una disponibilità ad esaudire ogni suo desiderio	del tutto ignota	ai nostri funzionari , hanno seguito con una presenza continua e tenace il procedere dell allestimento .
+						DET ADV NOUN	REPUBBLICA	vero che ho dichiarato di aver conosciuto i due signori di cui sopra , l esistenza dei quali mi era	del tutto ignota	prima del caso  Phoney Money  .
+
+0	9	0	tutto ignote
+						DET ADV NOUN	REPUBBLICA	Carabinieri non hanno cessato di scavare nella vasta rete di rapporti e di amicizie del conte , rintracciando anche relazioni	del tutto ignote	ai suoi amici più cari .
+						DET ADV NOUN	REPUBBLICA	Dopo di che si passa a personalità oscure quasi	del tutto ignote	persino negli ambienti intellettuali di Varsavia , i cui meriti risultano chiari solo sul versante del conformismo .
+						DET ADV NOUN	REPUBBLICA	Infine scarsi e non diffusi erano i fondi comuni nelle loro varie forme e	del tutto ignote	le società di gestione di patrimoni .
+						DET ADV NOUN	REPUBBLICA	Le intenzioni dell Eni , tuttavia , non dovevano essere	del tutto ignote	a Foro Bonaparte visto che già mercoledì i legali della Montedison avevano presentato un ricorso in prevenzione con il quale tentavano
+						DET ADV NOUN	REPUBBLICA	Per ragioni a noi	del tutto ignote	questa pesantissima indigestione postal-natalizia non è stata rivelata a tutti .
+						DET ADV NOUN	REPUBBLICA	Per ragioni che mi sono	del tutto ignote	, Sampras non usa quasi mai l attacco slice , sebbene sappia giocare quel colpo , a differenza di tutti i
+						DET ADV NOUN	REPUBBLICA	Queste non son cose	del tutto ignote	anche a chi frequenta le nostre assemblee parlamentari .
+						DET ADV NOUN	REPUBBLICA	generale cambiamento del mondo , noi ci dovevamo avviare per altre strade , le quali ci erano , però ,	del tutto ignote	.
+						DET ADV NOUN	REPUBBLICA	stampa dell aeroporto ha fatto presente che sono arrivati voli charter di compagnie che , fino ad oggi , erano	del tutto ignote	.
+
+0	12	0	tutto ignoti
+						DET ADV NOUN	REPUBBLICA	, Qua , figli di Della , sorella di Paperino davanti alla cui porta furono abbandonati in fasce , altri	del tutto ignoti	, come Chiarafonte fratello di Paperoga o il papà dei tre paperini del quale addirittura non si conosce neppure il nome
+						DET ADV NOUN	REPUBBLICA	Ed ancora	del tutto ignoti	al pubblico sono i Proxima , Silvia Mezzanotte , Rose Crisci , Beppe De Francia e Bea Giannini , il cantautore
+						DET ADV NOUN	REPUBBLICA	I nomi dei gruppi sono	del tutto ignoti	per il pubblico italiano , come Cover Girls , Expose , Company B , Giggles , ma ci sono già delle
+						DET ADV NOUN	REPUBBLICA	In testa alla classifica dei maggiori evasori troviamo comunque alcuni nomi di imprese che non sono	del tutto ignoti	alle cronache degli anni scorsi : l Italmet di Padova denunciata nel 1985 per illecita importazione di 19 chili d oro
+						DET ADV NOUN	REPUBBLICA	Insomma lui pensava che era meglio rischiare di lasciar parlare dei giovani imberbi e	del tutto ignoti	piuttosto che ripetere i moduli rituali e accademici , spesso noiosi e senza vita ; piuttosto che rischiare di trasformare aut
+						DET ADV NOUN	REPUBBLICA	La moda , i grandi fotografi , il denaro a palate , il successo : monumenti	del tutto ignoti	.
+						DET ADV NOUN	REPUBBLICA	Negli ultimi anni il pubblico colto è stato preso sovente di sorpresa , vedendo insigniti poeti o letterati	del tutto ignoti	ai più .
+						DET ADV NOUN	REPUBBLICA	Perché di tanti , più o meno dimenticati o	del tutto ignoti	al gran pubblico d oggi ( un Yves Brayer per esempio ; o un Ismail de Serna , per non dire
+						DET ADV NOUN	REPUBBLICA	Un operazione che potrebbe cominciare a dischiudere orizzonti vastissimi e quasi	del tutto ignoti	al pubblico  occidentale  .
+						DET ADV NOUN	REPUBBLICA	in definitiva , l esplorazione di nuovi percorsi prima trascurati se non	del tutto ignoti	, o la ricerca delle connessioni fra destini privati e vicende pubbliche ( anche sulla scia dei modelli classici della narrazione
+						DET ADV NOUN	REPUBBLICA	in particolare in quello degli studi storici , un aria nuova , facendo emergere temi e protagonisti prima sottovalutati o	del tutto ignoti	, e , talvolta , un nuovo  punto di vista  su temi già precedentemente esaminati .
+						DET ADV NOUN	REPUBBLICA	lettere al recente congresso americano di urologia che i rischi teratogeni ( possibili danni al feto ) del Viagra sono	del tutto ignoti	allo stato attuale , e pertanto tale farmaco è eventualmente da considerare come trattamento solo in età post-menopausale , e solo
+
+0	0	1	tutto ignoto
+						DET ADV NOUN	WIKICONLL	Un simile conflitto ,	del tutto ignoto	al Paese , ne segnò per decenni la vita politica , spingendo la destra ad accogliere alcune delle richieste della sinistra
+
+0	7	1	tutto immaginario
+						DET ADV NOUN	REPUBBLICA	 di fronte alla depressione , per cui il depresso è tuttora ritenuto un malato anomalo , se non proprio	del tutto immaginario	; comunque , in massima parte , responsabile dei suoi stessi malanni , in cui egli  finisce col crogiolarvisi
+						DET ADV NOUN	REPUBBLICA	Così come non hanno mai parlato del celebre incontro di Cristo con la Veronica ( personaggio	del tutto immaginario	) , quella santa donna che gli avrebbe offerto un panno per asciugar- si il sudore : panno su cui sarebbe
+						DET ADV NOUN	REPUBBLICA	Da parte loro mi sembra che lo scontro sia	del tutto immaginario	.
+						DET ADV NOUN	REPUBBLICA	Non è una novità che il gettito proveniente da simile provvedimento non sia quello	del tutto immaginario	indicato dal governo .
+						DET ADV NOUN	REPUBBLICA	Stupidaggini , certo , ma al di là delle provocazioni , non può essere trascurato un pericolo purtroppo non	del tutto immaginario	.
+						DET ADV NOUN	REPUBBLICA	Timone è un cittadino ateniese non	del tutto immaginario	, perché citato da Plutarco prima di essere romanzato da Luciano , ma comunque simbolico anche se al suo fianco figura
+						DET ADV NOUN	REPUBBLICA	Un viaggio reale , questo di Stevenson , che segue a cinque anni di distanza quello ,	del tutto immaginario	, da lui descritto nell Isola del tesoro .
+						DET ADV NOUN	WIKICONLL	Lo  steampunk fantasy  , invece , si colloca in un mondo	del tutto immaginario	,  fantasy  appunto , spesso popolato di creature leggendarie e fantastiche che convivono con la tecnologia propriamente  steampunk
+
+0	1	0	tutto immagini
+						DET ADV ADJ NOUN	REPUBBLICA	sul no sense  , si legge in nota dell emittente televisiva ,  la campagna Mtv associa in modo	del tutto arbitrario immagini	e head line .
+
+0	0	2	tutto immobili
+						DET ADV NOUN	WIKICONLL	L etologia della riproduzione è incentrata sul dimorfismo sessuale e sulla neotenia delle femmine : queste , essendo	del tutto immobili	, attirano il maschio emettendo feromoni .
+						DET ADV NOUN	WIKICONLL	Se avvistano un predatore , questi animali congelano i propri movimenti e rimangono	del tutto immobili	, seppure coi sensi in massima allerta : solitamente non fuggono se prima il pericolo non si è avvicinato a meno
+
+0	1	0	tutto impersonale
+						DET ADV NOUN	REPUBBLICA	Vi fa da sfondo la convinzione che la filosofia sia una forma di conoscenza	del tutto impersonale	e solo incidentalmente legata a coloro che la praticano .
+
+0	1	0	tutto impiego
+						DET ADV ADJ NOUN	REPUBBLICA	, con impegno giornaliero fino a 180 minuti ) , la cui sopravvivenza costringe il ministero a un notevole e	del tutto antieconomico impiego	delle risorse .
+
+0	0	4	tutto importanza
+						DET ADV NOUN	WIKICONLL	A partire dagli anni settanta la stazione ha perso	del tutto importanza	, in seguito è stata completamente impresenziata ed esercita in telecomando DCO e non vi fermano treni se non per motivi
+						DET ADV NOUN	WIKICONLL	Attualmente , con la riduzione dei sesti d impianto , ha perso	del tutto importanza	ed è adottato solo per la sostituzione di singole piante all interno di un arboreto o per ridurre i costi d
+						DET ADV NOUN	WIKICONLL	Nei paesi industrializzati dell Europa , dell America , dell Oceania , questa specie ha perso	del tutto importanza	e ha una diffusione marginale anche come cereale foraggero .
+						DET ADV NOUN	WIKICONLL	Questi impieghi hanno oggi perso	del tutto importanza	.
+
+0	1	0	tutto imprecisione
+						DET ADV ADJ NOUN	REPUBBLICA	che interessa anche la nostra memoria collettiva e bene ha fatto Giorgio Bocca a ricordar- lo , sia pure con	del tutto irrilevante imprecisione	-- la Corte di Cassazione ritenne inopinatamente di disattendere tutti questi suoi precedenti , per rifar- si a una ( si
+
+0	1	0	tutto imprese
+						DET ADV ADJ NOUN	REPUBBLICA	In modo	del tutto analogo imprese	e commercianti si abituano a rialzare i prezzi con facilità perché tanto tutti i prezzi stanno salendo .
+
+0	1	0	tutto in
+						DET ADV NOUN	REPUBBLICA	sé e per la quantità di effetti che ha prodotto : non è possibile qui , se mai lo è	del tutto in	altri casi , staccare l opera dai suoi effetti .
+
+0	1	0	tutto inabituale
+						DET ADV NOUN	REPUBBLICA	L Ocse ha preso la decisione	del tutto inabituale	di render- lo noto in anticipo , su richiesta del governo italiano , come ha rivelato lo stesso Huet .
+
+0	1	0	tutto incisività
+						DET ADV NOUN	REPUBBLICA	Non meno ammirevole di lui , Stefan Edberg , riusciva a non perdere	del tutto incisività	di battuta , e affacciato a rete vedeva uscire l ultimo passante di Wilander , dopo un ora e 26 minuti
+
+0	2	0	tutto inconcludente
+						DET ADV NOUN	REPUBBLICA	Dopo un dialogo	del tutto inconcludente	mi ha consigliato di leggere una antica favola giapponese .
+						DET ADV NOUN	REPUBBLICA	quarta è che tornare al quadripartito o imboccare una formula che escluda il Pds potrebbe rivelar- si disastroso oltre che	del tutto inconcludente	.
+
+0	0	1	tutto inconscio
+						DET ADV NOUN	WIKICONLL	Ma noi distinguiamo il rosso dal blu o un viso triste da uno felice in modo	del tutto inconscio	ed automatico ( anche se possiamo  porre la nostra attenzione  su questo evento mentale ) , il ché significa
+
+0	1	0	tutto inetta
+						DET ADV NOUN	REPUBBLICA	, non priva di autoironia , riservata fino ad essere schiva , distratta e ritardataria , un po maldestra ,	del tutto inetta	in cucina :  Un uovo , un frutto ...
+
+0	1	0	tutto infermi
+						DET ADV NOUN	REPUBBLICA	Veramente , a noi che siamo modesti , ma non	del tutto infermi	, risulta che se gli uomini non sono ancora riusciti a conquistare il firmamento non è perché lo sentono lontanuccio e
+
+0	1	0	tutto interesse
+						DET ADV NOUN	REPUBBLICA	Secondo i miei colleghi danesi , Tauson è in una giornata di luna storta , di quelle in cui perde	del tutto interesse	alla vita diurna , e quindi anche allo sport .
+
+0	2	0	tutto interessi
+						DET ADV ADJ NOUN	REPUBBLICA	i mezzi , particolarmente negli ultimi mesi , da persone preoccupate di difendere i loro privilegi e i loro non	del tutto trasparenti interessi	, messi a repentaglio dall azione rigorosa degli organi di amministrazione dell Unire  .
+						DET ADV NOUN	REPUBBLICA	viene anche chiarito che le Regioni non hanno il potere di promuovere proposte di legge dello Stato dalle quali esulano	del tutto interessi	di carattere regionale .
+
+0	0	1	tutto intesa
+						DET ADV NOUN	WIKICONLL	In altre parole , il bene si può nascondere anche in una realtà	del tutto intesa	al male e viceversa .
+
+0	4	0	tutto inusuale
+						DET ADV NOUN	REPUBBLICA	Come si vede si tratta di un  parterre  insigne ,	del tutto inusuale	per una società quotata al Ristretto .
+						DET ADV NOUN	REPUBBLICA	Occorreva pertanto studiare un metodo per eliminar- lo	del tutto inusuale	per noi e tale da fare in modo che l episodio rimanesse avvolto nel mistero più fitto .
+						DET ADV NOUN	REPUBBLICA	Occorreva quindi studiare un metodo per eliminar- lo	del tutto inusuale	per noi e tale da fare in modo che l episodio rimanesse avvolto nel mistero più fitto ...
+						DET ADV NOUN	REPUBBLICA	le parole , lentamente , semplicemente , ma sempre con precisione , onestà , decisione e un pathos involontario ,	del tutto inusuale	per quest uomo , dettato dalla situazione .
+
+0	1	0	tutto ironia
+						DET ADV NOUN	REPUBBLICA	Un libro scritto all insegna dell ingenuità , in cui mancano	del tutto ironia	, sarcasmo , cinismo , in cui si asseriscono le verità più ovvie , scrive la giornalista tedesca , colpita soprattutto
+
+0	0	1	tutto isolato
+						DET ADV NOUN	WIKICONLL	che il piccolo Oswald era un giovane ammalato di disturbi maneschi , in preda a frequenti deliri di onnipotenza ,	del tutto isolato	rispetto al contesto sociale e gravemente sofferente per una perdurante carenza affettiva .
+
+0	1	0	tutto jeans
+						DET ADV NOUN	REPUBBLICA	frivolezza non guastano , sogghigna il re della pubblicità Armando Testa che anagraficamente non appartiene al popolo del rock ,	quello tutto jeans	e scarpette da ginnastica :  Però amo la musica e qualche canzone di questa Madonna l ho pure ascoltata .
+
+0	0	1	tutto jugoslavo
+						DET ADV NOUN	WIKICONLL	Era un progetto	del tutto jugoslavo	, non basato su nessun velivolo straniero , anche se la Francia provvedette a fornire qualche assistenza al progetto per le
+
+0	4	0	tutto la
+						DET ADV NOUN	REPUBBLICA	In Gran Bretagna , negli ultimi tre anni è stata prima dimezzata e poi tolta	del tutto la	 special car tax  , che faceva lievitare del 10 per cento il prezzo di vendita .
+						DET ADV NOUN	REPUBBLICA	Sembra esser- si esaurita	del tutto la	breve euforia seguita alla decisione di spostare a Berlino la capitale tedesca , che venerdì scorso aveva galvanizzato il mercato .
+						DET ADV NOUN	REPUBBLICA	Sembra esser- si esaurita	del tutto la	grande fuga .
+						DET ADV NOUN	REPUBBLICA	invece di abbandonare l impossibile distinzione , le rimane fedele e , per non esser- ne più tradito , vieta	del tutto la	 pubblicità-spot  e dice che la  propaganda  televisiva elettorale è solo quella in cui vi è contraddittorio .
+
+0	2	0	tutto laica
+						DET ADV NOUN	REPUBBLICA	Io sono come Woody ,	del tutto laica	, pensi che mio figlio ha sposato una ragazza cinese , e mai per un momento mi è sembrata una mancanza
+						DET ADV NOUN	REPUBBLICA	La poesia di Ferretti , da questo punto di vista , è	del tutto laica	, in apparenza cinica , in realtà disperata e allegra , dell allegria spavalda e guascona dei vent anni .
+
+0	1	0	tutto laser
+						DET ADV NOUN	REPUBBLICA	Ma Gorbaciov è disposto ad andare più avanti : se gli americani accetteranno l intesa , bloccheremo	del tutto laser	e plutonio .
+
+0	10	0	tutto le
+						DET ADV NOUN	REPUBBLICA	È questo il rischio che ha corso , mi pare non senza consapevolezza eppure senza evitar- ne	del tutto le	conseguenze , il cileno Antonio Skarmeta dedicando una pièce agli anni in cui il poeta Pablo Neruda visse ritirato su una
+						DET ADV NOUN	REPUBBLICA	Certo , l Urss non può permetter- si di voltare	del tutto le	spalle a Saddam Hussein .
+						DET ADV NOUN	REPUBBLICA	Chi stava per infranger- gli questo prezioso bene , era un giornalista francese , che non apprezzava	del tutto le	iniziative del leader socialista .
+						DET ADV NOUN	REPUBBLICA	Il premier ha ignorato	del tutto le	dichiarazioni bellicose della dama di ferro che aveva detto  la Danimarca si è espressa per la libertà di scelta delle
+						DET ADV NOUN	REPUBBLICA	e ai  grandi  team , ci sia di meglio da fare :  Sarebbe allora più sensato sopprimere	del tutto le	prove private e articolare i Gran Premi in cinque giornate , di cui quattro di prove prima della corsa .
+						DET ADV NOUN	REPUBBLICA	era fuori i cicli hanno incominciato a far- si irregolari e , da quando è tornata , le sono scomparse	del tutto le	mestruazioni .
+						DET ADV NOUN	REPUBBLICA	hanno  convocato  a Washington Lubbers e Jensen per uno  screening  , una verifica che ha ignorato	del tutto le	indicazioni della maggioranza dei paesi alleati .
+						DET ADV NOUN	REPUBBLICA	mentre , appena a est dell Oder e della Neisse , le giovani democrazie mitteleuropee premono perché Bonn apra loro	del tutto le	porte dell Europa .
+						DET ADV NOUN	REPUBBLICA	poco produttivi negoziati di pace , è accontentato : tra Netanyahu e Arafat si interpone un giallo che può bloccare	del tutto le	trattative .
+						DET ADV NOUN	REPUBBLICA	terzomondisti : Pasolini stesso poteva scrivere che Tagore è un poeta dialettale , un Pascarella del Bengala , ignorando- ne	del tutto le	radici nella tradizione indù .
+
+0	3	0	tutto legali
+						DET ADV NOUN	REPUBBLICA	Un contatto , a livello di controspionaggio , che può aver- lo messo sulle tracce di traffici non	del tutto legali	.
+						DET ADV NOUN	REPUBBLICA	casse delle company -- alcune delle quali va detto sono riuscite a far fruttare quei capitali investendo- li in attività	del tutto legali	-- possono contribuire a creare nuova ricchezza  .
+						DET ADV NOUN	REPUBBLICA	rischio , con contatti , a livello di controspionaggio , che possono aver- lo messo sulle tracce di traffici non	del tutto legali	.
+
+0	1	0	tutto legge
+						DET ADV ADJ NOUN	REPUBBLICA	Insomma , verrebbe applicata una normale e	del tutto regolare legge	dello Stato .
+
+0	1	0	tutto leggi
+						DET ADV NOUN	REPUBBLICA	I doganieri serbi hanno l ordine di ignorare	del tutto leggi	e regolamenti e da Belgrado un telefono  verde  si preoccupa di segnalare intralci e tempi di attesa : dice
+
+0	1	0	tutto legittime
+						DET ADV NOUN	REPUBBLICA	Ma ricorrere a sanzioni disciplinari per opinioni	del tutto legittime	è una cosa gravissima  .
+
+0	1	0	tutto libertà
+						DET ADV NOUN	REPUBBLICA	degli insediamenti in sé non è cresciuto , dal momento che la battaglia politica intorno al tema non ha permesso	del tutto libertà	di movimento : la soluzione adottata è stata dunque quella della espanzione in sezioni  bis  di cittadine già esistenti
+
+0	1	0	tutto libri
+						DET ADV NOUN	REPUBBLICA	Se mancano quasi	del tutto libri	di educazione sessuale rivolta ai ragazzini è perché si presume ormai che non abbiano nulla da imparare : anche le storie
+
+0	2	0	tutto liscia
+						DET ADV NOUN	REPUBBLICA	Anche Bobo Maroni , ministro dell Interno , che lei stima anzi ammira , non la passa	del tutto liscia	.
+						DET ADV NOUN	REPUBBLICA	dunque , e già è , la prima nomina , fra quelle annunciate dal futuro presidente , a non passare	del tutto liscia	.
+
+0	2	1	tutto logica
+						DET ADV NOUN	REPUBBLICA	Gli esperti monetari libanesi osservano che la caduta della lira libanese è	del tutto logica	, dato che  cinque dei sette pilastri su cui tale moneta poggiava sono andati in frantumi  e del sesto
+						DET ADV NOUN	REPUBBLICA	No , la sua esistenza mi pare	del tutto logica	, nel clima di guerra fredda di allora .
+						DET ADV NOUN	WIKICONLL	, quando von Moltke si ritirò nel 1888 , la nomina a successore di von Waldersee sarebbe stata una scelta	del tutto logica	.
+
+0	1	0	tutto lotta
+						DET ADV ADJ NOUN	REPUBBLICA	quotidiani persistono nell opporre con asprezza la mia eventuale candidatura a capolista a quella dell amico Giuseppe Zamberletti , dipingendo	del tutto inesistente lotta	intestina tra noi , chiarisco di non aver mai posto personalmente la candidatura e che comunque non desidero alimentar- la ,
+
+0	1	0	tutto luce
+						DET ADV NOUN	REPUBBLICA	del giudice Rosario Livatino , assassinato sulla Agrigento-Canicattì la mattina del 21 settembre del 1991 , la magistratura ha fatto	del tutto luce	sul delitto .
+
+0	1	0	tutto lucidità
+						DET ADV ADJ NOUN	REPUBBLICA	Per nostra fortuna , i nostri non avevano	del tutto smarrito lucidità	, mentre , dall altra parte , Gimelstob pareva trovar- si in uno stato di agitazione psicomotoria .
+
+0	1	0	tutto lunedì
+						DET ADV ADJ NOUN	REPUBBLICA	Benché confortato dal successo elettorale , il risveglio di Kohl non sarà	del tutto sereno lunedì	mattina .
+
+0	1	0	tutto macchina
+						DET ADV ADJ NOUN	REPUBBLICA	Una udienza in cui la Corte ha dovuto mettere in movimento	del tutto speciale macchina	del tempo cancellando con un tratto di penna , per l esattezza con una ordinanza , tutti gli atti fatti dopo
+
+0	1	1	tutto mal
+						DET ADV NOUN	REPUBBLICA	Sul caso Palermo Andreotti sostiene che la questione è	del tutto mal	posta : Se c è una situazione dove occorrerebbe una compattezza politica forse anche superiore a quella dei cinque partiti questa
+						DET ADV NOUN	WIKICONLL	La presenza del Tempio in Gerusalemme sembra dare agli ebrei una sicurezza che però , ammonisce il profeta , è	del tutto mal	riposta : il tempio di Jhwh sarà distrutto come quello di Silo nel Nord .
+
+0	1	0	tutto manifestazioni
+						DET ADV NOUN	REPUBBLICA	L imponente schieramento di soldati e il coprifuoco non hanno tuttavia impedito	del tutto manifestazioni	e scontri : l esercito ha fatto due morti , Sara Abdul-Fattah , una giovane donna di 22 anni , e
+
+0	1	0	tutto mano
+						DET ADV NOUN	REPUBBLICA	In questo caso il dirigente regionale avrà	del tutto mano	libera , potendo contare sui poteri anche del Consiglio .
+
+0	1	0	tutto marche
+						DET ADV ADJ NOUN	REPUBBLICA	Ford e Chrysler anche a causa di una diversa politica di incentivi commerciali , e sono andate invece a vele	del tutto spiegate marche	di importazione europee come Volkswagen ( + 43,6 % ) , Bmw ( + 17,8 % ) e Mercedes ( +
+
+0	1	0	tutto marcia
+						DET ADV NOUN	REPUBBLICA	La rete televisiva Cnn , che aveva diffuso martedì la notizia , non ha fatto	del tutto marcia	indietro , affermando che si tratta di un ipotesi presa in considerazione dal capo del Cremlino , in una settimana di
+
+0	1	0	tutto materia
+						DET ADV NOUN	REPUBBLICA	Savasta , a un ipotetico totalizzatore , farebbe segnare un punto per la difesa : anche se non è	del tutto materia	del contendere nel processo il rapporto Br-Autonomia , base del teorema Calogero , è lo sfondo su cui si muovono tutte
+
+0	2	0	tutto matura
+						DET ADV NOUN	REPUBBLICA	, in quella Roma che ha così a lungo vagheggiato , ha già trent anni , e un età quindi	del tutto matura	.
+						DET ADV NOUN	REPUBBLICA	Questi due casi non appartengono alla fantascienza , ma a una dimensione tecnologica	del tutto matura	.
+
+0	1	0	tutto mediocre
+						DET ADV NOUN	REPUBBLICA	Possiamo paragonar- ci al periodo del Risorgimento , quando l eccitazione politica era accompagnata da una vita culturale	del tutto mediocre	.
+
+0	1	0	tutto mentitore
+						DET ADV NOUN	REPUBBLICA	Anche se non è questo il  vero  titolo , non è	del tutto mentitore	; perché in queste recensioni , che il marito John Middleton Murry raccolse postume nel 1930 , sotto il più modesto
+
+0	0	1	tutto meriti
+						DET ADV NOUN	WIKICONLL	C è un dibattito filosofico all interno della comunità fisica sul fatto che una teoria	del tutto meriti	di essere chiamata  la  legge fondamentale dell universo .
+
+0	2	0	tutto metano
+						DET ADV NOUN	REPUBBLICA	E allora che senso ha andare a una struttura rigida come	del tutto metano	quando si sa che i metanodotti sono vulnerabili ?
+						DET ADV NOUN	REPUBBLICA	Quanto all ipotesi	del tutto metano	per Montalto , al ministero dell Industria fanno sapere di essere assolutamente contrari a una scelta slegata dal complesso del piano
+
+0	1	0	tutto minacce
+						DET ADV NOUN	REPUBBLICA	Segue una dura condanna dell  atteggiamento aggressivo  di Zagabria , ma mancano	del tutto minacce	o riferimenti a possibili mobilitazioni delle Forze Armate jugoslave , al contrario si insiste sulla necessità di risolvere la crisi
+
+0	1	0	tutto miope
+						DET ADV NOUN	REPUBBLICA	politica , malata di demagogia e di retorica , si è esercitata nella elaborazione di una legge , dimostrando- si	del tutto miope	nel preveder- ne le conseguenze .
+
+0	0	1	tutto mondo
+						DET ADV NOUN	WIKICONLL	di là di ogni dubbio che la situazione di Venere era quella di un deserto arido ed estremamente caldo ,	del tutto mondo	inospitale : le nuvole sono di acido solforico , l atmosfera è composta prevalentemente di biossido di carbonio ( la pressione
+
+0	1	0	tutto morti
+						DET ADV NOUN	REPUBBLICA	che la speranza non può venire da chi continua ad agire come ieri : ai partiti che non sono ancora	del tutto morti	( alcuni sono sul punto di esser- lo !
+
+0	1	0	tutto mossa
+						DET ADV ADJ NOUN	REPUBBLICA	prime rate  , cioè l interesse sui prestiti ai clienti migliori , anticipando una futura , e per ora	del tutto ipotetica mossa	della banca centrale .
+
+0	1	0	tutto musica
+						DET ADV NOUN	REPUBBLICA	Non è il momento , mi dicevo , non è musica leggera e non è neanche	del tutto musica	classica  .
+
+0	1	0	tutto mutamenti
+						DET ADV ADJ NOUN	REPUBBLICA	Qui , nei vasti , fulminei ,	del tutto imprevisti mutamenti	interni , stava la vera ragione che spingeva a prendere sul serio il  new look  della dirigenza sovietica .
+
+0	1	0	tutto natalizio
+						DET ADV ADJ NOUN	REPUBBLICA	Il CONCLAVE appena organizzato da D Alema & C. nella Certosa di Pontignano porterà	al tutto esaurito natalizio	i sacri spazi un tempo destinati solo a religiosi e pellegrini ?
+
+0	1	0	tutto negativa
+						DET ADV NOUN	REPUBBLICA	Gilbert Gross , un pubblicitario americano , riceveva regolarmente un accoglienza	del tutto negativa	sia presso le grandi agenzie sia presso i potenziali clienti quando spiegava la sua idea : comprare gli spazi pubblicitari all
+
+0	1	0	tutto negative
+						DET ADV NOUN	REPUBBLICA	% per il prossimo triennio , pari all incremento del tasso di inflazione , e una serie di proposte normative	del tutto negative	soprattutto per quanto riguarda l organizzazione del lavoro al desk , la gestione e il controllo delle sinergie , le nuove
+
+0	1	0	tutto nemici
+						DET ADV NOUN	REPUBBLICA	Kaddish  , per chi riconoscerà nella sua scomparsa la propria giovinezza morente , gli Dei non gli sono stati	del tutto nemici	, nel fermare un declino che non era ormai più soltanto fisico , ma creativo .
+
+0	1	0	tutto neofita
+						DET ADV NOUN	REPUBBLICA	Cristiana  forse no : ma è chiaro che la loro riprovazione nasce dal fatto che chi ha scritto è	del tutto neofita	della moda : non ne conosce l ironia , l esagerazione , la spettacolarità , il bisogno di stupire .
+
+0	1	0	tutto note
+						DET ADV NOUN	REPUBBLICA	antipolio o di antitubercolare ) ; la comprensione del ruolo degli  adiuvanti  , una serie di sostanze non	del tutto note	, ma indispensabili per avere vaccini efficaci .
+
+0	1	0	tutto notizie
+						DET ADV NOUN	REPUBBLICA	Purtroppo mancano	del tutto notizie	sul rimanente dieci per cento .
+
+0	2	0	tutto obiettivi
+						DET ADV NOUN	REPUBBLICA	dall Est , mi capitò di ascoltare sul suo conto , da polacchi forse troppo fieri di lui per essere	del tutto obiettivi	, storie mirabolanti , degne dei primordi della chiesa .
+						DET ADV NOUN	REPUBBLICA	solo 35 mila iscritti su 115 mila hanno detto la loro sulla svolta : su una proposta destinata a cambiare	del tutto obiettivi	, natura , nome e simbolo della maggiore forza della sinistra italiana .
+
+0	3	0	tutto obiettivo
+						DET ADV NOUN	REPUBBLICA	In un film come questo , delicatissimo e che forse non può essere	del tutto obiettivo	, malgrado gli autori assicurino di esser- si strettamente attenuti agli atti , è ovvio che conta la scelta degli attori
+						DET ADV NOUN	REPUBBLICA	Questo fatto ,	del tutto obiettivo	, può collegar- si al caso Gennari , al dissesto della Commissionaria Fidifin , alla uscita dal mercato di altre commissionarie
+						DET ADV NOUN	REPUBBLICA	ROMA Una polemica unilaterale un giudizio non	del tutto obiettivo	: così un comunicato del ministero della Giustizia definisce le critiche che il presidente dell Associazione nazionale magistrati Raffaele Bertoni ha
+
+0	1	0	tutto oeconomicus
+						DET ADV NOUN	REPUBBLICA	Anche il capitalista , in fin dei conti , è un homo non	del tutto oeconomicus	.
+
+0	1	0	tutto offesa
+						DET ADV ADJ NOUN	REPUBBLICA	altro  dobbiamo considerare l impatto con la fiducia del pubblico e il sistema giudiziario americano nonché l inevitabile e	del tutto giustificata offesa	che il pubblico riterrebbe di subire se dovesse risultare che questa terrorista , condannata ed ancora pericolosa , può manipolare le
+
+0	0	1	tutto oggetto
+						DET ADV NOUN	WIKICONLL	Il soggetto non è mai del tutto soggetto e l oggetto non è mai	del tutto oggetto	.
+
+0	2	0	tutto opera
+						DET ADV ADJ NOUN	REPUBBLICA	e collegamento con le rispettive capitali ; nuove anche le fotocopiatrici laser , capaci di mille copie alla volta ,	il tutto orgogliosa opera	della Olivetti , del costo di quattro miliardi .
+						DET ADV ADJ NOUN	REPUBBLICA	hanno deciso : si chiama  Punto  la nuova auto da  grandi numeri  , linea di carrozzeria	del tutto inedita opera	di Giorgetto Giugiaro in collaborazione con il centro stile Fiat , meccanica altrettanto nuova , 3 metri e 76 centimetri di
+
+0	1	1	tutto opinione
+						DET ADV NOUN	REPUBBLICA	, doppiando la voce di Butt - Head ( Beavis è doppiato da Luigi Rosa ) , Rossi ha cambiato	del tutto opinione	:  è un cartoon eccezionale , nuovo , divertentissimo  .
+						DET ADV NOUN	WIKICONLL	il quale tra pochi mesi manderà le truppe , sia perché dopo appena due anni di viceregno Amedeo ha mutato	del tutto opinione	sulla preparazione dell esercito e sulla reale solidità del regime e dei suoi uomini .
+
+0	31	0	tutto opposto
+						DET ADV NOUN	REPUBBLICA	Eppure , a guardar bene , le cose possono andare in modo	del tutto opposto	e il nuovo esecutivo essere , invece , all altezza della situazione , in grado di rispondere al fabbisogno di problemi
+						DET ADV NOUN	REPUBBLICA	Uguale il risultato delle vendite , ma	del tutto opposto	il modo per arrivar- ci .
+						DET ADV NOUN	REPUBBLICA	Anche perché nelle stesse ore la Corte dei Conti , con un ragionamento	del tutto opposto	, lanciava i suoi strali contro il ministero dei Trasporti , accusato di aver riassunto con troppa facilità dipendenti che avevano
+						DET ADV NOUN	REPUBBLICA	LA RIPETIZIONE da parte del governo di affermazioni di privatizzazione , mentre opera in un senso	del tutto opposto	, appare in realtà una rinuncia al compito di gestire con impegno e , ove occorra , di risanare le imprese
+						DET ADV NOUN	REPUBBLICA	Su uno schieramento	del tutto opposto	, ecco un altro dc come Antonio Sernia , legato alla sinistra di Ciriaco De Mita e deciso , invece ad
+						DET ADV NOUN	REPUBBLICA	Di umore	del tutto opposto	le severe critiche che , a De Felice , giungono da comunisti e repubblicani , convinti che il crinale fascismo-antifascismo sia
+						DET ADV NOUN	REPUBBLICA	ma dimenticando di parlare ad un assemblea composta , in larga misura , da persone che si regolavano in modo	del tutto opposto	, e che applaudivano calorosamente questi interventi proprio perché -- non a torto -- vi vedevano un alibi per seguitare ,
+						DET ADV NOUN	REPUBBLICA	Va , infatti , registrato che le prime reazioni politiche di maggioranza alla sentenza della Corte vanno in senso	del tutto opposto	: reclamando , cioè , il rifinanziamento degli enti per altre vie .
+						DET ADV NOUN	REPUBBLICA	Un intervento	del tutto opposto	alla linea assunta da organismi come la Caritas o giornali come Avvenire , il quotidiano dei vescovi italiani , che ancora
+						DET ADV NOUN	REPUBBLICA	Ma non basta : la Rai fornisce contemporaneamente anche un modello culturale	del tutto opposto	a quello di Raiuno e che ugualmente non piace alla Dc .
+						DET ADV NOUN	REPUBBLICA	gli esperti , né in Giappone né in Europa vengono attivate simili operazioni , che peraltro sarebbero state di segno	del tutto opposto	alle manovre sui tassi attivate in precedenza .
+						DET ADV NOUN	REPUBBLICA	Nicola Tranfaglia , di orientamento culturale	del tutto opposto	, condivide .
+						DET ADV NOUN	REPUBBLICA	nessuno abbia aderito , men che meno l Europa : mosse del genere , infatti , sarebbero state di segno	del tutto opposto	alle manovre al rialzo sui tassi attivate all inizio di ottobre .
+						DET ADV NOUN	REPUBBLICA	Bene , la Thatcher sta facendo , in senso	del tutto opposto	, quel che fece il primo governo del Labour : sta eliminando dallo Stato e dalla società tutto quel che vi
+						DET ADV NOUN	REPUBBLICA	Benedetto Croce è un personaggio certamente diverso ,	del tutto opposto	a Trockij .
+						DET ADV NOUN	REPUBBLICA	Di parere	del tutto opposto	il presidente di Rifondazione comunista Armando Cossutta , che chiede elezioni a febbraio e ha usato toni durissimi :  La
+						DET ADV NOUN	REPUBBLICA	Di segno	del tutto opposto	, la partita di Marchegiani , che negli ultimi 10  del tempo veniva battuto due volte , in maniera del
+						DET ADV NOUN	REPUBBLICA	Soltanto il 35 per cento della spesa per l informatica è diretta alle aziende italiane del settore , un atteggiamento	del tutto opposto	a quello dei governi degli Stati Uniti e del Giappone , che indirizzano le commesse pubbliche rispettivamente per il 100 per
+						DET ADV NOUN	REPUBBLICA	È il rischio ,	del tutto opposto	alla congestione , di svenire per debolezza ( rischiando anche in questo caso l annegamento ) , perché ci si è
+						DET ADV NOUN	REPUBBLICA	bene , ad esempio , nella piccola Lettonia , in Russia non funziona , e a volte il risultato è	del tutto opposto	a quello previsto .
+						DET ADV NOUN	REPUBBLICA	per noi  dice Katz ) , ma anche perché l atteggiamento degli autori del film e di Volontè è	del tutto opposto	a quello di quanti , giornalisti , saggisti , commentatori , in tempi anche recentissimi , attaccano violentemente lo statista ,
+						DET ADV NOUN	REPUBBLICA	La buona notizia , che capovolge le precedenti convinzioni di segno	del tutto opposto	, arriva con la conclusione di alcuni studi statunitensi .
+						DET ADV NOUN	REPUBBLICA	Di parere	del tutto opposto	, il prof. Aldo Carotenuto :  Gli elenchi -- dice -- sono una limitazione e ogni paziente deve seguire una
+						DET ADV NOUN	REPUBBLICA	Un rapporto	del tutto opposto	a quello oggi in uso , ma che , a ben pensar- ci , mi sembra assolutamente più reale .
+						DET ADV NOUN	REPUBBLICA	Proprio nelle stesse ore però si andava delineando uno schieramento	del tutto opposto	a quello di via del Corso .
+						DET ADV NOUN	REPUBBLICA	Di parere	del tutto opposto	inglesi ( 53 per cento ) , tedeschi ( 38 ) e spagnoli ( 33 ) che amano l alcol in
+						DET ADV NOUN	REPUBBLICA	modo automatico senza alcuna valutazione , con effetti distorsivi e con seri rischi che possono avere alcune conseguenze in senso	del tutto opposto	a quanto i sindacati hanno chiesto sulla base di indici convenzionali , discutibili e derivanti in parte da rilevazioni non affidabili
+						DET ADV NOUN	REPUBBLICA	A me non pare che le cose stiano così ; mi pare anzi che stiano in modo	del tutto opposto	e così mi sembra che pensi anche la grandissima maggioranza degli italiani .
+						DET ADV NOUN	REPUBBLICA	La magistratura esprime davvero uno dei grandi problemi costituzionali del nostro tempo , ma in modo	del tutto opposto	a quello che ormai detta legge nella Bicamerale .
+						DET ADV NOUN	REPUBBLICA	Usa non ha alcuna intenzione di allentare la stretta creditizia e che , anzi , i propositi sono di segno	del tutto opposto	tanto da determinare una caduta globale dei mercati obbligazionari mondiali .
+
+0	1	0	tutto orfana
+						DET ADV NOUN	REPUBBLICA	esordio di campionato , con lo scudetto a splendere sulle maglie , la formazione è figlia della rosa storica ,	del tutto orfana	dei suoi acquisti estivi : oltre al portiere Pagotto , non ci saranno Davids e Reiziger , non ci sarà Dugarry
+
+0	1	0	tutto ottimisti
+						DET ADV NOUN	REPUBBLICA	moderno e attrezzato centro di ricerca del mondo dei virus tropicali : gli esperti americani , infatti , non sono	del tutto ottimisti	sulle possibilità di contenere il terribile  Arià  brasiliano , il virus killer fuoriuscito dalla rottura di una provetta ,
+
+0	1	0	tutto padre
+						DET ADV ADJ NOUN	REPUBBLICA	Fa un mestiere	del tutto speciale padre	Ferdinando Castelli , gesuita , responsabile delle pagine culturali della rivista  Civiltà Cattolica  .
+
+0	1	0	tutto padrona
+						DET ADV NOUN	REPUBBLICA	È l istituzione Mafia , che è diventata	del tutto padrona	del campo e regola a proprio piacere l esistenza pubblica e privata di milioni di cittadini .
+
+0	4	0	tutto padrone
+						DET ADV NOUN	REPUBBLICA	Forse non	del tutto padrone	degli effetti melodrammatici , probabilmente non del tutto equilibrato nell assemblaggio di risate e tragedia , certamente il surrogato di accese
+						DET ADV NOUN	REPUBBLICA	Galtieri , faccia da vecchio pugile non	del tutto padrone	di se , rivolgeva a Strassera sguardi pesanti e inespressivi .
+						DET ADV NOUN	REPUBBLICA	Kolciak stretto nella sua pelliccia , l espressione altera ,	del tutto padrone	di sé , e il povero Pepeljaev , invece , tremante e supplicante .
+						DET ADV NOUN	REPUBBLICA	pare però non abbia sconvolto più di tanto il presentatore : abituato da tanti anni a comparire sul video ,	del tutto padrone	dei propri nervi , Mike Bongiorno ha mostrato sangue freddo .
+
+0	1	2	tutto parte
+						DET ADV NOUN	REPUBBLICA	Una scelta precisa degli organizzatori per sottolineare che Eltsin non fa ancora	del tutto parte	del  club  ?
+						DET ADV NOUN	WIKICONLL	 outsider  del panorama fumettistico nipponico , del quale egli stesso ha più volte dichiarato di non sentir- si	del tutto parte	integrante .
+						DET ADV NOUN	WIKICONLL	Non partecipò nemmeno alle feste per celebrare tale vittoria , non sentendo- si	del tutto parte	del gruppo che vinse l Europeo .
+
+0	0	1	tutto partecipi
+						DET ADV NOUN	WIKICONLL	degenera dall Angelo tanto che essa non riservi delle condizioni dubbie , né inclina tanto al corpo , che essa	al tutto partecipi	delle sorde materiali .
+
+0	0	1	tutto parti
+						DET ADV NOUN	WIKICONLL	Si sa che Čajkovskij aveva l abitudine e la passione di rivedere , ampliare , tagliare o disfare	del tutto parti	delle proprie composizioni rivedendo- le col passare degli anni non essendo mai del tutto soddisfatto delle prime stesure di un lavoro
+
+0	1	0	tutto particolare
+						DET ADV NOUN	REPUBBLICA	, sono tutti procedimenti che hanno una lunga tradizione poetica alle spalle , ma Mallarmé se ne serve in modo	del tutto particolare	, condensando- li e concentrando- li all estremo .
+
+0	2	0	tutto perché
+						DET ADV ADJ NOUN	REPUBBLICA	Potrebbe sortir- ne una combinazione di interessi	del tutto nuova perché	le nostre due industrie sono molto complesse , per di più sensibili alle influenze politiche .
+						DET ADV NOUN	REPUBBLICA	di aggiustamento che gli astronomi hanno congedato o richiamato in servizio a seconda delle necessità , senza mai accettar- lo	del tutto perché	complica le equazioni del campo .
+
+0	1	0	tutto perche
+						DET ADV ADJ NOUN	REPUBBLICA	Il bilancio finale non è stato	del tutto negativo perche	, anche se vi è un perdita dell 1,1 % , il prezzo di riferimento è rimasto sopra le 5.000 lire
+
+0	0	1	tutto personaggi
+						DET ADV NOUN	WIKICONLL	Durante il decennio successivo , fece quasi trenta film , impersonando quasi	del tutto personaggi	d azione .
+
+0	1	0	tutto personale
+						DET ADV NOUN	REPUBBLICA	impadronito del cubismo ( Picasso ) e del surrealismo ( Breton , Max Ernst ) , ma secondo un osmosi	del tutto personale	li ha mescolati ai ricordi dei rituali vudù vivi a Cuba e ad Haiti , a quelli delle vegetazioni tropicali e
+
+0	1	0	tutto persone
+						DET ADV NOUN	REPUBBLICA	8 della legge della stampa che la realtà dei fatti venga sottolineata e resa nota alla pubblica opinione , scagionando	del tutto persone	ed enti che non hanno alcuna responsabilità rispetto al fatto di cronaca al quale si fa riferimento .
+
+0	5	0	tutto pessimisti
+						DET ADV NOUN	REPUBBLICA	Gli addetti ai lavori , comunque , non sono	del tutto pessimisti	, le  cose più importanti  , dicono , dovrebbero essere a posto .
+						DET ADV NOUN	REPUBBLICA	Ma a Gardone non sono	del tutto pessimisti	:  Certo che se il Congresso taglia i fondi  , conclude Gusselli ,  il contratto non andrà avanti
+						DET ADV NOUN	REPUBBLICA	Possiamo non essere	del tutto pessimisti	è la convinzione del ministro perché , sia pure lentamente , nella coscienza dell opinione pubblica e dei governi , la
+						DET ADV NOUN	REPUBBLICA	Sembra interrotta una tendenza rialzista che durava dal 78 , ma è troppo presto per essere	del tutto pessimisti	.
+						DET ADV NOUN	REPUBBLICA	Sinatti invita a non essere	del tutto pessimisti	sulle risorse di questo grande paese :  Sarebbe ingiusto o frutto di malafede minimizzare  i risultati prodotti in appena
+
+0	1	0	tutto piane
+						DET ADV NOUN	REPUBBLICA	il tradizionale tuffo al sud ( punto più meridionale Melfi , 8 / a tappa ) compiuto lungo strade mai	del tutto piane	.
+
+0	1	0	tutto pittori
+						DET ADV ADJ NOUN	REPUBBLICA	Philip Guston ha tre opere , due delle quali assai belle e datate alla metà dei Cinquanta , mentre sono	del tutto assenti pittori	a lui vicini per peso e passo stilistico come Tomlin e Stamos .
+
+0	0	1	tutto platonici
+						DET ADV NOUN	WIKICONLL	Le promette , comunque che i loro rapporti saranno	del tutto platonici	finché non sarà lei stessa a chiedere il contrario .
+
+0	1	0	tutto pluralista
+						DET ADV NOUN	REPUBBLICA	ha consentito alla scuola pubblica italiana , pur con i suoi problemi , di essere democratica , socialmente aperta ,	del tutto pluralista	; e ha consentito alla cultura cattolica di essere positivamente presente nella scuola stessa con i suoi valori , a confronto
+
+0	1	0	tutto polemiche
+						DET ADV NOUN	REPUBBLICA	Eppure , nemmeno un dibattito rigorosamente depurato da ogni elemento polemico riesce a ovattare	del tutto polemiche	e contrapposizioni .
+
+0	1	0	tutto positive
+						DET ADV NOUN	REPUBBLICA	Non accenna a scendere la pressione in Borsa , anche se il calo dei volumi e le indicazioni non	del tutto positive	che giungono dall estero sollevano ormai qualche dubbio tra parecchi operatori e salgono anche gli inviti alla prudenza .
+
+0	1	0	tutto possibilità
+						DET ADV ADJ NOUN	REPUBBLICA	E ancora : non sono	del tutto evidenti possibilità	e convenienze per gli sponsor privati ( pur se l autorizzazione alle imprese per detrarre dal loro imponibile fiscale parte dei
+
+0	3	0	tutto prematura
+						DET ADV NOUN	REPUBBLICA	 altro che conclusa , e in ambienti giudiziari si precisa che ogni anticipazione sulla decisione che Passarini prenderà è	del tutto prematura	.
+						DET ADV NOUN	REPUBBLICA	Ambienti di Borsa fanno già circolare dati in proposito , ma ambienti vicini all azienda considerano	del tutto prematura	ogni valutazione .
+						DET ADV NOUN	REPUBBLICA	L agiografia è	del tutto prematura	: l incidente dello Haven è ben lontano da una soluzione , c è il rischio reale di un inquinamento esteso
+
+0	2	0	tutto premature
+						DET ADV NOUN	REPUBBLICA	 Oggi siamo sconfitti , ma le previsioni sulla morte del comunismo , e di questo Congresso , mi sembrano	del tutto premature	 .
+						DET ADV NOUN	REPUBBLICA	Le stesse fonti hanno giudicato	del tutto premature	le voci secondo cui l Organizzazione per la liberazione della Palestina si appresterebbe a trasferire da Tunisi a Damasco la sua
+
+0	1	0	tutto preoccupazione
+						DET ADV NOUN	REPUBBLICA	Ma non nascondeva	del tutto preoccupazione	ed inquietudine .
+
+0	1	0	tutto prima
+						DET ADV ADJ NOUN	REPUBBLICA	Una regia inedita Questa regìa	del tutto inedita prima	di un Plenum preannuncia la piattaforma congressuale gorbacioviana come una risposta alle inquietudini popolari .
+
+0	1	0	tutto primavera
+						DET ADV NOUN	REPUBBLICA	avrà i connotati che caratterizzano solitamente la stagione che cambia : non sarà più inverno , ma non è ancora	del tutto primavera	; sarà un po l uno e un po l altra , con i lati positivi e quelli negativi di entrambe
+
+0	0	1	tutto problemi
+						DET ADV NOUN	WIKICONLL	il 1962 furono compiuti grandi sforzi e il quartiere cominciò a popolar- si in modo rapido ; eppure non mancarono	del tutto problemi	riscontrati dai neo abitanti ; all origine delle lamentele il lungo e tardo completamento delle strutture essenziali , spesse volte rimaste
+
+0	1	0	tutto procedura
+						DET ADV ADJ NOUN	REPUBBLICA	E il cedimento , con la complessa e non	del tutto limpida procedura	di licenze , rilasciate , rinnovate , modificate e collaudi avviati in forte ritardo , è la pista che privilegiano gli
+
+0	1	0	tutto professionisti
+						DET ADV NOUN	REPUBBLICA	Mandare allo sbaraglio dei cantanti dotati ma non	del tutto professionisti	con i tempi di prova dei professionisti è scommessa autolesionistica .
+
+0	1	0	tutto proibizionista
+						DET ADV NOUN	REPUBBLICA	le parrucche nere di Gullit e la lattina di birra in mano , misteriosamente scovata in una Milano evidentemente non	del tutto proibizionista	, molte coppie argentine di mezza età , con bandiere e mutande a righe azzurre e bianche , piccole squadre di
+
+0	1	0	tutto proposta
+						DET ADV ADJ NOUN	REPUBBLICA	Una scelta elettorale	del tutto inedita proposta	con  un ragionamento politico che si rivolge ad un elettorato maturo  , visto che  non c è il
+
+0	0	1	tutto proposte
+						DET ADV NOUN	WIKICONLL	Ci sono state molte teorie	del tutto proposte	dai fisici teorici nell ultimo secolo , ma nessuna è stata confermata sperimentalmente .
+
+0	1	0	tutto protagonista
+						DET ADV ADJ NOUN	REPUBBLICA	il reduce John Goodman , i balletti alla Busby Berkeley -- sono da antologia , molto più che il mai	del tutto convincente protagonista	, Jeff Bridges .
+
+0	1	0	tutto provincia
+						DET ADV NOUN	REPUBBLICA	Mancanza di informazione che può avere , quando se ne presenta l occasione , una conseguenza	del tutto provincia	e dall estero , che si è verificato giovedì scorso rientra -- secondo Piga -- proprio in questa logica di mancanza
+
+0	4	0	tutto quando
+						DET ADV NOUN	REPUBBLICA	Ma l abbiamo visto pacificar- si sempre più , quello spirito , per poi dileguar- si	del tutto quando	il Rettore Berlinguer ha posto una precisa domanda a ciascuno dei partecipanti : oggi che si parla di innalzamento dell obbligo
+						DET ADV NOUN	REPUBBLICA	facile consolar- si vedendo in questo dato un primo movimento verso la mobilità del lavoro , ma la consolazione sparisce	del tutto quando	si vede che il progredire dell occupazione temporanea non ha fatto aumentare neppure di un unità l occupazione totale ; semplicemente
+						DET ADV NOUN	REPUBBLICA	la paura di ritorsioni si è allentata e l incertezza se presentar- si o no davanti ai giudici è scomparsa	del tutto quando	un altro giovane , Emil , un amico che stava accanto a lui quella sera del 3 settembre 95 a Cartagena
+						DET ADV NOUN	REPUBBLICA	rafforzare la Comunità restituendo- le una capacità di decisione che già oggi è molto scarsa e che rischia di sparire	del tutto quando	, tra nove mesi , il  club dei Dieci  sarà passato a dodici .
+
+0	1	0	tutto questione
+						DET ADV ADJ NOUN	REPUBBLICA	Il secondo ha invece a che fare con l antica e non	del tutto risolta questione	delle aziende pubbliche che tendono a sopravvivere a se stesse anche quando la loro utilità è venuta meno .
+
+0	12	0	tutto ragione
+						DET ADV NOUN	REPUBBLICA	*** Su una cosa i Gialappa s hanno	del tutto ragione	: il programma nella versione da un ora è letteralmente massacrato -- nel ritmo , soprattutto -- dalla pubblicità .
+						DET ADV NOUN	REPUBBLICA	 Violante ha , da un punto di vista generale ,	del tutto ragione	.
+						DET ADV NOUN	REPUBBLICA	Credo che Ruffolo abbia	del tutto ragione	quando scrive che ormai è impossibile distinguere  destra  e  sinistra  richiamando- si alla consueta polarità conservazione-cambiamento .
+						DET ADV NOUN	REPUBBLICA	Il cancelliere Kohl ha	del tutto ragione	quando dice che dobbiamo appoggiare la sua richiesta di mantenere la Germania dentro alla Nato .
+						DET ADV NOUN	REPUBBLICA	Il fatto è che anche se Czyrek avesse	del tutto ragione	, resta che almeno un elettore polacco su quattro ha voluto dimostrare -- voltando le spalle a queste elezioni parlamentari --
+						DET ADV NOUN	REPUBBLICA	Ma che Martinazzoli non avesse	del tutto ragione	lo dimostra sufficientemente mi pare il leale e coraggioso riconoscimento da parte del ministro della Giustizia attuale , Giuliano Vassalli ,
+						DET ADV NOUN	REPUBBLICA	Non penso che Burckhardt avesse	del tutto ragione	.
+						DET ADV NOUN	REPUBBLICA	Non potrà dare	del tutto ragione	a Formica ma non potrà neppure sconfessar- lo .
+						DET ADV NOUN	REPUBBLICA	Non si tratta qui di stabilire chi avesse	del tutto ragione	e chi del tutto torto .
+						DET ADV NOUN	REPUBBLICA	Toraldo di Francia ha	del tutto ragione	quando sostiene che le differenze più salienti tra i gruppi umani non sono date dal rispettivo patrimonio genetico ma da quello
+						DET ADV NOUN	REPUBBLICA	dire che chi ha firmato l accordo del 14 febbraio , che dalle buste paga li toglieva , non aveva	del tutto ragione	.
+						DET ADV NOUN	REPUBBLICA	negoziati è bene espresso dal commento di un noto giornalista israeliano secondo il quale in questa vicenda  nessuno ha	del tutto ragione	, molti hanno completamente torto , e intanto la situazione peggiora  .
+
+0	1	0	tutto rappresentanti
+						DET ADV NOUN	REPUBBLICA	essa si trovano i nomi di alcuni membri del consiglio nazionale palestinese , alcuni nomi sono sconosciuti , mentre mancano	del tutto rappresentanti	della Cisgiordania e di Gaza .
+
+0	1	0	tutto re
+						DET ADV NOUN	REPUBBLICA	nuove banconote ( su una faccia un simbolo europeo e sull altra un simbolo nazionale , così che non scompaiano	del tutto re	e regine , Michelangelo e Victor Hugo ) .
+
+0	1	0	tutto recupero
+						DET ADV ADJ NOUN	REPUBBLICA	ora il ministro si è convinto : un giro di vite è necessario , non può bastare il solo ,	del tutto ipotetico recupero	dell evasione fiscale .
+
+0	1	0	tutto registro
+						DET ADV NOUN	REPUBBLICA	Si cambia	del tutto registro	con Mémoire à deux voix ( Editions Odile Jacob ) , una serie di conversazioni pacate fra il presidente e il
+
+0	1	0	tutto relativa
+						DET ADV ADJ NOUN	REPUBBLICA	L articolo 5 contiene una disposizione	del tutto nuova relativa	al controllo delle sostanze che servono per la raffinazione degli stupefacenti mentre l articolo successivo estende ai narco-trafficanti le disposizioni della
+
+0	1	0	tutto relative
+						DET ADV ADJ NOUN	REPUBBLICA	In tempi recenti ha detto Accame ho cercato anche di difendere la Libia dalle accuse	del tutto infondate relative	alla vicenda di Ustica da parte di chi individuava nel Mig libico caduto in Calabria il 18 luglio 1980 il responsabile
+
+0	1	0	tutto responsabilità
+						DET ADV ADJ NOUN	REPUBBLICA	Mi vengono addossate in modo	del tutto arbitrario responsabilità	di tanti e diversi fatti specifici che , per la maggior parte almeno io non conoscevo , fatta salva una responsabilità
+
+0	1	0	tutto retta
+						DET ADV NOUN	REPUBBLICA	Le peregrinazioni cominciano subito , secondo una linea Nord-Sud non	del tutto retta	.
+
+0	1	0	tutto ribassista
+						DET ADV NOUN	REPUBBLICA	Lambert , uno che di solito non sbaglia ( nel 1987 previde il rialzo del dollaro nonostante la tendenza fosse	del tutto ribassista	) .
+
+0	1	0	tutto ricorso
+						DET ADV ADJ NOUN	REPUBBLICA	È NOTO che il sistema legislativo italiano è caratterizzato da un eccessivo e	del tutto sproporzionato ricorso	alla sanzione penale , ma senza tema di smentita si può dire che almeno il 50 % dei fatti qualificati dalla
+
+0	1	0	tutto ridicolo
+						DET ADV NOUN	REPUBBLICA	di lui ,  è esigente anche con le donne , come minimo le vuole duchesse  ) , riteneva	del tutto ridicolo	e inelegante lavorare .
+
+0	0	1	tutto riferimento
+						DET ADV ADJ NOUN	WIKICONLL	 , cioè  Organizzazione Suprema  ) , e nel linguaggio imposto dai Khmer Rossi per lungo tempo sostituì	del tutto qualunque riferimento	esplicito al Partito o ai suoi leader , i quali non venivano mai nominati direttamente , ma generalmente indicati come
+
+0	2	2	tutto riguardo
+						DET ADV ADJ NOUN	REPUBBLICA	, Tennessee , hanno lasciato un versetto di San Marco inciso su lapide e una lattina di Coca Cola :	del tutto ignari riguardo	al destino dei loro confratelli , milleduecento cavalieri e quindicimila fanti , caduti all alba del 4 luglio 1187 nella gola
+						DET ADV ADJ NOUN	REPUBBLICA	Il decreto , sostengono , è	del tutto generico riguardo	alla collocazione del patrimonio industriale del gruppo : si assegna al commissario la formulazione di un programma di trasferimenti o di
+						DET ADV ADJ NOUN	WIKICONLL	L opera risulta , inevitabilmente ,	del tutto inattendibile riguardo	alle epoche antiche , ma estremamente preziosa quando fa riferimento ai fatti coevi allo stesso Villani , fatti ricavati , a
+						DET ADV ADJ NOUN	WIKICONLL	Le opinioni tra i ricercatori non sono	del tutto univoche riguardo	a queste strutture .
+
+0	4	0	tutto ripresa
+						DET ADV NOUN	REPUBBLICA	La bambina non si è ancora	del tutto ripresa	dallo choc provato durante il rapimento , c è l azienda da portare avanti .
+						DET ADV NOUN	REPUBBLICA	La madre , diciassette anni , non si è ancora	del tutto ripresa	dallo choc .
+						DET ADV NOUN	REPUBBLICA	meno ansiti di Forget sarebbe uscita dal torneo Mary Jo Fernandez , dominata da una Graf che si è quasi	del tutto ripresa	.
+						DET ADV NOUN	REPUBBLICA	sicuramente la meta che accuserà di più il colpo sarà Il Cairo , una destinazione che non si era mai	del tutto ripresa	dopo il calo degli anni scorsi .
+
+0	1	2	tutto riscontri
+						DET ADV NOUN	REPUBBLICA	Posso quindi dire di non potere dare una collocazione se non di immagine nella memoria a questo incontro , mancandomi	del tutto riscontri	oggettivi  .
+						DET ADV NOUN	WIKICONLL	Allo stato attuale delle cose mancano però	del tutto riscontri	archelogici che possano confermare queste ipotesi .
+						DET ADV NOUN	WIKICONLL	apprendistato si sia dedicato alla modellazione col gesso , come avveniva di consueto nella bottega di Squarcione , ma mancano	del tutto riscontri	certi di una sua attività con lo scalpello .
+
+0	146	22	tutto rispetto
+						DET ADV ADJ NOUN	REPUBBLICA	-- nel 72 inizia sulla neonata Amica la fortunata rubrica di corrispondenza Da donna a donna , condotta con criteri	del tutto nuovi rispetto	ai cliché dell epoca ( la Signora Quickly imperava su Grazia con lezioni di obbedienza alla mamma e di etichetta ,
+						DET ADV ADJ NOUN	REPUBBLICA	le strade di questa vecchia terra spesso si trasformano in sentieri minati , dove le velocità folli dei mezzi ,	del tutto eccentriche rispetto	alle possibilità consentite , e le smanie di piloti che nulla trattiene dall ebbrezza di un sorpasso , appaiono come simboli
+						DET ADV ADJ NOUN	REPUBBLICA	si penserà infatti di continuare ad affrontare il problema dell occupazione con riduzioni a dosi omeopatiche della durata lavorativa ,	del tutto inadeguate rispetto	all entità del problema e alla sua ben nota concentrazione nel Mezzogiorno .
+						DET ADV ADJ NOUN	REPUBBLICA	Ciò che rende il sistema italiano	del tutto anomalo rispetto	al resto dell Europa e anzi di tutto il mondo industriale , è infatti il proliferare dei canali nazionali , con
+						DET ADV ADJ NOUN	REPUBBLICA	Il dibattito istituzionale sulla formazione del governo specifica è	del tutto prioritario rispetto	a qualsiasi altra esigenza , per questo non riterrò ammissibili altre eventuali eccezioni sull ordine dei lavori .
+						DET ADV ADJ NOUN	REPUBBLICA	, perché la Trenno è quotata in piazza degli Affari e il titolo sta andando su con performances straordinarie ,	del tutto sproporzionate rispetto	all andamento timido ed incerto della Borsa in questi mesi .
+						DET ADV ADJ NOUN	REPUBBLICA	ricerca di nuovi punti d equilibrio : ma questo è impossibile se non si riconosce di dover accettare un terreno	del tutto nuovo rispetto	al passato .
+						DET ADV ADJ NOUN	REPUBBLICA	è una realtà	del tutto capovolta rispetto	all estate del 1997 , quando la popolarità di Diana , appena defunta , offuscava quella della  royal family
+						DET ADV NOUN	REPUBBLICA	Perciò non si esclude che questa volta , innovando	del tutto rispetto	alla tradizione , essa possa concluder- si con un comunicato ufficiale .
+						DET ADV ADJ NOUN	REPUBBLICA	 valori orientali  e lo lasciò avendo compiuto il passo decisivo che ha dato ai comunisti italiani una autonomia	del tutto nuova rispetto	all Unione Sovietica e una potenzialità di rapporti senza precedenti con i partiti socialisti e socialdemocratici europei occidentali .
+						DET ADV ADJ NOUN	REPUBBLICA	si nota una enorme difficoltà nell avvio operativo e nella gestione di queste nuove realtà in un contesto che risulta	del tutto disomogeneo rispetto	ad una logica di impresa e di mercato .
+						DET ADV ADJ NOUN	REPUBBLICA	Forse questo è un segno che i problemi da lui discussi , nonostante le apparenze , non restano	del tutto estranei rispetto	alla nostra cultura filosofica .
+						DET ADV ADJ NOUN	REPUBBLICA	Il tutto a costi	del tutto ridotti rispetto	a quanto si paga oggi nel luogo di mercato .
+						DET ADV ADJ NOUN	REPUBBLICA	Risulta peraltro intuitivo che Fondi pensione che investano prevalentemente in titoli di Stato nazionali offrono agli assicurati garanzie	del tutto simili rispetto	ai sistemi pensionistici a ripartizione : in entrambi i casi la possibilità di mantenere le promesse fatte dipende dalla capacità e
+						DET ADV ADJ NOUN	REPUBBLICA	Convivono così curiosamente due atteggiamenti	del tutto opposti rispetto	alla maternità : il rifiuto anche del secondo figlio nelle famiglie in grado di procreare , il desiderio esasperato di un
+						DET ADV ADJ NOUN	REPUBBLICA	La terza ragione di un mancato sommovimento è che oggi la nostra Borsa si muove con stimoli e interessi	del tutto diversi rispetto	a quelli tradizionali .
+						DET ADV ADJ NOUN	REPUBBLICA	Dice il pignolo : le coppe costituiscono un fenomeno	del tutto anomalo rispetto	al campionato : puoi andar male la domenica ( in certi paesi il sabato ) e compiere squisitezze il mercoledì sera
+						DET ADV ADJ NOUN	REPUBBLICA	De Michelis sostengono che la nuova funzione della Nato è quella di costituire il nerbo della sicurezza europea , ipotesi	del tutto contraddittoria rispetto	a quella di Helsinki .
+						DET ADV ADJ NOUN	REPUBBLICA	Insomma , una scelta	del tutto diversa rispetto	a quella adottata di recente per la Sme  .
+						DET ADV ADJ NOUN	REPUBBLICA	ragazza di 21 anni , bella , alta , mora e figlia di un falegname romano -- divennero in breve	del tutto secondarie rispetto	al contesto ambientale dove l omicidio -- secondo una ricostruzione che poi sarebbe crollata nel processo -- era stato ordito :
+						DET ADV ADJ NOUN	REPUBBLICA	feriva la figura e l essenza del Governo , considerato dalla nostra Costituzione un organo vivente di vita propria ,	del tutto autonoma rispetto	ai partiti .
+						DET ADV ADJ NOUN	REPUBBLICA	In ripresa anche Montedison e Olivetti per cui alla fine si è presentato una Borsa	del tutto inedita rispetto	a quanto accadeva nelle settimane scorse e cioè che tutto il listino del suo variegato schieramento di titoli è stato preso
+						DET ADV ADJ NOUN	REPUBBLICA	ROMA --  Credo che la legge sui pentiti sia una buona legge e che vada rivista sotto alcuni aspetti	del tutto secondari rispetto	alla sua stesura  .
+						DET ADV ADJ NOUN	REPUBBLICA	Chiede di sapere se il governo non ritenga che le misure di polizia e i provvedimenti finora adottati siano stati	del tutto inadeguati rispetto	alla prevedibile virulenza dell esplosione delinquenziale .
+						DET ADV ADJ NOUN	REPUBBLICA	Stati Uniti sono state interpretate dalle agenzie di stampa come una sorta di semi-assoluzione da parte dei marines , cosa	del tutto diversa rispetto	alla sostanza e alle conclusioni del rapporto americano .
+						DET ADV ADJ NOUN	WIKICONLL	abitativi , insieme al centro urbano con i servizi amministrativi e lo chiesa madre , costituiscono una realtà urbana polinucleare	del tutto nuova rispetto	alla centralità tipica di molti altri piccoli comuni della Sicilia .
+						DET ADV ADJ NOUN	WIKICONLL	La formula del torneo rimase quasi	del tutto invariata rispetto	a quella del precedente torneo , l unica differenza fu l ammissione di 2 squadre ( 1 per ogni gruppo )
+						DET ADV ADJ NOUN	WIKICONLL	Questo rende Hamās	del tutto diversa rispetto	ai movimenti cosiddetti integralistici musulmani che propugnano la lotta in tutto il mondo islamico : Hamās limita rigidamente infatti , per
+
+0	0	1	tutto risposte
+						DET ADV ADJ NOUN	WIKICONLL	Sono infatti in grado di imparare ciò che gli viene insegnato e addirittura di elaborare in maniera	del tutto autonoma risposte	efficaci per i problemi che vengono loro presentati .
+
+0	1	0	tutto sanzioni
+						DET ADV ADJ NOUN	REPUBBLICA	ALGHERO Ciriaco De Mita non è certo che siano	del tutto inutili sanzioni	contro la Cina di Deng e Qiao Shi : un isolamento economico concertato fra i dodici paesi europei potrebbe contribuire a
+
+0	28	49	tutto scomparsa
+						DET ADV NOUN	REPUBBLICA	Non dice nulla il fatto , del resto comprensibile , che ogni critica rivolta nel passato a Israele sia	del tutto scomparsa	e che nessuno si ponga la domanda se per caso il rifiuto di cedere i territori occupati nel 1967 sia anch
+						DET ADV NOUN	REPUBBLICA	TRA le cose che rimangono oggi della musica del Sessantotto , c è un attitudine mai	del tutto scomparsa	a mischiar- si con la realtà , a calar- si nella vita con tutti i suoi conflitti e le sue passioni
+						DET ADV NOUN	REPUBBLICA	dopo aver scoperto i resti di una civiltà sepolta , si accorgeranno che sul pianeta rosso la vita non è	del tutto scomparsa	.
+						DET ADV NOUN	REPUBBLICA	Ma la paura per la brutta esperienza dell anno scorso non era	del tutto scomparsa	, almeno all inizio : poi è stata annegata nella folla della Key Arena , negli applausi , nelle urla .
+						DET ADV NOUN	REPUBBLICA	calda chioccia , che per molti adulti di oggi fu nella realtà un incubo , una tiranna , è quasi	del tutto scomparsa	almeno da vent anni , da quando , nel 1971 , la legge consentì il cosiddetto tempo pieno : bambini a
+						DET ADV NOUN	REPUBBLICA	Il giornale è profondamente cambiato in questi giorni ( è	del tutto scomparsa	ogni tentazione alla propaganda ) e gode persino di una sua improvvisa popolarità che lo rende introvabile nelle edicole .
+						DET ADV NOUN	REPUBBLICA	Non credo che la forte vocazione totalitaria , registrata e realizzata tra le due guerre in Europa , sia	del tutto scomparsa	.
+						DET ADV NOUN	REPUBBLICA	che l eredità di certi scrittori , che hanno per lui la stessa importanza simbolica di un continente , sia	del tutto scomparsa	, come se fosse appartenuta a un altro paese .
+						DET ADV NOUN	REPUBBLICA	altri luoghi italiani , sono abbandonati , facile preda agli incendi , perché purtroppo la bella flora mediterranea è quasi	del tutto scomparsa	, divorata dai rovi , che a ogni incendio crescono sempre più rigogliosi e pericolosi , visti i rari interventi di
+						DET ADV NOUN	REPUBBLICA	L amarezza per certi attacchi non è	del tutto scomparsa	.
+						DET ADV NOUN	WIKICONLL	La grande area verde del palazzo intendeva rifar- si ai giardini pensili di Babilonia , ma essa è oggi quasi	del tutto scomparsa	.
+						DET ADV NOUN	WIKICONLL	Fino al 1940 era presente la popolazione italiana autoctona ora	del tutto scomparsa	.
+						DET ADV NOUN	WIKICONLL	Se in passato però era di consuetudine intraprendere la  via marinara  , oggi è quasi	del tutto scomparsa	, come iniziativa personale .
+						DET ADV NOUN	WIKICONLL	Il 90 per cento della superficie di questo Paese è coltivato e la grande fauna è quasi	del tutto scomparsa	.
+						DET ADV NOUN	WIKICONLL	limite ovest della Riserva , anche da frammenti di sughereta , testimonianza di quella formazione forestale a sughera oramai quasi	del tutto scomparsa	nel resto della Sicilia Occidentale .
+						DET ADV NOUN	WIKICONLL	La copertura con le stoppie è quasi	del tutto scomparsa	, mentre ad est si sono diffusi i tetti a tegole e coppi  alla romana  .
+						DET ADV NOUN	WIKICONLL	Oggi , tuttavia , la pesca è quasi	del tutto scomparsa	, mentre è limitata a qualche artigiano la lavorazione del corallo .
+						DET ADV NOUN	WIKICONLL	completare tutta la tratta ad alta capacità Messina-Patti ( intervento propedeutico al Corridoio 1 Berlino-Palermo diretto ) . Mentre è	del tutto scomparsa	la vasta rete ferroviaria statale a scartamento ridotto , che collegava numerosi centri intra-regionali tra loro e con la rete FS
+						DET ADV NOUN	WIKICONLL	ordinamento giuridico , la sua permanente vigenza può costituire un segno della modernità di questa originale codificazione penale italiana quasi	del tutto scomparsa	dietro l ultima legislazione di epoca fascista .
+						DET ADV NOUN	WIKICONLL	l ascesa e la caduta di Karona ... ) , Dominaria è ridotta in macerie , la vegetazione è quasi	del tutto scomparsa	, corrosa dalle piogge acide , e le lande desolate sferzate da tempeste di sabbia e venti salati sono costellate di
+						DET ADV NOUN	WIKICONLL	Anticamente vi era una massiccia presenza del lupo , oggi specie animale quasi	del tutto scomparsa	.
+						DET ADV NOUN	WIKICONLL	La Porta Aurea , oggi	del tutto scomparsa	, era probabilmente ornata e doveva collocar- si a fianco della chiesa di San Salvatore in Port Ori ( al cui
+						DET ADV NOUN	WIKICONLL	Ha portato avanti , con successo , il tentativo di recuperare e reintrodurre una felce quasi	del tutto scomparsa	, la  Osmunda regalis  , una volta presente nella Valcalepio e lungo le sponde del fiume Adda Il sito
+						DET ADV NOUN	WIKICONLL	Xiphonia fu una misteriosa città greca , oggi	del tutto scomparsa	nel territorio oggi compreso fra Aci Catena , Acireale ed Aci Castello .
+						DET ADV NOUN	WIKICONLL	, Pedace-Camigliatello e le  Taurensi  , Gioia Tauro-Cinquefrondi e Gioia Tauro-Palmi delle Ferrovie della Calabria , mentre è	del tutto scomparsa	la vasta rete Fs della Sicilia , la cui ultima linea è stata chiusa definitivamente nel 1985 ; la Ferrovia Circumetnea
+						DET ADV NOUN	WIKICONLL	La cattura a fini alimentari umani pare	del tutto scomparsa	in Italia .
+						DET ADV NOUN	WIKICONLL	stalle adiacenti alle case , dell economia agricola diffusa ed il contributo non irrilevante dell avvento della televisione , è	del tutto scomparsa	.
+						DET ADV NOUN	WIKICONLL	, alveolari e retroflesse , tuttavia una distinzione di questo genere non è mai esistita in coreano ed era quasi	del tutto scomparsa	dal cinese parlato nelle regioni settentrionali .
+
+0	1	1	tutto scomparse
+						DET ADV NOUN	REPUBBLICA	per la sua foresta , dove può capitare di imbatter- si in una fauna ricchissima di specie anche ormai quasi	del tutto scomparse	da buona parte dell Europa ( negli ultimi anni sono stati avvista- ti e fotografati alcuni orsi e una lince )
+						DET ADV NOUN	WIKICONLL	Le mura di Dur-Sharrukin , oggi quasi	del tutto scomparse	, racchiudevano un area di 300 ettari , di cui 10 occupati dal palazzo reale .
+
+0	1	0	tutto scomparso
+						DET ADV NOUN	REPUBBLICA	Altro privilegio del giovane Melville oggi	del tutto scomparso	: sentir- si in un contorno epico .
+
+0	1	0	tutto sconfitti
+						DET ADV NOUN	REPUBBLICA	Nemici forti , che sono ovunque , che non saranno mai	del tutto sconfitti	, ma che si possono e si devono combattere .
+
+0	1	0	tutto sconosciuti
+						DET ADV NOUN	REPUBBLICA	limitare i propri poteri di sorveglianza ai mercati ufficiali ( Borsa e Ristretto ) rifiutando di avventurar- si in terreni	del tutto sconosciuti	.
+
+0	1	1	tutto scoperte
+						DET ADV NOUN	REPUBBLICA	E probabilmente anche qui qualcuno non gioca a carte	del tutto scoperte	: tentazione di un nuovo governo Dini , più  politico  , cioè a più lunga durata , semplice sostituzione
+						DET ADV NOUN	WIKICONLL	Resta piatto , rigido a giro vita , quasi parallelo alla linea del pavimento e lascia le gambe	del tutto scoperte	.
+
+0	1	0	tutto scultore
+						DET ADV NOUN	REPUBBLICA	Ma ancora oggi non mi definisco	del tutto scultore	 .
+
+0	1	0	tutto se
+						DET ADV ADJ NOUN	REPUBBLICA	Bangor ( Maine ) -- Vi sentireste	del tutto tranquilli se	foste invitati a un incontro con Stephen King ?
+
+0	1	0	tutto secche
+						DET ADV NOUN	REPUBBLICA	Le parti molli ( oggi naturalmente	del tutto secche	) hanno perciò conservato il loro colore naturale .
+
+0	1	0	tutto secondario
+						DET ADV NOUN	REPUBBLICA	Pietro Folena :  Trovo interessante , ma	del tutto secondario	l evolver- si quotidiano della telenovela su Di Pietro ministro , Di Pietro politico , Di Pietro di qua , Di
+
+0	1	0	tutto segni
+						DET ADV NOUN	REPUBBLICA	E la cosa che insospettisce e che manchino	del tutto segni	provocati dalla vettura lungo la scarpata .
+
+0	1	0	tutto selvaggia
+						DET ADV NOUN	REPUBBLICA	L assurdo si rovescia in normalità e viceversa , mentre sequenze di atti mancati e una logica	del tutto selvaggia	contribuiscono alla parodia delle forme narrative .
+
+0	1	0	tutto selvaggio
+						DET ADV NOUN	REPUBBLICA	ambiente sentito e immaginato : L abitazione ideale per una donna che viva sola dovrebbe esser posta in un luogo	del tutto selvaggio	con un muro incompleto , e se ci fosse un laghetto dovrebbe essere lussureggiante di alghe , il giardino non invaso
+
+0	1	0	tutto separate
+						DET ADV NOUN	REPUBBLICA	Ma le due cose non sono	del tutto separate	, nel senso che i provvedimenti dell esecutivo sono legati all intesa tra sindacati e imprenditori .
+
+0	2	0	tutto sfuggita
+						DET ADV NOUN	REPUBBLICA	1839 : L orchestra aveva veramente imparato a riconoscere in ciascuna battuta la melodia beethoveniana , che era allora chiaramente	del tutto sfuggita	ai nostri bravi musicisti di Lipsia ; e l orchestra questa melodia la cantava .
+						DET ADV NOUN	REPUBBLICA	Fin qui la cronaca dei fatti la cui logica , come si diceva , è	del tutto sfuggita	agli stessi costruttori i quali dopo aver spinto in tutte le direzioni per uscire dagli anni neri della grande crisi ,
+
+0	1	1	tutto sgombero
+						DET ADV NOUN	REPUBBLICA	Il cielo non sarà	del tutto sgombero	di nubi ; tuttavia , lungo le coste , il tempo rimarrà a tratti soleggiato .
+						DET ADV NOUN	WIKICONLL	occasioni , il cortile della moschea ottomana è anche ombreggiato con appositi tendaggi che sono collegati alle colonne , lasciando	del tutto sgombero	il sottostante pavimento .
+
+0	0	1	tutto sicure
+						DET ADV NOUN	WIKICONLL	centro dei territori a lui fedeli parecchie volte , ma già a partire dal 1580 le città all interno erano	del tutto sicure	: Guglielmo I , così grave ostacolo alle armate spagnole , fu assassinato nel 1584 da un sicario di Filippo II
+
+0	3	0	tutto sindrome
+						DET ADV ADJ NOUN	REPUBBLICA	Con il risultato di peggiorare anziché alleviare una situazione in sé già assai difficile per quella vaga e non	del tutto infondata sindrome	da invasione , su cui rischia di avere buon gioco la rozza ed elementare propaganda dei partiti di destra .
+						DET ADV ADJ NOUN	REPUBBLICA	finora , anziché alleviare ha peggiorato la sua già difficile condizione interna accentuando in ogni paese quella vaga e non	del tutto infondata sindrome	da invasione su cui fa leva la rozza propaganda xenofoba dei partiti anti-immigrati .
+						DET ADV ADJ NOUN	REPUBBLICA	i fatti , anziché alleviare finisce per peggiorare la situazione accentuando all interno dei singoli paesi quella vaga e non	del tutto infondata sindrome	da invasione su cui ha buon gioco la rozza propaganda della destra politica .
+
+0	0	1	tutto sinonimi
+						DET ADV NOUN	WIKICONLL	Sebbene i termini  audio stereofonico  e  audio multicanale  siano	del tutto sinonimi	è diffuso un uso diversificato dei due termini .
+
+0	1	0	tutto sistema
+						DET ADV NOUN	REPUBBLICA	dalle rivolte etniche e nazionalistiche nelle province del paese , sembra deciso ad andare oltre il comunismo riformato , cambiando	del tutto sistema	, a cominciare dall economia .
+
+0	1	0	tutto situazioni
+						DET ADV ADJ NOUN	REPUBBLICA	Al contrario , sotto la voce del passivo , sono rimaste	del tutto inalterate situazioni	gravi che molto hanno a che vedere con la sicurezza , ma più impegnative da dipanare , come la legge sul
+
+0	0	1	tutto smentita
+						DET ADV NOUN	WIKICONLL	Il ritorno di Aiazzi alle tastiere diveniva un ipotesi sempre più accreditata , ipotesi poi	del tutto smentita	con la presentazione della nuova formazione .
+
+0	0	1	tutto soggetti
+						DET ADV NOUN	WIKICONLL	Si diffusero sul territorio molte piccole strutture per raccogliere ed imprigionare i dissidenti ,	del tutto soggetti	alla volontà dei politici nazisti locali .
+
+0	0	1	tutto soggetto
+						DET ADV NOUN	WIKICONLL	Il soggetto non è mai	del tutto soggetto	e l oggetto non è mai del tutto oggetto .
+
+0	1	0	tutto sol
+						DET ADV ADJ NOUN	REPUBBLICA	In Germania il meno 4,7 per cento non è	del tutto negativo sol	che si pensi all anomala crescita di un anno fa quando era ancora forte la spinta della ex Ddr .
+
+0	1	0	tutto sola
+						DET ADV NOUN	REPUBBLICA	Mi sembra di essere rimasta quasi	del tutto sola	a far- lo e non smetterò mai di auspicare la creazione di una fondazione voluta dal suo partito , che si
+
+0	0	1	tutto sopìte
+						DET ADV NOUN	WIKICONLL	fan  e sul nascere di alcune leggende metropolitane è data dalle voci , nate intorno al 1969 e mai	del tutto sopìte	, che riguardarono la presunta morte di Paul McCartney e sostituzione con un suo sosia che da allora lo impersonerebbe in
+
+0	1	0	tutto sorda
+						DET ADV NOUN	REPUBBLICA	Secondo fonti del nostro governo , neanche l amministrazione Bush sarebbe rimasta	del tutto sorda	all ultima mossa di Bagdad , assicurando che la preannunciata offensiva terrestre non scatterà prima di lunedì prossimo , cioè non
+
+0	1	0	tutto sordi
+						DET ADV NOUN	REPUBBLICA	in serata -- è usare  il bastone e la carota  : colpire duro i rivoltosi ma non rimanere	del tutto sordi	alle richieste di riforme politiche degli studenti .
+
+0	1	0	tutto sordo
+						DET ADV NOUN	REPUBBLICA	È stato , insomma ,	del tutto sordo	agli appelli che gli erano arrivati ( pur se con toni diversi ) da settori importanti del Psi ( da Martelli
+
+0	0	1	tutto sovrana
+						DET ADV NOUN	WIKICONLL	È spesso stato detto che la Queen-in-parliament è una autorità	del tutto sovrana	, anche se una tale posizione è discutibile .
+
+0	0	1	tutto spazi
+						DET ADV NOUN	WIKICONLL	Sebbene previsti dal piano regolatore , realizzato negli anni Sessanta , mancano quasi	del tutto spazi	culturali come cinema e musei , essendo presente solo il  Teatro Della Dodicesima  .
+
+0	1	0	tutto spettacolo
+						DET ADV NOUN	REPUBBLICA	Ma in questi anni	del tutto spettacolo	, della politica spettacolo , degli affari spettacolo , e ora anche della religione spettacolo , il caleidoscopio delle immagini cambia
+
+0	2	0	tutto spianata
+						DET ADV NOUN	REPUBBLICA	Insomma il dialogo sembra possibile anche se la strada non è	del tutto spianata	.
+						DET ADV NOUN	REPUBBLICA	Malgrado l accordo firmato , la strada dell Eridania non è comunque	del tutto spianata	: il presidente e maggiore azionista dell American Maize , William Ziegler , ha infatti avviato una causa contro il proprio
+
+0	1	0	tutto spirito
+						DET ADV ADJ NOUN	REPUBBLICA	governo socialista madrileno che guarda alle ex colonie e all enorme mercato che esse rappresentano , con rinnovato e non	del tutto disinteressato spirito	fraterno , in previsione della storica scadenza del 1992 , quinto centenario del viaggio di Colombo alla scoperta dell America ;
+
+0	1	1	tutto spoglia
+						DET ADV NOUN	REPUBBLICA	trasformò in moschea la grandiosa cattedrale consacrata da Costantino alla virtù della Sapienza , Santa Sofia , già la trovò	del tutto spoglia	.
+						DET ADV NOUN	WIKICONLL	Un uomo si risveglia in una stanza	del tutto spoglia	.
+
+0	0	1	tutto spoglio
+						DET ADV NOUN	WIKICONLL	Il terrazzo , che si presentava	del tutto spoglio	agli inizi , divenne presto un giardino fiorito , e il luogo di ritrovo degli artisti che seguivano la Messa degli
+
+0	1	0	tutto storia
+						DET ADV ADJ NOUN	REPUBBLICA	Chi conosce me personalmente , e più ancora la mia non breve né	del tutto oscura storia	intellettuale e politica , sa benissimo quale distanza siderale vi sia sempre stata con posizioni di tipo stalinista , quanto mi
+
+0	0	1	tutto strada
+						DET ADV NOUN	WIKICONLL	Jackie Chan , Sammo Hung , Yuen Biao , Corey Yuen , Yuen Wah , mentre altri col tempo cambiarono	del tutto strada	.
+
+0	4	0	tutto straordinari
+						DET ADV NOUN	REPUBBLICA	Tg 1 , sottobraccio dall anno nuovo , in un ardita immagine complice , erano dedicate a questi eventi non	del tutto straordinari	né particolarmente nuovi : il Natale , il Capodanno .
+						DET ADV NOUN	REPUBBLICA	Ultimamente l immagine dell atletica , a causa di eventi	del tutto straordinari	e irripetibili , ha raggiunto il minimo storico di sempre .
+						DET ADV NOUN	REPUBBLICA	versati , ma all interno di questo male comune ci sono categorie specifiche che per decenni hanno goduto di vantaggi	del tutto straordinari	: fra queste , appunto , i lavoratori autonomi .
+						DET ADV NOUN	REPUBBLICA	viaggio : movimenti normali , insomma , che in un umano rimasto così a lungo in condizioni di microgravità sono	del tutto straordinari	.
+
+0	1	0	tutto straordinaria
+						DET ADV NOUN	REPUBBLICA	La federazione ha definito	del tutto straordinaria	la richiesta fatta da Samaranch al proprio presidente Erwin Murray di riconsiderare il metodo di selezione per trovare un posto al
+
+0	5	0	tutto straordinario
+						DET ADV NOUN	REPUBBLICA	In primo luogo poiché blocca , per un anno , il ricorso alla giustizia e questo fatto ,	del tutto straordinario	nei paesi democratici , viola la Costituzione .
+						DET ADV NOUN	REPUBBLICA	Non potevo fare a meno di pensare , infatti , che in mezzo a quei tavoli ce n era uno	del tutto straordinario	e straordinariamente importante : il tavolo delle grandi potenze .
+						DET ADV NOUN	REPUBBLICA	Un incontro richiesto dagli iraniani e definito  un gesto assolutamente eccezionale e	del tutto straordinario	 .
+						DET ADV NOUN	REPUBBLICA	colleghi dell Unrae , l associazione degli importatori esteri , segnalando le molte coincidenze che hanno portato a questo risultato	del tutto straordinario	e che , purtroppo , non soltanto non annuncia alcun tipo di rilancio effettivo del mercato ma , a ben guardare
+						DET ADV NOUN	REPUBBLICA	ha aggiunto : Non di calamità naturale si può parlare , perché la moria di pesce non è un fatto	del tutto straordinario	, ma un fenomeno ricorrente .
+
+0	2	0	tutto strumentali
+						DET ADV NOUN	REPUBBLICA	e andata in protesto , nonostante i tentativi di chi ha cercato di ritardar- ne l esecuzione con manovre parlamentari	del tutto strumentali	e pressioni politicamente interessate .
+						DET ADV NOUN	REPUBBLICA	sul piano del metodo , visto che le contestazioni dell Anpac nei confronti delle scelte operate dal management Alitalia sono	del tutto strumentali	e nascondono un ben più concreto contenzioso relativo ai molti milioni di aumenti salariali che l azienda si rifiuta di concedere
+
+0	2	1	tutto strutture
+						DET ADV NOUN	REPUBBLICA	Mancano infatti quasi	del tutto strutture	ospedaliere e medicinali .
+						DET ADV NOUN	REPUBBLICA	Scegliere , ma come , visto che mancano quasi	del tutto strutture	di servizio per orientar- si prima , durante , dopo l Università ?
+						DET ADV NOUN	WIKICONLL	Mancano quasi	del tutto strutture	per l immagazzinamento .
+
+0	1	0	tutto subordinate
+						DET ADV NOUN	REPUBBLICA	quest anno le modifiche al sistema delle misure di prevenzione attuate in modo tale da render- le praticamente inoperanti e	del tutto subordinate	al processo penale .
+
+0	1	0	tutto superficiale
+						DET ADV NOUN	REPUBBLICA	perdere di vista agli elettori la gravità delle questioni implicate inducendo- li a un voto , positivo o negativo ,	del tutto superficiale	: è dunque ben comprensibile che questa difficoltà oggettiva cresca col crescere del numero dei quesiti proposti .
+
+0	1	0	tutto tecnico
+						DET ADV NOUN	REPUBBLICA	Ieri un rimbalzino	del tutto tecnico	dello 0,10 per cento ha tamponato la falla delle vendite che continuavano ininterrotte da cinque giorni .
+
+0	1	0	tutto tempi
+						DET ADV NOUN	REPUBBLICA	dalle iniziative esterne anche se la battaglia radicale e socialista , più che legittima per altri versi , ha sbagliato	del tutto tempi	e modi  .
+
+0	1	0	tutto tentativi
+						DET ADV ADJ NOUN	REPUBBLICA	: si sente dunque particolarmente coinvolta in questo conflitto ( con simpatie irachene ) ed ha partecipato in ripetuti e	del tutto infruttuosi tentativi	di mediazione della conferenza islamica .
+
+0	3	0	tutto teorica
+						DET ADV NOUN	REPUBBLICA	 In via	del tutto teorica	avremmo tempo fino a metà febbraio : sciogliendo il 14 ad esempio si è ancora in grado di votare il 29
+						DET ADV NOUN	REPUBBLICA	In via	del tutto teorica	i titoli Falck emessi in occasione dell aumento di capitale , dopo il provvedimento della Corte d appello , non dovrebbero
+						DET ADV NOUN	REPUBBLICA	In via	del tutto teorica	potrebbero esser- ci sorprese sul presidente , visto che un emendamento presentato dal congresso laziale ne chiede l elezione da parte
+
+0	0	2	tutto teorico
+						DET ADV NOUN	WIKICONLL	Il modello Aviram-Ratner per un raddrizzatore molecolare , che fino a poco tempo fa era	del tutto teorico	, è stato confermato sperimentalmente e inequivocabilmente in una serie di esperimenti condotti da un gruppo guidato da Geoffrey J. Ashwell
+						DET ADV NOUN	WIKICONLL	capitolo , Bergson mostra come la percezione pura , isolata dagli apporti della memoria , si riduca a un taglio	del tutto teorico	sulla realtà , secondo le linee convenzionali della nostra possibilità di azione .
+
+0	0	1	tutto tesi
+						DET ADV ADJ NOUN	WIKICONLL	Archiviata la cervellotica e	del tutto infondata tesi	, sostenuta dal Bottari e dal Samonà ( Bottari S . ,  I mosaici della Sicilia  in “ Emporium
+
+0	0	1	tutto testimonianze
+						DET ADV NOUN	WIKICONLL	Della sua vita si sa poco e mancano	del tutto testimonianze	documentali .
+
+0	1	0	tutto timori
+						DET ADV ADJ NOUN	REPUBBLICA	Secondo , perché spazza via i diffusi e non	del tutto ingiustificati timori	che avevano accompagnato , in principio d autunno , la manovra governativa sui rincari dell Iva : in effetti , un
+
+0	1	0	tutto tipo
+						DET ADV ADJ NOUN	REPUBBLICA	Nella lettera all Usta lo sponsor si è permesso anche di dare suggerimenti per il futuro , ma	del tutto inutili tipo	:  Sia soltanto il capitano a permetter- si discussioni con l arbitro durante un match di Davis  .
+
+0	23	2	tutto torto
+						DET ADV NOUN	REPUBBLICA	Al punto che i partiti di centro-destra all opposizione si sentono derubati , non	del tutto torto	, della loro politica .
+						DET ADV NOUN	REPUBBLICA	Beh , non ha	del tutto torto	...
+						DET ADV NOUN	REPUBBLICA	Che non avesse	del tutto torto	lo dimostra il furore di discordia manifestato- si , in questi ultimi tempi , in alcuni delicati uffici giudiziari e le
+						DET ADV NOUN	REPUBBLICA	E non ha	del tutto torto	il predicatore biondo , calato dalla Bretagna per conquistare questa città corvina , provenzale .
+						DET ADV NOUN	REPUBBLICA	E se Kissinger ha ragione da vendere , Kennan non ha	del tutto torto	quando avverte che i tempi stringono .
+						DET ADV NOUN	REPUBBLICA	Entrambi non hanno	del tutto torto	: i metodi utilizzati sono discutibili , ma questo è valido per tutte le vicende giudiziarie in cui sono coinvolti personaggi
+						DET ADV NOUN	REPUBBLICA	Forse non aveva	del tutto torto	, vedeva più lontano di altri , ma subì una memorabile sconfitta .
+						DET ADV NOUN	REPUBBLICA	Forse non hanno	del tutto torto	: chi può davvero sapere , infatti , quali sono le regole per introdurre una pratica moderna di mercato in un
+						DET ADV NOUN	REPUBBLICA	Il compagno Drudi , quindi , non ha	del tutto torto	quando sostiene , assieme al 60.5 % degli italiani , che un certo modo di vestire delle donne può rappresentare una
+						DET ADV NOUN	REPUBBLICA	Ma con Cesari ammette che  Galli Della Loggia non aveva	del tutto torto	 .
+						DET ADV NOUN	REPUBBLICA	Nemmeno Howard Haycraft però ha	del tutto torto	:  il romanzo poliziesco è un istituzione democratica , prodotto su larga scala solo nella democrazia  .
+						DET ADV NOUN	REPUBBLICA	Non è detto che Pons e Fleischmann abbiano	del tutto torto	; ma certo non ha giovato loro la gigantesca montatura attorno alla fusione fredda , commenta a sua volta il fisico
+						DET ADV NOUN	REPUBBLICA	Non aveva	del tutto torto	.
+						DET ADV NOUN	REPUBBLICA	Non aveva	del tutto torto	, su Parisi , a rileggere quel foglietto scarabocchiato un giorno a Palazzo Chigi , un giochetto : D Alema è
+						DET ADV NOUN	REPUBBLICA	Non avrebbe	del tutto torto	, ma rischierebbe di fraintendere le vere intenzioni dell autore , chi , dal titolo del saggio , deducesse che lì
+						DET ADV NOUN	REPUBBLICA	Non che abbia	del tutto torto	.
+						DET ADV NOUN	REPUBBLICA	Non ha	del tutto torto	John Major quando dice che la  nuova Gran Bretagna  l hanno fatta i conservatori .
+						DET ADV NOUN	REPUBBLICA	Non si tratta qui di stabilire chi avesse del tutto ragione e chi	del tutto torto	.
+						DET ADV NOUN	REPUBBLICA	Ora si può dire che i comunisti non avevano	del tutto torto	a sostenere , in quei giorni ,  vogliono far- ci eleggere un cadavere ambulante  ; e sarebbe legittimo chiedere
+						DET ADV NOUN	REPUBBLICA	Per quanto la storia abbia dato ragione a Totò , quei critici non avevano	del tutto torto	.
+						DET ADV NOUN	REPUBBLICA	Tribunal de Commerce di Nimes assomiglia a un giudizio salomonico : dà ragione a metà alla multinazionale elvetica senza dare	del tutto torto	alla Exor .
+						DET ADV NOUN	REPUBBLICA	le uccisioni individuali ( considerate  piccole cose  ) , penso che Ramdane e i suoi amici non abbiano	del tutto torto	.
+						DET ADV NOUN	REPUBBLICA	puntavano infine verso il Golfo , sia pur con consegne non troppo chiare , il ministro De Michelis non aveva	del tutto torto	nel sostenere che la concertazione europea aveva appena toccato durante le riunioni parigine un livello mai raggiunto prima .
+						DET ADV NOUN	WIKICONLL	E non avevano	del tutto torto	; Cincinnato prese a difendere il figlio Cesone , ad attaccare i tribuni della plebe , quei loro atteggiamenti quasi da
+						DET ADV NOUN	WIKICONLL	nel 1979 , pretende di dover contribuire in minor misura alle finanze della politica agricola comune – e non ha	del tutto torto	.
+
+0	1	0	tutto tracce
+						DET ADV ADJ NOUN	REPUBBLICA	Non sono	del tutto assenti tracce	di dialettalità settentrionale nella pronunzia .
+
+0	0	1	tutto traccia
+						DET ADV ADJ NOUN	WIKICONLL	che il nome “ Italia ” dev essere stato un prestito piuttosto tardo per il latino , dato che manca	del tutto qualunque traccia	dell oscillazione della vocale mediana , notata nella fase posta tra il VI e il V secolo .
+
+0	1	0	tutto tradotta
+						DET ADV ADJ NOUN	REPUBBLICA	Ma per l occasione Redgrave , con grande professionismo , ne ha preparato una versione	del tutto nuova tradotta	nella maggior parte in italiano , e anche l intervista si svolge per lo più nella nostra lingua , che Vanessa
+
+0	1	0	tutto trattativa
+						DET ADV ADJ NOUN	REPUBBLICA	vantaggio competitivo è ormai dimenticato , e le transazioni italiane con i partner esteri si svolgono all insegna di una	del tutto inedita trattativa	bilaterale caso per caso .
+
+0	1	0	tutto truffaldine
+						DET ADV NOUN	REPUBBLICA	Altre , addirittura , erano iniziative al limite della truffa o	del tutto truffaldine	, come il caso della società Gem Collection , di cui nel 1985 sono stati arrestati 33 dirigenti con l accusa
+
+0	0	1	tutto ubriaco
+						DET ADV NOUN	WIKICONLL	Fei Hung , dapprima umiliato dagli uomini del console che lo picchiano mentre è	del tutto ubriaco	, riuscirà infine a sconfigger- li dopo varie peripezie usando il suo inconfondibile  Zui Quan  , lo stile dell
+
+0	0	1	tutto uccidento
+						DET ADV ADJ NOUN	WIKICONLL	Sta di fatto che in modo del tutto prevedibile la nube radioattiva scatenata dalla bomba , piomba sulla popolazione civile	del tutto ignara uccidento	donne uomini e bambini e segnando persempre i sopravvissuti e le generazioni future tutte nate deformi o menomate con prospettiva di
+
+0	2	0	tutto una
+						DET ADV NOUN	REPUBBLICA	grazie a una scrittura secca e rigorosamente controllata su toni il più possibile sommessi , Piersanti è riuscito a conferire	al tutto una	credibilità assoluta , lasciando che la storia liberasse da sé , senza alcun intervento apparente dell autore , il suo ricco
+						DET ADV NOUN	REPUBBLICA	polemiche sorte nel corso degli ultimi due anni intorno all ora di religione , ha ammonito che è mancata quasi	del tutto una	seria ed approfondita riflessione su ciò che è e intende essere l insegnamento cattolico nella scuola pubblica .
+
+0	0	2	tutto uniche
+						DET ADV NOUN	WIKICONLL	Orto botanico di circa 25 ettari , ospita molte specie vegetali rare o	del tutto uniche	in Italia .
+						DET ADV NOUN	WIKICONLL	Vestae  , accanto al tempio di Vesta , ma potevano uscire liberamente e godevano di privilegi che le rendevano	del tutto uniche	tra le donne romane , nonché di diritti e onori civili : mantenute a spese dello Stato , affrancate dalla patria
+
+0	1	0	tutto universo
+						DET ADV NOUN	REPUBBLICA	, siano dove ci pare devono stare , e così lascino dal cielo d indaco promanare l ingenua gran pace	del tutto universo	.
+
+0	1	0	tutto uomini
+						DET ADV NOUN	REPUBBLICA	La nomina a presidente senza deleghe operative non soddisfa	del tutto uomini	che ancora hanno incarichi delicati da svolgere altrove come Sozzani .
+
+0	1	0	tutto uomo
+						DET ADV NOUN	REPUBBLICA	or sono , quando un nostro antenato , probabilmente  homo erectus  , non più pitecantropo ma non ancora	del tutto uomo	, decise di inventare , appunto , la storia .
+
+0	0	1	tutto vana.
+						DET ADV NOUN	WIKICONLL	L esistenza sulla Terra , dunque , non è	del tutto vana.	Di questa consolazione non può godere il poeta Parini .
+
+0	1	0	tutto vere
+						DET ADV NOUN	REPUBBLICA	Per cui se le sue risultanze sono troppo belle per essere vere , o meglio	del tutto vere	, nella loro formulazione finale , ancorché fatta a tavolino , e non sul campo , sono diventate i piloni portanti
+
+0	1	0	tutto vergini
+						DET ADV NOUN	REPUBBLICA	cui gli è toccato assistere : all improvviso ha avuto un illuminazione , e , guardando- si intorno con occhi	del tutto vergini	, ha esclamato , come un proprio personaggio ,  Che inenarrabile casino !
+
+0	1	0	tutto verso
+						DET ADV ADJ NOUN	REPUBBLICA	3 saranno di scena a Ravenna il duo di Petrucciani e Hall ed il trio del chitarrista Pat Metheny ,	del tutto orientato verso	il jazz in compagnia di Charlie Haden e Billy Higgins .
+
+0	1	0	tutto vista
+						DET ADV ADJ NOUN	REPUBBLICA	PADOVA -- Nel Veneto è psicosi , forse non	del tutto infondata vista	l assoluta mancanza di informazioni certe .
+
+0	1	0	tutto vittime
+						DET ADV NOUN	REPUBBLICA	 Subalterne sì , ma certamente consapevoli e consenzienti , mai	del tutto vittime	 , osserva Pino Arlacchi , gran conoscitore delle cose di Cosa Nostra .
+
+0	0	2	tutto volontari
+						DET ADV NOUN	WIKICONLL	Questi giovani erano	del tutto volontari	, e rappresentano uno dei primi esempi di mobilitazione spontanea giovanile nel XX secolo .
+						DET ADV NOUN	WIKICONLL	si inseriscono tra le corde del pianoforte svariati oggetti , di modo che l esecutore produca suoni che non sono	del tutto volontari	.
+
+0	4	0	tutto volontaria
+						DET ADV NOUN	REPUBBLICA	 il nostro progetto -- secondo Innocenti -- prevede che l adesione al meccanismo di autosalvaguardia sarà in ogni caso	del tutto volontaria	 .
+						DET ADV NOUN	REPUBBLICA	Ancora oggi il loro reclutamento avviene in Nepal su base	del tutto volontaria	: anzi , diventare un gurkha è motivo d orgoglio per i giovani e per le loro famiglie .
+						DET ADV NOUN	REPUBBLICA	Trattandosi di una consultazione a voto segreto su base	del tutto volontaria	, che ha mobilitato circa 200 mila attivisti di Cgil , Cisl e Uil , essere riusciti a  intercettare
+						DET ADV NOUN	REPUBBLICA	il suo modo di girare quasi immobile : educatamente Karakulov spiega che l estetica preziosa del suo film non è	del tutto volontaria	:  È dovuta soprattutto all estrema povertà dei mezzi , noi facciamo cinema con niente .
+
+0	4	0	tutto volontario
+						DET ADV NOUN	REPUBBLICA	Alle sue spalle c è l intervento di Massimo Paganin , forse non	del tutto volontario	ma comunque  efficace  , sul polpaccio di Simone .
+						DET ADV NOUN	REPUBBLICA	E nemmeno Achille Occhetto , assente	del tutto volontario	: e già , perché  figuriamo- ci se Achille viene qui a prendere schiaffi da questo segretario di sezione ...
+						DET ADV NOUN	REPUBBLICA	Solo che qui l approdo sull isoletta è	del tutto volontario	, senza nemmeno un briciolo di salario , escluse piccole somme per le spese .
+						DET ADV NOUN	REPUBBLICA	esercito di 80 mila unità , accetta le soldatesse , e , soprattutto , passando ad un sistema di difesa	del tutto volontario	, prevede incentivi e stipendi adeguati per chi sceglie la vita militare .
+
+0	7	0	tutto vuoti
+						DET ADV NOUN	REPUBBLICA	 Naturalmente  , dice lui ,  sono	del tutto vuoti	di contenuto .
+						DET ADV NOUN	REPUBBLICA	Abbiamo i depositi zeppi di vetture nuove e i portafogli ordini	del tutto vuoti	.
+						DET ADV NOUN	REPUBBLICA	I banchi del Pri e del Pli quasi	del tutto vuoti	, i referendari una truppa allo sbando .
+						DET ADV NOUN	REPUBBLICA	I loro locali sono	del tutto vuoti	.
+						DET ADV NOUN	REPUBBLICA	Pur di tenere i negozi non	del tutto vuoti	, il debito estero veniva aumentato a dismisura .
+						DET ADV NOUN	REPUBBLICA	per gli altri  , scriveva ieri mattina la  Tass  , aggiungendo che  gli scaffali sono ancora	del tutto vuoti	, come sempre , e non si vede nessun aumento nel flusso delle merci  .
+						DET ADV NOUN	REPUBBLICA	raffica di ispezioni nei depositi che hanno rivelato sconcertanti imbrogli : magazzini che dovevano essere pieni di cereali invece erano	del tutto vuoti	.
+
+0	0	3	tutto vuoto
+						DET ADV NOUN	WIKICONLL	 sbirro  fanno scoprire a Montalbano in un vecchio baule che non capiva che cosa ci facesse nel salone	del tutto vuoto	del piano abusivo , il cadavere di una ragazza sedicenne , stuprata e uccisa anni prima e avvolta in teli di
+						DET ADV NOUN	WIKICONLL	secolari a favore del figlio  Alī il 3 ottobre 1924 ( al-Husayn s era precedentemente insignito del titolo ,	del tutto vuoto	di concreta sostanza , di califfo nel marzo di quello stesso anno ) .
+						DET ADV NOUN	WIKICONLL	sente inutile ; restando nascosto  si impoverisce sempre di più , finché l individuo può arrivare a sentir- si	del tutto vuoto	 .
+
+0	0	1	tutto wireless
+						DET ADV NOUN	WIKICONLL	In particolare l ultima innovazione informatica ha reso il mondo virtuale	del tutto wireless	, portando il mondo vortuale in contatto con quello reale attraverso i nuovi sistemi ad « Realtà Aumentata » ( abbreviato
+

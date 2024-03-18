@@ -1,0 +1,10 @@
+prefix	TOT	ITWAC	REPUBBLICA	WIKICONLL	ADV-N	ERR	semantica nome	serve contesto	animato	valore prefisso
+vetero	24	0	0	24	vetero-cattolica		movimento			x
+vetero	6	0	0	6	vetero-cattolicesimo		movimento			x
+vetero	25	0	0	25	vetero-cattolici		movimento			x
+vetero	5	0	5	0	vetero-comunismo		movimento			x
+vetero	14	0	14	0	vetero-comunista		movimento			x
+vetero	5	0	5	0	vetero-comunisti		movimento			x
+vetero	4	0	4	0	vetero-femminismo		movimento			x
+vetero	10	0	10	0	vetero-marxismo		movimento			x
+vetero	6	0	6	0	vetero-marxista		movimento			x

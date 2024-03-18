@@ -1,0 +1,226 @@
+prefix	TOT	ITWAC	REPUBBLICA	WIKICONLL	ADV-N	ERR	semantica nome	serve contesto	animato	valore prefisso
+post	5	0	0	5	post-Achemenide		-
+post	97	97	0	0	post-acuzie		-
+post	41	41	0	0	post-adozione		-
+post	24	20	4	0	post-alluvione		-
+post	18	0	8	10	post-apartheid		-
+post	4	4	0	0	post-attentato		-
+post	9	0	9	0	post-aumento		-
+post	7	7	0	0	post-autorizzazione		-
+post	8	0	8	0	post-avanguardia		movimento	x
+post	5	5	0	0	post-avanguardista		movimento	x
+post	140	140	0	0	post-base		?	x
+post	18	0	18	0	post-bellica	x
+post	6	0	0	6	post-bellici	x
+post	8	0	8	0	post-bellico	x
+post	5	5	0	0	post-benzina		?	x
+post	4	0	0	4	post-black	x
+post	4	0	4	0	post-boom		-
+post	110	110	0	0	post-brigatismo		appartenenza politica	x
+post	13	13	0	0	post-brigatista		appartenenza politica
+post	4	0	0	4	post-bruciatore		?	x
+post	5	0	5	0	post-campionato		-
+post	7	0	7	0	post-catastrofe		-
+post	46	46	0	0	post-chiusura		-
+post	4	0	0	4	post-classico		-
+post	5	0	5	0	post-coloniale	x
+post	17	17	0	0	post-colonialismo		?	x
+post	34	30	0	4	post-combustione		-
+post	360	77	275	8	post-comunismo		?	x
+post	83	16	67	0	post-comunista		?	x
+post	278	148	120	10	post-comunisti		?	x
+post	4	4	0	0	post-concertazione		-	x
+post	4	4	0	0	post-concerto		-	x
+post	47	39	4	4	post-concilio		-	x
+post	49	45	0	4	post-Concilio		-	x
+post	112	105	0	7	post-conflitto			x
+post	105	105	0	0	post-consumo			x
+post	44	44	0	0	post-contatore			x
+post	5	0	0	5	post-contratto			x
+post	21	21	0	0	post-core	x
+post	4	4	0	0	post-counter	x
+post	11	4	7	0	post-crisi		-
+post	25	0	0	25	Post-Crisi		-
+post	39	0	0	39	post-Crisi		-
+post	15	0	0	15	Post-Crisis	x
+post	14	0	0	14	post-Crisis	x
+post	4	0	4	0	post-cubismo			x
+post	5	0	5	0	post-cubista	x
+post	5	5	0	0	post-dc			x
+post	4	4	0	0	post-decremento		-
+post	14	0	14	0	post-democristiani		-
+post	4	4	0	0	post-depilazione		-
+post	7	0	7	0	post-derby		-
+post	4	4	0	0	post-dimissione		-
+post	963	943	14	6	post-diploma		-
+post	4	4	0	0	Post-diploma		-
+post	6	0	6	0	post-discoteca		-
+post	5	0	0	5	Post-Dispatch	x
+post	5	5	0	0	post-distruzione		-
+post	5	0	5	0	post-divorzio		-
+post	301	296	0	5	post-doc	x
+post	6	6	0	0	post-docs	x
+post	1176	1151	5	20	post-dottorato		-
+post	5	5	0	0	Post-dottorato		-
+post	5	5	0	0	post-economia		?	x
+post	8	0	0	8	post-elaborazione		processo	x
+post	20	0	20	0	post-elettorale	x
+post	4	0	4	0	post-elettorali	x
+post	21	8	13	0	post-elezioni			x
+post	73	64	0	9	post-emergenza		-
+post	4	4	0	0	post-esame		-
+post	81	59	0	22	post-esposizione		-
+post	5	0	5	0	post-espressionismo		movimento
+post	24	24	0	0	post-euro		-
+post	9	4	0	5	post-evento		-
+post	50	8	37	5	post-fascismo		appartenenza politica
+post	182	159	18	5	post-fascista		appartenenza politica
+post	167	92	75	0	post-fascisti		appartenenza politica
+post	55	25	30	0	post-fazione	x
+post	4	0	4	0	post-fazioni	x
+post	21	0	21	0	post-femminismo		movimento	x
+post	10	0	10	0	post-femminista		movimento
+post	5	0	5	0	post-femministe		movimento
+post	113	109	4	0	post-fordismo		movimento
+post	15	0	15	0	post-franchismo		movimento
+post	20	6	14	0	post-fusione		-
+post	16	9	0	7	post-gara		-
+post	8	8	0	0	Post-genoma		?
+post	8	8	0	0	post-genoma		?
+post	4	0	0	4	Post-grunge		movimento
+post	144	113	18	13	post-guerra		-
+post	7	0	0	7	post-Guerra		-
+post	6	0	0	6	Post-Hardcore		movimento
+post	7	0	0	7	Post-hardcore		movimento
+post	74	0	0	74	post-hardcore		movimento
+post	8	0	0	8	post-Hartree-Fock	x
+post	5	0	5	0	post-hippies		condizione	x
+post	19	19	0	0	post-human	x
+post	4	0	4	0	post-imperiale	x
+post	10	0	4	6	Post-impressionismo		movimento	x
+post	38	0	19	19	post-impressionismo		movimento	x
+post	7	0	7	0	post-impressionista		movimento	x
+post	27	0	17	10	post-impressionisti		movimento	x
+post	10	10	0	0	post-incidente		-
+post	4	4	0	0	post-incontro		-
+post	7	7	0	0	post-incremento		-
+post	10	0	0	10	post-indipendenza		-
+post	6	0	0	6	post-industrial	x
+post	39	0	39	0	post-industriale	x
+post	10	0	10	0	post-industriali	x
+post	32	19	6	7	post-infarto		-
+post	7	7	0	0	post-informazione		?	x
+post	4	4	0	0	post-infortunio		-
+post	4	4	0	0	post-install	x
+post	8	8	0	0	post-installazione		-
+post	41	31	5	5	post-intervento		-
+post	364	341	11	12	post-it	x
+post	12	0	0	12	Post-it	x
+post	132	0	77	55	post-laurea		-
+post	15	0	11	4	post-lauream	x
+post	4	0	4	0	post-lottizzazione		-
+post	9	0	9	0	post-maoismo		movimento	x
+post	4	0	4	0	post-maoista		movimento	x
+post	27	22	0	5	post-marketing		?	x
+post	7	0	0	7	post-match	x
+post	7	0	0	7	post-materialismo		-
+post	4	4	0	0	post-maternità		-
+post	258	240	14	4	post-menopausa		-
+post	4	4	0	0	post-mercato		?	x
+post	4	0	0	4	Post-metal		movimento	x
+post	19	0	0	19	post-metal		movimento	x
+post	11	0	11	0	post-missini		?	x
+post	61	0	54	7	post-modern	x
+post	7	0	0	7	Post-Modern	x
+post	95	68	20	7	post-modernismo		movimento	x
+post	4	0	4	0	post-modernisti		movimento	x
+post	337	302	28	7	post-modernità		?	x
+post	100	0	51	49	post-mortem	x
+post	4	0	4	0	post-natalizi	x
+post	255	255	0	0	post-obbligo		?
+post	7	0	7	0	post-occupazione		-
+post	21	21	0	0	post-olocausto		-
+post	88	68	11	9	post-operatori	x
+post	5	0	5	0	post-operatoria	x
+post	20	0	14	6	post-operatorio	x
+post	8	0	0	8	Post-Ora	x
+post	12	0	0	12	post-Ora	x
+post	30	25	5	0	post-pagamento		-
+post	4	0	0	4	Post-Panamax	x
+post	39	19	10	10	post-partita		-
+post	59	41	9	9	post-parto		-
+post	60	23	11	26	post-partum	x
+post	8	0	8	0	post-perestrojka		-
+post	5	0	5	0	post-pop		movimento
+post	11	0	11	0	post-privatizzazione		-
+post	37	28	0	9	post-processing	x
+post	931	683	55	193	post-produzione		-
+post	4	0	0	4	Post-produzione		-
+post	115	0	20	95	post-punk		movimento
+post	5	0	0	5	Post-Punk		movimento	x		iterativo?
+post	10	0	0	10	Post-punk		movimento	x		iterativo?
+post	501	501	0	0	post-qualifica		-
+post	45	45	0	0	post-raccolta		-
+post	5	0	5	0	post-reaganismo		movimento	x
+post	4	0	4	0	post-recessione		-
+post	21	4	17	0	post-referendum		-
+post	6	0	0	6	post-restyling		-
+post	4	0	0	4	post-ricostruzione		-
+post	57	57	0	0	post-ricovero		processo	x
+post	18	13	5	0	post-riforma		-
+post	4	0	4	0	post-rivoluzionario	x
+post	15	4	6	5	post-rivoluzione		-
+post	667	563	0	104	post-rock		-
+post	4	0	0	4	Post-rock		-
+post	4	0	4	0	post-rossore			x
+post	5	0	5	0	post-scissione		-
+post	43	21	22	0	post-scriptum	x
+post	90	90	0	0	post-scuola		?	x
+post	100	37	0	63	post-season	x
+post	5	0	5	0	post-secondari	x
+post	7	0	7	0	post-secondaria	x
+post	16	16	0	0	post-secondario	x
+post	4	4	0	0	post-selezione		processo	x
+post	5	0	0	5	post-sequenza		?	x
+post	6	0	6	0	post-sessantotto		-
+post	48	39	4	5	post-sisma		-
+post	5	5	0	0	post-sismìa	x
+post	6	0	6	0	post-socialismo		movimento	x
+post	5	0	5	0	post-socialista		movimento	x
+post	6	0	6	0	post-socialisti		movimento	x
+post	6	0	6	0	post-sovietica	x
+post	7	0	7	0	post-stalinismo		movimento	x
+post	4	4	0	0	post-storia		-
+post	42	21	5	16	post-strutturalismo		movimento	x
+post	5	0	0	5	post-strutturalisti		movimento	x
+post	4	0	4	0	post-svalutazione		-
+post	5	5	0	0	post-sviluppo		-
+post	4	0	4	0	post-tangentopoli		-
+post	5	5	0	0	post-tensione		condizione	x
+post	5	5	0	0	post-terapia		processo	x
+post	183	0	173	10	post-terremoto		-
+post	18	0	18	0	post-terrorismo		?	x
+post	8	8	0	0	post-tesi		?	x
+post	19	19	0	0	post-test		processo	x
+post	12	12	0	0	Post-test		processo	x
+post	4	0	4	0	post-thatcherismo		-
+post	4	0	4	0	post-totalitarismo		-
+post	4	4	0	0	post-trading		-
+post	5	0	0	5	post-transizione		-
+post	62	62	0	0	post-trapianto		-
+post	41	31	0	10	post-trattamento		processo	x		iterativo
+post	16	16	0	0	post-trauma		-
+post	6	0	0	6	Post-Traumatic	x
+post	4	0	4	0	post-tridentino	x
+post	4	4	0	0	post-tsunami		-
+post	5	0	5	0	post-tutto		?	x
+post	4	4	0	0	post-umanità		?	x
+post	454	445	5	4	post-universitari	x
+post	8	4	4	0	post-vacanze		-
+post	510	490	11	9	post-vendita		-
+post	5	5	0	0	post-visita		-
+post	6	0	6	0	post-vittoria		-
+post	13	5	8	0	post-voto		-
+post	4	0	0	4	Post-Vulgata		-
+post	4	0	0	4	Post-War	x
+post	5	0	5	0	post-yuppie		condizione	x

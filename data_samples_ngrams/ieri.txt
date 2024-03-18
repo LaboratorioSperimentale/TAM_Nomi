@@ -1,0 +1,221 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	8	0	ieri --
+						DET ADJ ADV NOUN	REPUBBLICA		L' altro ieri --	-- ha detto -- l' ho usata per la prima volta  .
+						DET ADJ ADV NOUN	REPUBBLICA	 Già	l' altro ieri --	-- hanno spiegato i tecnici del centro milanese -- eravamo stati costretti ad abbandonare una frequenza .
+						DET ADJ ADV NOUN	REPUBBLICA	A Pomicino -- era appena	l' altro ieri --	-- piaceva confessar- si in pubblico .
+						DET ADJ ADV NOUN	REPUBBLICA	E	l' altro ieri --	-- assente per impegni parlamentari ( doveva illustrare un' interpellanza alla Camera sullo scioglimento dei consigli comunali per mafia ) --
+						DET ADJ ADV NOUN	REPUBBLICA	L' altro ieri -- appena	l' altro ieri --	-- era stato già scovato dalla giustizia .
+						DET ADJ ADV NOUN	REPUBBLICA	Sperava di riuscir- ci a New York : il collasso	dell' altro ieri --	-- vero o falso -- lo costringerà ad aspettare ancora .
+						DET ADJ ADV NOUN	REPUBBLICA	e in carcere che continuano a proclamar- si innocenti , ai cui difensori -- secondo il documento della segreteria socialista	dell' altro ieri --	-- toccherebbe il compito di tradurre in iniziative giudiziarie contro Di Pietro i sospetti del Psi .
+						DET ADV NOUN	REPUBBLICA	 Non smetteremo di mandare aiuti -- hanno promesso in	molti ieri --	rimarremmo in strettissimo contatto con le canossiane  .
+
+1	0	0	ieri Fortini
+						DET ADJ ADV NOUN	ITWAC	In questa prospettiva sono presentati alcuni dei nostri più grandi autori come Dante , Tasso e	nel nostro ieri Fortini	Fortini in una luce assolutamente aggiornata e funzionale : il rapporto con la categoria dell' alterità , sia essa geografica ,
+
+0	0	1	ieri Plastic
+						DET ADV NOUN	WIKICONLL	Le icone gay di oggi e	di ieri Plastic	Celebrities .
+
+1	0	0	ieri Sogni
+						DET ADJ ADV NOUN	ITWAC	l' anno - tempo consueto di bilanci scontati - mentre cercavi dei vecchi scarponi ti sei trovato faccia a faccia	col tuo ieri Sogni	Sogni , emozioni , pensieri e aspirazioni , persone che ti son state vicine catalogate in quelle vecchie foto ti rimettono
+
+0	1	0	ieri a
+						DET ADJ ADV NOUN	REPUBBLICA	tante storie , come quella che dopo il Brasile è andato a rintanar- si nel suo covo inglese per ritornare	l' altro ieri a	a Maranello con un pacco di disegni  miracolosi  .
+
+0	1	0	ieri agguato
+						DET ADJ ADV NOUN	REPUBBLICA	Lo studente congolese : ' Io ormai vivo nel terrore ' E	l' altro ieri agguato	agguato ad un liceale romano .
+
+0	1	0	ieri allarmi
+						DET ADJ ADV NOUN	REPUBBLICA	Già	l' altro ieri allarmi	allarmi di questo tipo , poi rivelati- si infondati , avevano costretto a un atterraggio forzato un jet delle British Airways
+
+0	1	0	ieri ambientalisti
+						DET ADJ ADV NOUN	REPUBBLICA	giudicata troppo rischiosa per loro :  Soffrono , non è quello il loro habitat naturale  , erano insorti	l' altro ieri ambientalisti	ambientalisti veneziani che avevano presentato una denuncia alla magistratura .
+
+0	0	1	ieri amico
+						DET ADV NOUN	WIKICONLL	 ,  Attimi  ( storia di un amore finito , cantata da Livio Macchia ) e  Amico	di ieri amico	perduto  .
+
+0	1	0	ieri colloqui
+						DET ADJ ADV NOUN	REPUBBLICA	La delegazione aveva avuto	l' altro ieri colloqui	colloqui con il primate di Polonia , cardinale Jozef Glemp , e con una rappresentanza di Solidarnosc composta dal professor Bronislaw
+
+0	1	0	ieri comunicato
+						DET ADJ ADV NOUN	REPUBBLICA	 partiranno  subito per consentire l' avvio delle procedure necessarie ) è dunque raddoppiata rispetto a quanto era stato	l' altro ieri comunicato	comunicato dal sottosegretario al Tesoro Carlo Fracanzani che aveva parlato di duemila miliardi .
+
+1	0	0	ieri dedica
+						DET ADV NOUN	ITWAC	manfredi inviato : Mer 29 Set 2004 13:34 oggetto : rispondi  Il Giornale 	dei ieri dedica	spazio a quanto accaduto a Zurigo e lo fa in modo asettico , senza partito ( proibizionista ) preso :
+
+0	0	1	ieri dell
+						DET ADV NOUN	WIKICONLL	Completato anche con altri dati tratti dal volume Brentonico Immagini	di ieri dell	CAI SAT .
+
+0	1	0	ieri file
+						DET ADJ ADV NOUN	REPUBBLICA	la follia del capo firmato crea ingorghi umani , file di centinaia di metri davanti ai negozi di Prada ,	l' altro ieri file	file di almeno un chilometro davanti ai negozi di Armani che dopo quindici anni è venuto in Giappone a presentare le
+
+0	2	0	ieri fonti
+						DET ADJ ADV NOUN	REPUBBLICA	Le possibilità di successo della missione di Meese sembrano però scarse :	l' altro ieri fonti	fonti dei servizi di sicurezza tedeschi hanno rivelato alla stampa che il cancelliere Kohl e i suoi principali collaboratori hanno deciso
+						DET ADJ ADV NOUN	REPUBBLICA	Sempre	l' altro ieri fonti	fonti militari americane hanno rivelato che gli americani hanno convinto la Nato a creare una  base di addestramento  a
+
+0	1	0	ieri grazie
+						DET ADJ ADV NOUN	REPUBBLICA	liquidatori , l' affitto dei rami d' azienda e l' incarico alla merchant bank trova immediata applicazione la soluzione raggiunta	l' altro ieri grazie	grazie alla mediazione della presidenza del consiglio , preoccupata per i risvolti occupazionali della crisi Jacorossi .
+
+1	0	0	ieri intervistato
+						DET ADJ ADV NOUN	ITWAC	Come ha detto	un genovese ieri intervistato	intervistato :  manifestare è un diritto sì ...
+
+1	0	0	ieri labbra
+						DET ADV NOUN	ITWAC	E come tu vuoi ch ' io rinsaldi l' oggi	all' ieri labbra	d' abisso , ferita divaricata dell' infinito ?
+
+0	1	0	ieri manager
+						DET ADJ ADV NOUN	REPUBBLICA	I collaboratori di Raymond Lévy -- consacrato	l' altro ieri manager	manager dell' anno dalla stampa economica d' Oltralpe -- sostengono che buona parte dei problemi deriva dalla difficile transizione in corso
+
+6	101	0	ieri mattina
+						DET ADJ ADV NOUN	ITWAC	Finalmente	i miei ieri mattina	mattina alle 9.00 sono partiti per un viaggio ...
+						DET ADJ ADV NOUN	REPUBBLICA	smesso a un certo punto di leggere il suo discorso per fare qualche considerazione a braccio sulla situazione creata- si	l' altro ieri mattina	mattina sul Matif , il mercato dei futures d' Oltralpe , dove i prezzi sono scesi pesantemente al termine di una
+						DET ADJ ADV NOUN	REPUBBLICA	Molti degli undici amministratori che hanno ricevuto	l' altro ieri mattina	mattina l' avviso di garanzia della procura avevano ottenuto dalle società legate a Carollo assegni e bonifici bancari .
+						DET ADJ ADV NOUN	REPUBBLICA	Walesa , che era giunto alla miniera	l' altro ieri mattina	mattina , e che aveva ininterrottamente discusso con gli operai intervenendo anche in funzione di mediatore negli incontri con la direzione
+						DET ADJ ADV NOUN	REPUBBLICA	delle multinazionali di pagare 368 miliardi di dollari in cambio dell' immunità per i danni del fumo , è saltato	all' improvviso ieri mattina	mattina .
+						DET ADJ ADV NOUN	REPUBBLICA	E che l' aula magna stipata	all' inverosimile ieri mattina	mattina somigliasse più a un' arena che a un sacrario della giustizia , è parso evidente anche al presidente Becchino .
+						DET ADJ ADV NOUN	REPUBBLICA	Kohl non detto niente di più di quanto non avesse già detto Lothar de Maizière	l' altro ieri mattina	mattina , quando aveva lanciato la proposta che tante polemiche ha suscitato .
+						DET ADJ ADV NOUN	REPUBBLICA	MILANO -- L' arrivo di numerosi documenti bancari dalla Svizzera , presentati	all' improvviso ieri mattina	mattina in aula dal pm Francesco Greco nel corso dell' udienza per i fondi neri dell' Eni , ha spinto i
+						DET ADJ ADV NOUN	REPUBBLICA	IL CAIRO -- Tutto ok per l'  Achille Lauro  , che è potuta ripartire dopo che	l' altro ieri mattina	mattina si era incagliata in un banco di sabbia all' ingresso del porto di Alessandria .
+						DET ADJ ADV NOUN	REPUBBLICA	Quando	l' altro ieri mattina	mattina la madre , una casalinga di sessantotto anni ( il padre è un operaio agricolo ) ha scoperto il cadavere
+						DET ADJ ADV NOUN	REPUBBLICA	Ed è in questo clima che si è innestata anche la protesta di quei mafiosi che	l' altro ieri mattina	mattina hanno revocato il mandato ai loro legali .
+						DET ADJ ADV NOUN	REPUBBLICA	ROMA Un vertice dopo	l' altro ieri mattina	mattina , in un clima molto teso , nel palazzo di giustizia di Palermo .
+						DET ADV NOUN	REPUBBLICA	E l' attesa , com' è noto , è un balsamo per la Borsa : per	questo ieri mattina	tutti i titoli del gruppo Ferruzzi riammessi alle contrattazioni ( compreso Enimont , che del gruppo Ferruzzi non è ma era
+						DET ADJ ADV NOUN	REPUBBLICA	sequestratori ad annunciare alla famiglia dove trovare la Golf di Franco Trezzi , 57 anni , il primo industriale rapito	l' altro ieri mattina	mattina a Milano , dopo una tregua che durava da sei anni .
+						DET ADV NOUN	REPUBBLICA	BOLOGNA -- Due riunioni ,	una ieri mattina	a Bologna , l' altra nel pomeriggio a Udine : hanno impiegato poche ore i consigli di amministrazione del Credito Romagnolo
+						DET ADJ ADV NOUN	REPUBBLICA	L' aereo , denominato Kal 803 era partito dalla capitale sudcoreana	l' altro ieri mattina	mattina ed aveva fatto scalo prima a Bangkok , in Thailandia , e poi a Gedda , in Arabia Saudita .
+						DET ADJ ADV NOUN	REPUBBLICA	Ma	l' altro ieri mattina	mattina è stato a lungo a Mediobanca .
+						DET ADJ ADV NOUN	REPUBBLICA	La strategia è stata analizzata con	i fedelissimi ieri mattina	mattina .
+						DET ADJ ADV NOUN	REPUBBLICA	Due visite alla squadra , una martedì a tarda sera all' arrivo	l' altro ieri mattina	mattina .
+						DET ADJ ADV NOUN	REPUBBLICA	Il programma delle manifestazioni è entrato	nel vivo ieri mattina	mattina con una tavola rotonda sulle riserve e , più specificatamente , sulla possibilità di creare un' oasi protetta nel nord
+						DET ADJ ADV NOUN	REPUBBLICA	L' ex stella della Dinamo Kiev ha rischiato di rovinare la piccola sacralità del momento , comportando- si come	un isterico ieri mattina	mattina , al termine dell' allenamento , quando ha risposto malamente ai giornalisti e ai tifosi che in qualche modo intendevano
+						DET ADJ ADV NOUN	REPUBBLICA	distanza dalla valle del Belice , i cui centri abitati furono gravemente danneggiati dal terremoto del 1968 e dove anche	l' altro ieri mattina	mattina alle 5,39 una scossa del quinto grado Mercalli ha provocato molto panico tra la gente .
+						DET ADJ ADV NOUN	REPUBBLICA	Di Miss Top Model parleremo poi ; quanto a Miss Moda -- titolo succedaneo , fiorito dal nulla ,	all' improvviso ieri mattina	mattina perché non c' era un accordo su Miss Top Model -- la fortunata è Letizia Filippi , pepatissima diciassettenne di
+						DET ADJ ADV NOUN	REPUBBLICA	PALERMO -- Probabilmente , qualcuno avrà pedinato la donna anche	l' altro ieri mattina	mattina .
+						DET ADJ ADV NOUN	REPUBBLICA	Lusetti scosse la testa , e la scosse ancor di più dopo aver chiesto consiglio ai superiori ; e che	l' altro ieri mattina	mattina , con Cossiga , ci ha parlato Enzo Carra , portavoce di Forlani : dopodiché , per quanto ci può
+						DET ADJ ADV NOUN	REPUBBLICA	Vedete , questi sono i due anelli che	l' altro ieri mattina	mattina , prima di partire per Napoli , Jennifer mi ha lasciato come pegno di amore .
+						DET ADJ ADV NOUN	REPUBBLICA	Queste modalità dell' agguato hanno confermato gli investigatori nella pista privilegiata e cioé che	l' altro ieri mattina	mattina , nella frazione Sambiase , non c' era un obiettivo particolare e che si è sparato nel mucchio .
+						DET ADJ ADV NOUN	REPUBBLICA	Insieme a Carra ,	l' altro ieri mattina	mattina , sono stati svegliati altri 52 detenuti e tutti erano , per motivi diversi da Carra , a regime di
+						DET ADJ ADV NOUN	REPUBBLICA	Ma	quest' ultimo ieri mattina	mattina ha smorzato i toni .
+
+0	1	0	ieri ndr
+						DET ADJ ADV NOUN	REPUBBLICA	Quando è stato deciso l' omicidio di Andrea Cavaleri , mio zio Pietro , Bonvissuto e Saluci ( tutti arrestati	l' altro ieri ndr	ndr ) mi hanno chiamato dicendo- me che con Saluci dovevo andare ad ammazzare Andrea .
+
+0	1	0	ieri neve
+						DET ADJ ADV NOUN	REPUBBLICA	Poca neve sui rilievi del resto della regione ( Murgia barese e salentina ) dove	l' altro ieri neve	neve e ghiaccio avevano reso molto difficile il transito dei veicoli .
+
+1	65	1	ieri notte
+						DET ADJ ADV NOUN	REPUBBLICA	In un documento diffuso	l' altro ieri notte	notte a Città del Capo il presidente Botha afferma di aver avuto insieme ad alcuni suoi ministri due tornate di colloqui
+						DET ADJ ADV NOUN	REPUBBLICA	Le vittime freddate a colpi di pistola da quattro killer	l' altro ieri notte	notte .
+						DET ADJ ADV NOUN	REPUBBLICA	LOS ANGELES -- È morto ,	l' altro ieri notte	notte , il compositore americano di musica leggera Nelson Riddle .
+						DET ADJ ADV NOUN	REPUBBLICA	Forse è la svolta per uscire da una situazione che	l' altro ieri notte	notte appariva compromessa .
+						DET ADJ ADV NOUN	REPUBBLICA	Ma	l' altro ieri notte	notte nella mente di Pietro è scattata la follia omicida .
+						DET ADJ ADV NOUN	REPUBBLICA	, più di tremila giovani con le candele in mano e le militanti di organizzazioni femministe erano in piazza ,	l' altro ieri notte	notte , a Montreal , per commemorare la carneficina di mercoledì .
+						DET ADJ ADV NOUN	REPUBBLICA	Per ragioni di politica interna legate al dibattito sull' aborto , il Congresso a maggioranza repubblicana ha bocciato	l' altro ieri notte	notte il pagamento di 1,3 miliardi di dollari di contributi arretrati , più di duemila miliardi di lire , che la
+						DET ADJ ADV NOUN	REPUBBLICA	L' esercito governativo bosniaco ha infatti provocato alcune schermaglie	l' altro ieri notte	notte interrompendo la tregua .
+						DET ADV NOUN	REPUBBLICA	esercito sono stati ora riabilita- ti : porta soltanto la loro firma l' operazione Kerbala 6 , due violenti attacchi	uno ieri notte	e uno stamani che hanno scosso la zona centrale del fronte .
+						DET ADJ ADV NOUN	REPUBBLICA	Può meravigliare che un' isola come quella comparsa	l' altro ieri notte	notte nell' arcipelago di Tonga emerga dalle acque dell' oceano , ma questo processo è lo stesso che ha portato alla
+						DET ADV NOUN	REPUBBLICA	Su uno dei muri dell' Arbat , trasformato in un enorme murale di scritte e slogan ,	molti ieri notte	continuavano ad accendere candele e a deporre sigarette in memoria di Viktor Tsoi , uno dei più famosi cantanti rock sovietici
+						DET ADJ ADV NOUN	REPUBBLICA	sembra abbia rotto	l' altro ieri notte	notte le trattative con la Microsoft per cercare di rendere compatibili i giochi per Dreamcast con quelli per X-Box .
+						DET ADJ ADV NOUN	REPUBBLICA	ROMA -- Monsignor Luigi Di Liegro non c' è più : è morto	all' improvviso ieri notte	notte .
+						DET ADJ ADV NOUN	REPUBBLICA	Queste pecche sono venute a galla	l' altro ieri notte	notte , contro i puntigliosi e sempre temibili americani .
+						DET ADJ ADV NOUN	REPUBBLICA	Tutto è cominciato	l' altro ieri notte	notte .
+						DET ADJ ADV NOUN	REPUBBLICA	In effetti , dopo l' incontro avuto	l' altro ieri notte	notte con il capogruppo Dc , Gerardo Bianco , alcuni deputati capo-lobby come Wilmo Ferrari e il ministro delle Finanze ,
+						DET ADJ ADV NOUN	REPUBBLICA	Proprio questa settimana ci sono cinque esecuzioni in programma :	l' altro ieri notte	notte è stato ucciso nel carcere di Hunstville , catena di montaggio della pena capitale , David Hiks .
+						DET ADJ ADV NOUN	REPUBBLICA	Dai radar di terra possono anche venire falsi allarmi , come è successo	l' altro ieri notte	notte : l' allerta missilistica israeliana era stata causata da un satellite sovietico che ormai fuori uso precipitava in mare .
+						DET ADJ ADV NOUN	REPUBBLICA	calendario che prevede  di tutto di più  fino ad ora insensibile anche alle mediazioni tentate dal governo (	l' ultima ieri notte	notte fra il ministro Treu e i sindacati Fs ) .
+						DET ADJ ADV NOUN	REPUBBLICA	Teatro del delitto , nella Calabria segnata dagli attentati ai carabinieri (	l' ultima ieri notte	notte con l' incendio dell' automobile di un militare in servizio a Locri ) è Polistena , nella piana di Gioia
+						DET ADJ ADV NOUN	REPUBBLICA	Le prime ipotesi di aggregazione sono state esaminate	l' altro ieri notte	notte in una cena a Strasburgo , tra il leader dell' Udeur Clemente Mastella , l' ex segretario del Ppi Franco
+						DET ADJ ADV NOUN	REPUBBLICA	Fra i primi ad accorrere ,	l' altro ieri notte	notte a Isola delle Femmine , il paesino a 10 chilometri da Palermo dove il gioielliere è stato rilasciato , il
+						DET ADJ ADV NOUN	REPUBBLICA	E	l' altro ieri notte	notte , nell' immenso spazio coperto dove negli anni Sessanta avevano suonato i Beatles e dove ora si esibiscono i cestisti
+						DET ADJ ADV NOUN	REPUBBLICA	sindaco di Cagliari , Roberto Dal Cortivo , socialista , che guidava una giunta di pentapartito , si è dimesso	l' altro ieri notte	notte al termine di una seduta del consiglio convocata per la surroga dell' assessore dello sport , Giuseppe Angioni , della
+						DET ADJ ADV NOUN	REPUBBLICA	È l' ultimo bollettino del dramma della famiglia Marino : padre , madre e otto figli avvelenati	l' altro ieri notte	notte nel tugurio dove abitavano da una sostanza ancora non individuata .
+						DET ADJ ADV NOUN	REPUBBLICA	L' ultimo atto per tentare la salvezza si era consumato dunque	l' altro ieri notte	notte .
+						DET ADJ ADV NOUN	REPUBBLICA	stato il rientro delle dimissioni dell' assessore liberale Martino , giunto al termine di un estenuante vertice della maggioranza ,	l' altro ieri notte	notte .
+						DET ADJ ADV NOUN	REPUBBLICA	Anche la regata intorno al mondo era una cosa ben diversa da quella vinta	l' altro ieri notte	notte , la Transat des alizes , una specie di lungo convoglio di barche sulla rotta più tranquilla e facile che
+						DET ADJ ADV NOUN	REPUBBLICA	SARAJEVO -- Alla vigilia dell' applicazione degli accordi di pace , comincia la difficile transizione per la Bosnia :	l' altro ieri notte	notte un' unità dell' esercito regolare bosniaco ha attaccato e saccheggiato una base delle truppe dell' Onu .
+
+0	1	0	ieri notti
+						DET ADJ ADV NOUN	REPUBBLICA	L' apparizione televisiva	l' altro ieri notti	notti ha risolto il maggiore dei numerosi interrogativi sulla sorte del colonnello Gheddafi era vivo .
+
+0	1	0	ieri parole
+						DET ADJ ADV NOUN	REPUBBLICA	Agguati , riscatti , ostaggi erano fino a	l' altro ieri parole	parole quasi sconosciute come razzismo , disoccupazione e povertà .
+
+0	1	0	ieri peggiori
+						DET ADJ ADV NOUN	REPUBBLICA	 almeno un piccolo raggio di sole  o  qualche lato positivo  nella neo-realtà quotidiana e in tutti	i nostri ieri peggiori	peggiori .
+
+6	63	0	ieri pomeriggio
+						DET ADV NOUN	ITWAC	Registrato : 12/10/04 20:40 Messaggi : 531 Inviato : Gio 09 Giu 2005 16:51 Oggetto : Ne ho vista transitare	una ieri pomeriggio	, non ho preso il numero ma comunque mi sembrava in ottimo stato .
+						DET ADJ ADV NOUN	ITWAC	Infatti	la massima ieri pomeriggio	pomeriggio , alle 17 , era di 30 gradi : ben quattro gradi in meno rispetto a ...
+						DET ADJ ADV NOUN	REPUBBLICA	a Saddam , il presidente ha deciso di attaccare l' Iraq nel giro di 24 ore ; e che solo	l' altro ieri pomeriggio	pomeriggio ha firmato l' ordine fatale .
+						DET ADJ ADV NOUN	REPUBBLICA	sulla localizzazione della  prigione  di Moro anche se i giudici Imposimato e Priore , durante un sopralluogo avvenuto	l' altro ieri pomeriggio	pomeriggio , sono ormai giunti alla conclusione che il nascondiglio è quello di via Montalcini .
+						DET ADJ ADV NOUN	REPUBBLICA	 Adesso è diventato tutto straordinariamente vero : per noi , lui è diventato questo  ha scolpito	lo svedese ieri pomeriggio	pomeriggio , ricordando che le posizioni acquisite a questo punto non possono esser più figlie della fortuna :  Dopo ventiquattro
+						DET ADJ ADV NOUN	REPUBBLICA	Da quel giorno per Pippo è stata una sofferenza crescente e i due veterinari che l' hanno visitato	l' altro ieri pomeriggio	pomeriggio l' hanno trovato  molto male  .
+						DET ADV NOUN	REPUBBLICA	capito che i rospi possono solo gonfiar- si fino a scoppiare , ma non possono crescere , ha replicato Vittorio	Sbardella ieri pomeriggio	, al colmo dell' indignazione .
+						DET ADJ ADV NOUN	REPUBBLICA	Rosario Spatola	l' altro ieri pomeriggio	pomeriggio ha cominciato la sua  cantata  parlando del ministro per il Mezzogiorno Calogero Mannino .
+						DET ADJ ADV NOUN	REPUBBLICA	E dove sono finiti gli altri giudici del pool Mani Pulite , che uno dopo	l' altro ieri pomeriggio	pomeriggio scompaiono dalla circolazione ?
+						DET ADJ ADV NOUN	REPUBBLICA	Siegfried era precipitato	l' altro ieri pomeriggio	pomeriggio per una ventina di metri lungo la torre Stabeler , la cuspide centrale delle tre che formano il gruppo di
+						DET ADJ ADV NOUN	REPUBBLICA	Due  vertici  ,	l' ultimo ieri pomeriggio	pomeriggio , sono stati tenuti dal presidente provinciale Flavio Mengoni , insieme ai vigili del fuoco e ai tecnici della protezione
+						DET ADJ ADV NOUN	REPUBBLICA	Chi erano quei due sub avvistati	l' altro ieri pomeriggio	pomeriggio davanti alla villa di Falcone ?
+						DET ADJ ADV NOUN	REPUBBLICA	La condanna a morte era stata annunciata	l' altro ieri pomeriggio	pomeriggio .
+						DET ADJ ADV NOUN	REPUBBLICA	Il fatto è avvenuto	l' altro ieri pomeriggio	pomeriggio , ma la notizia si è saputa solo ieri .
+						DET ADJ ADV NOUN	REPUBBLICA	Il voltafaccia di Eltsin è arrivato	all' improvviso ieri pomeriggio	pomeriggio , dopo una riunione al Cremlino con i leader delle regioni della Russia .
+						DET ADJ ADV NOUN	REPUBBLICA	L' attesissimo Consiglio di gabinetto dei ministri convocato	all' improvviso ieri pomeriggio	pomeriggio per sbloccare la situazione è stato rinviato a questa mattina per l' assenza di Andreotti e Carli .
+						DET ADJ ADV NOUN	REPUBBLICA	si dalle pendici del monte Faito , provato evidentemente dal diluvio che non dà pace da due giorni , e	che proprio ieri pomeriggio	pomeriggio aveva costretto pompieri e vigili urbani a transennare la zona .
+						DET ADJ ADV NOUN	REPUBBLICA	I giudici di Perugia che indagano sui loro colleghi romani hanno tentato di ricostruir- le	l' altro ieri pomeriggio	pomeriggio ascoltando come testimone il procuratore capo Coiro .
+						DET ADJ ADV NOUN	REPUBBLICA	CITTA' DEL MESSICO Un enorme incendio è scoppiato	l' altro ieri pomeriggio	pomeriggio nel centro della capitale messicana causando la morte di più di settanta persone ed il ferimento di circa un centinaio
+						DET ADJ ADV NOUN	REPUBBLICA	Chissà se	l' altro ieri pomeriggio	pomeriggio erano passate da poco le 18 Ferdinando Borletti , nipote di Senatore , ha pensato a quel cartello fatto affiggere
+						DET ADJ ADV NOUN	REPUBBLICA	La decisione è stata adottata	l' altro ieri pomeriggio	pomeriggio dal collegio dei probiviri riunito in seduta plenaria al completo dei venti membri effettivi .
+						DET ADJ ADV NOUN	REPUBBLICA	C - 141 e C - 5 da trasporto dell' Air Force , che hanno cominciato ad atterrare uno dietro	l' altro ieri pomeriggio	pomeriggio , sono veri , concreti e visibili .
+						DET ADJ ADV NOUN	REPUBBLICA	Brittan ha preso	l' aereo ieri pomeriggio	pomeriggio con una borsa carica di appunti dei suoi collaboratori , ritagli stampa , documenti .
+						DET ADJ ADV NOUN	REPUBBLICA	indicazioni della Dea americana , e a bordo della nave , ancorata alla Calata Neghelli del porto di Livorno ,	l' altro ieri pomeriggio	pomeriggio sono piombati all' improvviso i 150 uomini del capo della Mobile Paino , del colonnello dei carabinieri Placaroti , e
+						DET ADJ ADV NOUN	REPUBBLICA	Forse perché Piercamillo Davigo , il pm che ha condotto l' accusa contro Carra , era stato già molto chiaro	l' altro ieri pomeriggio	pomeriggio :  Non sta a noi regolare il trasporto dei detenuti dal carcere al tribunale , noi possiamo soltanto chiedere
+						DET ADJ ADV NOUN	REPUBBLICA	Gli impegni sì , quelli ci son stati :	l' altro ieri pomeriggio	pomeriggio , per esempio , alla Camera c' è stato un incontro fra una delegazione capitolina per Roma-capitale e l' ufficio
+						DET ADJ ADV NOUN	REPUBBLICA	A trovar- la e a liberar- la erano stati	l' altro ieri pomeriggio	pomeriggio gli operatori dei servizi sociali avvertiti da una segnalazione anonima .
+						DET ADJ ADV NOUN	REPUBBLICA	Ferdinando Pomarici , sostituto procuratore che nell' ottobre del '78 era arrivato in via MonteNevoso e che ci è tornato	l' altro ieri pomeriggio	pomeriggio insieme al collega Armando Spataro , aggiunge : Ho potuto osservare i fogli uno a uno , ma per poco
+						DET ADJ ADV NOUN	REPUBBLICA	E proprio loro ,	l' altro ieri pomeriggio	pomeriggio , domenica , erano stati portati qui a Caltanissetta in gran segreto .
+
+0	2	0	ieri presidente
+						DET ADJ ADV NOUN	REPUBBLICA	È possibile d' altra parte che Camillo de Benedetti sia stato nominato	l' altro ieri presidente	presidente della compagnia fiorentina e conservi la vice presidenza di quella triestina ?
+						DET ADJ ADV NOUN	REPUBBLICA	giunta provinciale altoatesina , Luis Durnwalder della Svp , a conclusione di una visita compiuta ad Alois Partl , riconfermato	l' altro ieri presidente	presidente della Dieta tirolese .
+
+0	1	0	ieri ritorno
+						DET ADJ ADV NOUN	REPUBBLICA	L' autore dell' esperimento che sta facendo discutere , il professor Martin Fleischmann , ha fatto	l' altro ieri ritorno	ritorno a Londra .
+
+33	283	4	ieri sera
+						DET ADJ ADV NOUN	ITWAC	In attesa dell' uscita del nuovo disco gli Oasis si sono esibiti	dal vivo ieri sera	sera al Coliseum di Watford , mentre stasera suoneranno alla Royal Albert Hall di Londra .
+						DET ADJ ADV NOUN	ITWAC	Luciano Postato da : luciano belli il 03.05.05 12:24 Sei stato	un grande ieri sera	sera !
+						DET ADV NOUN	ITWAC	^ _ _ ^ Ieri sera (	un ieri sera	di tempo fa ormai !
+						DET ADJ ADV NOUN	REPUBBLICA	La rottura delle trattative , verificate- si	l' altro ieri sera	sera a Whistler , in Canada , potrebbe adesso indurre l' amministrazione Usa a decretare sanzioni economiche nei confronti dei prodotti
+						DET ADJ ADV NOUN	REPUBBLICA	Dopo una lunga malattia , il governatore onorario della Banca d' Italia si è spento	l' altro ieri sera	sera all' età di 78 anni .
+						DET ADJ ADV NOUN	REPUBBLICA	Nell' urto , avvenuto	l' altro ieri sera	sera nel centro di Latina , una sedicenne è rimasta gravemente ferita ed è ora in coma al Policlinico  Gemelli
+						DET ADJ ADV NOUN	REPUBBLICA	La tragedia è avvenuta	l' altro ieri sera	sera .
+						DET ADJ ADV NOUN	REPUBBLICA	Sia Andreotti , che	l' altro ieri sera	sera , ieri mattina in Italia , ha avuto un pranzo di lavoro con Baker , sia De Michelis hanno messo
+						DET ADJ ADV NOUN	REPUBBLICA	Le dimissioni sono arrivate	l' altro ieri sera	sera alla sede bolognese del gruppo Monti in via Mattei , tramite fax e già ieri mattina i transfughi si sono
+						DET ADJ ADV NOUN	REPUBBLICA	Al banchetto alla Casa Bianca svolto- si	l' altro ieri sera	sera , tenuto per tre ex presidenti , lo stesso Carter , Bush e Ford , per cinque ex segretari di
+						DET ADJ ADV NOUN	REPUBBLICA	 Posso dir- le	che proprio ieri sera	sera , al ministro dei Beni culturali e ambientali , Ronchey , ho parlato dell' idea di mettere allo studio delle
+						DET ADJ ADV NOUN	REPUBBLICA	domenica prossima , Mino Damato , prima di dire  è stata una domenica indimenticabile  , come ha detto	l' altro ieri sera	sera alla fine della trasmissione .
+						DET ADJ ADV NOUN	REPUBBLICA	Kgb , il servizio segreto sovietico , Giorgio Rinaldi è morto ieri all' ospedale di Asti dove era stato ricoverato	l' altro ieri sera	sera per un attacco di ischemia cerebrale .
+						DET ADJ ADV NOUN	REPUBBLICA	Dopo una riunione fiume terminata a tarda ora	l' altro ieri sera	sera e proseguita ieri mattina , l' organo di vigilanza ha deciso di chiedere una integrazione della documentazione .
+						DET ADJ ADV NOUN	REPUBBLICA	Con lo stile che gli è proprio , e che lo espone a clamorose gaffe --	l' altro ieri sera	sera a Buckingham Palace si è seduto prima della regina Elisabetta , saltando poi in piedi rosso in faccia -- Bush
+						DET ADJ ADV NOUN	REPUBBLICA	pena di morte di cui è segretario Sergio D' Elia , marito di Mariateresa ( il fascicolo è stato presentato	l' altro ieri sera	sera , fra gli altri , da Furio Colombo e Vincenzo Tarantino , ed è in vendita nelle librerie ) .
+						DET ADJ ADV NOUN	REPUBBLICA	appartenere , evidentemente , al direttore di RaiDue Giampaolo Sodano , che non ha esitato a definire il film ,	l' altro ieri sera	sera , durante la presentazione un programma straordinario .
+						DET ADJ ADV NOUN	REPUBBLICA	Secondo quanto hanno riferito	l' altro ieri sera	sera tutti i protagonisti di quella riunione , il governo avrebbe deciso tre cose : 1 ) di firmare martedì il
+						DET ADJ ADV NOUN	REPUBBLICA	Ma veniamo alla situazione dei piccoli : Antonio , 600 grammi , è deceduto	l' altro ieri sera	sera , poche ore dopo il parto .
+						DET ADJ ADV NOUN	REPUBBLICA	 Li ho visti questa sera , alle nove meno un quarto , e stanno bene  , ha detto	il legale ieri sera	sera a un giornalista dell' ufficio romano dell' agenzia britannica .
+						DET ADJ ADV NOUN	REPUBBLICA	A dir- lo , sono soprattutto le donne del neonato ' Comitato pro Sergio Gregorat ' , che	l' altro ieri sera	sera hanno manifestato davanti al carcere di Regina Coeli , a Roma .
+						DET ADJ ADV NOUN	REPUBBLICA	Un black out l' ha paralizzata	l' altro ieri sera	sera per alcune ore , come è capitato più volte alla  grande mela  .
+						DET ADJ ADV NOUN	REPUBBLICA	Le riunioni di gabinetto da lui tenute	l' altro ieri sera	sera e ieri pomeriggio alla Casa Bianca non sembrano più preparativi del conflitto ma ricerche di una soluzione diplomatica della crisi
+						DET ADJ ADV NOUN	REPUBBLICA	L' ultimo della serie risale a	l' altro ieri sera	sera quando uno dei battelli ha captato qualcosa di molto grosso a 180 metri di profondità proprio nella baia di Urquhart
+						DET ADJ ADV NOUN	REPUBBLICA	Lo ha raccontato ,	l' altro ieri sera	sera , dopo il sopralluogo fatto in compagnia dello psicologo , Giuseppe Orfanelli , sul greto del fiume  Pescara
+						DET ADJ ADV NOUN	REPUBBLICA	Bush  profondamente frustrato e angosciato  dalla assoluzione dei quattro poliziotti , come ha detto in un amaro comunicato	l' altro ieri sera	sera , è apparso alla Tv per rassicurare il paese che la sua amministrazione  imporrà la giustizia e riporterà l'
+						DET ADJ ADV NOUN	REPUBBLICA	TIRANA -- Continua ad essere presidiata la zona delle ambasciate dove	l' altro ieri sera	sera sono avvenuti scontri tra forze dell' ordine e centinaia di dimostranti .
+						DET ADJ ADV NOUN	REPUBBLICA	Cinque mesi fa non avevano un penny ,	l' altro ieri sera	sera hanno venduto la loro idea per trenta miliardi di lire a un gigante americano , e si sono seduti sulle
+						DET ADJ ADV NOUN	REPUBBLICA	Il Professore di Bologna lo ha ribadito a Ciampi a cena ,	l' altro ieri sera	sera : la Stet deve essere una public company , formula ideale soprattutto per grandi società di servizio .
+
+0	1	0	ieri sindacati
+						DET ADJ ADV NOUN	REPUBBLICA	Alla base del confronto c' è la piattaforma rivendicativa sulla quale	l' altro ieri sindacati	sindacati confederali e Coordinamento dei macchinisti uniti hanno trovato una linea comune .
+
+1	0	0	ieri spike
+						DET ADV NOUN	ITWAC	però nonostante sia bello a me non piace troppo e poi	dai ieri spike	è sembrato ridikolo ...
+
+1	0	0	ieri vicenda
+						DET ADV NOUN	ITWAC	della forza militare , riflettere su un  primato della realtà  , evidente oggi nel caso dell' Afghanistan come	nella ieri vicenda	dei Balcani .
+

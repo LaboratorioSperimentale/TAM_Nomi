@@ -1,0 +1,1058 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+1	0	0	mai Desiderio
+						DET ADV ADJ NOUN	ITWAC	Risvegliò in me	Il mai spento Desiderio	di Andare oltre , di vagare e trovarsi solo , solo in una valle mai veduta , in una strada mai
+
+1	0	0	mai Mani
+						DET ADJ ADV NOUN	ITWAC	Mà shèche e mal de cài : l' àivô	la màncô mai Mani	Mani secche e mal di calli : l' acqua non manca mai .
+
+1	0	0	mai Scisma
+						DET ADV ADJ NOUN	ITWAC	Accanto Manuel Agnelli e lo stesso Parente porta il suo contributo anche Paolo Benvegnù	dei mai dimenticati Scisma	nella scrittura delle chitarre .
+
+1	0	0	mai Sete
+						DET ADV ADJ NOUN	ITWAC	( terza pole per il giapponese ) , a un ritrovato Max Biaggi , al sempre competitivo talentino Rossi e	al mai domo Sete	Gibernau , Nicky può essere uno dei grandi protagonisti del GP di Valentia .
+
+1	0	0	mai Ufo
+						DET ADV ADJ NOUN	ITWAC	Appena il tempo di assaporare dalle casse dell' impianto  Doctor , doctor 	dei mai dimenticati Ufo	in cui militava il grande chitarrista capostipite degli axe-men contemporanei Michael Shenker , guarda caso tedesco anche lui ( a proposito
+
+1	0	0	mai Vanadium
+						DET ADV ADJ NOUN	ITWAC	nel bel mezzo del concerto dei Fire Trails di Pino Scotto e Lio Mascheroni , ossia 2 pezzi belli grossi	dei mai dimenticati Vanadium	, colonna portante del metal italiano degli anni ottanta con Fil di Ferro , Raw Power e Death SS .
+
+0	2	0	mai a
+						DET ADV ADJ NOUN	REPUBBLICA	è un paese immenso , è impossibile mettere un poliziotto davanti a ogni casa , mentre i terroristi sono più	che mai determinati a	massacrare con la massima ferocia  .
+						DET ADV ADJ NOUN	REPUBBLICA	ha ribadito quanto sia  pericolosa  la situazione creata- si in Iraq e come gli Stati Uniti siano più	che mai determinati a	non abbandonare la politica delle sanzioni finché Saddam resterà in sella .
+
+1	0	0	mai ababstanza
+						DET ADV NOUN	ITWAC	che la più grande  train song  di ogni tempo è la meravigliosa  City of New Orleans 	del mai ababstanza	compianto Steve Goodman .
+
+1	0	0	mai abisso
+						DET ADV ADJ NOUN	ITWAC	All' origine nell' opinione pubblica c' è	il mai superato abisso	psicologico fra i due popoli asiatici - strumentalmente sottolineato dal partito comunista - a causa dell' invasione militare giapponese , con
+
+0	1	0	mai abitazione
+						DET ADV NOUN	REPUBBLICA	interessi passivi paga- ti nel 1992 , considerato che l' immobile è l' unico di mia proprietà e che costituisce	la mai abitazione	principale ?
+
+1	0	0	mai accademia
+						DET ADV NOUN	ITWAC	E' un mondo affascinante , sono appena ora reduce da un incontro	della mai accademia	durato tutto il week end , non ci stavo più dentro nella pelle .
+
+1	0	0	mai accoppiata
+						DET ADV ADJ NOUN	ITWAC	Stavo per dimenticare di scrivere che il sistema di controllo , uguale per tutti e tre i prodotti , consiste	nella mai obsoleta accoppiata	mouse + tastiera , svolgendo il proprio compito in maniera egregia e soddisfacente .
+
+0	1	0	mai acribia
+						DET ADV ADJ NOUN	REPUBBLICA	Consapevole sempre , ossessionata anzi da	una mai dismessa acribia	mentale , da un sorvegliato dispor- si e crescere l' uno sopra l' altro dei suoi atti formativi .
+
+2	0	0	mai affare
+						DET ADV NOUN	ITWAC	a cera , Anz ' è sì fresca e bella 175 Che lo me ' cor s' abella Di non	le mai affare	, Tant ' à piacente affare .
+						DET ADV NOUN	ITWAC	sembiante a cera , anz ' è sì fresca e bella che lo me ' cor s' abbella di non	le mai affare	, tant ' ha piacente affare .
+
+1	0	0	mai affidabilità
+						DET ADV ADJ NOUN	ITWAC	si pensi a quanto sia facile l' eventualità di una banale dimenticanza , nonché l' affermazione della stessa fonte circa	la mai completa affidabilità	del dispositivo e si raffronti ciò all' entità del rischio conseguente , quale è dal manuale stesso enunciata .
+
+1	0	0	mai allieva
+						DET ADV NOUN	ITWAC	Viadians :  Maestà le prego di scusare l' irruenza	della mai allieva	 .
+
+1	0	0	mai amati
+						DET ADV NOUN	ITWAC	Proseguire quella guerra che ci si era stancati di combattere a fianco	dei mai amati	tedeschi ?
+
+1	0	0	mai amica
+						DET ADV NOUN	ITWAC	Aspettiamo e intanto	la mai amica	ese per parlare al cellualre Passa qualche min. ma nessun cenno dai cessi , busso e chiamo ma non concludo niente
+
+1	0	0	mai amministrazione
+						DET ADV NOUN	ITWAC	Non c' erano onde , tutto piatto , ma perché non è così anche per	la mai amministrazione	?
+
+1	0	0	mai ammirazione
+						DET ADV NOUN	ITWAC	Non posso darti il mio perdono per le azioni che hai compiuto prima di incontrarmi ma la mia fiducia e	la mai ammirazione	per te sono sconfinate e so che prima o poi riuscirai a capire che sei un uomo con tutti i diritti
+
+1	0	0	mai amori
+						DET ADV ADJ NOUN	ITWAC	Ritorneran in te tutti i colori : le gioie i pianti	i mai vissuti amori	, ritroverai la voglia di gridare conoscerai le onde del mio mare ...
+
+1	0	0	mai anelito
+						DET ADV ADJ NOUN	ITWAC	ricerca maniacale di verità alterna tenerezza e violenza , speranza e disperazione , orrore e sarcasmo , sempre tormentata da	un mai soddisfatto anelito	al Divino .
+
+3	0	0	mai anima
+						DET ADV NOUN	ITWAC	esisto più , e allora come mai non sono in qualche dimensione infernale dove dovrei stare , oppure come mai	la mai anima	non ha trovato pace , come avrebbe potuto dopo il mio sacrificio ?
+						DET ADV NOUN	ITWAC	pensieri assalgono la mia mente , molti ricordi sbiaditi riemergono , tante cicatrici sono state riaperte infinite nuove ferite dilaniano	la mai anima	.
+						DET ADV NOUN	ITWAC	perchè sapevo che per la lontanazna non sarebbe potuta durare anche se era	la mai anima	gemella ...
+
+2	0	0	mai anni
+						DET ADV ADJ NOUN	ITWAC	IT - Recensioni - Cd Fetish abbandona le atmosfere popolari dei suoi precedenti lavori e vira deciso verso	i mai dimenticati anni	'70 , tra schitarrate dall' attitudine punk , abbondanze di sinth e tenere ballate dalla voce scarnificata Luca Faggella Fetish (
+						DET ADV ADJ NOUN	ITWAC	il titolo della sua quarta fatica musicale , abbandona le atmosfere popolari dei suoi precedenti lavori e vira deciso verso	i mai dimenticati anni	'70 , tra schitarrate dall' attitudine punk , abbondanze di sinth e tenere ballate dalla voce scarnificata .
+
+1	0	0	mai ansia
+						DET ADV ADJ NOUN	ITWAC	chiamati ad occupare il centro di una scena che richiama il teatro greco ( sorta anche questa di richiamo ad	una mai perduta ansia	di catarsi ) .
+
+0	1	0	mai antagonismo
+						DET ADV ADJ NOUN	REPUBBLICA	Il che -- sembra di capire -- potrebbe riattizzare una contesa che si nutre anche	del mai estinto antagonismo	tra Montecitorio e palazzo Madama .
+
+0	0	1	mai antifascismo
+						DET ADV ADJ NOUN	WIKICONLL	della  Rerum novarum  suona critica alle corporazioni fasciste e un informatore della polizia la definisce « una manifestazione	di mai represso antifascismo	» .
+
+0	1	0	mai appannaggio
+						DET ADJ ADV NOUN	REPUBBLICA	Si finanzia la scuola superiore frequentata dalle classi dominanti piuttosto che	quella primaria mai appannaggio	appannaggio dei bambini delle classi estreme , si porta l' acqua nelle case abitate da minoranze piuttosto che portar- la nelle
+
+1	0	0	mai appartenenza
+						DET ADV ADJ NOUN	ITWAC	La sua morte , avvenuta nel campo di Auschwitz-Birkenau , dovuta	alla mai rinnegata appartenenza	al popolo ebraico , invita a riflettere sulle conseguenze della cosciente rinuncia ai valori cristiani .
+
+1	0	0	mai argomento
+						DET ADV ADJ NOUN	ITWAC	Però , dalla divergenza di opinione tra Barbara e Maddalena , vorrei aggiungere due parole	al mai esaustivo argomento	dello stile .
+
+0	0	1	mai arie
+						DET ADV NOUN	WIKICONLL	Anche se fa parte dei gruppi più popolari della scuola non si	da mai arie	e non trascura gli amici .
+
+1	0	0	mai assenza
+						DET ADV NOUN	ITWAC	Non mi dilunghero' nei xke ' o nei x come	della mai assenza	, preferisco scrivere un post molto divertente che ho letto su D il supplemento dedicato alle donne .
+
+1	0	0	mai attenzione
+						DET ADV ADJ NOUN	ITWAC	La lettera vuole essere anche un tentativo di determinare una svolta	nella mai sufficiente attenzione	alla sicurezza sugli impianti sciistici e sportivi in genere , a salvaguardia della incolumità di adulti e bambini alla ricerca di
+
+1	0	0	mai audio
+						DET ADV ADJ NOUN	ITWAC	Impreziositi da	un mai invadente audio	a cinque canali ( è comunque disponibile anche la traccia stereo ) , la qualità audio di questi Dvd quasi costringe
+
+1	0	0	mai avidità
+						DET ADV NOUN	ITWAC	sono e resto una Combattente della Trasparenza , addestrata nel rigore del Monte Toomei e ad esso faccio appello perché	la mai avidità	non si muti in cupidigia né in invidia .
+
+1	0	0	mai azione
+						DET ADV ADJ NOUN	ITWAC	Una particolare attenzione è dedicata al riconoscimento dell' associazionismo presente nelle comunità linguistiche grazie al quale , con	una mai stanca azione	di volontariato , si è riusciti a promuovere iniziativa didattica e grande produzione culturale ed artistica .
+
+3	0	1	mai banale
+						DET ADJ ADV NOUN	ITWAC	La Juventus va a Firenze per	una classicissima mai banale	banale , poi c' è Milan-Brescia .
+						DET ADJ ADV NOUN	ITWAC	e di osservazione su di un costume magari inquietante ma certamente non statico , che gli suggerisce un linguaggio ,	una parlata mai banale	banale nè risaputa .
+						DET ADV NOUN	ITWAC	Critica  C' è un po' di tutto in questo curioso film guidato dalla cinica regia	del mai banale	Peter Hyams di ' Atmosfera zero ' , c' è l' incubo dello schermo , grande o piccolo , che ricorre
+						DET ADV NOUN	WIKICONLL	La cadenza di tiro , condizionata	dal mai banale	problema dell' alimentazione , è teoricamente di 120 colpi/min . , quella pratica è di circa 60-70 ; le munizioni sono
+
+1	0	0	mai bandiere
+						DET ADV ADJ NOUN	ITWAC	dall' Arci alle Donne in nero , si sono date appuntamento in prossimità degli ingressi con cartelli , striscioni e	le mai abbandonate bandiere	della pace .
+
+0	0	1	mai barbaricini
+						DET ADV ADJ NOUN	WIKICONLL	Venne fondata soprattutto come baluardo militare per contrastare le continue incursioni	dei mai domi barbaricini	dell' interno dell' isola .
+
+1	0	0	mai battaglia
+						DET ADV ADJ NOUN	ITWAC	[ 5 ]	Nella mai esaurita battaglia	a Kelsen e al kelsenismo , Die Politischen Religionen diventa così una testimonianza di spicco , in grado di contestare la
+
+0	3	0	mai bisogno
+						DET ADV NOUN	REPUBBLICA	Andando incontro al derby , il Milan ha scoperto di avere più	che mai bisogno	del suo capitano , lasciando i milanisti nel più affettuoso sconforto .
+						DET ADV NOUN	REPUBBLICA	sempre , adattando- si alle circostanze : un nome che è ancora un programma per una società che ha più	che mai bisogno	di satira .
+						DET ADV NOUN	REPUBBLICA	sul Mar Rosso contesa da entrambi i paesi : la querelle ha avvelenato i rapporti israeliano-egiziani che ora hanno più	che mai bisogno	di una normalizzazione che riporti a Tel Aviv l' ambasciatore di Mubarak e recuperi quindi l' unico vero -- anche se
+
+0	1	0	mai brani
+						DET ADV ADJ NOUN	REPUBBLICA	pavimento de La Madonna in trono di Bergamo , con il gatto de La cena in Emmaus , e con	tanti mai altri brani	di realtà da risultar pre-caravaggeschi ( come da Longhi in poi si è sempre detto ) , arrivando all' amore e
+
+1	0	0	mai cagna
+						DET ADV NOUN	ITWAC	un cane e a parte piccoli episodi ti posso garantire che convivono felicemente , quando mi hanno regalato il gatto	la mai cagna	aveva gia' 11 anni e se anche alle prime non e' stata molto felice , piano piano ha imparato a giocarci
+
+0	1	0	mai camera
+						DET ADV ADJ NOUN	REPUBBLICA	e dei funzionari amministrativi , non è possibile ipotizzare alcuna responsabilità diretta dei politici per quanto accaduto nell' inferno assassino	della mai controllata camera	iperbarica .
+
+0	2	0	mai candidato
+						DET ADV NOUN	REPUBBLICA	la direzione ha risposto con l' abitua- le prontezza l' anziano presidente della commissione centrale di controllo , ora più	che mai candidato	a presiedere l' intero partito .
+						DET ADV NOUN	REPUBBLICA	quelli di Lionel Jospin , non farà parte della direzione collegiale presieduta dal nuovo leader del partito e ormai piu	che mai candidato	alle prossime elezioni presidenziali .
+
+0	1	0	mai cannuccia
+						DET ADV ADJ NOUN	REPUBBLICA	Scriveva con	la mai smessa cannuccia	d' argento e con uno dei suoi leggendari pennini inglesi marca Perry : ne aveva una grossa riserva regalatagli da un
+
+1	0	0	mai canzone
+						DET ADV NOUN	ITWAC	li seguo li ho visti pure live e nn deludono anzi frana la curva frana - fuzzy - marta UAUUUUUUUUUUUUU	la mai canzone	top del momento è SENTI dei Realize l' ascolto miliardi di volte !
+
+1	0	0	mai capitale
+						DET ADV NOUN	ITWAC	di Athkatla Inviato : Mar Nov 23 , 2004 8:51 pm Oggetto : I cognomi d' Italia Roma sembra essere	la mai capitale	...
+
+1	0	0	mai carezze
+						DET ADV ADJ NOUN	ITWAC	si rivela , in realtà , un mezzo per evocare ( in una plastica scena di  multimasturbazione  )	le mai dimenticate carezze	del compagno ...
+
+1	0	0	mai cartellina
+						DET ADV NOUN	ITWAC	quando trovo difficolta' a creare certe posizioni , piglio	la mai cartellina	dove ci sono ritagli di giornali di tutti itipi e scansioni di manga che modifico per i miei fumetti , non
+
+2	0	0	mai casa
+						DET ADV NOUN	ITWAC	Quello che succede oggi in questo villaggio potrebbe succedere domani	nella mai casa	e quindiâ  ¦ vediamo di sistemare questa cosa alla svelta ...
+						DET ADV NOUN	ITWAC	Volevo entrare un po' più nello specifico	della mai casa	, cioè della mia esperienza portandovi due o tre esempi .
+
+0	1	0	mai caso
+						DET ADV ADJ NOUN	REPUBBLICA	Ieri , durante il quarto processo	sul mai risolto caso	Moro , il parroco è salito sullo scranno dei testimoni e ha raccontato cosa accadde in quei 55 giorni .
+
+1	0	0	mai cavalla
+						DET ADV NOUN	ITWAC	ragazzi ecco arrivato il giorno della rassegna	della mai cavalla	, questa mattina siamo partiti col van e tre cavalli , e siamo arrivatia destinazione Maccarese ( RM ) presso l
+
+0	1	0	mai celata
+						DET ADJ ADV NOUN	REPUBBLICA	recuperare i diritti e stampar- le con qualcun altro , mi sembra utile  ) : l' inevitabile conseguenza teatrale	della sua mai celata	celata vocazione letteraria , quella dell' autobiografia ' Un grande avvenire dietro le spalle ' di dieci anni fa , di
+
+0	1	0	mai centrale
+						DET ADV NOUN	REPUBBLICA	e gestiva la linea nelle relazioni con la Chiesa cattolica , mantenendo una netta intransigenza sul problema -- oggi più	che mai centrale	nei rapporti tra Roma e Mosca -- dei cattolici ucraini di rito orientale .
+
+1	0	0	mai centralità
+						DET ADV ADJ NOUN	ITWAC	Ed è nell' ottica di	una mai cedibile centralità	del soggetto che si concretizza una proposta educativa mirante all' espressione e al potenziamento di una crescita autonoma e critica dell'
+
+0	0	1	mai chitarra
+						DET ADV NOUN	WIKICONLL	Sul retro venne inserita una canzone tratta dall' album Luca Barbarossa ,  Se potesse parlare	la mai chitarra	 , canzone in stile West Coast in cui il cantautore racconta la sua vita di giovane musicista tramite il rapporto
+
+1	0	0	mai ciclo
+						DET ADV NOUN	ITWAC	non c' è	un mai ciclo	mancato , c' è un' ovulazione mancata .
+
+1	0	0	mai cinguettio
+						DET ADV ADJ NOUN	ITWAC	Dal sicuro riparo del giardino della Pieve	un mai stanco cinguettio	scandisce la quiete pigrizia del meriggio .
+
+1	0	0	mai città
+						DET ADV NOUN	ITWAC	protette dalla MaFiat hanno infranto una serie enorme di leggi e continuano ad andare in giro impuniti per le vie	della mai città	!
+
+1	0	0	mai collezione
+						DET ADV ADJ NOUN	ITWAC	e dipinge immagini vivaci e coloratissime di vita campesina che saranno il più bel souvenir di questo paese e arricchiranno	la mai piccola collezione	di naïf latinoamericani .
+
+1	0	0	mai compianto
+						DET ADV NOUN	ITWAC	Ricordo una celebre frase	del mai compianto	abbastanza Aldo Moro :  Bisogna essere fiduciosi e coraggiosi , si tratta di vivere il tempo che ci è stato
+
+0	1	0	mai compito
+						DET ADV ADJ NOUN	REPUBBLICA	Non si vede allora	quale mai altro compito	debbano avere i giudici se non quello di perseguire l' illecito e l' illegale ; almeno sino a che le leggi
+
+1	0	0	mai complessità
+						DET ADV ADJ NOUN	ITWAC	, a sei anni suonati dalla nascita , e con la verve che si ritrova , l' accattivante simpatia ,	la mai banale complessità	, resta a tutt ' oggi un bel volo - niente affatto radente né a planare - bensì disteso , in
+
+0	0	1	mai complicazioni
+						DET ADV ADJ NOUN	WIKICONLL	) ; poco dopo , nel 1999 , giunse il ritiro ad appena 30 anni a causa del perpetuar- si	di mai risolte complicazioni	alle articolazioni delle ginocchia ; nel corso di un periodo di inattività dovuto a un precedente , analogo , infortunio ,
+
+1	0	0	mai comprensione
+						DET ADV NOUN	ITWAC	Un abbraccio Autore Risposta : farina Inserita il : 09/06/2005 14:04:31 Messaggio : Caro Amleto , hai tutta	la mai comprensione	.
+
+1	0	0	mai concetto
+						DET ADV ADJ NOUN	ITWAC	, qui si prepara un radicale cambiamento di paradigma , che costringe a risemantizzare , come dicevamo all' inizio ,	il mai scontato concetto	di  fraternità  ( guai ad usurarne il senso , come purtroppo accade spesso nella babele frastornante mass-mediologica ) .
+
+1	0	0	mai conoscenza
+						DET ADV NOUN	ITWAC	Oliviero :	La mai conoscenza	di giovani italiani è troppo limitata , anche se ho visto alcuni dei lavori dei giovani citati dal Sole 24 Ore
+
+1	0	0	mai consapevolezza
+						DET ADV ADJ NOUN	ITWAC	Auschwitz , Kaufering III e Türkheim , da cui uscì il 27 aprile 1945 con la sola nuda esistenza e	la mai persa consapevolezza	di avere un compito nella vita da portare a termine , quello cioè di proclamare sempre e dappertutto l' inalienabile dignità
+
+0	1	0	mai consenso
+						DET ADV NOUN	REPUBBLICA	certa esaltazione reciproca di tipo insincero , com' è in voga tra artisti mediocri , ora devo però chieder- me	quale mai consenso	al mondo mi possa risarcire della mancanza del suo !
+
+0	1	0	mai contrasto
+						DET ADV ADJ NOUN	REPUBBLICA	disciplina normativa degli uffici della Procura della Repubblica , tenendo presente che dietro l' apparente tecnicismo della materia si cela	un mai risolto contrasto	di fondo .
+
+0	1	0	mai contratto
+						DET ADJ ADV NOUN	REPUBBLICA	essere francese Merwan , figlio di gente che ha già pagato cara la sua scelta di libertà , dovrà pagare	un debito mai contratto	contratto .
+
+1	0	0	mai convinzione
+						DET ADV ADJ NOUN	ITWAC	Il regolamento degli investimenti	La mai provata convinzione	che gli investimenti esteri siano essenziali per lo sviluppo ha portato molti governi dei paesi in via di sviluppo a privilegiare
+
+1	0	0	mai coppia
+						DET ADV NOUN	ITWAC	andiamo a ballare poi arriva	la mai coppia	di ballo e loro 3 vanno a bere ma ritorna l amica che mi chiede di ballare .
+
+1	0	0	mai coscienza
+						DET ADV NOUN	ITWAC	In quel momento sento ardere	la mai coscienza	, per la sua macabra bellezza .
+
+0	1	0	mai cose
+						DET ADV NOUN	REPUBBLICA	Eppure i due campioni , della cristianità e del demoniaco ,	quante mai cose	non hanno in comune : cultura e lussuria , avidità di sapere , infinita curiosità , orgoglio smisurato , sfrenata ambizione
+
+1	0	0	mai crimini
+						DET ADV ADJ NOUN	ITWAC	« assassini di italiani solo perche italiani » , e che parifica ai crimini ( reali ) commessi dai nazifascisti	i mai provati crimini	dei partigiani italiani e jugoslavi .
+
+1	0	0	mai critica
+						DET ADV ADJ NOUN	ITWAC	E Scorsese è pronosticato	dalla mai tenera critica	Usa a entrare a far parte della cinquina dei candidati per la sontuosa regia di The Aviator , kolossal biografico sulla
+
+1	1	0	mai curiosità
+						DET ADV ADJ NOUN	ITWAC	interpretare alla tua maniera con quella giusta vena di dubbio e malinconia condita da una abbondante spruzzata d' ironia mista	alla mai sazia curiosità	.
+						DET ADV ADJ NOUN	REPUBBLICA	, e col ricco prontuario delle sicurezze infrante e anatomizzate da Pirandello , con in più , sia concesso ,	una mai inattuale curiosità	: in che consistevano quei ' capricci ' tanto osceni con cui il marito-dottore di Fulvia aveva guastato l' equilibrio di
+
+2	0	0	mai desiderio
+						DET ADV ADJ NOUN	ITWAC	Esso é piuttosto espressione	del mai appagato desiderio	di conoscere più a fondo Dio , abisso di luce e fonte di ogni umana verità .
+						DET ADV ADJ NOUN	ITWAC	pagine doveva essere eccessivamente forte se Murray rinunciò ad un cospicuo guadagno , vista la straordinaria fama del poeta ed	il mai domo desiderio	di dettagli scabrosi e piccanti da parte dei lettori , che già si erano cibati con avidità di tutte le sue
+
+1	0	0	mai destino
+						DET ADV ADJ NOUN	ITWAC	Scelta del tutto casuale , all' apparenza ; eppure stabilita con matematica precisione	dal mai sonnacchioso destino	.
+
+1	0	0	mai destra
+						DET ADV NOUN	ITWAC	si spaventa scarta va a finire giù del burrone sulla destra , io faccio per appoggiarmi sulla Roby che stava	alla mai destra	per non cadere , solo che la Roby non c \ ' era più , era rimasta sulla collinetta PANICO ,
+
+1	1	0	mai dibattito
+						DET ADV ADJ NOUN	ITWAC	A buttare olio sul fuoco	del mai spento dibattito	pro o contro l' ingresso della Turchia nell' Unione europea ha provveduto Valery Giscard d' Estaing , presidente della Convenzione ,
+						DET ADV ADJ NOUN	REPUBBLICA	Ma la tragedia sembra fatta apposta per riaprire ancora una volta	il mai concluso dibattito	sulla chiusura dei manicomi .
+
+1	0	0	mai dicotomia
+						DET ADV ADJ NOUN	ITWAC	società , rapporto questo che ci rimanda anche nel secolo della globalizzazione , al bisogno di appartenenza inclusiva , ed	alla mai superata dicotomia	comunità / società .
+
+0	1	0	mai difficoltà
+						DET ADV ADJ NOUN	REPUBBLICA	Il perché di questa richiesta affonda le radici	nelle mai superate difficoltà	di rapporto fra il concessionario e la Casa automobilistica .
+
+1	0	0	mai diminuzione
+						DET ADV ADJ NOUN	ITWAC	Naturalmente , vi è	la mai desueta diminuzione	sostanziale del gap infrastrutturale e , più avanti , l' attrazione di investimenti nell' area , anche attraverso l' utilizzo dei
+
+1	0	0	mai disco
+						DET ADV ADJ NOUN	ITWAC	Prodotto da Steve Lillywhite , le tredici canzoni	del mai noioso disco	dei Phish si ascoltano tutte d' un fiato , proprio per l' infinita serie di citazioni che contengono .
+
+1	0	0	mai disponibilità
+						DET ADV ADJ NOUN	ITWAC	Va da sè che , stante	la mai contestata disponibilità	( e quindi conferibilità ad arbitri ) delle questioni risarcitorie nei rapporti interprivati , anche quelle controversie rientranti nell' attività privata
+
+0	0	1	mai disprezzo
+						DET ADV ADJ NOUN	WIKICONLL	Per questa e per la democrazia parlamentare nutrì sempre	un mai nascosto disprezzo	, divenendo così l' ideale punto di riferimento dei molti movimenti nazionalisti e militaristi tedeschi , molti dei quali confluirono nel
+
+1	0	0	mai dito
+						DET ADJ ADV NOUN	ITWAC	Nicoletto : Varè , vedè , per cossa no me	l' aveu mai dito	dito ?
+
+1	0	0	mai dolore
+						DET ADV ADJ NOUN	ITWAC	voce che nessuno da tempo sa udire arrivano col buio su schermi di parole ti dicono del passato Amore di	un mai assente dolore	di un vuoto da riempire La senti ?
+
+0	1	0	mai domande
+						DET ADV NOUN	REPUBBLICA	serie di raccomandazioni impartite dal suo entourage : niente domande personali , sulla musica , sulla moda , e men	che mai domande	sul suo naso rifatto !
+
+0	0	1	mai echi
+						DET ADV ADJ NOUN	WIKICONLL	Lo stile di Bertoli si contraddistingue per la sua immediatezza , nonché	i mai banali echi	poetici che fanno della sua opera un esempio limpido della bontà della prima canzone d' autore italiana che ha ospitato artisti
+
+0	1	0	mai educazione
+						DET ADV NOUN	REPUBBLICA	Un tipo in stivaloni e camicia nera , indignato per quel mio atteggiamento , aveva avvicinato mia mamma chiedendo- le	quale mai educazione	mi venisse impartita , a casa .
+
+1	0	0	mai el
+						DET ADJ ADV NOUN	ITWAC	Infatti si dice anche : « L' öltemô néf	la làshô mai el	el giàs » ( L' ultima neve non lascia mai il ghiaccio ) .
+
+1	0	0	mai elaborazione
+						DET ADV ADJ NOUN	ITWAC	sono poi solo il pretesto da parte dello scrittore per toccare i temi a lui più cari : come quello	della mai facile elaborazione	del lutto o quello di rievocare il passato prossimo d' una Italietta provinciale e paesana ?
+
+1	0	0	mai email
+						DET ADV NOUN	ITWAC	Fabricio ) o 3475215463 ( Marco Nombre - relazioni con l' estero ) o attraverso il mio sito WWW.FABRICIONASCIMENTO.COM attraverso	la mai email	: fabricionascimento@vivacity.it GPD : Dove insegni ?
+
+0	1	0	mai enigma
+						DET ADV ADJ NOUN	REPUBBLICA	TIME CRICKET E SESSO Il Times riporta d' attualità	un mai risolto enigma	: il sesso fa male allo sport ?
+
+1	0	0	mai eroina
+						DET ADV NOUN	ITWAC	by missliu | miss@miss.it | - 5 - Se qualche volta ho seguito il GF è stato solo per vedere	la mai eroina	all' azione : Katia fantastica ...
+
+1	0	0	mai esecuzione
+						DET ADV ADJ NOUN	ITWAC	I primi a intervenire furono gli agenti della Polizia Municipale di Bondeno , che oltre	alla mai semplice esecuzione	dei rilievi , circostanziarono con estrema perizia , degna della migliore Crime Scene Squad , lo scenario dell' evento .
+
+1	0	0	mai esercizi
+						DET ADV ADJ NOUN	ITWAC	quelli di una ricostruzione giudiziaria delle responsabilità e delle circostanze , ormai ampiamente portata a termine , al di là	dei mai esausti esercizi	dietrologici proiettivi o strumentali , del complottismo conveniente , del vagheggiamento di  grandi vecchi  , servizi segreti vari ,
+
+0	1	0	mai esistenze
+						DET ADV ADJ NOUN	REPUBBLICA	, passioni inconfessabili , il solido conforto della vita di campagna , e naturalmente il passato che ritorna a sconvolgere	le mai quiete esistenze	dei protagonisti .
+
+1	0	0	mai esperienza
+						DET ADV NOUN	ITWAC	Per quel che riguarda	la mai esperienza	la durata nell' ambito delle terapie brevi , se ci interessiamo di patologie croniche non può essere inferiore a sei mesi
+
+1	0	0	mai esternazione
+						DET ADV NOUN	ITWAC	ancora a proposito di referendum , caro Forti ti ho già risposto privatametne , perchè cortesemente mi ha risposto privatamente	alla mai esternazione	per ianmdare a votare e per votare con due SI .
+
+0	1	0	mai fama
+						DET ADV ADJ NOUN	REPUBBLICA	Non fanno velo al fascino e a	una mai amata fama	di latin-lover i suoi settantuno anni , visto che cento uomini e donne celebri lo hanno incoronato Grande Seduttore .
+
+4	0	0	mai famiglia
+						DET ADV NOUN	ITWAC	 	La mai famiglia	non è perfetta !
+						DET ADV NOUN	ITWAC	Anticipo a tutti che	nella mai famiglia	abbiamo avuto 7 saab , attualmente ne possediamo 2 .
+						DET ADV NOUN	ITWAC	Ebbene , dopo aver visto spezzoni di Mezzogiorni di Cuoco mi chiedo se solo	nella mai famiglia	certi alimenti non rientrano nella spesa settimanale o se in realtà le ricette , che dovevano essere inventate sul momento ,
+						DET ADV NOUN	ITWAC	Quando la guerra fu finita	la mai famiglia	aveva molte difficoltà finanziarie , non avevamo quasi di che mangiare e tanto meno potevamo permetterci l' Università a cui avrei
+
+0	1	0	mai familiari
+						DET ADV NOUN	REPUBBLICA	I suoi connazionali che hanno amato Firenze tanto da sceglier- la come seconda patria gli sono più	che mai familiari	.
+
+0	1	0	mai fantasia
+						DET ADV ADJ NOUN	REPUBBLICA	Ma il suo intento , l' impresa a cui applicava il suo nervosismo e	la mai esausta fantasia	meccanica , era volare su d' un aliante a razzo .
+
+1	0	0	mai fascino
+						DET ADV ADJ NOUN	ITWAC	aprile ) Alejo Carpentier , che ha detto di aver scritto Il regno di questo mondo  dopo aver sentito	il mai rinnegato fascino	delle terre di Haiti  aveva fatto esclamare a Mackandal ,  figura singolarissima ...
+
+0	0	1	mai fatti
+						DET ADJ ADV NOUN	WIKICONLL	 e  Il re leone  sono spesso considerati non solo i migliori prodotti del rinascimento disneyano , ma	i migliori mai fatti	fatti in tutta la storia della casa cinematografica .
+
+2	0	0	mai fede
+						DET ADV ADJ NOUN	ITWAC	Grazie per aver messo l' anima nella nostra missione , che era anche la sua vista	la mai rinnegata fede	Viola , per aver giocato una credibilità comunque di lunga data su un progetto che altri avrebbero giudicato troppo difficile e
+						DET ADV NOUN	ITWAC	Ma ora la mia infelicità ha stabilita	la mai fede	, e fra tante sciagure ho questa sola consolazione , ch ' io non ho dubbio alcuno ; ma confesso aver
+
+1	0	0	mai fermenti
+						DET ADV ADJ NOUN	ITWAC	Amato , anche perché , non bisogna dimenticarlo , al rinascere dell' ipotesi di partito unico con Prodi e Rutelli	i mai domi fermenti	comunisti e , per così dire , libero-pensanti , nell' anima diessina sono tornati a ravvivarsi .
+
+0	1	0	mai film
+						DET ADV NOUN	REPUBBLICA	Anzi ,	il mai film	di Fellini .
+
+3	0	0	mai filmati
+						DET ADJ ADV NOUN	ITWAC	Il combattimento tra Jackie Chan e Benny  The Jet  Urquidez è considerato tra	I migliori mai filmati	filmati DVD e VHS VENDITA e NOLEGGIO Le cinque variazioni Titolo originale : De Fem Benspaend Regia : Lars von Trier
+						DET ADJ ADV NOUN	ITWAC	Il combattimento tra Jackie Chan e Benny  The Jet  Urquidez è considerato tra	I migliori mai filmati	filmati RKO Collection Una raccolta dei classici del cinema degli anni '30 , '40 , '50 : Ford , Cukor ,
+						DET ADV NOUN	ITWAC	alla narrativa : scrive numerosi script per la serie televisiva Star Trek - Shore Leave ed Amok Time , e	i mai filmati	The Invaders , The Wild Wild West e The Joy Machine - per la quale formula anche la famosa  Prima
+
+1	0	0	mai filone
+						DET ADV ADJ NOUN	ITWAC	L' amore di Sara per la splendida Miranda , dagli eleganti tratti botticelliani , rientra esteriormente	nel mai domo filone	degli amori collegiali ; ma , benché consumato solo sul ricordo e sulla lontananza , qui ha una forza inconsueta ed
+
+1	0	0	mai formazione
+						DET ADV ADJ NOUN	ITWAC	siamo che di passaggio e ci è necessario deporre il desiderio di continuare a conoscere , in questa casa ,	la mai compiuta formazione	all  intelligenza del Vangelo .
+
+1	0	0	mai foto
+						DET ADV NOUN	ITWAC	] tata nn volevo togliere la foto solo cambiarla e poi invece m si è piantato tutto ora ci metterò	una mai foto	però prima devo scaricare la macchina fotografica ...
+
+0	1	0	mai francese
+						DET ADV NOUN	REPUBBLICA	E a fine anno potrà sentir- si più	che mai francese	, lui che è stato insignito della  Legion d' onore  a titolo  eccezionale  .
+
+1	0	0	mai francobolli
+						DET ADV ADJ NOUN	ITWAC	Posto che non so praticamente nulla di filatelia , mi sarei ritrovato tra	le mai alcuni francobolli	, e scrivo per chiedervene il valore .
+
+3	0	0	mai fumatori
+						DET ADV NOUN	ITWAC	Al momento dell' arruolamento invece , il 18,3 %	dei mai fumatori	e il 23,3 % delle mai fumatrici rispondeva di essere esposto al fumo del coniuge .
+						DET ADV NOUN	ITWAC	In conclusione , sono soprattutto i padri ed i colleghi ad  affumicare 	i mai fumatori	.
+						DET ADV NOUN	ITWAC	tabella Per approfondire le conoscenze sui danni causati dal fumo passivo , il questionario EPIC ha anche indagato sull' esposizione	dei mai fumatori	al fumo passivo , sia nell' infanzia che nell' età adulta .
+
+2	0	0	mai fumatrici
+						DET ADV NOUN	ITWAC	Al momento dell' arruolamento invece , il 18,3 % dei mai fumatori e il 23,3 %	delle mai fumatrici	rispondeva di essere esposto al fumo del coniuge .
+						DET ADV NOUN	ITWAC	Sia i mai fumatori che	le mai fumatrici	tendono invece ad essere poco esposti al fumo del partner .
+
+1	0	0	mai funzionalità
+						DET ADV ADJ NOUN	ITWAC	E' parsa grave la carenza strutturale dell' informazione sulla dimensione del fenomeno  smaltimento dei rifiuti  ,	la mai effettiva funzionalità	del catasto nazionale dei rifiuti ; in occasione dell' istituzione delle cosiddette tasse sulle discariche , rispetto ai calcoli parametrati sulla
+
+1	0	0	mai funzioni
+						DET ADV ADJ NOUN	ITWAC	Un Mac :) non mi devo più preoccupare di fare in modo che	la mai machcina funzioni	o non subisca attacchi !! Giuseppe Mayer | 23.04.05 20:45 Massimo , le licenze di XP e 2000 le ho da
+
+1	0	0	mai furios
+						DET ADJ ADV NOUN	ITWAC	le squadre grandi aiutate	le piccole mai furios	furios : siamo arrivati nella finale dei play-off .
+
+0	1	0	mai garanzie
+						DET ADV NOUN	REPUBBLICA	Con tuttil rispetto non riesco a capire	quali mai garanzie	potrebbe dae la signora Iotti al giovane studente Occhetto , anche perché non ho alcuna intenzione di menar- lo  .
+
+1	0	0	mai gente
+						DET ADV NOUN	ITWAC	- È con	la mai gente	, laggiù , sul fondo del tempo ...
+
+1	0	0	mai giacca
+						DET ADV NOUN	ITWAC	rimetto a dormire per un' oretta , quando mi sveglio e telefono a jacopo per sapere se sapeva dove stava	la mai giacca	, e perchè non mi aveva dato la mia .
+
+1	0	0	mai giocatore
+						DET ADV ADJ NOUN	ITWAC	determinato dall' aumento dei colori disponibili nella palette grafica , che renderà il titolo ancor più soddisfacente per l' occhio	del mai soddisfatto giocatore	.
+
+0	1	0	mai giornaliste
+						DET ADV ADJ NOUN	REPUBBLICA	Nella ricerca affannosa di moda , cioè di qualcosa che ormai non esiste più e che forse nessuno , tranne	le mai sazie giornaliste	specializzate , vuole più , tra depressioni di stilisti e affanni di industriali , in bilico tra Mozart e Luigi XVI
+
+0	1	0	mai giustapposizione
+						DET ADV ADJ NOUN	REPUBBLICA	di molti , ad ammirar- ne l' aspetto forma- le , la continua invenzione , la ricchezza delle soluzioni ,	la mai ripetitiva giustapposizione	di forme e di immagini .
+
+1	0	0	mai governo
+						DET ADV ADJ NOUN	ITWAC	di soli 11 anni riconosciuto come l' ultima reincarnazione di un grande Lama Tibetano , rapito insieme alla sua famiglia	dal mai pago governo	Cinese ; a lui Piero dedica  Il vento  canzone  storica  dei Litfiba , proposta con un nuovo
+
+0	1	0	mai grandiosità
+						DET ADV ADJ NOUN	REPUBBLICA	Per ogni brivido che produce il celeberrimo Leitmotiv Do n' t cry for me Argentina , molti di più vengono	dalla mai inutile grandiosità	di questo crudele quadro della politica-spettacolo ( con il suo ambiguo rovescio di spettacolo  sulla  politica ) , di
+
+1	0	0	mai grigio
+						DET ADV ADJ NOUN	ITWAC	Il rosa e l' azzurro , come	il mai abbandonato grigio	, diventano i colori principali della sua produzione .
+
+0	1	0	mai gruppetto
+						DET ADV ADJ NOUN	REPUBBLICA	Ecco Lucio Maitan , a capo	del mai domo gruppetto	trotskista :  Le privatizzazioni sono una mistificazione e poi io sono abituato a leggere i giornali : Occhetto ha detto
+
+0	3	0	mai guerra
+						DET ADV ADJ NOUN	REPUBBLICA	Da alcuni mesi è in corso fra loro	una mai dichiarata guerra	sotterranea sulle strategie e sulle prospettive dell' Ina .
+						DET ADV ADJ NOUN	REPUBBLICA	dipende dai crediti internazionali ; ma la filosofia statunitense di aggravare il conflitto per tagliar- lo alla radice ha avuto	nella mai dichiarata guerra	di Jugoslavia la sua espressione più recente .
+						DET ADV ADJ NOUN	REPUBBLICA	globale censite dai polemologi postmoderni , non figuravano quelle umanitarie finché , la Nato non utilizzò tale aggettivo per connotare	la mai dichiarata guerra	di Jugoslavia .
+
+1	0	0	mai homepage
+						DET ADV NOUN	ITWAC	una tra le mie come tra le tue !!!! Se ti va sono tra i nuovi iscritti fai un salto	nel mai homepage	un salutone e a presto .
+
+3	0	1	mai idea
+						DET ADV ADJ NOUN	ITWAC	in sostanza tre Stati a stento riuniti in una sorta di innovativo modello confederale attraverso il quale rientra dalla finestra	la mai abbandonata idea	della secessione della Padania .
+						DET ADV NOUN	ITWAC	27 - 02 - 2004 snigger ha scritto : Tu non ti preoccupare , intando cerco il testo per farmi	una mai idea	Non e' questione di essere pecoroni la questione che non e' corretto leggere delle proposte di legge su un giornale politico
+						DET ADV NOUN	ITWAC	Tu non ti preoccupare , intando cerco il testo per farmi	una mai idea	Non e' questione di essere pecoroni la questione che non e' corretto leggere delle proposte di legge su un giornale politico
+						DET ADV ADJ NOUN	WIKICONLL	Continuò tuttavia l' azione di alcuni volenterosi che ne custodirono i simboli e i principi e	una mai abbandonata idea	di risolvere realmente i problemi sardi e di creare uno statuto regionale .
+
+1	0	0	mai impegno
+						DET ADV ADJ NOUN	ITWAC	I due hanno trovato un accordo	sul mai perduto impegno	di Guccini , Fossati e Battiato .
+
+0	1	0	mai imperatrice
+						DET ADV ADJ NOUN	REPUBBLICA	, Silvio Berlusconi , ha voluto ; ed erano molto giovani e pare bellissimi i numerosi scudieri e aiutanti che	la mai sazia imperatrice	Caterina di Russia intrappolava , incurante del fatto di non assomigliare per niente , nella realtà , al ritratto cinematografico che
+
+1	0	0	mai impostazione
+						DET ADV ADJ NOUN	ITWAC	La legge 488 , che pur aveva destato interesse nella imprenditoria , nonostante	la mai compresa impostazione	concorsuale dell' ammissione a finanziamento è risultata penalizzata dalla limitazione dei fondi .
+
+0	1	0	mai in
+						DET ADV ADJ NOUN	REPUBBLICA	esaltava la pelle del viso bianca e levigata come il girocollo di perle , Margaret Thatcher ci è parsa più	che mai fiduciosa in	se stessa e combattiva verso i suoi avversari .
+
+0	1	0	mai inattingibili
+						DET ADV NOUN	REPUBBLICA	ripeter- ne oggi il nome si rischia di cader nella retorica e nel luogo comune ; eppure ci sembrano più	che mai inattingibili	, dimentica- ti , traditi se li confrontiamo con la realtà in mezzo alla quale viviamo .
+
+1	0	0	mai inclinazioni
+						DET ADV ADJ NOUN	ITWAC	mediante alcuni pezzi più lenti e curati , ma non per questo meno efficaci e immediati , vengono maggiormente esaltate	le mai rinnegate inclinazioni	pop della band , sollevando però anche qualche critica tra alcuni fans .
+
+1	0	0	mai incompatibilità
+						DET ADV NOUN	ITWAC	come hai scritto tu questo mondo virtuale ti aiuta io non mi sento molto di farne parte ( conosci	la mai incompatibilità	tecnologica :) ma cmq spero le mie parole ti possano aiutare lo stesso !
+
+1	0	0	mai indicazioni
+						DET ADV ADJ NOUN	ITWAC	da noi citati , le varie conclusioni dei giudicanti non si sono mai risolte in sentenze definitive e chiare per	le mai univoche indicazioni	della già ricordata nomenclatura territoriale e per gli effetti dei tentativi di forzature interpretativi operati dagli interessati al fine di ottenere
+
+1	1	0	mai infanzia
+						DET ADV NOUN	ITWAC	Affianco alla mostra mercato ho visto la suggestiva mostra di G.B.Carpi , molto carina con personaggi	della mai infanzia	, Nonna Belarda su tutti è stata quella che ho ricordato di più .
+						DET ADV ADJ NOUN	REPUBBLICA	 Questa condizione ammalata è storicamente e quasi universalmente riservata alle donne cui è socialmente richiesta una indefinita dipendenza ,	una mai conclusa infanzia	 .
+
+1	0	0	mai intenzione
+						DET ADV ADJ NOUN	ITWAC	Per questo riciclo per strada	la mai iniziale intenzione	, da anticonformista che chiede il transito senza visto , ho lasciato per questo tutto al caso , non ho presi
+
+2	0	0	mai intollerabilità
+						DET ADV ADJ NOUN	ITWAC	d' 'interesse dell' 'attrice , con particolare riferimento al fatto che l' 'eventuale annullamento della separazione consensuale omologata , stante	la mai contestata intollerabilità	della convivenza , avrebbe potuto produrre solo il mutamento , peraltro non richiesto , del titolo della separazione .
+						DET ADV ADJ NOUN	ITWAC	d' interesse dell' attrice , con particolare riferimento al fatto che l' eventuale annullamento della separazione consensuale omologata , stante	la mai contestata intollerabilità	della convivenza , avrebbe potuto produrre solo il mutamento , peraltro non richiesto , del titolo della separazione .
+
+0	1	0	mai invenzioni
+						DET ADV NOUN	REPUBBLICA	In italiano , poi , tutti o quasi gli avverbi finiscono in  mente  :	quante mai invenzioni	si dovranno fare per eliminare quel passo pesante , pedante , e dar luogo invece a una trama musicale ?
+
+0	0	1	mai lato
+						DET ADV NOUN	WIKICONLL		qual mai lato	del mondo si trova il tuo trono possente ?
+
+0	0	1	mai lavori
+						DET ADV ADJ NOUN	WIKICONLL	Tempio Malatestiano secondo il progetto originario , dotato di un' immensa cupola , unica testimonianza dell' effetto desiderato al termine	dei mai conclusi lavori	.
+
+0	4	0	mai le
+						DET ADV NOUN	REPUBBLICA	chi uccide un robusto camionistaé La cosa è molto semplice ma nessuno dei pretesi difensori dei bambini ( e men	che mai le	femministe ) toccano questo tasto .
+						DET ADV NOUN	REPUBBLICA	e alle proprie capacità che essi esaltano , adula- ti spesso dalla stampa e dall' opinione pubblica ed accentuano più	che mai le	loro critiche al potere politico , dal quale tuttavia deriva , almeno in parte , la congiuntura favorevole della quale beneficiano
+						DET ADV NOUN	REPUBBLICA	over me , Non dimenticar o What a difference a day makes , il ciclope del sax tenore seduce più	che mai le	folle .
+						DET ADV NOUN	REPUBBLICA	più di soldi in tasca New York ( dove si registra il tutto esaurito ) e i Caraibi sono più	che mai le	mete d' elezione .
+
+2	0	0	mai legami
+						DET ADV ADJ NOUN	ITWAC	D' altro canto il misticismo dell' Angelo , prova lampante della saldezza	dei mai spezzati legami	del compositore con le radici del mondo letterario russo , è temperato proprio dalla sospensione del giudizio che lo caratterizza ,
+						DET ADV ADJ NOUN	ITWAC	Spina dorsale della fiorente agricoltura dello Stato , oggi lo aiutano ad aprirsi alle correnti dell' economia mondiale riscoprendo	i mai dimenticati legami	con l' Italia e con le Regioni d' origine .
+
+0	1	0	mai legge
+						DET ADV ADJ NOUN	REPUBBLICA	Anche se dopo la sconfitta militare del 1945 l' Imperatore del Sol Levante non può più autoproclamarsi Dio ,	una mai riformata legge	dell' era Meiji ( 1868 - 1912 ) circoscrive infatti ai soli eredi maschi la chanche di portare la corona che
+
+2	0	0	mai libertà
+						DET ADV ADJ NOUN	ITWAC	Sciolto dall' onere della fondazione il fondamento si ritrova a godere di	una mai sperimentata libertà	, la fine della filosofia venendo a coincidere appunto con il  rilascio del fondamento  , con la sua
+						DET ADV NOUN	ITWAC	Intendo tenere	la mai libertà	immutata , non cambierò il mio stile di vita solo perché a voi non va a genio questo nipote .
+
+0	1	0	mai limiti
+						DET ADV NOUN	REPUBBLICA	Per il Pci non devono esser- ci limiti nella libertà di accedere agli archivi , e men	che mai limiti	posti dai vari partiti comunisti .
+
+1	0	0	mai lingua
+						DET ADV NOUN	ITWAC	ad un solenne giuramento :  non risparmierei oramai nè fatica nè noia nessuna per mettermi in grado di sapere	la mai lingua	quant ' uomo d' Italia  34 .
+
+1	0	0	mai linguellata
+						DET ADJ ADV NOUN	ITWAC	o di una serie di Ginnici usata certificata in cambio di	una nuova mai linguellata	linguellata centratissima ...
+
+1	0	0	mai list
+						DET ADV NOUN	ITWAC	ai nominativi prescelti , senza installare alcun package aggiuntivo ( sono inclusi in smart CRM un editor Word like e	un mai list	sender ) : si abbassano i costi di marketing .
+
+1	0	0	mai lista
+						DET ADV NOUN	ITWAC	Ora segnerò il nome del cugino incriminato	nella mai lista	nera ...
+
+1	0	0	mai long
+						DET ADV NOUN	ITWAC	avevo lasciato	nel mai long	double ...
+
+0	2	0	mai lotta
+						DET ADV ADJ NOUN	REPUBBLICA	anno ) , e pericoli in agguato : quello sui residui passivi ( i troppi conti da pagare ) e	sulla mai finita lotta	alla burocrazia che -- secondo Francesco Garri , procuratore generale della Corte dei Conti -- la riforma Bassanini , così com'
+						DET ADV ADJ NOUN	REPUBBLICA	avanza , sottovoce , ovviamente , l' ipotesi che si sia trattato di un caso costruito per danneggiare l' azienda	nella mai conclusa lotta	dell' auto .
+
+0	1	0	mai lungimiranti
+						DET ADV NOUN	REPUBBLICA	per vedere che le parole con cui Camus , nel 1947 , chiudeva la sua ' Peste ' sono più	che mai lungimiranti	e attuali .
+
+0	0	1	mai luogo
+						DET ADV NOUN	WIKICONLL	delle imposte di registro , ipotecarie , catastali , sulle successioni e donazioni ; non può essere frazionato e non	da mai luogo	a rimborsi , per espressa disposizione normativa .
+
+1	0	0	mai maggioranza
+						DET ADV ADJ NOUN	ITWAC	E proprio intorno	alla mai persa maggioranza	assoluta della Dc fino a quanto è esistita , si è svolto il ragionamento di Bulzacchelli .
+
+1	0	0	mai mail
+						DET ADV NOUN	ITWAC	da : lalla Data : 14 Luglio 2005 lucio , se vuoi ecco	la mai mail	, qui c' è troppa gente ignorante , nn è possibile costruire nulla lupetta6@hotmail.com da : Alex Data : 14 Luglio
+
+2	0	0	mai manifestazioni
+						DET ADV ADJ NOUN	ITWAC	, grazie ai suoi vicoli , ai suoi panorami mozzafiato , alle sue botteghe artigiane , alle sue atmosfere ,	alle mai banali manifestazioni	, culturali e non , che si susseguono nella stagione estiva .
+						DET ADV ADJ NOUN	ITWAC	Tutto questo è poi arricchito dalle suggestive atmosfere e	dalle mai banali manifestazioni	, culturali e non , che vi si susseguono nella stagione estiva .
+
+0	2	0	mai mantenute
+						DET ADJ ADV NOUN	REPUBBLICA	Parametri inconcepibili contro i quali abbiamo lottato dimostrando- ne l' incongruenza ma senza ottenere altro	che promesse mai mantenute	mantenute  .
+						DET ADJ ADV NOUN	REPUBBLICA	si quindi nuove polemiche sulle intenzioni del capo del Cremlino di  svendere  la Russia agli stranieri , e	sulle promesse mai mantenute	mantenute dell' Occidente di soccorrere Mosca con miliardi di dollari .
+
+1	0	0	mai manuale
+						DET ADV ADJ NOUN	ITWAC	dei Colli , finalmente è stato nominato il Presidente ed è stato eletto il Consiglio di amministrazione composto , secondo	il mai abbandonato manuale	Cencelli ( quello delle spartizioni delle poltrone e della cogestione degli affari ) , da un rappresentante della Lega , uno
+
+1	0	0	mai marciât
+						DET ADV NOUN	ITWAC	 No	ai mai marciât	cuintri nissun - al à dite une volte Turoldo - ma simpri par cualchidun  .
+
+1	0	0	mai mela
+						DET ADV NOUN	ITWAC	Becky  Dimmela Tom , Ma sei sicuro che non vuoi dare un morso	alla mai mela	?
+
+3	0	0	mai mente
+						DET ADV NOUN	ITWAC	La mia giornata fu come le altre , gli stessi impegni , la stessa gente intorno , ma	nella mai mente	vi era la fervida attesa per quella sera in cui l' avrei vista , in cui l' avrei vista davvero ,
+						DET ADV NOUN	ITWAC	Non puoi rispondere a questi interrogativi che assillano	la mai mente	in cerca di una risposta che non so se posso dare o no ?
+						DET ADV NOUN	ITWAC	Quale demone s' impossessò un giorno	della mai mente	...
+
+1	0	0	mai menu
+						DET ADV ADJ NOUN	ITWAC	con semplicità , senza troppo pensare , lasciandoti beatamente trasportare , o guidare ,	dai mai banali menu	degustazione in ambienti silenziosi e distensivi , senza il peso opprimente di certe convenzioni / costrizioni .
+
+1	0	0	mai metà
+						DET ADV NOUN	ITWAC	un po' più egoista e abbi un po' di più autostima , vedrai che penserai  lei non sarà più	la mai metà	( e non sa ancora che cosa si è lasciata scappare )  poi buttati su di un' altra donna .
+
+1	0	0	mai milioni
+						DET ADV ADJ NOUN	ITWAC	Enormi vuol dire miliardi di euro , non	i mai sufficienti milioni	raccolti da Caritas .
+
+0	1	0	mai mito
+						DET ADV ADJ NOUN	REPUBBLICA	tristemente la festa giovanile , la conclamata  tre giorni di pace e amore  , come vuole lo stereotipo	del mai domo mito	woodstockiano .
+
+3	4	0	mai morti
+						DET ADV NOUN	ITWAC	; insieme a Pietro Valpreda ha scritto Quattro gocce di acqua piovana , La nevicata dell' 85 e La primavera	dei mai morti	, tutti pubblicati da Tropea .
+						DET ADV NOUN	ITWAC	È un istruttore , semmai , uno	dei mai morti	, uno che l ´ esempio lo dà sul campo , non a parole .
+						DET ADV NOUN	ITWAC	Insieme a Pietro Valpreda ha scritto Quattro gocce d' acqua piovana , La nevicata dell' 85 e La primavera	dei mai morti	, tutti con Pietro Binda come protagonista .
+						DET ADJ ADV NOUN	REPUBBLICA	 È l' epigono	dei maratoneti mai morti	morti .
+						DET ADJ ADV NOUN	REPUBBLICA	Bartali , l' epigono	dei maratoneti mai morti	morti , che lo aspetta sulla linea di partenza .
+						DET ADJ ADV NOUN	REPUBBLICA	Era l' epigono	dei maratoneti mai morti	morti , un arrampicatore formidabile .
+						DET ADV NOUN	REPUBBLICA	Però appartiene alla razza	dei mai morti	.
+
+0	1	0	mai mozioni
+						DET ADV ADJ NOUN	REPUBBLICA	In altre parole : Dini insiste perché del caso Mancuso e	delle mai ritirate mozioni	di sfiducia si discuta una volta approvata la legge di bilancio .
+
+1	0	0	mai nascita
+						DET ADV NOUN	ITWAC	mia son nato io , Josè da Toledo , cognome preso da mia madre , perché mio padre poco dopo	la mai nascita	se n' andò nelle terre nuove e non tornò mai più .
+
+0	0	1	mai nipote
+						DET ADV ADJ NOUN	WIKICONLL	ripercussioni sul dio del tuono : la  dea  dell' inganno riesce a resuscitare Bor , facendo- lo scontrare	col mai conosciuto nipote	; dopo una dura battaglia ( durante la quale Thor ha fatto con orrore conoscenza degli Oscuri Vendicatori di Norman Osborn
+
+0	0	1	mai numeri
+						DET ADV ADJ NOUN	WIKICONLL	sono membri gli androidi 8 ( o Ottone ) , il Sergente Metallic , Arale , 16 e probabilmente anche	i mai apparsi numeri	9 ( che viene spesso fatto coincidere con il Sergente Metallic ) , 10 , 11 e 12 .
+
+1	0	0	mai obiettivo
+						DET ADV ADJ NOUN	ITWAC	assistere ai reciproci insulti tra esponenti della Casa delle libertà , con un ministro della Repubblica che ritorna a riproporre	il mai abbandonato obiettivo	della secessione .
+
+0	0	1	mai offerte
+						DET ADJ ADV NOUN	WIKICONLL	 L' interpretazione del personaggio di Ethan Edwards in  Sentieri selvaggi  ( 1956 ) viene considerata una	delle migliori mai offerte	offerte da Wayne , che diede il nome di Ethan a uno dei suoi figli .
+
+0	4	0	mai oggi
+						DET ADV NOUN	REPUBBLICA	Aldo Schiavone ha scritto un pamphlet sul disagio di un paese incapace da sempre e più	che mai oggi	d' essere unito .
+						DET ADV NOUN	REPUBBLICA	Ed è , paradossalmente , quello che vogliono , senza dir- lo , ieri , e più	che mai oggi	, tanto gli uomini tanto le donne .
+						DET ADV NOUN	REPUBBLICA	Nessun leader politico ha osato contestar- la , e men	che mai oggi	, in tempi di campagna elettorale .
+						DET ADV NOUN	REPUBBLICA	Si può solo ammirar- la , più	che mai oggi	, in un mondo di persone che andrebbero su Gente Motori pur di fare una copertina .
+
+0	0	1	mai omosessualità
+						DET ADV ADJ NOUN	WIKICONLL	Un carattere difficile ed irriverente aggravato , agli occhi della società ,	una mai nascosta omosessualità	, lo condussero lungo tutta la vita sempre ai limiti dell' eccesso .
+
+0	1	0	mai operazione
+						DET ADV NOUN	REPUBBLICA	PALERMO --	Una mai operazione	antidroga è scattata ieri tra la Sicilia , il Canada e la Gran Bretagna .
+
+2	0	0	mai opinione
+						DET ADV NOUN	ITWAC	A questo punto	la mai opinione	comincia a essere quella che in tanti sostengono : questo n. 59 la Corno non lo stampò mai , è stato
+						DET ADV NOUN	ITWAC	scritto in pubblico , ti rispondo in pubblico : = ) Prima di tutto vorrei specificare che quanto scrivo è	una mai opinione	personale e che Oltre la specie ha già preso una chiara posizione pubblica .
+
+1	0	0	mai ortodossia
+						DET ADV ADJ NOUN	ITWAC	In questa seconda parte è soprattutto l' uomo che parla e pensa , pur nel solco di	una mai abbandonata ortodossia	, ed esprime innanzitutto se stesso , mettendo a nudo dubbi ed incertezze che riguardano il piano della comunicazione :
+
+1	0	0	mai ossequio
+						DET ADV ADJ NOUN	ITWAC	Qui entra in gioco quello che da decenni e'	il mai abbandonato ossequio	alle ' ' fonti palestinesi ' ' , meglio ancora se non verificate e se pregiudizialemente contrarie a Israele .
+
+0	0	1	mai paga
+						DET ADV NOUN	WIKICONLL	di troppo dei milanesi , scossi da una bruciante quanto clamorosa eliminazione in Coppa dei Campioni , consente un riavvicinamento	della mai paga	Roma che arriva a giocar- si lo scontro diretto di San Siro del 2 maggio con sei punti di svantaggio .
+
+1	0	0	mai parrocchia
+						DET ADV NOUN	ITWAC	sono con il gruppo organizzato dalla diocesi , ma non conosco nessuno , perchè	della mai parrocchia	, e della mia città , non viene nessuno ...
+
+1	0	0	mai parte
+						DET ADV NOUN	ITWAC	 la zia ha passato a me	la mai parte	di casa .
+
+1	0	0	mai partito
+						DET ADV NOUN	ITWAC	( pur previsto ) che non soddisfa nessuno , la difficoltà di continuare a porsi come motore ed anima di	un mai partito	rilancio dell' Ulivo , il tramonto dell' ambizione di  contare  in prospettiva più dei partiti tradizionali e di fare
+
+1	0	0	mai partitocratismo
+						DET ADV ADJ NOUN	ITWAC	Certe azioni , per modi e contenuti , dimostrano solo tanta nostalgia	del mai morto partitocratismo	correntistico , fino al nominalismo .
+
+0	1	0	mai passi
+						DET ADV NOUN	REPUBBLICA	Già ,	quali mai passi	avanti ha fatto quella derelitta regione da allora ad oggi ?
+
+0	1	0	mai passione
+						DET ADV ADJ NOUN	REPUBBLICA	, è stato membro , dal '91 al '94 , del consiglio direttivo dell' Intersind e presiede , a conferma	della mai abbandonata passione	di napoletano per la sua città , l' associazione musicale  Alessandro Scarlatti  .
+
+1	0	0	mai pazienza
+						DET ADV NOUN	ITWAC	- Stupidi , pensavano davvero di sorprendermi in un modo così stupido , beh impareranno cosa si ottiene a sfidare	la mai pazienza	.
+
+0	1	0	mai pensieri
+						DET ADV ADJ NOUN	REPUBBLICA	I cervelli dei moderni , siano di destra o di sinistra filtrano le onde	dei mai alati pensieri	che vi si posano , economicizzandoli .
+
+1	0	0	mai persona
+						DET ADV NOUN	ITWAC	economico invidiabile , posso ritenermi uno dei pochi fortunati possessori di un Cayenne Turbo ( personalizzato con allestimenti esclusivamente riservati	alla mai persona	) .
+
+0	1	0	mai pianeta
+						DET ADV ADJ NOUN	REPUBBLICA	Infine ,	nel mai quieto pianeta	della sicurezza stradale , bisogna ricordare il blitz del ministro Ferri a Milano , accorso a presentare un meeting che si
+
+0	1	0	mai polemica
+						DET ADV ADJ NOUN	REPUBBLICA	Fenomeno , quest' ultimo , da tenere presente	nella mai chiusa polemica	sull' incidenza dei Tir nella mortalità sulle strade .
+
+0	1	0	mai portatori
+						DET ADV NOUN	REPUBBLICA	per riedificare uno strumento politico capace di interpretare e realizzare i postulati e i valori di cui siamo oggi più	che mai portatori	.
+
+2	0	0	mai posata
+						DET ADV NOUN	ITWAC	23:33 Piango , per un amore finito e per uno mai iniziato Piango , per una pietra scagliata e per	una mai posata	piango , per il giorno che muore e per la notte che ci assale piango , per la terra mangiata e
+						DET ADV NOUN	ITWAC	ricevuta Piango , per un amore finito e per uno mai iniziato Piango , per una pietra scagliata e per	una mai posata	piango , per il giorno che muore e per la notte che ci assale piango , per la terra mangiata e
+
+1	0	0	mai positivismo
+						DET ADV ADJ NOUN	ITWAC	I suoi libri seminano dubbi , compreso quello di un malcelato determinismo tecnologico e	un mai abbandonato positivismo	che delega alla scienza la cura dei mali della società .
+
+1	0	0	mai posto
+						DET ADV NOUN	ITWAC	per crecere un bambino forse chi ha introdotto questo bonus non ha mai avuto il problema quindi o non se	la mai posto	, non servono i mille euro ma finanziamenti alle scuole pubbliche e comunali , invece di fare tagli di ore di
+
+1	0	0	mai precisione
+						DET ADV ADJ NOUN	ITWAC	dovute alla deformazione che subisce la sfera terrestre quando , mediante le proiezioni , viene riportata sul piano , nonché	alla mai assoluta precisione	degli strumenti di misura .
+
+1	0	0	mai preoccupazione
+						DET ADV NOUN	ITWAC	andava quando era nuova cosi và adesso anzi adesso ancora di più xke ho montato il silenziatore a risonanza era	una mai preoccupazione	, chissà se al servizio arretrati della de agostini posso ordinare un nuovo motore ?
+
+1	1	0	mai presenza
+						DET ADV ADJ NOUN	ITWAC	Situazione prontamente replicata nel mercato videoludico , vista	la mai eccessiva presenza	di titoli tennistici .
+						DET ADV NOUN	REPUBBLICA	Se così non sarà , io mi dimetto : è in gioco la mia dignità e	la mai presenza	nel governo ...
+
+1	0	0	mai pretesa
+						DET ADV ADJ NOUN	ITWAC	alle sue disastrose condizioni da parte di coloro che detengono le leve del mondo si è scontrata di nuovo contro	la mai rinnegata pretesa	di mantenere sostanzialmente tutti i privilegi accaparrati nel tempo e a cui essi non si sentono minimamente di voler rinunciare .
+
+0	1	0	mai problema
+						DET ADV ADJ NOUN	REPUBBLICA	Sullo sfondo rimane	il mai risolto problema	del Mezzogiorno con il suo esercito di disoccupati che si va ingrossando a ritmi da Terzo Mondo .
+
+1	0	0	mai prodotti
+						DET ADJ ADV NOUN	ITWAC	Di altro lignaggio ci appare il Trebbiano d' Abruzzo Marina Cvetic 1999 che a parer di sottoscritto potrebbe attestarsi tra	i migliori mai prodotti	prodotti da questa cantina .
+
+4	0	0	mai prodotto
+						DET ADJ ADV NOUN	ITWAC	Via Syrah si è riproposto con grandi ambizioni con l' annata 1998 , che la stessa rivista Usa definisce 	il migliore mai prodotto	prodotto  , ma che secondo Alessandro Masnaghetti , curatore della nuova guida dell' Espresso , merita solo 14,5/20 , surclassato
+						DET ADJ ADV NOUN	ITWAC	grande schermo , e il cliffangher ( finale di stagione con colpo di scena ) è stato già giudicato ,	il migliore mai prodotto	prodotto .
+						DET ADJ ADV NOUN	ITWAC	ormai un classico dell' enologia Valtellinese , un vino che , piuttosto curiosamente , ad ogni vendemmia definiamo come 	il migliore mai prodotto	prodotto  .
+						DET ADV NOUN	ITWAC	Questo è il singolare fenomeno delle oscillazioni di neutrino , secondo cui un osservatore sulla Terra potrebbe osservare anche	un mai prodotto	!
+
+1	0	0	mai prof
+						DET ADV NOUN	ITWAC	ma la scuola dove vai è un pò lontana da casa mia perciò ho proposto	alla mai prof	di italiano , assieme alla mia classe ( quasi tutti appossianati da 3 msc ) di organizzare una visita per venire
+
+1	0	0	mai progetto
+						DET ADV ADJ NOUN	ITWAC	Il 22 novembre 1917 si creò un altro ostacolo	al mai abbandonato progetto	di rientrare nel vecchio convento : lo Stato concedeva alla Croce Rossa Italiana , in uso gratuito per trent' anni rinnovabili
+
+1	0	0	mai promesse
+						DET ADV ADJ NOUN	ITWAC	la rielezione , impedendo all' euro di raggiungere lo status di moneta franca mondiale e distogliendo l' attenzione degli elettori	dalle mai mantenute promesse	di detassazione e sul realizzato ridimensionamento del welfare .
+
+0	1	0	mai protagonista
+						DET ADV NOUN	REPUBBLICA	Nel trapasso tra vecchio e nuovo millennio il design è quindi più	che mai protagonista	, anche perché l' offerta di prodotto si è allargata a dismisura .
+
+0	1	0	mai pulsione
+						DET ADV NOUN	REPUBBLICA	Dunque credo di avere tutte le carte in regola per dir- gli ora :	quale mai pulsione	autodistruttiva , Romano , s' è impadronita di te ...
+
+0	1	0	mai querele
+						DET ADV ADJ NOUN	REPUBBLICA	E qualcuno sussurra che ora , tornato alle pandette e	alle mai abbandonate querele	, sia tentato dalla tivvù .
+
+0	5	0	mai questione
+						DET ADV ADJ NOUN	REPUBBLICA	La lotta agli intermediari , ad esempio , può colpire uno dei nodi	della mai risolta questione	della distribuzione delle merci in Urss .
+						DET ADV ADJ NOUN	REPUBBLICA	La verità è che dietro	la mai risolta questione	sul voto agli italiani all' estero emergono , in conflitto , due visioni opposte e inconciliabili della moderna cittadinanza .
+						DET ADV ADJ NOUN	REPUBBLICA	Per esempio ,	sulla mai risolta questione	del Tour de France di cinquant' anni fa : vincendo- lo , Bartali , fu o no il salvatore della patria
+						DET ADV ADJ NOUN	REPUBBLICA	discosta dai successivi libri di successo di Harris , trattando una realtà che ancora oggi inquieta il mondo , cioè	la mai risolta questione	mediorientale .
+						DET ADV ADJ NOUN	REPUBBLICA	ordine : la sfida ambientale connessa al tema della vivibilità delle città ; la trasformazione dei modi di produzione e	la mai risolta questione	meridionale .
+
+1	0	0	mai quotidianità
+						DET ADV NOUN	ITWAC	Foto tratte dalla mia vita ,	dalla mai quotidianità	.
+
+1	0	0	mai rabbia
+						DET ADV NOUN	ITWAC	Non sò se è possibile fare una cosa del genere o è soltanto frutto	della mai rabbia	.
+
+1	0	0	mai raccomandazione
+						DET ADV ADJ NOUN	ITWAC	L' importanza di indossare il casco ,	la mai banale raccomandazione	di non bere prima di mettersi alla guida ed una prova dal vivo di cosa succede quando una telefonata di un
+
+3	1	0	mai radici
+						DET ADV ADJ NOUN	ITWAC	ed europea , nella quale ( come ampiamente dimostrato dai tanti volumi del teologo cattolico americano Michael Novak ) risiedono	le mai dimenticabili radici	bibliche e cristiane dell' etica della produzione metodista tanto ben evidenziata dal sociologo Max Weber .
+						DET ADV ADJ NOUN	ITWAC	mai si comprende quale ipoteca produca sulla vita sociale e politica del nostro paese la presenza nel governo di forze	dalle mai recise radici	politiche e culturali fasciste .
+						DET ADV ADJ NOUN	ITWAC	occidentale ed europea nella quale , come ampiamente dimostrato dai tanti volumi del teologo cattolico americano Michael Novak , risiedono	le mai dimenticabili radici	bibliche e cristiane dell' etica della produzione metodista tanto bene evidenziata dal sociologo Max Weber .
+						DET ADV ADJ NOUN	REPUBBLICA	ROMA -- Pippo Baudo , catanese	dalle mai rinnegate radici	, anche se nazional-popolare .
+
+5	1	1	mai ragazza
+						DET ADV NOUN	ITWAC	 ^ _ ^ Ele	La mai ragazza	mi ha scritto ( cn più di um sms ) : vorrei sre li cn te ...
+						DET ADV NOUN	ITWAC	, mousse , liquido , cioccolato bianco , e un bicchierino con del liquore unito al cioccolato).buono. 8 a )	la mai ragazza	ha scelto invece  la legge del caso  , cioe' un dolce a sorpresa , che era una composizone di
+						DET ADV NOUN	ITWAC	Columbus , trattano Karpathos , se tutto va bene il 12 di luglio parto con volo diretto da Brescia assieme	alla mai ragazza	, mi dicono tutti che Karpathos è un paradiso ...
+						DET ADV NOUN	ITWAC	Il giorno 08/06	la mai ragazza	non sentendo da diversi giorni unica ha provato a chiamare visto che la consegna era tra il 10/06 e il 20/06
+						DET ADV NOUN	ITWAC	aldoechiara ( Utente semplice , Un solo messaggio inviato ) Inviato il 04/07/2005 alle ore 17.01.19 io e	la mai ragazza	ci dobbiamo sposare alla fine di luglio .
+						DET ADV NOUN	REPUBBLICA	o nella Colette distrutta e vecchia che guarda con atteggiamento di sfida in macchina o nella Simone de Beauvoir più	che mai ragazza	perbene , jeune fille rangée , sdraiata in posa su un divano letto o nell' aria da inquisitore scontento di Francois
+						DET ADV NOUN	WIKICONLL	giri pubblicati anche in italiano , diviene famoso nel 1964 partecipando al Festival di Sanremo 1964 con  Quando vedrai	la mai ragazza	 ( in coppia con Little Tony ) e  E se domani  ( la nota canzone scritta da Giorgio
+
+0	1	0	mai rapporti
+						DET ADV ADJ NOUN	REPUBBLICA	Fu sempre lui a gestire	i mai facili rapporti	tra Prodi e il leader del Pds , prima , durante e dopo la vittoriosa campagna elettorale dell' Ulivo .
+
+0	2	0	mai rapporto
+						DET ADV ADJ NOUN	REPUBBLICA	E ancora :	il mai risolto rapporto	con l' Università , nonostante gli sforzi dello stesso Zanonato e dell' ex rettore Mario Bonsembiante .
+						DET ADV ADJ NOUN	REPUBBLICA	Ma le note più positive riguardano	il mai facile rapporto	degli italiani con la lettura .
+
+1	0	0	mai religione
+						DET ADV NOUN	ITWAC	L' immagine , il lusso sono sicuramente in contrasto con ciò che	la mai religione	comanda e quindi è facile non sia ben vista dalla società .
+
+0	0	1	mai rematore
+						DET ADV ADJ NOUN	WIKICONLL	Lui cerca di reagire , frenando- si però in tempo e Ario rimane stupefatto dal controllo dimostrato	dal mai domo rematore	.
+
+0	1	0	mai retta
+						DET ADV NOUN	REPUBBLICA	Marcello Pera , professore , si lamenta :  Tu , Silvio , non mi	dai mai retta	 .
+
+1	0	0	mai richiami
+						DET ADV ADJ NOUN	ITWAC	Fertilizzazione e posto nella rotazione Fatti salvi	i mai inutili richiami	al bilancio umico della rotazione , per il favino , come per tutte le leguminose , è molto importante prestare attenzione
+
+1	0	0	mai richiesta
+						DET ADV NOUN	ITWAC	con ciò l' esistenza stessa della chiesa cattolica , la necessità  divina  della sua mediazione provvidenziale , per	la mai richiesta	 salvezza umana  ( Storia della Chiesa dir. Jedin , II , p. 183 ) .
+
+1	0	0	mai ricostruzione
+						DET ADV ADJ NOUN	ITWAC	ma anche nella singolare caratterizzazione delle strutture urbanistiche pre e post terremoto , dallo schianto dell' improvvisa distruzione al travaglio	della mai compiuta ricostruzione	; e soprattutto nella complessità della vita civica ( sotto i profili culturali , amministrativi , politici , economici ) :
+
+1	0	0	mai riduzione
+						DET ADV ADJ NOUN	ITWAC	lo destrutturano e nel contempo rispondono alle spinte localistiche ed autonomiste delle loro strutture più forti , oltre a realizzare	una mai disprezzabile riduzione	dei costi , delle medie salariali , ed un allargamento della quota salariale discrezionalmente distribuita dal singolo datore di lavoro .
+
+1	0	0	mai riflessione
+						DET ADV ADJ NOUN	ITWAC	Così si conclude l' Orestea , una delle massime opere della tragedia classica ,	una mai superata riflessione	sulle grandezze e debolezze dell' uomo , sull' intreccio tra destino , volontà e colpa , sul mistero della presenza e
+
+1	0	0	mai riforma
+						DET ADV NOUN	ITWAC	Senza quest' energia preziosa , questa serena passione non ci sarà	una mai riforma	che si occupi dei diritti di tutti .
+
+1	0	0	mai rimpianto
+						DET ADJ ADV NOUN	ITWAC	Quello che fa la Juve	dell' ex mai rimpianto	rimpianto Lippi e non ha mai imparato a fare né l' Inter tentenna di Cuper , né quella di Zaccheroni adagiata
+
+1	0	1	mai rinnegato
+						DET ADV NOUN	ITWAC	da ragazzino dai veleni del sottosuolo di Dostoevskij , dai mostri metafisici di Kafka e dal delirio a occhi aperti	del mai rinnegato	Isidore Ducasse , il « conte » di Lautréamont .
+						DET ADV NOUN	WIKICONLL	Lo struggente crescendo di  Since I' ve been loving you  dimostra	il mai rinnegato	amore per il blues , mentre  Out on the Tiles  riporta a suoni pastorali .
+
+2	0	0	mai riorganizzazione
+						DET ADV ADJ NOUN	ITWAC	accelerazione in atto su molteplici fronti : quello dei luoghi e degli strumenti dell' informazione e della conoscenza ; quello	della mai finita riorganizzazione	e riforma della pubblica amministrazione ; quello del mutare dei modelli di organizzazione del lavoro che , anche per le biblioteche
+						DET ADV ADJ NOUN	ITWAC	atto su molteplici fronti : - quello dei luoghi e degli strumenti dell' informazione e della conoscenza ; - quello	della mai finita riorganizzazione	e riforma della pubblica amministrazione ; - quello del mutare dei modelli di organizzazione del lavoro che , anche per le
+
+1	0	0	mai risorse
+						DET ADV ADJ NOUN	ITWAC	Siamo un Paese	dalle mai finite risorse	?
+
+1	0	0	mai rivale
+						DET ADV NOUN	ITWAC	di Sant' Agostino ( pagina 2 ) Jostein Gaarder intervistato da Paolo Marcesini Floria ha le idee chiare : 	La mai rivale	non era soltanto la mia rivale .
+
+1	0	0	mai ruolo
+						DET ADV ADJ NOUN	ITWAC	Chiamata a giocare	nel mai facile ruolo	di world car , questa Kia svolge il compito con diligenza e senza stravaganze .
+
+0	1	0	mai ruvidezza
+						DET ADV ADJ NOUN	REPUBBLICA	finto carbonio della plancia ) , la SLK offre un notevole confort di marcia grazie alla silenziosità del motore e	alla mai eccessiva ruvidezza	delle sospensioni .
+
+1	0	0	mai sacca
+						DET ADV NOUN	ITWAC	ho aspettato mezz ' ora per ricevere	la mai sacca	.
+
+1	1	0	mai saga
+						DET ADV ADJ NOUN	ITWAC	Mentre si arricchisce di nuovi personaggi	la mai noiosa saga	societaria , Ottavio Bianchi prepara con cura la squadra per la delicata ed improba sfida con la Roma .
+						DET ADV ADJ NOUN	REPUBBLICA	Lo inseriscono a pieno titolo	nella mai conclusa saga	di Tangentopoli con un episodio che lascia sconcertati .
+
+0	1	0	mai saldatura
+						DET ADV ADJ NOUN	REPUBBLICA	E il solo modo per far- lo , è scompaginare le file dell' Udr , approfittando	della mai compiuta saldatura	fra ex ccd e cdu .
+
+1	2	0	mai sapienza
+						DET ADV NOUN	ITWAC	[ L' orologiaio ] RE : RE : RE : RE : RE : leggendo l' ora Non sprecherò oltre	la mai sapienza	tecnico-storica , con stolti frequentatori di rigattieri di periferia Tu l' orologeria la conosci attraverso un corso per corripondenza I prezzi
+						DET ADV ADJ NOUN	REPUBBLICA	È infarcito di	una mai gratuita sapienza	cinefila che farà la gioia dei cinefili in sala ma , grazie all' impianto thriller e al tono da commedia ,
+						DET ADV ADJ NOUN	REPUBBLICA	Infarcito di	una mai gratuita sapienza	cinefila che farà la gioia dei cinefili in sala , e che , grazie all' impianto thriller e al tono da
+
+2	0	0	mai scelta
+						DET ADV NOUN	ITWAC	Son stati gentili , hanno capito	la mai scelta	ed erano contenti per me .
+						DET ADV NOUN	ITWAC	vi farò sapere su cosa è caduta	la mai scelta	...
+
+1	1	0	mai scomparsa
+						DET ADV NOUN	ITWAC	La bella sicurezza imprenditoriale e anche la sua retorica produttivistica e progettuale danno una spinta	alla mai scomparsa	intolleranza missina degli Storace , dei Gasparri e anche del loro segretario un po' « fumo di Londra » e degli
+						DET ADV NOUN	REPUBBLICA	Ora che la moda viaggia a riflettori spenti , ora che i contratti perdono gli zeri , sembra che	la mai scomparsa	molestia sessuale sia tornata prepotente nei templi dell' apparire .
+
+0	1	0	mai scopate
+						DET ADV NOUN	REPUBBLICA	con le proprie fantasie ) stese un catalogo interminabile delle sue donne ; le autentiche passioni , le impossibili ,	le mai scopate	, le perse per timidezza .
+
+0	0	1	mai scritta
+						DET ADJ ADV NOUN	WIKICONLL	L. Zamenhof , che stava lavorando alla prima grammatica	di yiddish mai scritta	scritta , pubblicata con lo pseudonimo  Dr. X  solo nel 1909 , in  Lebn un visnshaft  ,
+
+1	0	0	mai sentieri
+						DET ADV ADJ NOUN	ITWAC	quando è possibile , è importante cercare di aiutare chi ha meno esperienza , come farebbe una buona guida ,	nei mai facili sentieri	di questa montagna .
+
+1	0	0	mai servizio
+						DET ADV ADJ NOUN	ITWAC	Sono fattori promozionali : il Vaticano II , la Bibbia nei piani pastorali e segnatamente nel progetto catechistico italiano ,	il mai mancato servizio	dell ´ Associazione Biblica Italiana ( ABI ) per la PB ( e con essa di altre aggregazioni ecclesiali , monastiche
+
+0	1	0	mai sesso
+						DET ADV ADJ NOUN	REPUBBLICA	Se nel talamo matrimoniale le lenzuola sono fredde , ecco che torna di moda ,	il mai scomparso sesso	fuori dalla coppia fissa .
+
+1	0	0	mai sete
+						DET ADV NOUN	ITWAC	di risposta affermativa , sicuramente non ti sarai perso il MIO di commento al libro , che , per saziare	la mai sete	di snobistico protagonismo , quoto qua sotto : Citazione : Che dire del Da Vinci Code ?
+
+5	1	0	mai smentita
+						DET ADJ ADV NOUN	ITWAC	Nel loro candore non se ne sono , ovviamente , rese conto , ma hanno obbedito così a	una costante mai smentita	smentita : alla diminuzione della fede corrisponde sempre un aumento dell' interesse per la morale , sino al moralismo sfrenato (
+						DET ADJ ADV NOUN	ITWAC	partito , incapace di andare al governo per la sua formazione antisistema  , e , aggiungiamo noi , per	la sua mai smentita	smentita vocazione totalitaria e illiberale .
+						DET ADV NOUN	ITWAC	discutendo in merito alle tendenze agitantesi nel partito ; dichiarano decaduta la vecchia formula della atendenzialità dei giovani ; riaffermando	la mai smentita	fede rivoluzionaria della Gioventù Socialista ; constatando l' azione deleteria , nel presente periodo prerivoluzionario , degli elementi socialdemocratici e collaborazionisti
+						DET ADV NOUN	ITWAC	era stato denunciato come « borghese » dal partito comunista cubano , che soltanto all ´ ultimo momento , grazie	alla mai smentita	intelligenza di Carlos Rafael Rodríguez , riconobbe , agli incontrollabili ribelli , un carattere rivoluzionario .
+						DET ADV NOUN	ITWAC	state superate e gli ultimi ostacoli anche d' ordine finanziario eliminati per il diretto intervento dell' Eccellenza Buffarini e per	la mai smentita	benevolenza verso Pisa , dimostrata dall' Eccellenza Bottai , quando le attuali contingenze hanno fatto ritenere opportuno di sospendere ogni decisione
+						DET ADJ ADV NOUN	REPUBBLICA	FOndiaria si fosse svolta in modo poco limpido allora qualche partito politico potrebbe aver- ne tratto dei benefici  Secondo	la sua mai smentita	smentita tradizione , Merzagora non ha peli sulla lingua e distribuisce colpi a destra e a manca .
+
+1	0	0	mai soluzione
+						DET ADV NOUN	ITWAC	Ma siccome il problema si va verso	una mai soluzione	, e per tanti problemi , ed allora credo che l' intervento della Provincia con questo finanziamento sia intanto a riconoscere
+
+0	1	0	mai soluzioni
+						DET ADV ADJ NOUN	REPUBBLICA	fatto che il pubblico sia tornato ad interessar- si al cinema non deve produrre ulteriori ritardi , bensì sollecita più	che mai adeguate soluzioni	.
+
+0	1	0	mai sospetto
+						DET ADV ADJ NOUN	REPUBBLICA	portavano dietro in quella stanza ombre e ricordi : la lunga campagna comunista contro Craxi pericoloso per la democrazia ,	il mai spento sospetto	socialista che vuole il Pci pronto ad appoggiare la Dc se mai questo potesse servire a tagliare le gambe a Craxi
+
+1	0	0	mai spalla
+						DET ADV NOUN	ITWAC	) Vedi le inserzioni del venditore 31 - mar - 05 12:55 CEST 17 di 17 ti capisco , darei	la mai spalla	rotta per serie originali di jeeg , goldrake , daitarn III , ma sono proprio esperienze come le tue che mi
+
+1	0	0	mai specie
+						DET ADV NOUN	ITWAC	 A giudicare dalla tua reazione , devo dire che sembra che tu trovi	la mai specie	di ' relazione ' come minimo un po' eccitante .
+
+0	1	0	mai spirito
+						DET ADV ADJ NOUN	REPUBBLICA	 ) , che ne arroventa	il mai stanco spirito	critico .
+
+1	0	0	mai sposata
+						DET ADV NOUN	ITWAC	sua cocaina ; poi si presenta un azzeccagarbugli nero , Frazier , che sta per vendere a Porgy il divorzio	della mai sposata	Bess per un dollaro e mezzo , ma il cui raggiro va in fumo grazie al provvidenziale arrivo di un avvocato
+
+1	1	0	mai squadra
+						DET ADV NOUN	ITWAC	Io come sport pratico il basket e devo dire che	della mai squadra	non li usa nessuno .
+						DET ADV NOUN	REPUBBLICA	Viene da domandar- si con	quale mai squadra	saremmo scesi in campo se avessimo dovuto affidar- ci ai prodotti di una Federazione che ha avuto per anni un bilancio
+
+2	0	0	mai stanza
+						DET ADV NOUN	ITWAC	Digli di passare	dalla mai stanza	venendo qui e di prendere il cofanetto di velluto verde che trova nel cassettino del mio comodino  Un po' incuriosita
+						DET ADV NOUN	ITWAC	ora voglio solo satre sdraiato e guardare il soffitto	della mai stanza	( che non sarà come quello di giovanna dove si vedono le stelle Scritto da tobruk 2000 il 07/01/2005 20:21:21 GRIDO
+
+0	1	0	mai statura
+						DET ADV NOUN	REPUBBLICA	Conosco invece bene Maccari e perciò , sulla base della sua asserzione , eccomi a domandar- me	quale mai statura	avesse Longanesi .
+
+0	1	0	mai stile
+						DET ADV ADJ NOUN	REPUBBLICA	il busto con una giacca perfetta , e se invece usa , come hanno fatto tanti ispirando- si al più	che mai attuale stile	di Emilio Pucci o dell' imperituro Hermes , due foulard trasparenti per far- ne una camicia , sotto ci mette degli
+
+1	0	0	mai storia
+						DET ADV NOUN	ITWAC	Ciao Marco	La mai storia	di sportivo najff la conosci perchè da lassù hai il potere di leggere la vita di tutti noi .
+
+1	0	0	mai suggestioni
+						DET ADV ADJ NOUN	ITWAC	Ancora dall' Ottocento riprende la terza sezione della mostra , dove la Bellatrix Virgo racconta	le mai dimenticate suggestioni	delle valchirie wagneriane , delle amazzoni accademiche , simboliste , secessioniste e liberty .
+
+1	0	0	mai supposizione
+						DET ADV NOUN	ITWAC	morto al mattino ( se notate quando lei gli dice di averlo assistito la mattina dell' incidente vi accorgeret che	la mai supposizione	è giusta ...
+
+0	1	0	mai supremazia
+						DET ADV ADJ NOUN	REPUBBLICA	i paesi più avanzati l' incessante crescita del settore terziario trae , per così dire , disciplina e produttività da	una mai abbandonata supremazia	delle regole contrattuali e della disciplina lavorativa dell' industria , in Italia sembra avvenire l' esatto contrario .
+
+0	1	0	mai tasso
+						DET ADV NOUN	REPUBBLICA	E , infine , che senso ha spostar- si in laguna a testa sotto ,	quale mai tasso	culturale potrà avere il turismo , se lo straordinario segreto di Venezia è il paesaggio , cioè l' intimo , inscindibile
+
+1	1	0	mai tensione
+						DET ADV ADJ NOUN	ITWAC	evocazione che si fa impulso alla creatività della ricerca e all' apertura di sempre nuove prospettive di confronto , in	una mai smessa tensione	a valorizzare i motivi di universalità e tolleranza implicati nel pensiero spinoziano .
+						DET ADV ADJ NOUN	REPUBBLICA	forse però è proprio quello il ricordo che più gli dava allegria : al di là dei suoi libri ,	della mai doma tensione	intellettuale , della politica come passione .
+
+1	0	0	mai terre
+						DET ADV ADJ NOUN	ITWAC	dellâ  TMetà imperiale , gli uomini delle legioni dellâ  TMesercito di Roma passavano attraverso questi luoghi per raggiungere	le mai dome terre	germaniche .
+
+1	0	0	mai tesi
+						DET ADV NOUN	ITWAC	mon dieu da quando sto preparando	la mai tesi	in semiotica della comunicazione scopro cose sempre più interessanti ...
+
+1	0	0	mai testa
+						DET ADV NOUN	ITWAC	fin qui ; il film più atteso della mia vita , me lo sono sciroppato con la cassa di destra	sulla mai testa	, che ad ogni emissione sonora spernacchiava in maniera invereconda perfino per le RCF del cinema Nes *** di Frosinone .
+
+1	0	0	mai testate
+						DET ADJ ADV NOUN	ITWAC	Il video si presenta in 1.66:1 anamorfico , semplicemente strepitoso , la definizione è fra	le migliori mai testate	testate , tanto da poter offrire un ottimo livello di dettaglio .
+
+1	0	0	mai tradizione
+						DET ADV ADJ NOUN	ITWAC	Toscana , si rafforza dentro la seconda cerchia delle sue mura , elegge a libero governo i consoli , secondo	la mai spenta tradizione	romana , estende il proprio territorio dal monte al piano , stringe patti di alleanza con Pisa e con Genova ,
+
+0	1	0	mai transizione
+						DET ADV ADJ NOUN	REPUBBLICA	Non lo avrebbe convinto perché , nelle condizioni date e	nella mai compiuta transizione	italiana , quella legge promessa a Rifondazione è condizione di sopravvivenza per il governo stesso .
+
+0	1	0	mai turbamenti
+						DET ADV NOUN	REPUBBLICA	E se per disgrazia del Cesena dovesse vincere il Cagliari ,	quali mai turbamenti	e tremori e intoppi nel cammino di quante rimanessero poco sopra i 15 punti !
+
+1	0	0	mai urgenza
+						DET ADV ADJ NOUN	ITWAC	sommato , sempre fedele ad alcuni chiari e mai rinnegati obiettivi - è la sua capacità di restare attuale ,	la mai spenta urgenza	di sperimentare , esprimere e , perché no ?
+
+0	1	0	mai uscite
+						DET ADV NOUN	REPUBBLICA	in Italia , per la mostra , quindici grandi icone , o meglio , tavole dipinte del rinascimento russo ,	alcune mai uscite	dall' Unione Sovietica .
+
+1	0	0	mai validità
+						DET ADV ADJ NOUN	ITWAC	la stessa spiegazione , d' altra parte , della diffusione delle terapie alternative , nonostante l' evidente inconsistenza teorica e	la mai provata validità	pratica della stragrande maggioranza di esse .
+
+1	0	0	mai vecchiaia
+						DET ADV NOUN	ITWAC	siccome in questi giorni vado sempre di corsa ( e	la mai vecchiaia	non sempre mi aiuta ) auguro operator il 16 - 12 - 2004 alle 14.16 ha scritto : ciao bella gente
+
+0	1	0	mai vecchietto
+						DET ADV ADJ NOUN	REPUBBLICA	ha sostituito da qualche tempo le mani e gli ombrelli , è finito nella collezione di armi improprie portate vie	al mai pago vecchietto	.
+
+1	0	0	mai vena
+						DET ADV ADJ NOUN	ITWAC	le influenze di gusto liberty di fine-inizio secolo ( e talvolta con qualche risvolto simbolista ) , modellandole su di	una mai abbandonata vena	romantica , che caratterizzò fortemente anche la produzione della tarda maturità .
+
+1	0	0	mai versione
+						DET ADV ADJ NOUN	ITWAC	uno sfarfallamento di pochi secondi abbastanza fastidioso , segno forse del fatto che il titolo è in parte una conversione	della mai finita versione	Dreamcast .
+
+0	1	0	mai verso
+						DET ADV NOUN	REPUBBLICA	politica sudafricana subisce una brusca radicalizzazione e i rapporti fra la comunità bianca e quella negra sembrano avviar- si più	che mai verso	la contrapposizione frontale .
+
+0	1	0	mai vicini
+						DET ADV NOUN	REPUBBLICA	3  ) proprio nel derby di Cesena , i rossoblù sono isolati al quart ' ultimo posto , più	che mai vicini	alla retrocessione .
+
+1	0	0	mai violini
+						DET ADV ADJ NOUN	ITWAC	per lo spreco di cellule cerebrali nel fare il testo , nonostante tutto si rende lo stesso apprezzabile , grazie	ai mai inusitati violini	.
+
+2	0	0	mai visione
+						DET ADV NOUN	ITWAC	1931 Pubblica una miscellanea dei suoi scritti con il titolo 	La mai visione	del mondo  .
+						DET ADV NOUN	ITWAC	prestigio e potere , il vostro apporto alla nuova società sarà essenziale , presto , ve lo garantisco , approverete	la mai visione	.
+
+19	0	0	mai vista
+						DET ADJ ADV NOUN	ITWAC	[ Gargonza ] Montanelli su Repubblica : L' Italia di Berlusconi e'	la peggiore mai vista	vista From :  Francesco Forti  francesco.forti@xxxxxxxxxx Date : Tue , 27 Mar 2001 08:35:34 + 0200 Il giornalista è
+						DET ADJ ADV NOUN	ITWAC	Glisso volutamente su Maldini , fenomenale con l' under 21 ma disastroso con la Nazionale , a mio avviso	la peggiore mai vista	vista .
+						DET ADJ ADV NOUN	ITWAC	L' Italia di Berlusconi ,	la peggiore mai vista	vista  Montanelli : sa solo mentire e la gente gli crede  La cosa più impressionante sono le telefonate anonime
+						DET ADJ ADV NOUN	ITWAC	La grafica senza precedenti e la perfezione nella somiglianza dei giocatori con le  Star dell ´ NBA  (	la migliore mai vista	vista in un gioco di sport ) sono i punti di forza di questo prodotto .
+						DET ADJ ADV NOUN	ITWAC	La rappresentazione degli extraterrestri , sia come figure che come movimenti , trovo sia	la migliore mai vista	vista , con un forte rihiamo stilistico allo stesso Salvador Dalì .
+						DET ADJ ADV NOUN	ITWAC	La trama , scritta tra l' altro da Leonard Nimoy , è a parer mio	la migliore mai vista	vista in un film di Star Trek .
+						DET ADJ ADV NOUN	ITWAC	Peccato , la zona del Porto Antico è	la migliore mai vista	vista per una festa .
+						DET ADJ ADV NOUN	ITWAC	Per quel che riguarda il profilo tecnico Vampire è realizzato veramente bene : la grafica è di ottima fattura ,	la migliore mai vista	vista in un gioco di questo tipo : personaggi ben definiti , grafica pulita e fluida a risoluzioni elevate ( fino
+						DET ADJ ADV NOUN	ITWAC	Poi , siete arrivati voi , ed io sono rimasto a bocca aperta per la vostra competenza , in assoluto	la migliore mai vista	vista su un forum del Web .
+						DET ADJ ADV NOUN	ITWAC	Signor Presidente , la manovra di bilancio predisposta dal Governo è	la peggiore mai vista	vista in questi anni per quanto riguarda l' ambiente e il territorio .
+						DET ADJ ADV NOUN	ITWAC	appunto , ma quando il gioco si è fatto serio non hanno convinto , nonostante la poderosa organizzazione , 	la migliore mai vista	vista in Iowa  , l' arrivo di migliaia di militanti da altri Stati , l' appoggio del senatore locale ,
+						DET ADJ ADV NOUN	ITWAC	comunque è un bellissimo film , da guardare perché è	una soria mai vista	vista , raccontata in maniera molto sottile , senza sbavare o esagerare ...
+						DET ADJ ADV NOUN	ITWAC	del Polo  La cosa più impressionante sono le telefonate anonime  Montanelli :  L' Italia di Berlusconi e'	la peggiore mai vista	vista   Quell' uomo è una malattia : si cura solo con il vaccino Una bella iniezione di Cavaliere premier
+						DET ADJ ADV NOUN	ITWAC	il bar , la trattoria o il bazar fuori mano con la speranza d' imbattersi in un piccolo tesoro :	una mignon mai vista	vista prima oppure il pezzo pregiato , in vendita però ad un prezzo che non risentisse della richiesta isterica dei nuovi
+						DET ADJ ADV NOUN	ITWAC	la sua longevità è al di sopra di ogni gioco automobilistico , la sua giocabilità è	la migliore mai vista	vista in una consolle , la sua grafica è lodevo ...
+						DET ADJ ADV NOUN	ITWAC	per chi non vuole cimentarsi in una campagna , e che dire allora della modalità multiplayer , fondamentale , penso	la migliore mai vista	vista in circolazione , un organizzazione per partite spettacolari in rete .
+						DET ADV NOUN	ITWAC	Hai ragione riguardo alle attuali destre ( Infatti ho scritto ke sono per una totale ricostruzione della destra ,	una mai vista	) ; pensa che una volta hanno intervistato un gruppo di ForzaNuova e questi avevano un malcelato timore di dire quello
+						DET ADV NOUN	ITWAC	Oggi vai al cinema con	una mai vista	prima e ti ritrovi fra le tende di un uscita chiusa a farlo tu , il film .
+						DET ADV NOUN	ITWAC	Ti piace fare la troietta via internet e vedere qdto sono sfigati gli uomini ke farebbero d tutto x fottersi	una mai vista	ke potrebbere essere il cesso + clamoroso del mondo ...
+
+12	0	0	mai viste
+						DET ADJ ADV NOUN	ITWAC	Concerto Damien Rice Bruxelles , Ancienne Belgique , 26 - 3 - 04 Sala : una	delle migliori mai viste	viste circa 1000 posti di cui 200 seduti in fondo in galleria e un centinaio in logge laterali aperte .
+						DET ADJ ADV NOUN	ITWAC	Così come le texture ,	le migliori mai viste	viste in un survival horror su qualsiasi piattaforma .
+						DET ADJ ADV NOUN	ITWAC	Dalla nostra parte abbiamo però altri cinque soldati dotati anch' essi di un IA spaventosa , forse una	delle migliori mai viste	viste , con un semplice comando potremo farli muovere , ordinare loro di coprire una zona o di entrare in un
+						DET ADJ ADV NOUN	ITWAC	Dio , quella scena è bellisisma , senza dubbio una	delle migliori mai viste	viste ç _ _ ç !
+						DET ADJ ADV NOUN	ITWAC	In generale la grafica di Myth III svolge bene il suo compito , risultando una	delle migliori mai viste	viste in un videogame di questo tipo .
+						DET ADJ ADV NOUN	ITWAC	La grafica di Racing Evoluzione è spettacolare e dettagliatissima , una	delle migliori mai viste	viste su una console ; le quattro zone entro le quali sono sviluppati i numerosi tracciati a disposizione sono state modellate
+						DET ADJ ADV NOUN	ITWAC	La regia artificiale è tra	le migliori mai viste	viste e spesso si ha la sensazione di assistere ad un film interattivo .
+						DET ADJ ADV NOUN	ITWAC	Ma una nota particolare va sicuramente alle animazioni , che a memoria potrebbero essere	le migliori mai viste	viste : non è un caso infatti che la Quantic Dream abbia nel proprio ventre uno degli studios di motion capture
+						DET ADJ ADV NOUN	ITWAC	Ora però si è arrivati a livelli di pura eccellenza con una qualità grafica che è tra	le migliori mai viste	viste su Xbox .
+						DET ADJ ADV NOUN	ITWAC	Tecnica La realizzazione tecnica del titolo Electronic Arts è sicuramente una	delle migliori mai viste	viste sulla console di casa Sony : il punto di forza della produzione è l' integrazione delle sequenze giocate nei filmati
+						DET ADJ ADV NOUN	ITWAC	sta guardando fuori distratto perché , preceduta da uno strano scoppiettio , arriva sulla strada bianca un' automobile , una	delle prime mai viste	viste , tozza , piccola , una carrozza in miniatura , ruote alte , mantice alzato .
+						DET ADV NOUN	ITWAC	io le scarpe che fanno loro e	lo mai viste	addosso a nessuno .
+
+36	0	0	mai visto
+						DET ADJ ADV NOUN	ITWAC	giustizia , sanità , istruzione , sociale vogliamo che i pochi programmi rimasti  guardabili  vengano relegati alla stregua	del fù mai visto	visto spettacolino di Socci .
+						DET ADV NOUN	ITWAC	Per me poi non è così male è stato rotto tutto l' anno e nessuno	la mai visto	.
+						DET ADJ ADV NOUN	ITWAC	è il suggello di un film ispido e secco ( neanche un' ora e mezzo ) che imposta un duetto	al femminile mai visto	visto finora al cinema .
+						DET ADJ ADV NOUN	ITWAC	Il mirino reflex della Sony 707 è decisamente buono , ben 180.000 pixel , forse	il migliore mai visto	visto in fotocamere di questa fascia di mercato , ed è quasi del tutto esente da distorsione ( appena un po'
+						DET ADJ ADV NOUN	ITWAC	Aveva una carnagione scura , con occhi di	un nero mai visto	visto , i capelli erano rasati a zero .
+						DET ADJ ADV NOUN	ITWAC	Non sto dicendo sia	il migliore mai visto	visto , chiaramente , ma veder la palla che gira a 200 tra quei popo ' di piedi a me ,
+						DET ADV NOUN	ITWAC	Mi riferisco al  jamais vu  ,	al mai visto	, in virtù del quale , capita di non riconoscere come esperienza propria , personale , una situazione nella quale siamo
+						DET ADJ ADV NOUN	ITWAC	Lo spettacolo al quale abbiamo assistito , però , è stato in assoluto	il peggiore mai visto	visto .
+						DET ADJ ADV NOUN	ITWAC	e se ne sta lì , in coda , composta e paziente , devota , alternando preghiere e chiacchiere con	il vicino mai visto	visto prima , pronta ad un' attesa che arriva alle 12 ore .
+						DET ADV NOUN	ITWAC	 Non ho mai inseguito l' insolito ,	il mai visto	, lo straordinario , ma quello che c' è di più tipico nella nostra esistenza quotidiana , nel luogo in cui
+						DET ADJ ADV NOUN	ITWAC	) Xbox : Simulazione : Forza Motorsports ( il lavoro fatto per i danni su licenza è	il migliore mai visto	visto ) ; Arcade : Project Ghotam 2 ( perfetto nella sua meccanica di gioco ) ; Ibrido : Toca 2
+						DET ADV NOUN	ITWAC	, per dar vita anche all' apparente impossibile ; · estrosità benvenuta , dove il nuovo , l' originale ,	il mai visto	non fa più paura anzi viene accolto con favore · moltiplicazione sistematica delle proposte , da idea nasce idea senza più
+						DET ADJ ADV NOUN	ITWAC	Il presidente cubano poco prima del passaggio del temibile uragano -	il peggiore mai visto	visto in una terra , quella caraibica , bersagliata da fenomeni atmosferici di questo tipo - si è recato nei luoghi
+						DET ADV NOUN	ITWAC	ma come modi di pensare , metafore usate , senso di valicare il limite , di trovare il nuovo ,	il mai visto	( dark side ) , parole dal suono esoterico o immagini semplicemente belle .
+						DET ADV NOUN	ITWAC	film , il commovente  Sweet november  con Keanu Reeves e Charlize Theron nel cortile della vecchia pretura e	il mai visto	a Varese  Honolulu baby  di Maurizio Nichetti ai giardini Estensi .
+						DET ADJ ADV NOUN	ITWAC	Io avevo una Vicini rossa munita di sella maculata ( roba di	un kitsch mai visto	visto ) e doveva essere costruita con barre piene anziché tubi , visto che pesava almeno come un maggiolino Volkswagen .
+						DET ADV NOUN	ITWAC	fanno parte del loro mondo , restituiamo loro la nostra presenza , soprattutto quando sono di fronte al diverso ,	al mai visto	, al mai sentito .
+						DET ADV NOUN	ITWAC	Gli hinuit del Canada vedono l' inedito ,	il mai visto	alle loro latitudini : nelle zone circumpolari passano ormai gli uccelli migratori , e per la prima volta dalle eternità del
+						DET ADJ ADV NOUN	ITWAC	Liberation 12.12.2001 Spettacolo Recensore condannato per calunnia : aveva giudicato uno spettacolo come	il peggiore mai visto	visto senza avervi assistito Il cantante e attore David Soul ha accettato 20.000 sterline ( 60 milioni di lire ) in
+						DET ADJ ADV NOUN	ITWAC	Grazie alla nostra astuzia Oscar sconfiggerà giganteschi squali in veri e propri combattimenti , seguendo l' arte	del karate-ittico mai visto	visto in precedenza ( non mancheranno le prese in giro degli avversari , botte di coda , testate o colpi di
+						DET ADJ ADV NOUN	ITWAC	 cè  , che nel castigliano del sudamerica significa  io  , perché di smisurato , oltre ad	un sinistro mai visto	visto , Sivori , ha anche l' ego .
+						DET ADJ ADV NOUN	ITWAC	di	un ripido mai visto	visto .
+						DET ADJ ADV NOUN	ITWAC	Andante 13.12.2001 Recensore condannato per calunnia : aveva giudicato uno spettacolo come	il peggiore mai visto	visto senza avervi assistito Il cantante e attore David Soul ha accettato 20.000 sterline ( 60 milioni di lire ) in
+						DET ADV NOUN	ITWAC	E via immaginando e costruendo :	il mai visto	, il mai immaginato ...
+						DET ADV NOUN	ITWAC	io nn	lo mai visto	...
+						DET ADJ ADV NOUN	ITWAC	qualche giorno le temperature erano veramente basse , un venticello siberiano sferzava l' aria , e il cielo era di	un sereno mai visto	visto .
+						DET ADV NOUN	ITWAC	un miracolo Un miracolo è dunque quello che ci serve , lo straordinario ,	il mai visto	, l' inimmaginabile , l' insolito , quanto è fuori della nostra portata .
+
+22	0	0	mai vita
+						DET ADV NOUN	ITWAC	; - DDD ahaha sei l' uomo	della mai vita	!!!
+						DET ADV NOUN	ITWAC	 Cara  le dice  Tu mi sei sempre stata vicina , in ogni momento difficile	della mai vita	.
+						DET ADV NOUN	ITWAC	 Ne va	della mai vita	retroattivamente , capisce ?
+						DET ADV NOUN	ITWAC	« Ogni brano fa storia a sé ma in generale le mie canzoni nascono da qualcosa che è successo	nella mai vita	.
+						DET ADV NOUN	ITWAC	Criss fai bene a mantenermi con i piedi ben saldi , perchè io in questo particolare momento	della mai vita	non riesco ad essere molto obiettiva .
+						DET ADV NOUN	ITWAC	Da quel momento	la mai vita	non è stata più la stessa .
+						DET ADV NOUN	ITWAC	E mai	nella mai vita	mi ero sentito così amareggiato e depresso come in quell' occasione .
+						DET ADV NOUN	ITWAC	Effettivamente è tale la confusione mentale in questo periodo	della mai vita	che molto probabilmente non riuscirò a combinare nulla di chiaro anche tra queste righe ...
+						DET ADV NOUN	ITWAC	Gli ho chiesto di non invadere i miei spazi , di lasciarmi vivere	la mai vita	, perchè adesso qualsiasi decisione sarebbe solo il frutto di condizionamenti e basta !
+						DET ADV NOUN	ITWAC	Ho mangiato piu' pesce in due giorni che in tutta	la mai vita	!
+						DET ADV NOUN	ITWAC	Marben Ashti All' ombra del dittatore	La mai vita	in Iraq 2005 Ponte alle Grazie pp. 288 E 14,00 VITE , ASIA , IRAQ , DONNA La storia di una
+						DET ADV NOUN	ITWAC	Mi pesa comunque dividere	la mai vita	con lui .
+						DET ADV NOUN	ITWAC	Per esempio un pezzo fondamentale	della mai vita	è questo [ suona ] , che è Firth of fifth dei Genesis .
+						DET ADV NOUN	ITWAC	Recentemente , avendo cambiato quasi radicalmente	la mai vita	, ho adottato un cagnolino maltese di nome Satin .
+						DET ADV NOUN	ITWAC	ci sono cose	nella mai vita	che io , ed io soltanto posso sapere , leggere e vedere .
+						DET ADV NOUN	ITWAC	fatto che lei non voleva vedere dove lavoravo , non voleva uscire con i miei amici , ' entrare '	nella mai vita	, mai avrebbe pensato di dirmi una stupidaggine qualunque come ' andiamo al mare io e te ?
+						DET ADV NOUN	ITWAC	ieri notte ho avuto come un lampo e ho visto tutta	la mai vita	futura , naturalmente a grandi linee e mi è piaciuta ...
+						DET ADV NOUN	ITWAC	la mia riguardoa sabato , beh chi l' ha visto lo può immaginare , è stato il giorno + bello	della mai vita	, lo sognavo dal 1996 ...
+						DET ADV NOUN	ITWAC	lacrime , perché se uccidessi qualcuno su questa terra lei mi odierebbe , perché per la prima volta in tutta	la mai vita	il mio cuore si riscalda al suo pensiero , al fatto che se morissi qualcuno piangerebbe per me , al fatto
+						DET ADV NOUN	ITWAC	ma che caxxo me ne frega ) ( mo ti cucchi tutta la storia	della mai vita	) son tredici anni che faccio sta vita di merda , su e giù dagli aerei ...
+						DET ADV NOUN	ITWAC	piccione come amica un bel piccione bianco che vorrei sempre vedere felice e continuo per la mia strada , per	la mai vita	, per i miei sogni !
+						DET ADV NOUN	ITWAC	uno dei più assurdi	della mai vita	...
+
+0	1	0	mai vitalità
+						DET ADV ADJ NOUN	REPUBBLICA	seguano fatti , non si lascia andare a trionfalismi di sorta , e a Cossutta e ai suoi che inneggiano	alla mai esaurita vitalità	sovietica , risponde con Pajetta : Berlinguer constatò allora quel che Gorbaciov constata adesso .
+
+2	0	0	mai vittime
+						DET ADV ADJ NOUN	ITWAC	aggiungersi le vittime americane , oltre 1500 soldati uccisi , e delle altre forze della coalizione dei volenterosi , nonché	le mai contate vittime	irachene .
+						DET ADV ADJ NOUN	ITWAC	aggiungersi le vittime degli USA ( oltre 1.500 soldati uccisi ) , delle altre forze della coalizione dei volenterosi e	delle mai contate vittime	irachene .
+
+0	1	0	mai vizio
+						DET ADV NOUN	REPUBBLICA	GARROS di GIANNI CLERICI Sfrangiati visi di immortali campioni inutili giacete mescolati a detriti di bassa umanità Nel domandar- me	quale mai vizio	vano mi riconduce a voi taglia il tramonto la traccia candidissima di un lob Se la terra avvilisce diceva il mio
+
+0	1	0	mai volte
+						DET ADV NOUN	REPUBBLICA	del Bertoldo di cui Candido fu una prosecuzione , perché finivano in do tutti e due , e Fellini ,	quante mai volte	ci ha raccontato di quando portava i suoi disegni nelle redazioni dei giornali umoristici ?
+

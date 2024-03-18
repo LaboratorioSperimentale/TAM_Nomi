@@ -1,0 +1,929 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+2	0	0	no ANGELO
+						DET ADV ADJ NOUN	ITWAC	DEGLI ESPINOSA - EDO RONCHI * , L ,  il manifesto  del 30 Agosto 2003 L' Europa scheda	i no global ANGELO	MASTRANDREA ,  il manifesto  del 29 Agosto 2003 Trento , skinheads in arrivo .
+						DET ADV ADJ NOUN	ITWAC	Ma non solo GERALDINA COLOTTI ,  il manifesto  del 05 Dicembre 2002 Il Riesame scarcera	i no global ANGELO	MASTRANDREA ,  il manifesto  del 04 Dicembre 2002 « Trattati come animali » A. MAS .
+
+1	0	0	no Addio
+						DET ADV NOUN	ITWAC	Noi abbiamo tutto l' interesse a mantenere nei nostri locali LEGGO Milano Discoteche chiuse alle 3 Raccolta di firme per	il no Addio	a notti insonni in discoteca .
+
+1	0	0	no Azione
+						DET ADV ADJ NOUN	ITWAC	SUI SITI IL DIBATTITO E ´ APERTO C ´ è anche una destra pronta a marciare con	i no global Azione	Giovani : arriviamo con lo striscione .
+
+1	0	0	no Azioni
+						DET ADV NOUN	ITWAC	E in quest ambito che si inserisce	la no Azioni	Attività in corso : Sviluppo di nuove metodologie sintetiche ecocompatibili .
+
+1	0	0	no CARRIERA
+						DET ADV NOUN	ITWAC	Il testo della discussione all' indirizzo : http://www.amcorteconti.it/disc_aff_cost.htm Alla vigilia dell' appuntamento referendario del 21 maggio le ragioni	del no CARRIERA	UNICA DA DIFENDERE Per i PM è fondamentale la cultura del giudizio Salvatore Sfrecola ( Presidente dell' Associazione Magistrati Corte dei
+
+1	0	0	no Caos
+						DET ADV NOUN	ITWAC	è dei chip che ti fanno dialogare La guerra con Apple Buon compleanno Mister Personal La generazione che non conosce	il no Caos	nei provveditorati Ferie annullate per nominare gli insegnanti Università che vai laurea che trovi - Forum e News : Sindacati http://www.edscuola.it/sindacati.html
+
+0	0	1	no Cleonimo
+						DET ADJ ADV NOUN	WIKICONLL	originaria di Padova , è legato il famoso episodio in cui - a detta di Tito Livio - la scorreria	dello sparta no Cleonimo	Cleonimo sarebbe stata valorosamente respinta dagli antichissimi padovani ( 302 a.C. ) a seguito di una sorta di battaglia navale sul
+
+0	0	1	no Dorieo
+						DET ADJ ADV NOUN	WIKICONLL	Secondo lo storico greco Erodoto venne fondata	dallo sparta no Dorieo	Dorieo , che vi eresse un tempio dedicato ad Atena Crastia .
+
+0	0	1	no Farace
+						DET ADJ ADV NOUN	WIKICONLL	di Imilcone per essere recuperata , lo stesso anno , da Dioniso di Siracusa in aiuto del quale erano intervenuti	lo sparta no Farace	Farace e una provvidenziale peste che aveva decimato i cartaginesi .
+
+1	0	0	no Fecondazione
+						DET ADV NOUN	ITWAC	Pannella :  Decisione eversiva  Referendum , quattro sì e	un no Fecondazione	, bocciato il quesito radicale cancella-legge I radicali : soluzione politica scandalosa Il dissenso del giudice Bile LIANA MILELLA ROMA -
+
+1	0	0	no Fischi
+						DET ADV ADJ NOUN	ITWAC	Agnoletto : Francesco smetta di dar lezioni Verdi , lite anche	sui no global Fischi	e applausi a Casarini .
+
+0	0	1	no Gerber
+						DET ADJ ADV NOUN	WIKICONLL	piazzola ) rispetto a Domínguez ( solo 3 su 7 per lui ) e alla meta realizzata nel secondo tempo	dal sudafrica no Gerber	Gerber , si aggiudicò la gara e lo scudetto numero 5 .
+
+0	0	1	no Giuseppe
+						DET ADJ ADV NOUN	WIKICONLL	Artisti trasversali rispetto a queste due scuole sono oggi i messinesi Nino Frassica e Maria Grazia Cucinotta ,	l' augusta no Giuseppe	Giuseppe Fiorello e l' acese Antonio Catania .
+
+0	0	2	no Go
+						DET ADV NOUN	WIKICONLL	: http://www.myspace.com/doas10th La nuova canzone  Saigo no GAME  è usata come opening della nuova serie dell' anime 	Hikaru no Go	 in onda dal 15 giugno 2009 .
+						DET ADV NOUN	WIKICONLL	I suoi lavori più conosciuti sono	Hikaru no Go	, durato 189 capitoli e pubblicato su Shonen Jump , grazie al quale ha vinto lo Shogakukan Manga Award del 2000
+
+0	0	1	no Hate
+						DET ADV NOUN	WIKICONLL	 Gōrudo Rasshu  ( ゴールドラッシュ , pubblicato in Italia come  Oro rapace  , 1998 ) ; 	Hachi-gatsu no Hate	 ( 8 月 の 果 て ,  La fine di agosto  , 2004 ) .
+
+1	0	0	no Incontri
+						DET ADV NOUN	ITWAC	[ Leggi ] 14:00 Associazione Girorotondo - Maternità e genitorialità a tutto tondo : I sì e	i no Incontri	e corsi con i genitori sul tema della nascita e dell' educazione .
+
+1	0	0	no Iniziativa
+						DET ADV ADJ NOUN	ITWAC	da  il manifesto  del 07 Luglio 2004 Un Osservatorio sul processo	ai no global Iniziativa	di deputati e senatori Prc , Verdi e Ds per i tredici attivisti alla sbarra a Cosenza Il teorema Sono accusati
+
+0	0	1	no Kids
+						DET ADV NOUN	WIKICONLL	sua carriera attraverso il  Comiket  ed inizia a fare pratica con storie brevi , come ad esempio 	Hitonatsu no Kids	game  nel 1993 , la sua prima storia originale , e  Itsudatte my santa !
+
+0	0	1	no Ko
+						DET ADV NOUN	WIKICONLL	un caso musicale , l' assassino fischietta un motivetto dopo una domanda di Conan , riconosciuto da Ran come 	Nanatsu no Ko	 , i  Sette Bambini  , una filastrocca ben nota in Giappone .
+
+0	0	1	no Lampis
+						DET ADJ ADV NOUN	WIKICONLL	Entrò nel programma delle Olimpiadi nel 708 a.C. e	lo sparta no Lampis	Lampis ne fu il primo campione , in seguito ci fu l' Atleta di Taranto .
+
+1	0	0	no Lunedì
+						DET ADV NOUN	ITWAC	Olona  Fulvio Fagiani commenta le sue impressioni sulle ultime dichiarazioni rilasciate dal presidente della Provincia Inceneritore , le ragioni	del no Lunedì	9 luglio Malpensa  Mattinata di passione per due anziani non autosufficienti .
+
+0	0	1	no Michelangelo
+						DET ADJ ADV NOUN	WIKICONLL	Le due opere affiancavano un dipinto raffigurante la  Santissima Trinità 	del montevarchi no Michelangelo	Michelangelo Vestrucci che lo eseguì nel 1618 , oggi nei depositi della Soprintendenza di Arezzo .
+
+0	0	1	no Name
+						DET ADV NOUN	WIKICONLL	In realtà No Name è un' abbreviazione del suo nome vero , 	Masakatsu no Name	 .
+
+1	0	0	no Perizie
+						DET ADV ADJ NOUN	ITWAC	In un video l' ultima novità su Giuliani : il colpo deviato da un sasso	dei no global Perizie	e indiscrezioni Un calcinaccio di due chili , lanciato verso la jeep , avrebbe distorto la traiettoria di 25 gradi .
+
+1	0	0	no Piano
+						DET ADV ADJ NOUN	ITWAC	scritto da sixa alle ore 13:07 commenta leggi commenti ( 1 ) 29.08.2003 L' Europa scheda	i no global Piano	della presidenza Berlusconi per « difendere » i summit dai manifestanti L' Italia vuole una risoluzione Ue per imporre a tutti
+
+2	0	0	no Re
+						DET ADV NOUN	ITWAC	Il fronte	dei no Re	: [ INNOVAZIONE ] Titolo : INVITO ALLA RIVOLTA NEL  PALAZZO  RADICALE From : Gianni Rubagotti giannirubagotti@xxxxxxxx Date :
+						DET ADV NOUN	ITWAC	riconoscere Mim Do Non basta che sia solo respirare La Re Mim la inventi tutti i giorni prego e sputo	un no Re	Mim prego dovresti farlo anche tu Do Re Mim Do Re Mim Non è mai stato subito non è mai stato
+
+1	0	0	no SALVATORE
+						DET ADV NOUN	ITWAC	In rappresentanza del comitato per il NO MICHELE DE LUCIA Direzione Nazionale di R.I. e Coordinatore nazionale del comitato per	il no SALVATORE	ABBRUZZESE dell' associazione Socialismo è Libertà In rappresentanza del comitato per il SI VITO NOCERA Segratario regionele di Rifondazione PAOLO GIUGLIANO
+
+1	0	0	no Sabato
+						DET ADV NOUN	ITWAC	Paola Lenzi Prime cure al neonato , la sicurezza , i trasporti Sabato 22 gennaio Laura Fregoli I sì e	i no Sabato	29 gennaio Paola Lenzi I giochi , le attrezzature Sabato 12 febbraio Isabella Linsalata e Daniela Lenzi Gravidanza e cambiamento Sabato
+
+1	0	0	no Scala
+						DET ADV NOUN	ITWAC	E i lavoratori protesteranno davanti al Comune Fontana , il giorno	del no Scala	, il Cda dovrà trovare un ´ altra soluzione Il sovrintendente ufficializzerà il suo rifiuto alla vicepresidenza con deleghe esclusivamente gestionali
+
+1	0	0	no Sindaco
+						DET ADV NOUN	ITWAC	Il Senato plaude ai combattenti di Salò Guai ad andar contro Totò Scuola : galeotto fu quell' incontro Il ponte	del no Sindaco	vieta la manifestazione  contro le antenne  : .
+
+1	0	0	no Telefono
+						DET ADV NOUN	ITWAC	referendum Gloria Buffo ( Ds ) : ' ' Referendum , una sconfitta da indagare ' ' Quattro sì e	un no Telefono	rosa : Sì ai 4 referendum Ego te absolvo Girodivite speciale Referendum procreazione assistita Sul referendum del 12 e 13 giugno
+
+1	0	0	no UDIENZA
+						DET ADV NOUN	ITWAC	Sab Giu 25 , 2005 1:50 pm Oggetto : Mercoledì , 22 giugno 2005 Salmo 123 Il nostro aiuto è	nel no UDIENZA	GENERALE Mercoledì , 22 giugno 2005 Salmo 123 Il nostro aiuto è nel nome del Signore Vespri - Lunedì 3 a
+
+0	0	2	no Uta
+						DET ADV NOUN	WIKICONLL	La canzone 	Shinjitsu no Uta	 viene scelta per la quinta sigla di chiusura dell' anime Inuyasha .
+						DET ADV NOUN	WIKICONLL	le precedenti canzoni usate come sigle dell' anime di  INUYASHA  , ovvero  Fukai Mori  , 	Shinjitsu no Uta	 ,  Rakuen  .
+
+1	0	0	no Vertice
+						DET ADV ADJ NOUN	ITWAC	del Wto Wto : fissata l' agenda dei negoziati Wto : la prima volta della Cina Johannesburg , la protesta	dei no global Vertice	Fao , prima manifestazione dei No global Barcellona , la polizia carica i no global sulla rambla AntiGlobal , dalla Rete
+
+1	0	0	no Voto
+						DET ADV NOUN	ITWAC	Gastone ( gasby ) Bianchi Jamaica , New York 11420 Oggi il ricorso di Tremaglia dopo	il no Voto	all' estero ROMA .
+
+0	7	0	no a
+						DET ADJ ADV NOUN	REPUBBLICA	È ancora troppo poco per schiodar- lo	dal suo no a	a Di Pietro ?
+						DET ADJ ADV NOUN	REPUBBLICA	Bonn è pronta ad appoggiare nuovi raid aerei , Parigi sottolinea il suo allarme per l' impotenza dell' Onu e	i suoi no a	a un ruolo di gendarme incontrastato dell' America .
+						DET ADJ ADV NOUN	REPUBBLICA	Con questi slogan ha risposto la folla , quando i capi della guerriglia hanno solennemente annunciato	il loro no a	a Najibullah e a Mosca .
+						DET ADJ ADV NOUN	REPUBBLICA	Douglas Hurd e il suo premier John Major sono tuttavia decisi a ribadire	il loro no a	a Dehaene , il primo ministro belga sponsorizzato da Francia e Germania .
+						DET ADJ ADV NOUN	REPUBBLICA	Il premier conferma	i suoi no a	a due dei nodi della trattativa promossa dal segretario di Stato in vista della convocazione di una conferenza di pace :
+						DET ADV NOUN	REPUBBLICA	Il fronte del rifiuto , quello che il Washington Post ha battezzato the just say no gang , la banda	del no a	tutti i costi , riprende fiato con ogni sussulto della crisi baltica , con la crescita elettorale dei radicali vittoriosi in
+						DET ADV NOUN	REPUBBLICA	Questioni troppo delicate per risolver- le con un sì o con	un no a	un quesito referendario  .
+
+1	0	0	no accoltellatore
+						DET ADV ADJ NOUN	ITWAC	antiproiettile presentano lesioni da taglio incompatibili con il racconto di Nucera e dell' ispettore Panzieri , già poco verosimile perché	il no global accoltellatore	sarebbe stato bloccato da diversi agenti ma poi sarebbe riuscito a dileguarsi .
+
+2	0	0	no ala
+						DET ADV ADJ NOUN	ITWAC	Non va meglio a Palazzo Marino , dove	il no leghista ala	vendita di Aem e della Sea , accompagnato dall ´ intollerabile ritardo del governo nel « girare » a Milano i
+						DET ADV NOUN	ITWAC	e dei messaggeri di pace perché la tua voce flebile ma ferma non si è mai stancata di pronunciare solennemente	il no ala	guerra .
+
+14	0	0	no all
+						DET ADV ADJ NOUN	ITWAC	Il referendum aveva detto	un no chiaro all	?
+						DET ADV ADJ NOUN	ITWAC	Non si esprime	un no ideologico all	?
+						DET ADV NOUN	ITWAC	, 14 OTTOBRE 2004 Il Corriere della sera , SABATO , 02 OTTOBRE 2004 Trecento in piazza a Como dopo	il no all	´ ordinanza anti velo Burqa , la marcia dei leghisti contro musulmani e prefetti COMO - Lo slogan ufficiale è «
+						DET ADV NOUN	ITWAC	Costituzione è stupida Tratto da  la Repubblica  , 6 giugno 2005 Il  no  francese non è	un no all	´ Europa !
+						DET ADV NOUN	ITWAC	Dopo l ´ intervento di Moretti il  correntone  rilancia	il no all	´ alleanza Ds-Margherita-Sdi alle europee  Ulivo unito a Strasburgo  Prodi : è la priorità .
+						DET ADV NOUN	ITWAC	Il  no  francese non è	un no all	´ Europa !
+						DET ADV NOUN	ITWAC	Il leader dell ´ Unione ribadisce	il no all	´ astensione .
+						DET ADV NOUN	ITWAC	Il rifiuto politico e militare della guerra potrebbe anche tentare i centristi ma firmare anche	il no all	´ uso delle basi sarebbe un po ´ troppo imbarazzante .
+						DET ADV NOUN	ITWAC	La bozza di revisione dell' Ldp mantiene la prima parte dell' art. 9 della Costituzione che sancisce	il no all	uso della forza per la soluzione delle controversie internazionali , ma cambia la seconda , parlando chiaramente del possesso di un
+						DET ADV NOUN	ITWAC	Ma insiste	sul no all	´ ultimatum  Ciampi segna i confini della Costituzione .
+						DET ADV NOUN	ITWAC	Se a marzo il Palazzo di Vetro opterà per	il no all	´ attacco all ´ Iraq , il grande dilemma riguarderà Berlusconi : dovrà decidere se schierare comunque l ´ Italia a
+						DET ADV NOUN	ITWAC	Se dovessero prevalere	i no all	´ estensione dell ´ articolo 18 nelle imprese con meno di 15 dipendenti , questo equivarrebbe di fatto alla negazione dell
+						DET ADV NOUN	ITWAC	Swg - e soprattutto Giovanni Paolo II è il Papa dell ´ anticomunismo ma anche del popolo della pace ,	del no all	´ aborto e alla contraccezione e dei diritti umani : nessun partito può tirarlo per la giacca .
+						DET ADV NOUN	ITWAC	dei leader del correntone , che pur ribadendo la necessità di un voto del Parlamento contro la guerra , e	del no all	´ uso degli spazi italiani da parte dei jet militari Usa , rimanda la questione del voto ad una prossima occasione
+
+1	0	0	no alll
+						DET ADV NOUN	ITWAC	Allora non è il si al gioco , è	il no alll	' afetto il problema , allora io direi che la parte più grande dell' atto è di chi stava attorno al
+
+1	0	0	no amici
+						DET ADV ADJ NOUN	ITWAC	Nn te la prendere con il mattino , lo sanno tutti che Corso appoggia	i no global amici	delle canne e della sporcizia , per nn parlare del campo nomadi in progetto .
+
+1	0	0	no arcobaleno
+						DET ADV NOUN	ITWAC	animo tosto di Giuliano Ferrara quando ricorda gli errori e le omissioni dei DS schierati contro la guerra col fronte	del no arcobaleno	, senza aver assunto alcun impegno contro la dittatura di Saddam e riconosce , in barba alla Lilli Gruber , che
+
+1	0	0	no area
+						DET ADV ADJ NOUN	ITWAC	Di fronte ai padiglioni appena descritti c' era	la no sleeping area	, dove con un saccappelo e un materassino ( davvero necessario se non si voleva dormire sulla dura terra !
+
+2	0	0	no arrestati
+						DET ADV ADJ NOUN	ITWAC	Date Next ] [ Thread Prev ] [ Thread Next ] [ Date Index ] [ Thread Index ] liberati	i no global arrestati	- comunicato di PeaceLink To : news@peacelink.it , taranto@peacelink.it Subject : liberati i no global arrestati - comunicato di PeaceLink From
+						DET ADV ADJ NOUN	ITWAC	Thread Index ] liberati i no global arrestati - comunicato di PeaceLink To : news@peacelink.it , taranto@peacelink.it Subject : liberati	i no global arrestati	- comunicato di PeaceLink From : Alessandro Marescotti a.marescotti@peacelink.it Date : Tue , 03 Dec 2002 16:20:25 + 0100 Cc :
+
+2	0	0	no b
+						DET ADV ADJ NOUN	ITWAC	Da qui devo dedurre che a ) o non e lecito porre obiezioni	ai no global b	) essi non hanno di che rispondere ( temo che quest' ultima sia la risposta piu appropriata ) .
+						DET ADV NOUN	ITWAC	delle più belle e grandi città d ' Italia : favorita da un clima e una posizione ideali , caratterizzala	dal no b	ile e fastoso aspe tt o b arocco del suo centro storico .
+
+1	0	0	no berlusconiani
+						DET ADV NOUN	ITWAC	Neanche un cenno ai 36 franchi tiratori , che il leader di An sembra giustificare con l' esasperazione per	i no berlusconiani	.
+
+1	0	0	no berlusconiano
+						DET ADV NOUN	ITWAC	Lo dicono	il no berlusconiano	a una riunione del Consiglio Ue sull' Iraq ; il suo vanto di essere diventato « l' alleato dell' Europa continentale
+
+2	0	0	no bile
+						DET ADV NOUN	ITWAC	I versi di Ocello sono pedagogia pura , pedago gia vivente , perché scaturiti da	un no bile	animo e da una mente forgiata al l' ombra di Cristo .
+						DET ADV NOUN	ITWAC	belli , i bei capelli bruni , il be i campi sterminati del corpo sinuoso , lo sguardo soave ,	il no bile	portamento , gli atti onesti e leggiadri .
+
+1	0	0	no blocchi
+						DET ADV NOUN	ITWAC	servire anche a salvare Fausto Bertinotti da se stesso : evitando che un' eventuale , ed assai probabile , vittoria	del no blocchi	per tempi politicamente indefiniti la battaglia per l' estensione dei diritti e ridia ossigeno al traballante governo del cavaliere .
+
+1	0	0	no camper
+						DET ADV NOUN	ITWAC	compenso , troviamo un tratto di spiaggia libera , non ancora aggredita dal cemento , dove possiamo sostare ( nonostante	il no camper	) insieme a tante auto .
+
+1	0	0	no cellule
+						DET ADV ADJ NOUN	ITWAC	noi grazie alle potenzialità di trascendenza dall' io offerte dalle tecnologie dell' in formazione , compresa quell' informazione che risiede	nelle no stre cellule	, codificata in catene di Dna sempre più obsolete e aperte alla manipolazione di un ipersoggetto che progetta il proprio radicale
+
+0	0	1	no chō
+						DET ADV NOUN	WIKICONLL	questi temettero di perdere le loro terre ; per sottrar- si all' autorità dei clan l' imperatore istituì lo 	In no chō	 , o ufficio del governo del chiostro (  insei  ) , grazie al quale poté allontanar- si dalla
+
+0	0	1	no chord
+						DET ADV NOUN	WIKICONLL	Scopo principale della scala è  posizionare  le note dell' accordo ( chord tones ) sul battere e	le no chord	notes in levare .
+
+5	0	0	no coke
+						DET ADV NOUN	ITWAC	01.07.2005 -	I no coke	.
+						DET ADV NOUN	ITWAC	con Marrazzo CIVITAVECCHIA  L' incontro con il neo Presidente della regione Lazio , Piero Marrazzo , si avvicina ed	i no coke	sembrano davvero attenderlo con entusiasmo .
+						DET ADV NOUN	ITWAC	no  senza se e senza ma  di Piero Marrazzo alla riconversione a carbone di Tvn ha reso felici	i no coke	, stessa cosa non si può dire per il sindacato dell' Ugl Energia , ...
+						DET ADV NOUN	ITWAC	riparte la mobilitazione La battaglia contro la riconversione a carbone di Torre Valdaliga Nord non si ferma ; anzi ,	i no coke	rilanciano e la mobilitazione proseguirà a oltranza , probabilmente ...
+						DET ADV NOUN	ITWAC	una nuova manifestazione La battaglia contro la riconversione a carbone di Torre Valdaliga Nord non si ferma ; anzi ,	i no coke	rilanciano e la mobilitazione proseguirà a oltranza , probabilmente più forte e partecipata di prima .
+
+0	30	0	no comment
+						DET ADJ ADV NOUN	REPUBBLICA	, interroga Pensa e prosegue concedendo qualcosa di più	dell' iniziale no comment	comment : Di certo ne va della libertà di informazione e della possibilità di sperimentare nuove tecniche .
+						DET ADJ ADV NOUN	REPUBBLICA	I portavoce della Deutsche Bank che abbiamo interpellato su questo argomento non si pronunciano , si limitano	ai soliti no comment	comment che possono significare tutto e nulla .
+						DET ADJ ADV NOUN	REPUBBLICA	Il direttore Giuseppe Frangi ha appena annunciato le sue dimissioni , chiudendo- si subito dietro	il classico no comment	comment di fronte a chi cerca di strappar- gli qualche commento .
+						DET ADJ ADV NOUN	REPUBBLICA	Impossibile per ora saper- lo , visto che	un rigido no comment	comment permea tutto il bunker dei Gucci .
+						DET ADJ ADV NOUN	REPUBBLICA	In assenza del presidente della Rai Manca , è toccato al ministro delle Poste replicare più tardi , ma con	un sostanziale no comment	comment , alle critiche rivolte dal presidente della Fininvest alla Rai .
+						DET ADJ ADV NOUN	REPUBBLICA	Ma	un sorridente no comment	comment strappato ai vertici dell' Interpol è la conferma migliore per la notizia che da ventiquattr ' ore viaggiava sui telex
+						DET ADJ ADV NOUN	REPUBBLICA	Ma a queste affermazioni , Gallo aveva reagito con	un semplice no comment	comment , limitando- si a raccomandare la lettura integrale del testo delle sue dichiarazioni .
+						DET ADJ ADV NOUN	REPUBBLICA	Nel giorno	dei formali no comment	comment delle più alte cariche istituzionali -- capo dello Stato e presidenti delle Camere -- è affidata alle parole della cattolicissima
+						DET ADJ ADV NOUN	REPUBBLICA	Non si sbilancia , invece , trincerando- si dietro	un diplomatico no comment	comment , sull' esito della missione italiana .
+						DET ADJ ADV NOUN	REPUBBLICA	ROMA L' unico a trincerar- si dietro	un asciutto no comment	comment è il ministro degli Interni Antonio Gava .
+						DET ADJ ADV NOUN	REPUBBLICA	Sanna , a queste accuse , oppone 	un fermo no comment	comment  .
+						DET ADJ ADV NOUN	REPUBBLICA	Si è limitata a trincerar- si dietro il riserbo	dei classici no comment	comment anche se ammette che il problema esiste .
+						DET ADJ ADV NOUN	REPUBBLICA	Sono per	un altro no comment	comment  .
+						DET ADV NOUN	REPUBBLICA	Avrebbe dovuto limitar- si a	un no comment	, un non se ne parla , ed è invece andato più in là senza accorger- si che non smentiva tanto
+						DET ADV NOUN	REPUBBLICA	Dalla sede di piazza Beccaria il comandante Rea si limita , sforzando- si ,	al no comment	:  Dichiarazioni come queste non meritano commenti .
+						DET ADV NOUN	REPUBBLICA	Formigoni rifiuta di rispondere , barricando- si dietro	un no comment	impenetrabile : Non voglio aggiungere nient' altro , se ha intenzione di rivolger- me altre domande di questo tipo è meglio
+						DET ADV NOUN	REPUBBLICA	Francesco Cossiga , a ventiquattr ' ore dal summit con il presidente del Consiglio rompe il muro	dei no comment	per rivelare il senso del colloquio dell' altra sera e lanciare la candidatura di Giuliano Amato per Palazzo Chigi , se
+						DET ADV NOUN	REPUBBLICA	Guido Carli , impegnato nella attigua commissione Bilancio , ha preferito trincerar- si dietro	un no comment	, ma sarà proprio l' opinione dell' ex governatore della Banca d' Italia a far pesare in modo determinate da una
+						DET ADV NOUN	REPUBBLICA	In effetti per qualche ora le autorità turche al massimo livello limitando- si	al no comment	sembravano in qualche modo accreditar- ne la veridicità : non possiamo né smentire né confermare , diceva in televisione il ministro
+						DET ADV NOUN	REPUBBLICA	Mentre alcune agenzie marittime preferiscono trincerar- si dietro	un no comment	, paventando anche per il turismo in Adriatico l' effetto Golfo ( i due scali settimanali da Ancona per la Turchia
+						DET ADV NOUN	REPUBBLICA	Per il momento , l' unico a smentire o a trincerar- si dietro	al no comment	è l' istituto presieduto da John Reed .
+						DET ADV NOUN	REPUBBLICA	Piuttosto che soffermar- si sul trionfo dei dati di ascolto , su cui ha reagito con	un no comment	alla sua maniera , Aragozzini si è esaltato sulle sue vittorie in tribunale , citando perfino Bush per comunicare che la
+						DET ADV NOUN	REPUBBLICA	Regan e Nancy si parlano quasi ogni giorno , ma l' ufficio stampa della first lady si è limitato ad	un no comment	riguardo alle rivelazioni del Washington Post .
+						DET ADV NOUN	REPUBBLICA	Zucchero avrebbe voglia di affidar- si a	un no comment	, perché altrimenti direbbe cose  troppo forti  .
+						DET ADV NOUN	REPUBBLICA	allo stato top segret e lo stesso europarlamentare raggiunto al telefono non ha voluto commentare le notizie trincerando- si dietro	un no comment	; c' è il segreto istruttorio .
+						DET ADV NOUN	REPUBBLICA	coagular- si , secondo diverse voci , intorno a Paribas , un cui portavoce oggi , pur trincerando- si dietro	il no comment	, ha lasciato capire che gli esperti sono al lavoro e che di questo lavoro si dovrebbero conoscere i risultati tra
+						DET ADV NOUN	REPUBBLICA	di Welfare affrontando- ne tutti e quattro i capitoli : la previdenza , la sanità sulla quale mi limito ad	un no comment	, l' assistenza per la quale ci vuole un lungo lavoro e gli ammortizzatori sociali .
+						DET ADV NOUN	REPUBBLICA	era bigamo si beccò un anno di prigione , oggi la famiglia reale britannica annaspa fra la linea di condotta	del no comment	su tutto il fronte e la scelta di fare smentite soltanto in casi davvero eccezionali ( e certo la smentita riguardante
+						DET ADV NOUN	REPUBBLICA	l' ordinanza di custodia cautelare ha detto il giovanissimo Giudice per le indagini preliminari prima di chiuder- si a riccio	nel no comment	esistono elementi indiziari .
+						DET ADV NOUN	REPUBBLICA	piccolo Augusto e la loro disponibilità a svolgere un ruolo di mediazione sarebbe stato accolto con disappunto al di là	del no comment	ufficiale .
+
+1	0	0	no comunità
+						DET ADV ADJ NOUN	ITWAC	Siamo certi che le tante iniziative di preghiera promosse	nelle no stre comunità	ecclesiali non resteranno inascoltate .
+
+2	0	0	no congiunto
+						DET ADV NOUN	ITWAC	centrosinistra che vuole simboleggiare cultura di governo e assunzione di responsabilità , ma sa anche esprimere radicalità sui principi ,	dal no congiunto	alla guerra e al terrorismo fino alla difesa del welfare e della Costituzione ?
+						DET ADV NOUN	ITWAC	sconsigliabile vendere la pelle dell' orso prima di averlo preso , ma ormai non sembrano più esserci dubbi : dopo	il no congiunto	di Cina e Stati Uniti , emerso giovedì sera da un incontro tra gli ambasciatori Wang Guangya e Bolton , e
+
+1	0	0	no conservatore
+						DET ADV NOUN	ITWAC	Il nostro non è	il no conservatore	di chi contempla soddisfatto il cammino percorso e pensa di essere arrivato alla meta .
+
+0	1	7	no contest
+						DET ADV NOUN	REPUBBLICA	Abete - che domani convocherà le sue società proprio per guardar- le in faccia - allora sì che si arriverebbe	al no contest	più doloroso .
+						DET ADJ ADV NOUN	WIKICONLL	Diesel , campione del mondo che aveva sconfitto Backlund due giorni dopo Survivor Series , ma l' incontro fini con	un doppio no contest	contest per l' interferenza di 4 lottatori ( Shawn Michaels , Owen Hart , Bob Backlund e Jeff Jarrett ) .
+						DET ADV NOUN	WIKICONLL	Jim Neidhart ( Hart Foundation ) ; i due team si scontrarono in diversi match , molti dei quali terminati	in no contest	.
+						DET ADV NOUN	WIKICONLL	Nella successiva puntata di SmackDown Edge ha lottato contro Big Show in un match terminato	in no contest	a causa dell' interferenza di Vickie Guerrero ; al termine dell' incontro i due hanno ribadito la volontà di sposar- si
+						DET ADV NOUN	WIKICONLL	Tutto questo culminò in uno Steel Cage match fra i due che finì	in no contest	.
+						DET ADV NOUN	WIKICONLL	affrontò e sconfisse Mr Kennedy e la settimana dopo disputò la rivincita di WM24 contro Batista ; il match finì	in no contest	.
+						DET ADV NOUN	WIKICONLL	conteder per il World Heavyweight Champion detenuto da Undertaker ( su decisione di Vickye Guerrero ) , il match finirà	in no contest	per l' intromissione dell' Undertaker .
+						DET ADV NOUN	WIKICONLL	per il World Heavyweight Championship detenuto da The Undertaker ( su decisione di Vickie Guerrero ) , il match finirà	in no contest	per l' intromissione dell' Undertaker .
+
+14	0	0	no copyright
+						DET ADV NOUN	ITWAC	 Related ProZZZect A  è una raccolta che , in primo luogo e nel nome	del no copyright	, vi regala un CD - R vergine su cui potrete masterizzare ciò che più vi aggrada e poi 14 band
+						DET ADV NOUN	ITWAC	Come nasce l' incontro con Gianluca Arcopinto e la scelta	del no copyright	?
+						DET ADV NOUN	ITWAC	Da anni , scrivete con un nome collettivo e imponete alle case editrici che vi pubblicano	il no copyright	.
+						DET ADV NOUN	ITWAC	Io sono per	il no copyright	in Rete , altrimenti questo strumento si snatura , perde senso .
+						DET ADV NOUN	ITWAC	La prima posizione è quella sostenuta dal movimento	del no copyright	.
+						DET ADV NOUN	ITWAC	La prima posizione è quella sostenuta dal movimento	del no copyright	o del copy-left .
+						DET ADV NOUN	ITWAC	Più che	un no copyright	, il nostro è un copyleft .
+						DET ADV NOUN	ITWAC	Teresa Paoli : La scelta	del no copyright	risponde all' esigenza di far circolare questo lavoro il più diffusamente possibile ...
+						DET ADV NOUN	ITWAC	ebriaRecords è	una no copyright	e no profit label ebriaRecords è ( anche ) una distribuzione di materiale indipendente ed autoprodotto .
+						DET ADV NOUN	ITWAC	nostra capacità creativa , di connessione , di relazione , che anche tramite web si evince , a partire proprio	dal no copyright	, dalla libera circolazione di informazioni e di comunicazione , di saperi diffusi e redistribuiti , di copyleft e di creatività
+						DET ADV NOUN	ITWAC	ore 21 EBRIA RECORDS è	una no copyright	e no profit label nata nel 2003 tra le province di Milano e Como , con il desiderio di registrare ,
+						DET ADV NOUN	ITWAC	per esempio scrivendo agli autori come Umberto Eco , qualche altro se ne andava agli hackmeeting e alle manifestazioni per	il no copyright	, qualche altro progettava azioni di disobbedienza civile come distribuire copie di libri su cd .
+						DET ADV NOUN	ITWAC	standardizzazione , le attuali implementazioni della tecnologia DRM sollevano non poche perplessità , anche tra coloro che non sono fautori	del no copyright	nelle sue forme più radicali .
+						DET ADV NOUN	ITWAC	torinese Miki Hollywood , nata nel marzo dello scorso anno con l' intento di diffondere la cultura dell' avantpop e	del no copyright	in Italia .
+
+4	0	0	no core
+						DET ADV NOUN	ITWAC	« Sussistono potenziali di recupero sulle spese destinate	al no core	- ha osservato Giovanni Brugnoli - e l' attenzione al cambiamento deve portare a rivedere le modalità di gestione delle spese
+						DET ADV NOUN	ITWAC	Il convegno presenta esperienze aziendali e di servizi innovativi di gestione	del no core	insieme con l' illustrazione dei modelli citati e di dati di carattere quantitativo ( spese pro-capite , incidenza sul fatturato ecc.
+						DET ADV NOUN	ITWAC	Per la caratteristica intersettoriale e la sostanziale non dipendenza dalla dimensione aziendale che sono proprie	del no core	, il tema del convegno è di interesse per qualsiasi impresa indipendentemente da settore e dimensione .
+						DET ADV NOUN	ITWAC	Tale ricerca è stata svolta nell' ambito di un programma nazionale di ricerca ( * )	sul no core	, al quale hanno partecipato sette università italiane .
+
+2	0	0	no corrida
+						DET ADV NOUN	ITWAC	, Amoureux solitaires , Dimmi che mi ami che mi ami che tu ami che tu ami solo me ,	Ai no corrida	, Non t' amo , Donatella , Enola gay , On my own , Sarà perché ti amo , ( Just
+						DET ADV NOUN	ITWAC	MI PARE ) era un buon strumentista con infuenze jazzy e aveva scritto 	I no corrida	 che divento' un quasi standard e fu coverizzato anche da quincy jones .
+
+1	0	0	no decine
+						DET ADV ADJ NOUN	ITWAC	Quanto agli argomenti	dei no global decine	di volte abbiamo ascoltato tutti ( tranne proprio te , se capisco bene ) sempre in TV , le ragioni dei
+
+1	0	0	no distance
+						DET ADV NOUN	ITWAC	La formazione a distanza Dalla formazione in aula	al no distance	learning .
+
+2	0	0	no do
+						DET ADV NOUN	ITWAC	/ carico il file xml XmlDocument Doc = new XmlDocument ( ) ; Doc.Load(Anagrafica.xml  ) ; / / recupero	il no do	root XmlElement element = Doc .
+						DET ADV NOUN	ITWAC	Load ( path ) ' recupero	il no do	root Dim element As XmlElement = Doc .
+
+3	0	0	no dolls
+						DET ADV ADJ NOUN	ITWAC	il punto è che	i no more dolls	DEVONO tassativamente sapere quante persone sarebbero presenti , quindi , please , scrivetelo qui di sotto o comunicatelo a loro tramite
+						DET ADV ADJ NOUN	ITWAC	prescelto per la festa-concerto-tributo doveva essere il foro italico , ma siccome alanis ha pensato bene di prenderselo lei ,	i no more dolls	hanno cercato qualche altra soluzione ( estremamente faticosa dato che a roma , d' agosto , ben pochi locali sono aperti
+						DET ADV ADJ NOUN	ITWAC	quindi , please , scrivetelo qui di sotto o comunicatelo a loro tramite il loro indirizzo email su www.nomoredolls.com *	i no more dolls	stanno organizzando 1 festa analoga , anzi più clamorosa , a chiusura del tour italiano di alanis , a lignano ,
+
+1	0	0	no dottore
+						DET ADV ADJ NOUN	ITWAC	Domanda di Chirurgia Generale e Vascolare Domanda del 11/06/2005 2.52.32 Oggetto : dolori	all' no carissimo dottore	, mi vergogno moltoa raccontare ciiò che mi è successo .
+
+1	0	0	no entry
+						DET ADV NOUN	ITWAC	La chiusura dei confini ( la perversa politica	del no entry	!
+
+1	0	0	no essenzialità
+						DET ADV NOUN	ITWAC	14 ° motivo del ricorso la ricorrente deduce che per la de-classificazione del farmaco deve sussistere , oltre al requisito	della no essenzialità	anche quello della sovrapponibilità .
+
+1	0	0	no expedit
+						DET ADV NOUN	ITWAC	; oltre lo zelo dei parroci nelle campagne - che tuonarono dai pulpiti predicando il verbo di Pio IX :	il no expedit	, - ne eletti , né elettori - questo nel 1861 , alle prime elezioni , rivolgendosi ( ingerendosi , perchè
+
+1	0	0	no exporting
+
+1	0	0	no feriti
+						DET ADV ADJ NOUN	ITWAC	Gli altri quattro sono	i no global feriti	fuori dall' edificio e nell' irruzione alla scuola Pascoli , tra cui il giornalista inglese Mark Covell .
+
+1	0	0	no festival
+						DET ADV ADJ NOUN	ITWAC	6/5/2004 | Voto : | Voto al Disco : su rock tv hanno fatto vedere ultimamente lo show dei cannibal	al no mercy festival	: semplicemente distruttivo come al solito .
+
+1	0	0	no films
+						DET ADV NOUN	ITWAC	che per talento e originalità attira tutti gli sguardi , le ex Repubbliche del sud-est dell' Unione sovietica appaiono come	una no films	land agli occhi degli amanti del cinema .
+
+0	0	6	no flight
+						DET ADV NOUN	WIKICONLL	Il 27 dicembre un MiG-25 iracheno oltrepassò il 32° parallelo penetrando	nella no flight	zone .
+						DET ADV NOUN	WIKICONLL	Nonostante la risoluzione delle nazioni unite non prevedesse esplicitamente la creazione	una no flight	zone , gli attacchi aerei compiuti dall' aviazione irachena contro gli sciiti nel sud del paese nel 1991 e nei primi
+						DET ADV NOUN	WIKICONLL	Stando alle fonti ufficiali del governo statunitense nel periodo immediatamente seguente la creazione	della no flight	zone ci furono scontri abbastanza regolari tra i velivoli dell' aeronautica irachena e statunitense , anche se la stampa ne riferiva
+						DET ADV NOUN	WIKICONLL	forze armate irachene accettarono la proposta della coalizione di spostare tutte le batterie di missili della contraerea che si trovavano	nella no flight	zone a nord del trentaduesimo parallelo .
+						DET ADV NOUN	WIKICONLL	militare statunitense rispose alla provocazione irachena attaccando un numero imprecisato di batterie missilistiche SAM in tutto il paese ed estendendo	la no flight	zone anche a nord oltre il trentatresimo parallelo .
+						DET ADV NOUN	WIKICONLL	tentato di puntare velivoli della coalizione e che per ben 150 volte velivoli dell' aeronautica irachena avessero tentato di penetrare	la no flight	zone .
+
+0	20	0	no fly
+						DET ADV NOUN	REPUBBLICA	 Il presidente ha ripiegato	sulla no fly	zone -- ci hanno dichiarato al Congresso -- nella speranza che indebolisca il rais e conduca a un golpe ai suoi
+						DET ADV NOUN	REPUBBLICA	 Per il momento , il nostro orientamento non cambia  ha esordito il portavoce Stephanopoulos , insistendo sul pattugliamento	delle no fly	zones .
+						DET ADV NOUN	REPUBBLICA	A scatenar- lo il mancato rispetto	della no fly	zone da parte di aerei iracheni .
+						DET ADV NOUN	REPUBBLICA	Controlleremo attentamente ogni eventuale violazione	della no fly	zone  , ha aggiunto .
+						DET ADV NOUN	REPUBBLICA	Cramer ha anche ammesso che i ribelli sciiti si sono raccolti nella zona di Bassora , assai più ristretta	della no fly	zone :  ma avevamo bisogno di un arco di sorveglianza assai più ampio  ha spiegato  per consentire ai
+						DET ADV NOUN	REPUBBLICA	Devono -- con le cautele imposte dalla diplomazia internazionale -- verificare ed eventualmente punire le violazioni	delle no fly	zone , controllare la situazione sul terreno e offrire supporto ai caschi blu impegnati a terra e , infine , vigilare
+						DET ADV NOUN	REPUBBLICA	Dopo due anni di guerra e 225 violazioni impunite	delle no fly	zone , lo spazio aereo ' severamente proibito ' dall' Onu sulla Bosnia , i serbi si sentono probabilmente al sicuro
+						DET ADV NOUN	REPUBBLICA	La verità è che , dietro	le no fly	zone , l' obiettivo di americani e britannici è dividere l' Iraq in tre entità .
+						DET ADV NOUN	REPUBBLICA	Mladic avrebbe sferrato l' offensiva finale con gli elicotteri , in flagrante violazione	della no fly	zone dell' Onu .
+						DET ADV NOUN	REPUBBLICA	Ne ha dato notizia un comunicato delle Forze armate irachene , aggiungendo che tra Talil e Najaf ,	nella no fly	zone meridionale -- quella a sud del 33 mo parallelo -- i caccia alleati hanno sganciato almeno 18 tra bombe e
+						DET ADV NOUN	REPUBBLICA	O un assaggio delle intenzioni del nuovo presidente americano	sulle no fly	zones ?
+						DET ADV NOUN	REPUBBLICA	Per chi smista il traffico nei cieli è tutta colpa	della no fly	zone , della guerra .
+						DET ADV NOUN	REPUBBLICA	Sono le sentinelle volanti del Deny Flight , il cui scopo è di impedire voli militari non autorizzati	sulla no fly	zone .
+						DET ADV NOUN	REPUBBLICA	del ritardo , si limita a far sapere -- quasi a sottolineare che l' accaduto rientra nella routine del pattugliamento	nella no fly	zone irachena -- che il consigliere per la Sicurezza nazionale , Sandy Berger ha riferito la notizia al presidente alla prima
+						DET ADV NOUN	REPUBBLICA	di prendere altre misure militari contro l' Iraq , insieme con gli inglesi e con i francesi che partecipano già	alla no fly	zone , senza peraltro precisare quali .
+						DET ADV NOUN	REPUBBLICA	i cannoneggiamenti dei top gun americani ordinati dal rais nei due ultimi giorni -- quanti non è ancora chiaro --	nella no fly	zone curda .
+						DET ADV NOUN	REPUBBLICA	il candidato democratico Bill Clinton , che continua ad aumentare il suo vantaggio , teme che Bush simuli un incidente	nella no fly	zone , riprenda a bombardare gli iracheni , e si riproponga come il leader decisionista di cui oggi l' America ha
+						DET ADV NOUN	REPUBBLICA	minimo di 70 - 80 bombardieri e caccia a un massimo di 120 , l' identico numero impiegato nel monitoraggio	della no fly	zone .
+						DET ADV NOUN	REPUBBLICA	o Londra , l' occasione per colpire ; in secondo luogo , sfruttare malumori e dissensi creati dall' ultima decisione	sulla no fly	zone .
+						DET ADV NOUN	REPUBBLICA	scorsi che la discussione in questo campo rischia di essere teorica , visto che ormai da tempo le violazioni serbe	della no fly	zone sono praticamente cessate e sono piuttosto i musulmano-bosniaci ( proprio coloro che si vorrebbe proteggere ) che infrangono i divieti
+
+1	0	0	no fly-zone
+						DET ADV NOUN	ITWAC	non con la Pennsylvania avenue chiusa ai visitatori della Casa Bianca , non con il cielo sopra Disneyland trasformato in	una no fly-zone	, non con medici compiacenti che ricominciano a fare ricette dell' antibiotico Cipro agli amici spaventati per un nuovo attacco all'
+
+0	1	0	no food
+						DET ADJ ADV NOUN	REPUBBLICA	La maggior parte delle chiusure delle botteghe riguarda	le cosiddette no food	food e cioè quelle non alimentari dove la perdita annua supera le 40 mila unità .
+
+1	0	0	no francesi
+						DET ADV ADJ NOUN	ITWAC	FRANCIA , JOSE' BOVE ' E' TORNATO LIBERO SCARCERAZIONE ANTICIPATA PER IL LEADER NO GLOBAL Il popolare agricoltore agit-prop	dei no global francesi	e' stato scarcerato in mattinata .
+
+1	0	0	no free
+						DET ADV NOUN	ITWAC	I segnali che arrivano dall' International Committee of Medical Journal Editors , così come quelli che emergono da gruppi tipo	il no free	lunch sono incoraggianti .
+
+3	0	0	no frills
+						DET ADV NOUN	ITWAC	E per trasformare in realtà la teoria si è ricorsi	al no frills	, niente fronzoli .
+						DET ADV NOUN	ITWAC	Le compagnie italiane Volareweb.com e Meridiana.it Primo collaudo per	il no frills	targato Italia Volareweb.com che il 6 febbraio scorso , giorno di messa on line del sito , è stato letteralmente assaltato
+						DET ADV NOUN	ITWAC	Tanto più che , dicono gli esperti , il principale concorrente	delle no frills	non sono le compagnie tradizionali , ma il trasporto di terra ( il treno , gli autobus ) e i clienti
+
+0	0	1	no friulano
+						DET ADJ ADV NOUN	WIKICONLL	Il padre Carlo era	un garibaldi no friulano	friulano originario della Slavia Veneta mentre il fratello Vittorio ( 1883 - 1959 ) divenne un famoso marionettista .
+
+0	0	1	no global
+						DET ADV NOUN	WIKICONLL	Esso venne pesantemente contestato da migliaia	di no global	provenienti da ogni parte del mondo .
+
+1	0	0	no gluobal
+						DET ADV NOUN	ITWAC	Agnolè torna a fare	il no gluobal	che è meglio ...
+
+1	0	0	no gollista
+						DET ADV NOUN	ITWAC	Non a caso Chirac è parso smarrito e privo di bussola , nonostante	il no gollista	opposto al nazionalismo xenofobo dell' estrema destra .
+
+3	0	0	no greci
+						DET ADV ADJ NOUN	ITWAC	DOPO GENOVA In piazza	i no global greci	Gli attivisti antiglobalizzazione , che si erano mobilitati in più di 2000 per il G 8 di Genova , scenderanno in
+						DET ADV ADJ NOUN	ITWAC	La magistratura del Pireo , intanto , ha aperto un' inchiesta sul rimpatrio forzoso	dei no global greci	dal porto di Ancona .
+						DET ADV ADJ NOUN	ITWAC	Secondo quanto riportato oggi dal quotidiano greco ' Ta Nea ' ,	i no global greci	denunciano ' ' la macchina da guerra degli Stati Uniti che ha violato ogni idea di tregua olimpica continuando i bombardamenti
+
+1	0	0	no grob
+						DET ADV NOUN	ITWAC	Io prima non sapevo niente della Palestina ,	dei no grob	( no global n.d.a. ) , dei diritti che le altre persone nel mondo non hanno .
+
+1	0	0	no had
+						DET ADV ADJ NOUN	ITWAC	a Stanford , dichiara : « I had been an happy man ever since January 1 , 1990 , when	I no longer had	an email address » vii .
+
+0	0	1	no haha
+						DET ADV NOUN	WIKICONLL	nikki  ( tardo X secolo ) ad opera della dama di corte nota come la Madre di Michitsuna (	Michitsuna no haha	) .
+
+2	0	0	no have
+						DET ADV ADJ NOUN	ITWAC	 I am very pleased  said Mercado at his 11 th wins of the carrier - Thankfully	I no longer have	any problems with my knee , something that was bothering me during the first part of the season .
+						DET ADV ADJ NOUN	ITWAC	is today  1  I am so busy applying this new methodology to the appraisal of medical practice that	I no longer have	time to see patients  2 Introduzione ( EBM ) è una definizione proposta nel 1992 3 da DL Sackett e
+
+1	0	0	no hit
+						DET ADV NOUN	ITWAC	La seconda gara non ha storia anche per la prova maiuscola del lanciatore Pesarese Iacomucci Thomas che realizza	un no hit	cioè nessuna battuta valida concessa agli avversari .
+
+0	0	1	no honshitsu
+						DET ADV NOUN	WIKICONLL	Il suo debutto avviene nel 2000 , nel gioco  Horobikaketa jinrui , sono	ai no honshitsu	to wa  .
+
+1	0	0	no hornets
+						DET ADV NOUN	ITWAC	di media ) e kobe no dai a kobe il quintetto mcinnis newble gooden e zyd e sta al posto	dei no hornets	o dei magic dell anno scorso ps lebron tira col 48 % e kobe col 42 e perde un pallone di
+
+1	0	0	no ài
+						DET ADV NOUN	ITWAC	in  Vberanos  dulà che prin di pasâ i vevin di  bussâ lu cûl e vecjo  ,	i no ài	mai podût capî ce significât che vevo chesto frase , cert da piciulo a mi a simpri spaventât !
+
+0	1	0	no i
+						DET ADV NOUN	REPUBBLICA	, in realtà , seder- si lui alla testa dell' associazione , da dove potrebbe strigliare un' ora sì e	una no i	politici e i sindacati .
+
+1	0	0	no imputati
+						DET ADV ADJ NOUN	ITWAC	Il giudice monocratico del tribunale di Benevento , ha definitivamente accolto le tesi difensive dei legali	dei no global imputati	nella vicenda .
+
+0	1	0	no in
+						DET ADV NOUN	REPUBBLICA	Non dobbiamo aspettar- ci un sì o	un no in	tempi canonici .
+
+1	0	0	no indisponibilità
+						DET ADV ADJ NOUN	ITWAC	, avverso la quale appaiono essenzialmente rivolte le censure sopra sintetizzate , che la Corte di Appello , sulla base	della no contestata indisponibilità	di qualsiasi tipo di entrata da parte della Cassaro , a fronte della posizione economica del coniuge , e quindi nella
+
+1	0	0	no intervento
+						DET ADV NOUN	ITWAC	In quest' ottica va inquadrato	il no intervento	anglo-francese nella Guerra Civile spagnola , scoppiata alla metà degli anni '30 quando settori ribelli dell' esercito guidati dal Generale Francisco
+
+0	0	1	no inu
+						DET ADV NOUN	WIKICONLL	con le serie L' ape Maia (  Mitsubachi Maya no boken  ) e Il fedele Patrashe ( 	Furandāsu no inu	 ) , entrambe importate anche in Italia .
+
+1	0	0	no irpini
+						DET ADV ADJ NOUN	ITWAC	Il portavoce	dei no global irpini	non sa del provvedimento di allontanamento dalla sua parrocchia recapitato a don Vitaliano .
+
+0	0	1	no kakera
+						DET ADV NOUN	WIKICONLL	ha modificato il suo sound , avvicinando- si al soft rock , come si capisce dal loro 16° singolo 	Ai no kakera	 .
+
+0	0	1	no kamisama
+						DET ADV NOUN	WIKICONLL	I giovani scrittori suoi contemporanei lo veneravano al punto di chiamar- lo 	shōsetsu no kamisama	 ( il Dio del romanzo ) parafrasando il titolo del suo romanzo  Kozō no kamisama  .
+
+1	0	0	no kawaki
+						DET ADV NOUN	ITWAC	suono della montagna ( Yama no oto-Kawabata Yasunari ) , di Naruse Mikio ( 1954 ) Sete d' amore (	Ai no kawaki	- Mishima Yukio ) , di Kurahara Koreyoshi ( 1966 ) 5 aprile - 6 giugno 1989 : Cinema Adua 200
+
+5	0	0	no kill
+						DET ADV NOUN	ITWAC	Egli ha evidenziato come negli Usa ( dove è nato	il no kill	) si tenda oggi a mutare pensiero , su questo modo di pensare la pesca .
+						DET ADV NOUN	ITWAC	PESCA \ - 2 NO KILL IN 13 CHILOMETRI  PESCATURISTI  IN AUMENTO ANCHE LUNGO LE ACQUE MODENESI Con	il no kill	anche nel modenese prende piede il  pescaturismo  .
+						DET ADV NOUN	ITWAC	Ti dico anche che sebbene tu possa trattenere il pescato , ammirano molto chi pratica	il no kill	, altra cosa la barca piccola ti serve anche perchè sei più autonomo nell' azione di pesca , su quelle grandi
+						DET ADV NOUN	ITWAC	che questa disicplina se praticata rispettando tutte le regole possa arrecare danno all' ambiente , amo la pesca e pratico	il no kill	spigole e orate a parte , per le pellicce non condanno chi le indossa , anche se personalmente non la indosserei
+						DET ADV NOUN	ITWAC	vanno per mare dodici mesi su dodici mentre io mi devo accontentare di farlo per 4/12 , allora forse penserò	al no kill	.
+
+0	0	1	no ko
+						DET ADV ADJ NOUN	WIKICONLL	,  Ikutsuka no sora  cantato per la colonna sonora del film  The Call  , e 	A no hito ko	no hito  .
+
+0	0	1	no korida
+						DET ADV NOUN	WIKICONLL	può aggirare la censura giapponese e infrangere , con lo scandaloso  Ecco l' impero dei sensi  ( 	Ai no korida	 ) ( 1976 ) , l' ultimo tabù del cinema giapponese : la rappresentazione esplicita del sesso sullo schermo .
+
+1	0	0	no limit
+						DET ADV NOUN	ITWAC	A sette anni esatti dalla scomparsa , gli amanti	del no limit	, delle acrobazie impossibili ricordano ancora con affetto quel ragazzo un po' atleta e un po' scienziato , che seppe sperimentare
+
+8	0	0	no logo
+						DET ADV NOUN	ITWAC	 Il libro è stato letto da molti e qualcuno dice perfino che è diventato un libro di culto per	i no logo	, no global , no border .
+						DET ADV NOUN	ITWAC	, il sincretismo , il reality , il catastrofismo , il revisionismo fashion , la no-wave , il logo e	il no logo	, la crimplene culture , il kawaii , il revival house , il revival gabber , la techno , la mail-art
+						DET ADV NOUN	ITWAC	La tua filosofia è	il no logo	e il massimo della trasgressione è acquistare l' acqua minerale senza aspettare il 3 x 2 al supermercato .
+						DET ADV NOUN	ITWAC	Replica Tremonti :  Capisco ma non condivido , nella sinistra oltre	al no logo	c' è anche il no loco  e citando Braudel si chiede :  Che contaminazione può esserci tra paniscia e
+						DET ADV NOUN	ITWAC	Si intitola Pro logo , l' esatto contrario della filosofia	del no logo	, insomma .
+						DET ADV NOUN	ITWAC	ma quelli siamo noi , per	il no logo	, ma di marca .
+						DET ADV NOUN	ITWAC	più eclatanti â   fenomeniâ   culturali : tipo lâ  TMormai quasi dimenticata Naomi Klein , profetessa	del no logo	.
+						DET ADV NOUN	ITWAC	terra di mare e dell' aria , la mistica della pace e la mistica della guerra , il logo e	il no logo	a salvare quel qualcosa di buono che la nostra civiltà occidentale ha prodotto ?
+
+2	0	0	no look
+						DET ADV NOUN	ITWAC	, a volte si compiacciono un tantinello troppo , tipo quando iniziano a considerare il passaggio base di questo sport	il no look	dietro la schiena in luogo del due mani petto .
+						DET ADV NOUN	ITWAC	Nella terza azione l' ex MSU spara	un no look	pass per un compagno , che ne mette due .
+
+1	0	0	no macedoni
+						DET ADV ADJ NOUN	ITWAC	I primi passi	dei no global macedoni	sono una novità rispetto al fronte comune del servilismo ai grandi della terra , che fino a poco tempo fa sembrava
+
+0	0	1	no majutsushi
+						DET ADV NOUN	WIKICONLL	Meitantei Conan :	Seikimatsu no majutsushi	è stato distribuito il 14 aprile 1999 .
+
+1	0	0	no mal
+						DET ADV ADJ NOUN	ITWAC	, ma no l' asei , La mil lu dolz , ma no però il color ; Che il dolz	al no fàs mal	, e il so savor Al no fàs viars , che de reson dai miei .
+
+29	1	0	no man
+						DET ADV NOUN	ITWAC	( da  Il giunco mormorante  di Nina Berberova , Adelphi ed. pag. 36 )	Nella no man	's land di Ejnar c' è questo ricordo Ti toglievi la fascia dalla vita , ti strappavi i sandali , gettavi
+						DET ADV NOUN	ITWAC	I loro  centri  sono	nella no man	's land delle regioni tribali afghano-pachistane .
+						DET ADV NOUN	ITWAC	Senza il sostegno della gente di Bangui Félix Patassé sembra essere sempre più isolato , circondato da	una no man	's land in cui non ha più il minimo controllo .
+						DET ADV NOUN	ITWAC	Costruiti alla fine degli anni ottanta	nella no man	's land che sino al cessate il fuoco del 1967 separava le postazioni giordane da quelle d' Israele , i quattro
+						DET ADV NOUN	ITWAC	invece non sapevo nulla	dei no man	!
+						DET ADV NOUN	ITWAC	due regioni sono nell' anarchia totale , comandate da mafia e contrabbandieri che hanno trasformato la loro strategica posizione in	una no man	's land dove i traffici di armi , droga e alcol tra Russia e Georgia rimpinguano le tasche delle consenzienti guardie
+						DET ADV NOUN	ITWAC	Odio la semplificazione della guerra e del terrore :	la no man	's land e' sempre incredibilmente piu' larga e popolata .
+						DET ADV NOUN	ITWAC	le cose sul fronte della Somme e per farle sapere che era stato lui incaricato di abbandonare i cinque condannati	nella no man	's land .
+						DET ADV NOUN	ITWAC	Essa pare occupare	una no man	's land logica , una sorta di spazio impossibile tra le concatenazioni causali oggettive da una parte , e le inferenze
+						DET ADV NOUN	ITWAC	Così i più recenti Budapest di Chico Buarque e Mongolia di Bernardo Carvalho sono	dei no man	's land universali .
+						DET ADV NOUN	ITWAC	Tutto quello che il sottomondo delle notti adriatiche propone è in sostanza	una no man	's land sospesa tra un' evasione controllata e disciplinata , e il sussistere di più consistenti inquietudini .
+						DET ADV NOUN	ITWAC	 Per Fort la terra non è nient' altro che	una no man	's land , che altri coloni hanno esplorato e colonizzato , e poi si sono disputata fra loro .
+						DET ADV NOUN	ITWAC	Il mio incontro con Ejnar aveva avuto luogo	nella no man	's land .
+						DET ADV NOUN	ITWAC	I campi abbandonati che fanno la loro comparsa nei paesaggi polverosi e desertici del nord-est sudanese costituiscono	delle no man	's land giuridiche , che raggruppano popolazioni prive di qualsiasi status .
+						DET ADV NOUN	ITWAC	di villaggi che improvvisamente hanno perso tutte le proprie risorse , che vanno a trovarsi in territorio israeliano , o	nella no man	zone fra il muro e la green line che sancisce ufficialmente la separazione fra le due entità territoriali .
+						DET ADV NOUN	ITWAC	E allora quest' educare insegna l' insegnare e l' imparare , oppure è tempo morto , luogo freddo ,	una no man	's land ?
+						DET ADV NOUN	ITWAC	A quell' epoca la Federazione dei guidatori di moto ciprioti	nella no man	's land vicino a Famagosta ha inscenato una manifestazione , nel corso della quale due greco-ciprioti sono stati uccisi da turchi
+						DET ADV NOUN	ITWAC	Fra le due Coree c' è la De-Militarized Zone o DMZ ,	un no man	's land lungo 242 chilometri e largo 4 a cavallo sul 47 ° parallelo , sgomberato quasi mezzo secolo fa .
+						DET ADV ADJ NOUN	ITWAC	che capisce la tristezza , la felicità , la solitudine , il successo e che fu sempre destinata ad avere	un no good man	a fianco , un buono a nulla  .
+						DET ADV NOUN	ITWAC	Babele è	la no man	's land , il centro di una metropoli che non ha più il centro , che tenta di cogliere il mutamento
+						DET ADV NOUN	ITWAC	, l' ispettore nominato dal governo turco , Kutlu Savas , descrive , spesso con dovizia di particolari , come	nel no man	's land giuridico del sud-est kurdo gli uomini impegnati nella guerra speciale , non contenti di uccidere a loro piacimento ,
+						DET ADV NOUN	ITWAC	Segnala la scomparsa	delle no man	's lands , o terre di nessuno , cioè di quei territori che possono essere definiti e / o trattati come
+						DET ADV NOUN	ITWAC	8217 ; altro ) ma per il tradimento della sua fiducia come uomo , fratello nella circostanza fortuita di permanenza	nella no man	& # 8217 ; s land , permanenza voluta scegliendo di non ucciderlo .
+						DET ADV NOUN	ITWAC	Nel suo adattamento di Crash , David Cronenberg aveva trasposto perfettamente l' universo futurista immaginato da Ballard , percepito come	una no man	's land dove macchine e case sembravano essere concepite soprattutto per non turbare lo sguardo .
+						DET ADV NOUN	ITWAC	Ogni volta che sono portati alla frontiera , rimangono diverse ore	nel no man	's land , poi tornano indietro e si sobbarcano vari giorni di cammino per riguadagnare i rispettivi rifugi .
+						DET ADV NOUN	ITWAC	Certo che bisogna togliere le mine , ma	nei no man	's land
+						DET ADV NOUN	ITWAC	Cardosanto rifugge le regole del rock , ma non s' inchina di fronte a nessun' altra episteme , restando in	una no man	's land sonora in cui convivono i riffs di  Trema  con i crescendo Doncaballeriani di  Cardotrane  ,
+
+1	0	0	no manifestazione
+						DET ADV NOUN	ITWAC	Chiediamo a tutti di aderire a questo impegno in difesa della società italiana per impedire che il silenzio e	la no manifestazione	della disapprovazione della legge Bossi-Fini possa legittimare la persecuzione di lavoratori e la criminalizzazione della popolazione immigrata oggi residente in Italia
+
+1	0	0	no match
+						DET ADV ADJ NOUN	ITWAC	Secondo me questo porterà ad un match a stipulazione speciale a Summerslam , chessò , uno street fight o	un no rules match	.
+
+1	0	0	no menos
+						DET ADV NOUN	ITWAC	Aquí la tarde cenicienta espera el fruto que le debe la mañana ; aquí mi sombra en	la no menos	vana sombra final se perderá , ligera .
+
+0	0	1	no miko
+						DET ADV NOUN	WIKICONLL	Il suo nome alla nascita fu	Karu no miko	( 軽 皇 子 , Principe Karu ) .
+
+1	0	0	no milanesi
+						DET ADV ADJ NOUN	ITWAC	Sì , proprio il Leoncavallo , covo	dei no global milanesi	, dove Veronelli aveva organizzato la Fiera dei Particolari / Terra e Libertà / Critical Wine , inneggiando ai piccoli viticultori
+
+1	0	0	no milioni
+						DET ADV NOUN	ITWAC	Su questi temi dovrebbero pronunciarsi con un sì o con	un no milioni	di cittadini , largamente ignari della sostanza dei quesiti loro sottoposti , con il rischio , come si sta puntualmente verificando
+
+0	1	0	no mination
+						DET ADV NOUN	REPUBBLICA	Ancora non si conoscono	le no mination	nelle varie categorie ( anche in questo caso le trasmissioni sono divise per generi ) , ma dallo spoglio delle prime
+
+0	0	1	no muchi
+						DET ADV NOUN	WIKICONLL	Venus Crystal , il  Venus love and Galactica Shock  ) nel manga è portato con una frusta ,	Ai no muchi	( frusta d' amore ) , mentre nella versione animata è un cuore di luce che non necessita di particolari oggetti
+
+1	0	0	no news
+						DET ADV NOUN	ITWAC	) Intanto cuccatevi	le no news	di carta ...
+
+0	0	1	no onna
+						DET ADV NOUN	WIKICONLL	Opera paradigmatica è 	Suna no onna	 (  La donna di sabbia  ) che descrive una situazione claustrofobica in cui un uomo e una donna
+
+1	0	0	no ospitalità
+						DET ADV ADJ NOUN	ITWAC	Prima ha fornito	ai no global ospitalità	e 200 milioni di lire ; ora che c' è casino dice :  Se Roma vuole decida lo stop
+
+0	0	1	no paese
+						DET ADV NOUN	WIKICONLL	) 	a no paese	che se chiamma Ngadde ,   sciurettero le vvigne e ascette ll' uva .
+
+1	0	0	no parte
+						DET ADV NOUN	ITWAC	Il caso Italia ROMA - Il fronte	del no parte	dall' Italia .
+
+1	0	0	no partenopei
+						DET ADV ADJ NOUN	ITWAC	Poi si torna in Italia , e	i no global partenopei	presenti a Salonicco già pensano al primo appuntamento del semestre italiano , il 5 luglio a Napoli quando si incontreranno i
+
+1	0	0	no podè
+						DET ADV NOUN	ITWAC	dal morbez , E fedei camaradis dal solaz ; Cumò di chel mistir fasìn strapaz , Che al volè ,	il no podè	entre di miez .
+
+1	0	0	no poder
+						DET ADV NOUN	ITWAC	says joker Berlusconi 13 dic 2003 - Anthony Browne , The Times Las acciones de Parmalat caen el 47 %	al no poder	hacer frente al vencimiento de una emisión de bonos 12 dic 2003 - Enric González , El País Citigroup , Deloitte
+
+1	0	0	no presenza
+						DET ADV NOUN	ITWAC	nel corso della giornata anche le diplomatiche parole di Inzaghi e Gattuso , che hanno chiuso i rispettivi casi confermando	la no presenza	per infortunio e non per rivolta .
+
+1	0	0	no presidenti
+						DET ADV ADJ NOUN	ITWAC	Costituzione ratificata da 12 stati La mappa europea dei sì e	dei no Sette presidenti	: uniti per ridare fiducia all' Europa Lussemburgo , vittoria del sì al referendum sulla Costituzione Ue DALL' ARCHIVIO di Repubblica.it
+
+2	0	0	no pressure
+						DET ADV NOUN	ITWAC	:) personalmente , io preferisco	la no pressure	nel dvd navajo nation , mi fa venire le lacrime agli occhi ogni volta .
+						DET ADV NOUN	ITWAC	personalmente , io preferisco	la no pressure	nel dvd navajo nation , mi fa venire le lacrime agli occhi ogni volta .
+
+397	1	1	no profit
+						DET ADV NOUN	ITWAC	Le imprese sociali e i soggetti	del no profit	, stanno prendendo sempre più coscienza che il loro ruolo , all' interno dei processi economici , non può essere considerato
+						DET ADV NOUN	ITWAC	2 ) Adozione di una  Tremonti del sociale  , che utilizzi la leva fiscale per il rilancio	del no profit	( una iniziativa che chiameremo  Aiutare chi aiuta  ) rendendo deducibile dall' imponibile , sino ad una misura da
+						DET ADV NOUN	ITWAC	Settembre 1998 Sabto 19 settembre si è tenuto a Bologna , presso la biblioteca di Zefiro , la casa comune	del no profit	, un incontro sulla scuola dei diritti , organizzato dalla sezione locale in collaborazione con la sezione di Reggio Emilia .
+						DET ADV NOUN	ITWAC	Giulio Ernesto Russo è un esponente di quella sinistra	del no profit	, inserita nel movimento e nelle istituzioni , che non si preoccupa molto della coerenza delle proprie azioni ma molto della
+						DET ADV NOUN	ITWAC	Poi c' è Senza fine di lucro , programma dedicato al volontariato e	al no profit	in onda tutte le domeniche dalle 14 , in cui vengono raccontate le realtà delle associazioni italiane alle quali vengono destinati
+						DET ADV NOUN	ITWAC	è stato punto nodale nella vicenda recente , e valida per il futuro , degli istituti di credito : infatti	il no profit	nella forma associativa e di fondazione è in generale uno strumento per affidare la promozione di beni e servizi , tanto
+						DET ADV NOUN	ITWAC	privato sociale in riferimento a : Avvio di una riflessione sui rapporti fra i servizi sociali , il volontariato ed	il no profit	, con particolare riferimento alle possibili contraddizione con il lavoro dipendente pubblico che deve mantenere in ogni caso le funzioni di
+						DET ADV NOUN	ITWAC	15:44:21 + 0100 Diritti negati , informazione negata L' oscuramento dei siti del precariato per oscurare la lotta dei lavoratori	del no profit	Assemblea Dibattito Martedì 14 Dicembre ore 16.30 Sala Di Liegro Palazzo Valentini Via IV Novembre 119 / a I fatti sono
+						DET ADV NOUN	ITWAC	Abbiamo sentito il sindaco di Mantova nella audizione delle ooss sul bilancio preventivo 1997 - 1999 augurarsi che la legislazione	sul no profit	sia presto varata .
+						DET ADV NOUN	ITWAC	Mettere in grado , inoltre , i soggetti istituzionali e i responsabili di organismi	del no profit	di collaborare , in termini programmatici e progettuali , per realizzare iniziative e servizi , anche a carattere innovativo , rivolti
+						DET ADV NOUN	ITWAC	L' apprezzamento per l' impegno della famiglia Agnelli e la richiesta di un bollino	dal no profit	.
+						DET ADV NOUN	ITWAC	sto cercadno anch' io di vedere se è possible combinare la mia esperienza lavorativa con l' esperienza nel vasto mondo	del no profit	.
+						DET ADV NOUN	ITWAC	Il no profit è una realtà complessissima ,	nel no profit	, ricordiamoci , c' è il volontariato ...
+						DET ADV NOUN	ITWAC	Da un lato c' è il giovanile entusiasmo verso il prossimo e lo slancio adolescenziale verso	il no profit	, dall' altro lato c' è il muro che separa le nuove generazioni dalla busta paga .
+						DET ADV NOUN	ITWAC	L' obiettivo è quello di ascoltarsi , di affrontare i problemi che ogni giorno affliggono il mondo	del no profit	e di discutere dei temi che sono il motore dell' impegno di milioni di cittadini .
+						DET ADV NOUN	ITWAC	disco music  saranno all' asta su eBay insieme al sopracciglio di Elio , per sostenere anche così i progetti	delle no profit	beneficiarie .
+						DET ADV NOUN	ITWAC	4  No profit , terzo settore e progettazione sociale : parte a novembre un corso di specializzazione sulla gestione	del no profit	che non conosce precedenti in Italia .
+						DET ADV NOUN	ITWAC	CGIL-CISL-UIL hanno da sempre avuto un trattamento di favore nei confronti dei  padroni	del no profit	'  in nome di una presunta diversità delle imprese sociali .
+						DET ADV NOUN	ITWAC	territori hanno sperimentato modalità di lavoro sovracomunale e intercomunale , forme di collaborazione e di concertazione tra soggetti pubblici ,	del no profit	e delle comunità locali in un' ottica di progressiva capacità culturale / metodologica a programmare insieme superando storici campanilismi e comprensibili
+						DET ADV NOUN	ITWAC	Nel pomeriggio si ricomincia sviluppando un altro tema di grande attualità :  Il mito	del no profit	: associazionismo , volontariato , lavoro  , con interventi del portavoce del forum del terzo settore , Edoardo Patriarca ,
+						DET ADV NOUN	ITWAC	, l' aristocrazia , impersonata dalle multinazionali e la democrazia , costituita dalle organizzazioni non governative , dal volontariato ,	dal no profit	.
+						DET ADV NOUN	ITWAC	it.sociale.volontariato data : Sat , 23 Jul 2005 11:09:52 + 0200 Grazie snail , che tu sappia nel vasto settore	del no profit	vi sono altre tipologie di organizzazioni e altri registri / elenchi , oltre quelli che ho riportato qui sotto : 1
+						DET ADV NOUN	ITWAC	Non c' è il pericolo che	il no profit	diventi funzionale al profit piutto ­ sto che allo Stato sociale ?
+						DET ADV NOUN	ITWAC	21/01/2002 , 19.28 Giulio D' Imperio Moderator Data registrazione : 23/11/2001 Messaggi : 46 Re : Com' è difficile entrare	nel no profit	!
+						DET ADV NOUN	ITWAC	con il settore for profit In questa macro fase è prevista la sperimentazione di un modello locale di benchmarking per	il no profit	, la formulazione di proposte di consorziamento di Imprese sociali , l' individuazione di tipologie di servizi consulenziali da erogare in
+						DET ADV NOUN	ITWAC	portato in tribunale anche Topolino , si fa portavoce di un concetto che va controcorrente : l' open source ed	il no profit	.
+						DET ADV NOUN	ITWAC	povertà ; la promozione Pag. 279 di azioni concertate promosse da enti ed associazioni operanti nei settori del volontariato e	del no profit	.
+
+1	0	0	no progressista
+						DET ADV NOUN	ITWAC	dopo la decisione di un consigliere ( siede anche in Provincia ) del partito di Rutelli Voto agli stranieri ,	il no progressista	Mirafiori Sud , la Margherita si allea con An : proposta respinta di Gino Li Veli Sulla proposta della maggioranza comunale
+
+1	0	0	no protagonista
+						DET ADV ADJ NOUN	ITWAC	paese il modello di vita occidentale in alternativa alla dittatura - sia di aver aperto le porte dell' Iraq a	un no global protagonista	di tutte le peggiori campagne d' odio contro l' Occidente .
+
+2	0	0	no quesiti
+						DET ADV NOUN	ITWAC	La prova è nelle 4 schede che ci chiedevano di timbrare con un sì o con	un no quesiti	più lunghi di un lenzuolo , e oltretutto costruiti con frasi smozzicate e parole sforbiciate , un comma di qua ,
+						DET ADV NOUN	ITWAC	referendaria ( come previsto dall' art. 27 ) potrà essere indetta se e quando si possano sottoporre al sì e	al no quesiti	, anche alternativi , relativi ad una proposta chiara e definita di modalità di presentazione alle elezioni europee , e in
+
+1	0	0	no questioni
+						DET ADV NOUN	ITWAC	Giuseppe Casale PERCHE' ASTENERSI ' ' Non andrò a votare perché non si possono decidere con un sì e con	un no questioni	complesse come quelle che riguardano la vita umana ' ' .
+
+1	0	0	no ragioni
+						DET ADV ADJ NOUN	ITWAC	Olivetti individua	nel no cinque ragioni	: due nobili e tre meno confessabili ma anch' esse reali .
+
+1	0	0	no riguardo
+						DET ADV ADJ NOUN	ITWAC	Da quando la Apple ha scelto la strada	del no comment riguardo	al destino di tutte le icone antropomorfe Mac , si stanno diffondendo le ipotesi più disparate , tra il serio e
+
+1	0	0	no rivais
+						DET ADV NOUN	ITWAC	Guido al sint ch '	i no rivais	a nuia e che sensa un partît i no podîs sperâ di gambiâ alc .
+
+1	0	0	no rme
+						DET ADV NOUN	ITWAC	al PSC , disciplina le tipologie e le modalità attuative degli interventi di trasformazione e di destinazione d' uso nonché	le no rme	attinenti le attività di costruzione e conservazione delle opere edilizie .
+
+1	0	0	no sabato
+						DET ADV NOUN	ITWAC	votala : ( 2.6 / 84 ) « Donne per il sì » , squadrismo per	il no sabato	, 14 maggio 2005 La ministra per le pari opportunità , Stefania Prestigiacomo , è diventata in queste ore l' icona
+
+1	0	0	no sacro
+						DET ADV NOUN	ITWAC	Crearsi la libertà e	un no sacro	anche verso il dovere : per questo , fratelli , è necessario il leone » ( Delle tre metamorfosi ) .
+
+2	0	0	no sai
+						DET ADV ADJ NOUN	ITWAC	Il non par talian no pòs dîusal , parceche nencje jò	i no lu sai	.
+						DET ADV NOUN	ITWAC	E da chel timp in cà	un no sai	ce Mi sint in sen , nè sai ce che mai sei ; Mi abandone lu sium , la gnot jò
+
+1	0	0	no schiaffo
+						DET ADV NOUN	ITWAC	ragione  -  la vita è filosofia de vita a meno che tu non tarzi la matina e me	dai no schiaffo	e ciai torto  ,  il tempo mi darà torto o ragione sul fatto che se saranno rose fioriranno
+
+1	0	0	no script
+						DET ADV NOUN	ITWAC	Inoltre non è stato utilizzato	il no script	per tutti gli script presenti nel codice delle pagine , ciò non permette ai browser testuali la visualizzazione delle informazioni veicolate
+
+0	27	0	no secco
+						DET ADJ ADV NOUN	REPUBBLICA	Se queste indiscrezioni saranno confermate la risposta palestinese sarebbe	un prevedibile no secco	secco .
+						DET ADV NOUN	REPUBBLICA	Allora c' è	un no secco	e , insieme , uno spiraglio lasciato aperto .
+						DET ADV NOUN	REPUBBLICA	Ciriaco De Mita ha concluso ieri l' assemblea dei quadri del partito in Sicilia opponendo	un no secco	e senza sfumature alla proposta avanzata da Salvo Lima , il capo degli andreottiani dell' isola che con un intervento fortemente
+						DET ADV NOUN	REPUBBLICA	Ed è	un no secco	e senza sfumature , quello di Veltroni :  Credo -- ha detto al termine della cerimonia -- che su questa
+						DET ADV NOUN	REPUBBLICA	Era stato il Bundeskartellamt , l' ufficio federale dei cartelli di Berlino , a dire la scorsa primavera	un no secco	e deciso , articolatamente motivato , alla fusione .
+						DET ADV NOUN	REPUBBLICA	Ha detto	un no secco	e deciso .
+						DET ADV NOUN	REPUBBLICA	Il contenuto del messaggio indicare	un no secco	o invitare alla diserzione di massa sarà reso noto solo tra qualche giorno .
+						DET ADV NOUN	REPUBBLICA	In corso Marconi hanno riflettuto parecchio e alla fine hanno deciso di chiudere bruscamente la trattativa con	un no secco	e deciso .
+						DET ADV NOUN	REPUBBLICA	La sinistra , capeggiata da Bruno Tabacci , ha detto	un no secco	e non contrattabile .
+						DET ADV NOUN	REPUBBLICA	MILANO Ancora	un no secco	e irrimediabile nella vicenda del quarto straniero : ieri Matarrese ha ribadito che la normativa è intoccabile fino alla conclusione della
+						DET ADV NOUN	REPUBBLICA	Ma da Lubiana viene	un no secco	e deciso : Janes Drnovsek si rifiuta di partire perché dice un comunicato non ci sono le condizioni per un incontro
+						DET ADV NOUN	REPUBBLICA	Ma la Dc pronuncia	un no secco	e così la possibilità di rinviare la consultazione viene di fatto bloccata .
+						DET ADV NOUN	REPUBBLICA	Nella sostanza , senza nominar- li mai , Occhetto pronuncia	un no secco	al ruolo di ' garante della transizione ' che D' Alema gli ha proposto , e fa aleggiare sopra l' ipotesi
+						DET ADV NOUN	REPUBBLICA	Non ha avuto	un no secco	ma gli sono state poste condizioni tali da rendere inaccettabile l' offerta : la convocazione di una  commissione costituente
+						DET ADV NOUN	REPUBBLICA	Per realizzar- lo Umberto Agnelli era disponibile a sacrificare la Rinascente , ma per il momento Mediobanca ha ripetuto	un no secco	.
+						DET ADV NOUN	REPUBBLICA	Quando hanno saputo che bisognava spostar- si di dieci-quindici chilometri , i capifamiglia hanno risposto	un no secco	.
+						DET ADV NOUN	REPUBBLICA	Quitadamo è accusato di avere svenduto Manfredonia dopo che l' intera comunità si era espressa per	un no secco	e definitivo .
+						DET ADV NOUN	REPUBBLICA	ROMA Da Napoli arriva	un no secco	e la conferma della linea dura : cancellieri , segretari , coadiutori , autisti , non si fidano delle assicurazioni del
+						DET ADV NOUN	REPUBBLICA	Un vertice concluso- si con un sì generico all' impostazione di massima del ministro , con	un no secco	all' indicazione semplificata d' un risanamento collegato a tre fasce di reddito .
+						DET ADV NOUN	REPUBBLICA	delle nuove generazioni , Gullit , di andare a svernare a Bergamo in attesa di traslocare in bianconero , ricevendo	un no secco	e irrimediabile .
+						DET ADV NOUN	REPUBBLICA	diversa , nessuno aveva ancora mai reclamato i posti occupati dai dempcristiani , e la Dc potrebbe rispondere anche con	un no secco	e liquidatorio .
+						DET ADV NOUN	REPUBBLICA	e con un no la proposta del presidente di  alleggerire  il meccanismo di revisione costituzionale Da Rifondazione comunista	un no secco	.
+						DET ADV NOUN	REPUBBLICA	in funzione , è fermo da un anno e riaprir- lo proprio adesso , dopo che gli italiani hanno detto	un no secco	al nucleare , sarebbe una provocazione .
+						DET ADV NOUN	REPUBBLICA	mentre una strategia di ' quiet diplomacy ' lavora a studiare un compromesso che eviti agli altri di dir- ci	un no secco	e a noi di apparire respinti all' esame , il nostro governo e il nostro ministero degli Esteri potrebbero destinare questi
+						DET ADV NOUN	REPUBBLICA	quale è arrivato il tribunale dei minori di Torino , ed è per questo che i giudici hanno risposto con	un no secco	e definitivo , all' ennesimo ricorso di Francesco e Rosanna Giubergia .
+						DET ADV NOUN	REPUBBLICA	si su una relazione che richiama alla disciplina di partito , esclude dissensi con Cossutta , ripete le ragioni di	un no secco	a qualsiasi governo che non sia di breve transizione , e dunque in sé  pericoloso  .
+						DET ADV NOUN	REPUBBLICA	una rapida elezione vista anche la crisi internazionale in atto , come potremmo accendere il fuoco di sbarramento , dire	un no secco	e inequivocabile ?
+
+0	0	1	no sfondo
+						DET ADV NOUN	WIKICONLL	Inoltre si tratta del primo dipinto in Europa dove il ritratto è inserito	in no sfondo	architettonico e con un paesaggio .
+
+1	0	0	no sguardo
+						DET ADV NOUN	ITWAC	il fiato Jonny dalla strada for the rap soldato ( du clandestini ) Ufo in arrivo 2 alieni in vista	dai no sguardo	n' cielo su che te costa alza le mani in senxo de approvaxione pe sti du clandestini in cerca d' attenzione
+
+0	1	0	no share
+						DET ADV ADJ NOUN	REPUBBLICA	Quando Guido Rossi accusa il Governo di esser- si  castrato  , di essere  passato dalla golden share	alla no value share	, all' azione senza valore  rivolge un invito perentorio perché la politica si appropri della questione e decida .
+
+0	0	1	no shojo
+						DET ADV NOUN	WIKICONLL	La prima opera che affronta è 	Arupisu no shojo	Heidi  ( Heidi ) nel 1974 , che ottiene un enorme successo , seguita da  Haha wo tazunete sanzenri
+
+1	0	0	no shopping
+						DET ADV NOUN	ITWAC	 Molte delle persone che abbiamo contattato in via Emilia ci dicevano di avere evitato gli acquisti  dicono	i no shopping	 e abbiamo notato una forte adesione ai contenuti dell' iniziativa  .
+
+3	0	0	no sin
+						DET ADV NOUN	ITWAC	A ei che nô no vin studiât , ch '	i no sin	dotôrs , justa un mandi e tirâ indenant .
+						DET ADV NOUN	ITWAC	I no savìn se l' emigrassion dal nord a ei stada difarenta di chê dal sud , parsé che	i no sin	rivâs adora a studiâ la cuestion .
+						DET ADV NOUN	ITWAC	S' i vevin pi tîmp , i podevin cjatâ fôr li' peraulis adatis encja dulà ch '	i no sin	riussîs .
+
+6	0	0	no smoking
+						DET ADV NOUN	ITWAC	Ecco poi un' altra disumana ipocrisia : gli stessi  crociati 	del no smoking	propongono addirittura che sempre il solito Stato ( si dicono libertari , ma invocano in ogni occasione il gendarme ) si
+						DET ADV NOUN	ITWAC	Per l' occasione sono entrati in azione	i no smoking	angels , una sessantina di ragazzi di alcune scuole superiori di Firenze , Empoli e Figline .
+						DET ADV NOUN	ITWAC	che di crociate , anche e soprattutto contro il fumo , se ne intendono a tal punto di avere imposto	il no smoking	anche ai soldati in combattimento .
+						DET ADV NOUN	ITWAC	numero verde , ma è giuridicamente pertinente : essendo luogo di lavoro , con gran via vai di clientela ,	il no smoking	dovrebbe essere automatico , ma essendo tali strutture fuorilegge , che validità conserva il divieto rispetto a esercenti e utenza clandestini
+						DET ADV NOUN	ITWAC	risultato è stato un aumento dell' inquinamento dell' aria , a tal punto che quella stessa OMS che aveva caldeggiato	il no smoking	, ora è preoccupata per l' aumento delle infezioni polmonari tra i viaggiatori in aereo .
+						DET ADV NOUN	ITWAC	una capienza di circa 20 - 25 posti ciascuna , con tavoli al massimo da 6 , tranquille ( soprattutto	la no smoking	) , ben arredate , con soffitto a travi di legno e normalmente servite da un cameriere molto disponibile .
+
+1	0	0	no soci
+						DET ADV NOUN	ITWAC	Il tutto con un piccolo contributo di 8 euro ( 5 per	i no soci	) per i materiali e la merenda .
+
+0	0	1	no somiglianza
+						DET ADV ADJ NOUN	WIKICONLL	dal padre , ed è molto simile a Dèmona quando era giovane ; questo fa si che le due condividano	una no indiscreta somiglianza	.
+
+2	0	0	no sop
+						DET ADV NOUN	ITWAC	» 272 68 Quand have digio la formiga con soa lengua argudha , a	le no sop	responde la mosca malastrudha , ma va voland per l' airo , cercando soa ventura , e torna a far quel
+						DET ADV NOUN	ITWAC	» Quand hav dig la formiga con soa lengua argudha , A	le no sop	responde la mosca malastrudha , Ma va voland per l' airo , cercando soa ventura , E torna a far quel
+
+0	1	0	no spalle
+						DET ADV ADJ NOUN	REPUBBLICA	anzitutto , in un momento particolarmente travagliato per le istituzioni e giustizia , la dignità della toga che , poggiata	sulle no stre spalle	, fa sì che le nostre paro le siano le parole dello Stato , e quindi del popolo , e quindi
+
+1	0	0	no spoiler
+						DET ADV NOUN	ITWAC	ma non potevano spiegare ki fosse veramente perchè erano nelle discussioni	del no spoiler	!
+
+1	0	0	no sîs
+						DET ADV NOUN	ITWAC	Fantata Sè saviso , vô , ch '	i no sîs	stât nença a Udin .
+
+0	0	1	no stato
+						DET ADV NOUN	WIKICONLL	Questa interpretazione può essere afferrata solo riconoscendo che il parlante , Pia , sta pensando non	ad no stato	di cose del mondo , bensì ad un enunciato che attribuisce a qualcun altro , a Pippo , e dal quale
+
+22	6	0	no stop
+						DET ADV NOUN	ITWAC	A Biella il palazzetto dello sport è stato colonizzato da	una no stop	del fisico , che ha visto i partecipanti cimentarsi in un novero quanto mai ampio di discipline : dallo spinning ,
+						DET ADV NOUN	ITWAC	A seguire	nella no stop	milanese John Legend , Sugarfree , Flipsyde , Rio .
+						DET ADV NOUN	ITWAC	Alle 14 di venerdì 12 dicembre , sulle reti Rai , via	alla no stop	di 36 ore che porterà nelle case degli italiani la scienza spiegata con parole semplici , cercando di sensibilizzare il pubblico
+						DET ADV NOUN	ITWAC	Calendidonna si accende anche sul grande schermo : il 6 marzo , in particolare , sarà contrassegnato da	una no stop	di film indiani diretti da registe donne e in prima visione italiana donne , selezionati , in collaborazione con Maria Silvia
+						DET ADV NOUN	ITWAC	Fin dalle prime ore del mattino è stata	una no stop	di incontri , con molte conferme e qualche sorpresa .
+						DET ADV NOUN	ITWAC	Ieri notte le forze non mi hanno abbandonata miracolosamente dopo	il no stop	della notte precedente anzi ero più carica del solito e ho ballato fino all' ultima canzone La valse d' Amelie che
+						DET ADV NOUN	ITWAC	In considerazione delle imminenti azioni di sciopero , la delegazione sindacale si è dichiarata pronta ad	una no stop	( anche durante l' Epifania ) , « ma la Società - rileva l' Atm-Pp - non ha ritenuto di poter
+						DET ADV NOUN	ITWAC	Inizio pagina 10 Maggio 2004 Dopo	una no stop	di 15 ore intesa tra l ´ azienda e tutti i sindacati .
+						DET ADV NOUN	ITWAC	Intervistato in merito a margine di un convegno , Stanca ha infatti dichiarato :  spero proprio che non sarà	una no stop	.
+						DET ADV NOUN	ITWAC	L' impegno di Raisport per questa Olimpiade e' assicurato da una squadra che coprira' con	una no stop	informativa le gare olimpiche ( 24 ore su 24 se si considera anche la programmazione di Raisport Satellite ) .
+						DET ADV NOUN	ITWAC	La serata proseguirà con	una no stop	jazz e blues denominata  Rising Stars  dove gruppi emergenti italiani e stranieri avranno l' opportunità di ritagliarsi un importante
+						DET ADV NOUN	ITWAC	Lo hanno reso noto i sindacati della scuola al termine della trattativa ,	una no stop	durata circa 10 ore .
+						DET ADV NOUN	ITWAC	Prevista anche	una no stop	di musica in piazza .
+						DET ADV NOUN	ITWAC	Si tratta di	una no stop	di 9 giorni che vedrà alternarsi spettacoli di danza , di musica , di teatro .
+						DET ADV NOUN	ITWAC	Superare l' immobilismo per il bene della città » Pianeta disabili , un convegno per le nuove strategie A Roma	una no stop	di film di montagna L' idea di Van Hengel Inzoli : un gesto che ci educa a cambiare mentalità
+						DET ADV NOUN	ITWAC	agli sconti ai giovani applicati su tutto il territorio nazionale , vanno ricordati l' omaggio a Federico Fellini , con	la no stop	gratuita di film felliniani in vari cinema romani e le rassegne di film d' essai nelle sedi Anica e Agis .
+						DET ADV NOUN	ITWAC	capitale si appresta a festeggiare la sua prima Notte bianca , sulla scia del grande successo ottenuto lo scorso anno	dalla no stop	parigina voluta dal sindaco Bertrand Delanoe .
+						DET ADV NOUN	ITWAC	giorni in 8 palestre verdi dove 32 squadre formate da ragazze e ragazzi italiani e stranieri si sono incontrate in	una no stop	pallavolistica , per il piacere di stare insieme .
+						DET ADV NOUN	ITWAC	internazionale organizzato a Lugano dal pianista ticinese Silvan Zingg , che per l' occasione ha riunito pianisti e ballerini per	un no stop	di ritmi sfrenati , virtuosismi , e spettacolari duetti pianistici che da alcuni anni rende evento pianistico un appuntamento unico nel
+						DET ADV NOUN	ITWAC	per il pubblico , che potrà assistere anche a messe in scena , rappresentazioni e manifestazioni ad hoc organizzate per	la no stop	culturale .
+						DET ADV NOUN	ITWAC	perrone ) Statali , affondo finale per il rinnovo del contratto Fonte : IL TEMPO - 25 febbraio 2003 Parte	la no stop	per la trattativa .
+						DET ADV NOUN	ITWAC	spiaggia - aveva avvertito Daniela Colturani , segretario generale della Cisl scuola - o l' incontro odierno segnerà l' avvio	della no stop	, oppure sarà rottura » .
+						DET ADJ ADV NOUN	REPUBBLICA	Lo ha reso noto ieri l' ufficio stampa della Rai : il ' Telegiornale Uno ' , infatti , comincerà	la sua no stop	stop elettorale proprio alle 14 , in collegamento con la Doxa che , nel frattempo , avrà raccolto le dichiarazioni di
+						DET ADJ ADV NOUN	REPUBBLICA	finta-moglie -- che per l' occasione ha anche rispolverato il cognome dei suoi antenati italiani , Rapuano -- ha cominciato	una frenetica no stop	stop ieri mattina con quaranta minuti al ' Chiamate Roma 3131  , il programma radiofonico di Donatella Raffai .
+						DET ADV NOUN	REPUBBLICA	Con una letterina indirizzata tramite i suoi vice alle testate , il direttore generale ha chiesto la sospensione	delle no stop	televisive e dei fili diretti radiofonici , fissando anche limiti strettissimi alla possibilità di mandare in onda edizioni straordinarie di tg
+						DET ADV NOUN	REPUBBLICA	Il grande schermo che campeggia nella sala operativa della Protezione civile , sintonizzato su Raiuno , è dominato	dalla no stop	di Walt Disney : Pluto ne fa di tutti i colori mentre il generale Lanfranco Roiatti tenta inutilmente di cambiare programma
+						DET ADV NOUN	REPUBBLICA	Nuove polemiche , poi , si sono aperte dopo	la no stop	televisiva : presentata in tv una  informativa  dei carabinieri che indicava Mannino come testimone di nozze del figlio del
+						DET ADV NOUN	REPUBBLICA	Sui palinsesti si sparge così l' infinito blob o melassa	delle no stop	benefiche , sulle cui più riposte motivazioni umanitarie ora indaga alacremente la magistratura .
+
+1	0	0	no sull
+						DET ADV NOUN	ITWAC	Margherita : decisione senza precedenti che acuisce lo scontro Referendum , governo in campo Maroni : faremo i comitati per	il no sull	´ art .
+
+1	0	0	no tanks
+						DET ADV NOUN	ITWAC	, non ci ha infastidito nessuno a parte un paio di casi , ma sono stati tutti gentili , basta	un no tanks	ed è ok .
+
+1	0	0	no tarantini
+						DET ADV ADJ NOUN	ITWAC	punto pace tarantino di Pax Christi sugli arresti di esponenti del movimento Un altro mondo è possibile Riguardo agli arresti	dei no global tarantini	, tuttora detenuti nel carcere di massima sicurezza di Trani , il punto pace locale di Pax Christi dichiara di condividere
+
+1	0	0	no target
+						DET ADV NOUN	ITWAC	target ( Unione europea e molti paesi in via di sviluppo vogliono dimezzare gli assetati entro il 2015 ) e	i no target	( il cartello guidato dagli Stati Uniti preferisce affidare i tempi al mercato ) .
+
+203	0	3	no tax
+						DET ADV NOUN	ITWAC	sfida alla sinistra di Gianteo Bordero - 17 dicembre 2004 Migliaia di persone hanno partecipato , sabato 11 dicembre ,	al no tax	day organizzato da Forza Italia per celebrare la riforma fiscale varata dal governo Berlusconi .
+						DET ADV NOUN	ITWAC	semplificata , è prevista la no tax area di 4.500 euro , mentre se si adotta la contabilità ordinaria ,	la no tax	area è solo di 3 mila euro .
+						DET ADV NOUN	ITWAC	tale rapporto è 0 la no tax area non spetta ; - se il risultato di tale rapporto è 1	la no tax	area spetta interamente ; - se il risultato di tale rapporto è compreso tra 0 e 1 la no tax area
+						DET ADV NOUN	ITWAC	, la restituzione del fiscal drag , la fiscalizzazione degli oneri sociali per i salari più bassi e l' aumento	della no tax	area per i pensionati .
+						DET ADV NOUN	ITWAC	Come prima cosa si deve calcolare	la no tax	area , cioè la deduzione che va sottratta dal reddito complessivo .
+						DET ADV NOUN	ITWAC	parte superiore a 33.500 euro 43 % sulla parte superiore a 100.000 euro * Dal reddito va sottratto l' importo	della no tax	area e delle nuove deduzioni familiari ** Dal reddito va sottratto l' importo delle nuove deduzioni familiari Seconda riduzione Irap Totale
+						DET ADV NOUN	ITWAC	L' intervento a favore dei redditi bassi che dovrebbe incentrarsi sull' estensione	della no tax	area fino a 10 mila euro ( il Governo continua però a non precisare la composizione del nucleo familiare a cui
+						DET ADV NOUN	ITWAC	entità e dell' articolazione delle deduzioni e delle esenzioni applicabili ai redditi medio-bassi , formuli in maniera esplicita l' entità	della no tax	area e definisca il carattere familiare o individuale di tale esenzione ; è stato inoltre avanzata la richiesta di risolvere ,
+						DET ADV NOUN	ITWAC	Analogamente , va precisato come tutta	la no tax	area ovvero l' area non soggetta all' esercizio Pag. 41 della pressione fiscale sia stata allargata fino ai 7 mila 500
+						DET ADV NOUN	ITWAC	Semmai « la riforma aumenta il numero dei soggetti totalmente esenti da imposta » visto l ´ aumento del tetto	della no tax	area .
+						DET ADV NOUN	ITWAC	modifica delle aliquote fiscali : a tale proposito ricorda che il primo modulo della riforma fiscale , che ha introdotto	la no tax	area , non è stato significativo per le fasce a più basso reddito .
+						DET ADV NOUN	ITWAC	che in questo caso tutti i benefici sono dovuti esclusivamente all' applicazione dell' aliquota unica del 23 % , perché	la no tax	area , la fascia esente da Irpef , non porta alcun beneficio a chi ha redditi che vanno dai 38.000 euro
+						DET ADV NOUN	ITWAC	è un taglio che non solo sostiene il potere di acquisto dei singoli e delle famiglie , alza la soglia	delle no tax	area , ma riduce drasticamente la spesa per la pubblica amministrazione , cresciuta in modo abnorme negli ultimi anni .
+						DET ADV NOUN	ITWAC	al dibattito sulla flat tax Tra progetti e ricerche , allo studio anche l' innalzamento a 12.000 sterline della soglia	della no tax	area Stefano Latini 02.05.2005 - Berlino taglia le imposte ma aumenta i controlli La Germania ha varato un progetto in favore
+						DET ADV NOUN	ITWAC	dei problemi delle famiglie , degli incapienti e dei possessori di redditi bassi , né si corregge l' iniqua differenziazione	della no tax	area tra lavoratori dipendenti e pensionati .
+						DET ADV NOUN	ITWAC	L' aumento	della no tax	area di 7.500 a 10.000 euro avvantaggia , infatti , in misura maggiore chi ha redditi più bassi perché l' ombrello
+						DET ADV NOUN	ITWAC	Stabilito che il futuro del premier non sarà su una panchina dei giardinetti insieme agli altri pensionati beneficiati	dalla no tax	area , alla fine di una giornata in cui il governo-bis ha ottenuto la fiducia della Camera con 334 sì ,
+						DET ADV NOUN	ITWAC	Il 2004 sarà anche il debutto nelle dichiarazioni	della no tax	area : la maxi deduzione entrata in vigore con l' avvio del primo modulo della riforma dell' Irpef .
+						DET ADV NOUN	ITWAC	quella del 15 % » , ha annunciato Maroni spiegando che resta il problema del lavoratore che , per effetto	della no tax	area , non paga imposte e che pagherebbe il 15 % su questi rendimenti .
+						DET ADV NOUN	ITWAC	lavoro dipendente , di pensione e di lavoro autonomo o d' impresa , che diminuiscono rispetto al passato tenendo conto	della no tax	area .
+						DET ADV NOUN	ITWAC	Il quale precisa che « con l ´ estensione	della no tax	area da 7.500 a 15 mila euro , il beneficio massimo supera di poco i 300 euro all ´ anno »
+						DET ADV NOUN	ITWAC	Per i contribuenti meno abbienti - quelli che godono	della no tax	area - parlando di tasse nulla cambia , chiaramente .
+						DET ADV NOUN	ITWAC	Sulla liquidazione , infatti , non ha potuto operare alcuna deduzione né	la no tax	area ( nessuna tassa fino a 7,5 milioni di euro ) e così si è determinato solo un aumento dell ´
+						DET ADV NOUN	ITWAC	per tener conto del reddito e della capacità della situazione familiare ( c.d. quoziente familiare ) ; § la rimodulazione	della no tax	area ; § la conferma della clausola di salvaguardia , che consente al contribuente di avvalersi del precedente regime fiscale ,
+						DET ADV NOUN	ITWAC	dal 2001 dal centrodestra ( con l' aumento delle pensioni minime , l' innalzamento delle detrazioni prima e l' introduzione	della no tax	area poi , il primo modulo di riduzione puntato sui redditi bassi ) , infatti , non si può non cogliere
+						DET ADV NOUN	ITWAC	Siamo intervenuti due volte con due moduli , c' è	una no tax	area .
+						DET ADV NOUN	ITWAC	Entrando nello specifico , riguardo all' art. 2 della legge n. 289 del 2002 , la previsione	della no tax	area non incide sul calcolo delle addizionali IRPEF , a patto però che l' imposta sia dovuta .
+
+3	0	0	no tax-area
+						DET ADV NOUN	ITWAC	185 della L. 662/1996 in considerazione del fatto che la tassazione IRPEF ( aliquota 23 % ) avverrebbe al netto	della no tax-area	( 3000  + 1500  ) mentre qualora optasse per il  forfettino ' previsto dall' art. 13 della L.
+						DET ADV NOUN	ITWAC	I dati forniti nel quesito sono piuttosto scarni e non consentano di capire se la differenza tra	la no tax-area	calcolata dal datore di lavoro nel CUD e quella che risulta attribuibile dal Ns .
+						DET ADV NOUN	ITWAC	più abbienti , anche se rilevanti sono i benefici che avranno le famiglie con più figli a carico dall' innalzamento	della no tax-area	( per coniuge e 2 figli a carico passa da 12830  a 14000  .
+
+1	0	0	no taxation
+						DET ADV NOUN	ITWAC	I diritti costituzionalizzati , dall' habeas corpus	al no taxation	without representation , non sono affatto diritti naturali ed universali dell' uomo .
+
+1	0	0	no taz
+						DET ADV NOUN	ITWAC	conclusa nel 2002 ed il pagamento fosse avvenuto nel 2003 , non avrei avuto diritto né alle vecchie detrazioni né	alla no taz	area .
+
+1	0	0	no teema
+						DET ADV NOUN	ITWAC	sonora originale della prima serie ] Rupan sansei no teema [ sigla d' apertura della seconda serie ] Rupan sansei	ai no teema	[ prima sigla di chiusura della seconda serie ] Love Squall [ seconda sigla di chiusura della seconda serie ] Love
+
+1	0	0	no tegami
+						DET ADV NOUN	ITWAC	Una notte a Parigi	Ai no tegami	wa dare no te de Quale mano ha scritto la lettera d' amore ?
+
+1	0	0	no tel.
+						DET ADV NOUN	ITWAC	associazione che possono essere interessati ad avere informazioni sul lavoro teatrale ed eventualmente farlo rappresentare nelle loro citta possono contattare	i no tel.	3297917005 oppure 3404618909 o scrivere a palestinesi at libero.it ...
+
+1	0	0	no theme
+						DET ADV NOUN	ITWAC	Lupin Sansei	Ai no theme	/ Terutsugu Hirayama 8 .
+
+1	0	0	no thesis
+						DET ADV ADJ NOUN	ITWAC	Si tratta	della no demos thesis	:  non c' è democrazia se non c' è popolo europeo  ( p. 80 ) .
+
+1	0	0	no ticket
+						DET ADV NOUN	ITWAC	( La Repubblica ) BUONI PASTO , OGGI SCIOPERA GENOVA Baristi e ristoratori incrociano metaforicamente le braccia per	il no ticket	day , contro le commissioni troppo alte percepite dalle società che emettono i ticket .
+
+1	0	0	no tondo
+						DET ADV NOUN	ITWAC	Con quella sua famosa enciclica Paolo VI disse	un no tondo	ai contraccettivi : pillole , preservativi , spirali , eccetera .
+
+1	0	0	no tout
+						DET ADV NOUN	ITWAC	Sulla stessa linea è la Margherita ( anche se una componente sollecita	un no tout	court all' intervento militare ) .
+
+1	0	0	no transfer
+						DET ADV NOUN	ITWAC	più niente solo quando la sera diventa notte , ché una gentildonna deve sapere non lasciare tracce e	il no transfer	fa le pellicine .
+
+1	0	0	no trespassing
+						DET ADV NOUN	ITWAC	In buona sostanza è la dimensione diadica a prevalere su quella plurale , quasi esistesse	una no trespassing	zone tra l' interfaccia micro e quella macro nell' organizzazione scuola e questo rilievo appare fondato non solo e non tanto
+
+1	0	0	no venerdì
+						DET ADV NOUN	ITWAC	Accanto a lei - il fronte	del no venerdì	sera era a Montpellier , domani a Strasburgo , sempre in giro , sempre gli stessi : Buffet , Besancenot ,
+
+1	0	0	no vicini
+						DET ADV ADJ NOUN	ITWAC	distinguo  politically correct  : non importa se l' intollerante è di destra o di sinistra , se milita	nei no global vicini	a Rifondazione o in quei centri sociali che fanno riferimento ad An o a Forza Nuova , la politica in ateneo
+
+2	0	0	no visto
+						DET ADV ADJ NOUN	ITWAC	Mentre tutti dicono bene	dei no global visto	che ormai non esistono più , la magistratura di Cosenza mette i loro dirigenti del Sud in galera , rovesciando la
+						DET ADV NOUN	ITWAC	22 Romania 6 giugno 2005 Romania	Il no visto	da oriente I francesi e gli olandesi hanno detto no alla costituzione europea e le conseguenze della decisione hanno acceso intensi
+
+0	0	1	no vołerghe
+						DET ADV NOUN	WIKICONLL	queło che vołe el Parón » , « quanto bon che xé el Parón » , « come se fa	a no vołerghe	ben al Parón » (  quello che vuole il Signore  ,  quanto buono è il Signore  ,
+
+1	0	0	no volta
+						DET ADV ADJ NOUN	ITWAC	, all' idea che i girotondi rappresentano l' unica risposta possibile al governo Berlusconi , all' ossessiva esibizione del cartello	dei no ogni volta	che si parla di una qualche riforma , a cominciare da quella delle pensioni ( che pure è all' ordine del
+
+1	0	0	no vût
+						DET ADV ADJ NOUN	ITWAC	A no era ch '	i no vès vût	chê , no vevi podût ...
+
+13	0	0	no war
+						DET ADV ADJ NOUN	ITWAC	E questo credo sia valido per il popolo	dei no global war	che sono elettori di questo Paese .
+						DET ADV NOUN	ITWAC	, l' appello alla mobilitazione per sabato 12 aprile è stato controfirmato anche dalla coalizione inglese Stop the war e	dai no war	tedeschi , che scenderanno in piazza nei rispettivi paesi .
+						DET ADV NOUN	ITWAC	Don Andrea Gallo è avvolto in una bandiera della pace e la foglia a cinque punte , simbolo	della no war	, no war on drugs , e sentenzia : « La marijuana fa bene , Fini fa male » , che
+						DET ADV NOUN	ITWAC	E considerazioni analoghe , aggiungo io , valgono anche per l' altro tipo di manifestanti , i fautori	del no war	di « Piazza Esedra » : che , nella migliore delle ipotesi ( e cioè se in buona fede ) mi
+						DET ADV NOUN	ITWAC	Ha deluso i cattolici pacifisti ,	i no war	, i no global , i marciatori di Assisi ,  Famiglia Cristiana  .
+						DET ADV NOUN	ITWAC	I turchi con gli spagnoli , i baschi con i bretoni , i polacchi con i danesi ,	i no war	inglesi con i no war tedeschi .
+						DET ADV NOUN	ITWAC	Per questi e altri motivi	i no war	italiani sono chiamati oggi a Roma a far sentire ancora una volta la loro voce , ben consapevoli di dover reggere
+						DET ADV NOUN	ITWAC	Pesaro , la mozione Berlinguer , uscita perdente dalla conta nelle sezioni , medita la rivincita grazie ai temi preferiti	dai no war	.
+						DET ADV NOUN	ITWAC	da  il manifesto  del 12 Aprile 2003 GRAN BRETAGNA La pace serve ancora Oggi in piazza a Londra	I no war	: molte ragioni per manifestare ORSOLA CASAGRANDE , « La guerra non è affatto finita .
+						DET ADV NOUN	ITWAC	da  il manifesto  del 18 Marzo 2005	I no war	a Ciampi : Carta violata I pacifisti : « Rispetti l' art. 11 » .
+						DET ADV NOUN	ITWAC	del 19 Marzo 2005 Operai in pentola a pressione FILIPPO COLOMBARA ,  il manifesto  del 19 Marzo 2005	I no war	a Ciampi : Carta violata ANGELO MASTRANDREA ,  il manifesto  del 18 Marzo 2005 I profitti dell' ambiente MASSIMO
+						DET ADV NOUN	ITWAC	gli spagnoli , i baschi con i bretoni , i polacchi con i danesi , i no war inglesi con	i no war	tedeschi .
+						DET ADV NOUN	ITWAC	il manifesto  del 24 Marzo 2003 « Fermate il massacro del petrolio » Non si fermano le proteste globali	dei no war	.
+
+25	0	1	no wave
+						DET ADV NOUN	ITWAC	, e gli Avion Travel sono riusciti a passare , con la delicatezza e la soavità che li contraddistinguono ,	dalla no wave	di Arto Lindsay alle melodie italiane degli anni Sessanta .
+						DET ADV NOUN	ITWAC	è maturata questa volta con l' apporto di Arto Lindsay , un pezzo da novanta della musica internazionale , teorico	della no wave	, leader dei Dna e produttore tra i più creativi della scena mondiale .
+						DET ADV NOUN	ITWAC	Confusion Is Sex è una pietra miliare dell' hardcore ,	della no wave	, del noise rock .
+						DET ADV NOUN	ITWAC	D' altronde , basterebbe fare solo il nome di Arto Lindsay , guru carioca	della no wave	newyorkese , per comprendere come questo  trapianto  non sia stato poi così innaturale .
+						DET ADV NOUN	ITWAC	Heavy metal e disco music ,	la no wave	, la musica industriale , i cento revival degli anni '80 , il melting pot sonoro degli anni '90 , il
+						DET ADV NOUN	ITWAC	Il baccanale di  Death Valley 69  vede la collaborazione anche di un' altra poetessa	della no wave	di New York , Lydia Lunch , che insieme a Moore urla frasi sconnesse e incitamenti , in un crescendo thriller
+						DET ADV NOUN	ITWAC	Il disco , infatti , è stato prodotto da Arto Lindsay , uno dei padri	della no wave	newyorkese di Sonic Youth e Lydia Lunch , musicista eterodosso , militante negli anni Ottanta in tante formazioni rock-jazz spesso molto
+						DET ADV NOUN	ITWAC	Il rock e l' hardcore vengono stravolti , il grind e il metal passati al frullatore e	la no wave	frammentata ; a tutto ciò aggiungete l' attacco vocale dei due cantanti , che rendono ancora più disperata e sfiancante la
+						DET ADV NOUN	ITWAC	Lindsay è uno dei padri del rumorismo e	della no wave	: non câ  TMera il rischio di fare un disco con poco calore ?
+						DET ADV NOUN	ITWAC	Lurie , Christian Hoffman , Bradley Field ) , parteciparono in massa come attori ai ( spesso mediocri ) film	della no wave	cinematografica newyorchese ( Scott & Beth B , Eric Mitchell ecc ) .
+						DET ADV NOUN	ITWAC	Nel suo stile chitarristico essenziale ed iconoclasta c' è	la no wave	dei D.N.A. di Arto Lindsay e il lirismo di Tom Verlaine .
+						DET ADV NOUN	ITWAC	Peter Gordon , il terzo entrando nel giro della post-improvvisazione grazie a Zorn ) , e musicisti come tutti quelli	della no wave	newyorchese ( Lydia Lunch , Arto Lindsay , Don Christensen , James Chance , John Lurie , Christian Hoffman , Bradley
+						DET ADV NOUN	ITWAC	Shoulder )  l' austriaco Fennesz cita con attualità e grande eleganza le architetture melodiche del miglior Brian Wilson ;	la no wave	dei Mars ( già presenti nella compilation  No New York  prodotta da Brian Eno ) incendia l' immaginario dell'
+						DET ADV NOUN	ITWAC	Tra rabbiose invettive , cupe visioni e agghiaccianti psicodrammi Figli spirituali	della no wave	, che sconvolse l' underground americano intorno alla fine degli anni '70 con la sua ideologia ultranichilista ( si ricordino ,
+						DET ADV NOUN	ITWAC	evince come i loro ascolti affondino le radici nel primo post punk ( Pop Group e PIL compresi ) e	nella no wave	e poi li abbiano indirizzati verso forme contaminate da dub ed elettronica deviata , a tratti anche un po' retrò .
+						DET ADV NOUN	ITWAC	i primi riferimenti che balzano alla mente sono i davis-iani  Bitches Brew  e  Jack Johnson  )	alla no wave	, passando per il prog dei King Crimson e l' hard rock .
+						DET ADV NOUN	ITWAC	le loro influenze sono per lo più new yorkesi : james white , mars e tutta	la no wave	.
+						DET ADV NOUN	ITWAC	miniconcerto dancey deviante , dove la variazione vale più quale sentito omaggio per quel che significò all' epoca ormai vetusta	della no wave	/ new wave ( dai Contorsions ai Glaxo Babies , e dopo dai Six Fingers Satellite agli stessi Arab Radar )
+						DET ADV NOUN	ITWAC	molto ordinate e quelle di Canali riscoprono qua e là un uso primitivo del feedback , lontano dal grunge ,	dalla no wave	o dai Sonic Youth , e vicino ai gruppi dei tardi Sessanta , che resta sempre in secondo piano .
+						DET ADV NOUN	ITWAC	non essendo innovativi come i Throbbing Gristle o i Pere Ubu , feroci quanto il Pop Group , estremi come	la no wave	, i Fall possono però vantare una sensibilità pop invidiabile che , innestata sui suoni della new wave , ha permesso
+						DET ADV NOUN	ITWAC	novanta , ma che amalgamano perfettamente lo spirito originario del post-core più ribelle e intellettuale , con l' urgenza espressiva	della no wave	, con la malinconia di un certo post rock e con la quadratura del noise .
+						DET ADV NOUN	ITWAC	opere rumoriste , non ha l' appeal noisedelico della new wave ( né l' anti-appeal o il morboso cattivo gusto	della no wave	) , non ha la virulenza del punk né la presunta intangibilità delle structured improvisations .
+						DET ADV NOUN	ITWAC	post punk , la new wave , l' hardcore americano , la musica industriale , la rinascita del pop ,	la no wave	, il revival psichedelico , il new punk la nuova canzone di protesta , l' FM music , l' hard rock
+						DET ADV NOUN	ITWAC	sacra e sconsacrata ( dalle formazioni più propositive ) che comprende punk , new wave ( in alcune occasioni tendente	alla no wave	e non immune da tentazioni funky bianche ) e garage rock .
+						DET ADV NOUN	ITWAC	tre dimensioni a grandezza naturale la reception di un hotel poverissimo e fetente , residuo degli anni Sessanta nel decennio	della no wave	.
+						DET ADV NOUN	WIKICONLL	Successivamente l' eredità	della no wave	viene raccolta da gruppi appartenenti a diversi generi musicali , dal noise ( Massimo Volume con  Lungo i bordi
+
+1	0	0	no wavers
+						DET ADV NOUN	ITWAC	Infatti sono della partita Kim Gordon ( Sonic Youth , ovviamente ) , Ikue Mori ( agli albori di tutto	nei no wavers	DNA di Arto Lindsay e poi ottima solista , prova ne siano  Garden ' ed  Hex Kitchen ' su
+
+0	0	1	no way
+						DET ADV NOUN	WIKICONLL	esperimento increscioso , ed aggiunse  This is a study that should never be considered defensible in any era ...	In no way	would I ever think of defending this study .
+
+1	0	0	no where
+						DET ADV NOUN	ITWAC	Allora , come ha scritto Vita Fortunati a proposito di New from Nowhere di William Morris ,	il no where	( luogo-che-non-esiste ) , si trasforma in now-here ( ora qui ) , spaesato estraniato , ma perciò nuovo e riconoscibile
+
+1	0	0	no work
+						DET ADV NOUN	ITWAC	che mi hanno detto che ci sono ex cinema da occupare in alaska perche ´ te e i tuoi amici	del no work	´ s nn andate la e ci rimanete ?
+
+1	0	0	no xkè
+						DET ADV NOUN	ITWAC	Io ero indecisissima se farlo o no ma ero + x	il no xkè	dp nn avrei saputo cm fare x asciugarmie avevo paura d bekkarmi 1 accidente cn quell' aerietta ...
+
+0	0	1	no yoru
+						DET ADV NOUN	WIKICONLL	Dopo poco , Kimura scrisse un settimo libro , 	Mangetsu no yoru	ni  , concludendo la serie .
+
+1	0	0	no yurikago
+						DET ADV NOUN	ITWAC	, omoide wo uragiru nara kono sora wo daite kagayaku , shounen yo shinwa ni nare Zutto nemutteiru watashi no	ai no yurikago	anata dake ga yume no shisha ni yobareru asa ga kuru aoi kubisuji wo tsukiakari ga utsushiteiru sekaijuu no toki wo
+
+21	0	0	no zone
+						DET ADV ADJ NOUN	ITWAC	 per cui  unilaterali  e' una tua fantasia , a cui piace credere , 	La no fly zone	a sud di Bagdad e'  unilaterale  , imposta cioe' solo da britannici e statunitensi .
+						DET ADV ADJ NOUN	ITWAC	è servita a poco : i programmi di riarmo sono stati scoperti in gran parte solo grazie ai disertori ;	sulle no fly zone	sono state scaricate migliaia di bombe per prevenire la ricostruzione degli insediamenti militari ; la mortalità infantile è aumentata anche per
+						DET ADV ADJ NOUN	ITWAC	A destra della chiesa i vigili presidiano venti metri di terra di nessuno , è un po'	la no fly zone	, che blocca l' accesso da via Copelli ( foto ) .
+						DET ADV ADJ NOUN	ITWAC	Aerei americani e inglesi ogni giorno bombardano installazioni militari e nodi logistici non solo	nelle no fly zone	, ma in tutto il territorio iracheno da Bassora al Kurdistan il che vuol dire in pratica che la guerra non
+						DET ADV ADJ NOUN	ITWAC	E per la cronaca USA e GB	nelle no fly zone	fanno quello che vogliono , compresi bombardamenti su villaggi .
+						DET ADV ADJ NOUN	ITWAC	Il monitoraggio	della no fly zone	è un pezzo d' antiquariato .
+						DET ADV ADJ NOUN	ITWAC	In questi ultimi dieci anni  , prosegue Pettinato ,  le zone del Sud e Nord del Paese ,	le no fly zone	, sono sostanzialmente sottratte al controllo del governo , e le autorità locali fanno quello che vogliono , compreso scavare .
+						DET ADV ADJ NOUN	ITWAC	Incirlik - Da qui partono gli aerei Usa e britannici che pattugliano	la no fly zone	dell' iraq settentrionale BAHREIN Quartier generale V Flotta - Pattuglia il Golfo Persico e l' Oceano Indiano Shaikh Isa - Base
+						DET ADV ADJ NOUN	ITWAC	La base aerea di Incirlik , usata dagli aerei anglo-americani per i loro voli di pattugliamento	sulle no fly zone	irachene , serve da appoggio per i bombardamenti in Afghanistan .
+						DET ADV ADJ NOUN	ITWAC	Nelle basi turche gli anglo-amerikani si apprestano ad attaccare nuovamente l' Iraq , con la motivazione ufficiale del mancato rispetto	della no fly zone	.
+						DET ADV ADJ NOUN	ITWAC	Per imporre il rispetto	della no flying zone	, che Saddam Hussein non ha mai accettato , l' aviazione americana e inglese deve attaccare ogni settimana le postazioni della
+						DET ADV ADJ NOUN	ITWAC	Per l' istituzione	della no fly zone	e delle  zone di protezione  per i profughi kurdi sul territorio iraqeno le Nazioni Unite avevano addotto ( risoluzione
+						DET ADV ADJ NOUN	ITWAC	Polizia e guardia nazionale si sono scatetati dunque anche fuori	dalla no protest zone	, la sezione del distretto centrale che comprende i luoghi ufficiali : il Convention Center , sede del vertice , gli
+						DET ADV ADJ NOUN	ITWAC	Sarà stato lui a volere a tutti i costi inserita la battuta su come i villici avevano ottenuto	una no fly zone	in pieno Nebraska ( o dove cavolo stanno ) ?
+						DET ADV ADJ NOUN	ITWAC	appoggiò Clinton e si arrivò al bombardamento di Baghdad , dopo che la contraerea irachena aveva puntato gli aerei anglo-americani	nella no fly zone	.
+						DET ADV ADJ NOUN	ITWAC	cui la guerra contro l' Iraq , ( mai terminata , se si pensa all' embargo ed ai bombardamenti continui	della no fly zone	) diventerà deflagrante , l' intero paese si fermerà e proclamerà lo sciopero generale .
+						DET ADV ADJ NOUN	ITWAC	dittatore era ormai ridotto all ´ angolo , la sua sovranità sempre più ristretta dal diritto di sorveglianza aerea (	la no fly zone	) che aveva già consentito la piena indipendenza della regione curda , gli ispettori dell ´ Onu avevano riconquistato pieno diritto
+						DET ADV ADJ NOUN	ITWAC	e minaccia dell' uso della forza ( comma 4 , art. 2 ) ad opera di chi bombarda da anni	la no fly zone	dell' Iraq , in un ordinamento in cui la guerra di difesa preventiva è stata ripetutamente dichiarata illecita ( cfr. ris
+						DET ADV ADJ NOUN	ITWAC	iracheni sono morti e migliaia sono rimasti feriti in 11 anni di continui bombardamenti condotti dai caccia anglo-americani che pattugliano	le no fly zone	.
+						DET ADV ADJ NOUN	ITWAC	piero : certo che la notazione	sulla no fly zone	è per i pignoli .
+						DET ADV ADJ NOUN	ITWAC	questo modo ha riaperto la discussione sui prossimi obiettivi , proprio nel giorno in cui gli aerei americani che pattugliano	la no fly zone	nel Sud dell' Iraq sono tornati a colpire , dopo una provocazione dei militari di Baghdad .
+
+5	0	0	no zones
+						DET ADV ADJ NOUN	ITWAC	Inoltre non si ferma la guerra a bassa intensità condotta costantemente	sulle no fly zones	e che , domenica scorsa , è costata la vita a quattro civili che lavoravano alla Southern Oil Company , la
+						DET ADV ADJ NOUN	ITWAC	La guerra è già in corso , si dice : s' intensificano i bombardamenti	sulle no fly zones	( un incidente potrebbe già scatenare l' attacco ) , la propaganda Usa minimizza il no del parlamento turco e la
+						DET ADV ADJ NOUN	ITWAC	Per di più era stato deciso di creare	delle no fly zones	in Iraq .
+						DET ADV ADJ NOUN	ITWAC	diritto di fare a pezzi , a loro piacimento , questo o quel paese , ad esempio proclamando in Irak	le no fly zones	e bombardando sistematicamente chi dovesse anche solo osare puntare il radar contro gli aerei invasori .
+						DET ADV ADJ NOUN	ITWAC	l' operazione « volpe nel deserto » contro l' Iraq nel 1998 ; i bombardamenti quotidiani che da allora colpiscono	le no fly zones	sopra il territorio iracheno ; le bombe sull' Afghanistan e quelle lanciate sul Sudan , in risposta agli attentati contro le
+

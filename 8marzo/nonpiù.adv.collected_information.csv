@@ -1,0 +1,195 @@
+word,selected,annotated_semantics,projected_semantics,freq_sketch,f-pref_itwac,f-pref_repubblica,f-pref_wikiconll,f-adv_itwac,f-adv_repubblica,f-adv_wikiconll
+adolescenti,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+adulti,True,?,?,0,-,-,-,0,0,0
+amico,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+amore,True,?,Entity#Qualification or Set of Circumstances,0,-,-,-,0,0,0
+appartenenza,True,?,-,0,-,-,-,0,0,0
+apprendimento,True,?,?,0,-,-,-,0,0,0
+arte,True,?,Entity,0,-,-,-,0,0,0
+autori,True,?,?,0,-,-,-,0,0,0
+babbuina,True,?,?,0,-,-,-,0,0,0
+bambine,True,?,?,0,-,-,-,0,0,0
+bambini,True,-,Qualification or Set of Circumstances,0,-,-,-,0,1,0
+bambino,True,-,?,0,-,-,-,0,1,0
+band,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+barricadero,True,?,?,0,-,-,-,0,0,0
+berlusconiani,True,?,?,0,-,-,-,0,0,0
+bici,True,?,?,0,-,-,-,0,0,0
+bimba,True,?,?,0,-,-,-,0,0,0
+calcare,True,?,?,0,-,-,-,0,0,0
+cantina,True,?,?,0,-,-,-,0,0,0
+Capri,True,?,?,0,-,-,-,0,0,0
+cavaliere,True,?,Job or Career,0,-,-,-,0,0,0
+cinema,True,?,Place or function,0,-,-,-,0,0,0
+città,True,-,Qualification or Set of Circumstances,0,-,-,-,0,1,0
+cittadini,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+comunisti,True,?,Cultural or political movement#-,0,-,-,-,0,1,0
+corpo,True,?,?,0,-,-,-,0,0,0
+credente,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+deficienti,True,?,?,0,-,-,-,0,0,0
+democratica,True,?,?,0,-,-,-,0,0,0
+Direttore,True,?,?,0,-,-,-,0,0,0
+elettori,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+esistenza,True,-,-,0,-,-,-,0,0,0
+estate,True,?,?,0,-,-,-,0,0,0
+estraneità,True,?,?,0,-,-,-,0,0,0
+fascisti,True,?,Cultural or political movement,0,-,-,-,0,0,0
+fidanzate,True,?,?,0,-,-,-,0,0,0
+fidanzato,True,?,Kinship,0,-,-,-,0,0,0
+fratello,True,?,?,0,-,-,-,0,0,0
+fumo,True,?,?,0,-,-,-,0,0,0
+giovane,True,-,Qualification or Set of Circumstances,0,-,-,-,0,26,7
+giovani,True,-,Qualification or Set of Circumstances,0,-,-,-,0,18,0
+giovanissime,True,?,?,0,-,-,-,0,0,0
+giovanissimi,True,?,?,0,-,-,-,0,2,0
+giovanissimo,True,?,?,0,-,-,-,0,5,2
+guinness,True,?,?,0,-,-,-,0,0,0
+illibatezza,True,?,?,0,-,-,-,0,0,0
+imputato,True,?,?,0,-,-,-,0,0,0
+incensurato,True,?,?,0,-,-,-,0,0,0
+libro,True,?,Entity,0,-,-,-,0,0,0
+mercati,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+Mini,True,?,?,0,-,-,-,0,0,0
+moribonda,True,?,?,0,-,-,-,0,0,0
+morte,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+morti,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+morto,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+mura,True,?,?,0,-,-,-,0,0,0
+Nord,True,?,?,0,-,-,-,0,0,0
+ora,True,?,?,0,-,-,-,0,0,0
+originalità,True,?,?,0,-,-,-,0,0,0
+outsider,True,?,?,0,-,-,-,0,0,0
+papa,True,?,Role,0,-,-,-,0,0,0
+partiti,True,?,?,0,-,-,-,0,0,0
+pensiero,True,?,-,0,-,-,-,0,0,0
+persona,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+pischella,True,?,?,0,-,-,-,0,0,0
+Porcellum,True,?,?,0,-,-,-,0,0,0
+precari,True,?,?,0,-,-,-,0,0,0
+prefetto,True,?,Job or Career#Role,0,-,-,-,0,0,0
+presenza,True,-,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+presidente,True,?,Role,0,-,-,-,0,0,0
+problemi,True,?,?,0,-,-,-,0,0,0
+Promessa,True,?,?,0,-,-,-,0,0,0
+provincia,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+ragazzi,True,?,Kinship,0,-,-,-,0,0,0
+ragazzotto,True,?,?,0,-,-,-,0,0,0
+ragionante,True,?,?,0,-,-,-,0,0,0
+schiavi,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+segreto,True,?,?,0,-,-,-,0,0,0
+sete,True,?,?,0,-,-,-,0,0,0
+sindacato,True,?,?,0,-,-,-,0,0,0
+sinistra,True,?,Cultural or political movement,0,-,-,-,0,0,0
+soffitto,True,?,?,0,-,-,-,0,0,0
+soggetti,True,?,-,0,-,-,-,0,0,0
+sognatore,True,?,?,0,-,-,-,0,0,0
+sovrano,True,?,Role,0,-,-,-,0,0,0
+spazi,True,?,?,0,-,-,-,0,0,0
+spazzatura,True,?,?,0,-,-,-,0,0,0
+stranieri,True,?,?,0,-,-,-,0,0,0
+studenti,True,-,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+teenager,True,?,?,0,-,-,-,0,0,0
+umani,True,?,?,0,-,-,-,0,0,0
+uomini,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+uomo,True,?,Qualification or Set of Circumstances,0,-,-,-,0,0,0
+Vergine,True,?,?,0,-,-,-,0,0,0
+vita,True,-,Entity,0,-,-,-,0,0,0
+Ammiraglio,True,-,-,0,-,-,-,0,0,1
+comico,True,-,-,0,-,-,-,0,1,0
+coniuge,True,-,Kinship,0,-,-,-,0,0,0
+dominatori,True,-,-,0,-,-,-,0,1,0
+essenzialità,True,-,-,0,-,-,-,0,0,1
+fascista,True,-,Cultural or political movement,0,-,-,-,0,0,0
+giovanotto,True,-,-,0,-,-,-,0,1,0
+idoneità,True,-,-,0,-,-,-,0,0,0
+idoneo,True,-,-,0,-,-,-,0,0,0
+immortale,True,-,-,0,-,-,-,0,0,0
+lettore,True,-,-,0,-,-,-,0,0,0
+ministro,True,-,Role,0,-,-,-,0,1,0
+neonata,True,-,-,0,-,-,-,0,0,0
+partecipazione,True,-,-,0,-,-,-,0,0,0
+riconoscibilità,True,-,-,0,-,-,-,0,0,0
+signorine,True,-,-,0,-,-,-,0,1,0
+sonno,True,-,-,0,-,-,-,0,0,0
+sostenibilità,True,-,-,0,-,-,-,0,0,0
+tanto,True,-,-,0,-,-,-,0,4,0
+ufficio,True,-,Place or function,0,-,-,-,0,0,0
+verde,True,-,-,0,-,-,-,0,5,0
+abili,False,?,?,0,-,-,-,0,1,0
+allegro,False,?,?,0,-,-,-,0,1,0
+anonimo,False,?,?,0,-,-,-,0,2,0
+attivi,False,?,?,0,-,-,-,0,0,1
+attivo,False,?,?,0,-,-,-,0,0,1
+autosufficienti,False,?,?,0,-,-,-,0,1,0
+bambina,False,?,Qualification or Set of Circumstances,0,-,-,-,0,1,0
+basata,False,?,?,0,-,-,-,0,1,0
+beata,False,?,?,0,-,-,-,0,1,0
+comunista,False,?,Cultural or political movement#-,0,-,-,-,0,1,0
+congelate,False,?,?,0,-,-,-,0,1,0
+convenienti,False,?,?,0,-,-,-,0,1,0
+convertibili,False,?,?,0,-,-,-,0,1,0
+così,False,?,?,0,-,-,-,0,1,0
+craxiani,False,?,Cultural or political movement,0,-,-,-,0,1,0
+credibile,False,?,?,0,-,-,-,0,1,0
+eguagliata,False,?,?,0,-,-,-,0,0,1
+elitari,False,?,?,0,-,-,-,0,1,0
+eludibile,False,?,?,0,-,-,-,0,1,0
+esistente,False,?,?,0,-,-,-,0,2,1
+esistenti,False,?,?,0,-,-,-,0,0,1
+esordiente,False,?,?,0,-,-,-,0,1,0
+eterea,False,?,?,0,-,-,-,0,1,0
+fantascientifiche,False,?,?,0,-,-,-,0,1,0
+figurativo,False,?,?,0,-,-,-,0,1,0
+florida,False,?,?,0,-,-,-,0,1,0
+freschissima,False,?,?,0,-,-,-,0,1,0
+giovanissima,False,?,?,0,-,-,-,0,6,1
+gloriosa,False,?,?,0,-,-,-,0,1,0
+ideologica,False,?,?,0,-,-,-,0,1,0
+idilliaca,False,?,?,0,-,-,-,0,1,0
+imbattibili,False,?,?,0,-,-,-,0,0,1
+in,False,?,?,0,-,-,-,0,1,0
+inedito,False,?,?,0,-,-,-,0,1,0
+ineludibile,False,?,?,0,-,-,-,0,1,0
+inesauribile,False,?,?,0,-,-,-,0,1,0
+larvato,False,?,?,0,-,-,-,0,1,0
+legate,False,?,?,0,-,-,-,0,0,1
+legittimo,False,?,?,0,-,-,-,0,1,0
+libera,False,?,?,0,-,-,-,0,0,1
+limaccioso,False,?,?,0,-,-,-,0,1,0
+lontana,False,?,?,0,-,-,-,0,1,0
+mansueti,False,?,?,0,-,-,-,0,1,0
+misteriosa,False,?,?,0,-,-,-,0,2,0
+misterioso,False,?,?,0,-,-,-,0,1,0
+necessari,False,?,?,0,-,-,-,0,1,0
+nostalgica,False,?,?,0,-,-,-,0,1,0
+olimpico,False,?,?,0,-,-,-,0,1,0
+oscuro,False,?,?,0,-,-,-,0,2,0
+ospitale,False,?,?,0,-,-,-,0,2,0
+persa,False,?,?,0,-,-,-,0,1,0
+piccola,False,?,?,0,-,-,-,0,1,0
+prestigiosi,False,?,?,0,-,-,-,0,1,0
+raggiungibile,False,?,?,0,-,-,-,0,1,0
+recenti,False,?,?,0,-,-,-,0,1,0
+regie,False,?,?,0,-,-,-,0,1,0
+rinviabile,False,?,?,0,-,-,-,0,5,0
+ripetuto,False,?,?,0,-,-,-,0,1,0
+ritrovate,False,?,?,0,-,-,-,0,1,0
+rivendica-,False,?,?,0,-,-,-,0,1,0
+robusta,False,?,?,0,-,-,-,0,1,0
+sacri,False,?,?,0,-,-,-,0,2,0
+sbrigativo,False,?,?,0,-,-,-,0,1,0
+segreti,False,?,?,0,-,-,-,0,1,0
+sicuro,False,?,?,0,-,-,-,0,1,0
+solvibile,False,?,?,0,-,-,-,0,1,0
+sopportabili,False,?,?,0,-,-,-,0,1,0
+sostenibile,False,?,?,0,-,-,-,0,1,0
+strisciante,False,?,?,0,-,-,-,0,1,0
+sviluppato,False,?,?,0,-,-,-,0,0,1
+temibile,False,?,?,0,-,-,-,0,1,0
+tenera,False,?,?,0,-,-,-,0,3,0
+tollerato,False,?,?,0,-,-,-,0,1,0
+tramontato,False,?,?,0,-,-,-,0,0,1
+tranquilli,False,?,?,0,-,-,-,0,1,0
+verdissima,False,?,?,0,-,-,-,0,0,1
+verdissimo,False,?,?,0,-,-,-,0,1,0
+vostre,False,?,?,0,-,-,-,0,1,0

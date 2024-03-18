@@ -1,0 +1,1217 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	22	0	sì --
+						DET ADJ ADV NOUN	REPUBBLICA	 Il motivo	del nostro sì --	-- hanno precisato ieri i membri della delegazione guidata dal premier bosniaco Haris Silajdzic -- è che non avevamo altra scelta
+						DET ADJ ADV NOUN	REPUBBLICA	E il Prc non vuole neanche mescolare	il suo sì --	-- che andrebbe a Ciampi o a Tina Anselmi -- a quello dell' Udr .
+						DET ADJ ADV NOUN	REPUBBLICA	negli anni che dovrebbero far riflettere , se non altro il Ministero , che però la sua ultima parola --	quell' incauto sì --	-- l' ha già detta .
+						DET ADV ADJ NOUN	REPUBBLICA	I test d' allenamento rendono ottimisti i tecnici italiani che seguono la squadra sulle nevi --	queste sì abbondanti --	del Colorado .
+						DET ADV ADJ NOUN	REPUBBLICA	sapendo di aver ben vissuto e di essere molto amato , in un ambiente affettivo che nelle nostre società --	queste sì televisive --	è diventato un anacronismo .
+						DET ADV NOUN	REPUBBLICA	 Beh ,	una sì --	continua Assirelli -- .
+						DET ADV NOUN	REPUBBLICA	 Non mi sento di votare oggi per	il sì --	ha detto infatti Gingrich lo speaker della Camera -- ma dissuaderei tutti dal bocciare automaticamente la proposta  .
+						DET ADV NOUN	REPUBBLICA	 Se la Spagna avrà	un sì --	ha agiunto Passigli -- allora anche noi dovremmo poter finanziare le infrastrutture tecnologiche in tutto l' obiettivo uno  .
+						DET ADV NOUN	REPUBBLICA	 Se passa	il sì --	ha detto il numero due del Psi in un' intervista al  Corriere della Sera  -- è una sconfitta del
+						DET ADV NOUN	REPUBBLICA	 Speriamo di ottenere da entrambi	un sì --	ha detto il sindaco -- e che possano venire entro la fine del mese : Vittoria si attende una risposta forte
+						DET ADV NOUN	REPUBBLICA	 Un rifiuto dei nuovi articoli di legge -- ha sottolineato uno dei tanti commentatori che parteggiano per	il sì --	equivarrebbe , agli occhi del mondo esterno , a una dichiarazione filorazzista  .
+						DET ADV NOUN	REPUBBLICA	, segretario del Psi milanese : La bella compagnia di conservatori e progressisti d' occasione che si è mobilitata per	il sì --	ha detto -- non sembra essere la più adatta per legittimare le riforme del nostro paese .
+						DET ADV NOUN	REPUBBLICA	E --	questa sì --	urgente .
+						DET ADV NOUN	REPUBBLICA	Fa dell' ironia :  Quando sembrava che avesse vinto	il sì --	dice Fini -- Silvio ha espresso apparente soddisfazione ...
+						DET ADV NOUN	REPUBBLICA	I sindacati inquilini Sunia-Sicet-Uniat --	questi sì --	hanno firmato , e ovviamente .
+						DET ADV NOUN	REPUBBLICA	Il guaio è che tra surrogati e sofisticazioni , tra aggiustamenti e falsi d' autore , la qualità --	quella sì --	va a far- si friggere .
+						DET ADV NOUN	REPUBBLICA	La differenza è che non potremo controllar- la : con effetti --	questi sì --	davvero preoccupanti .
+						DET ADV NOUN	REPUBBLICA	Sarà , ma vergognar- si dei sentimenti è --	questa sì --	una delle patologie del nostro tempo .
+						DET ADV NOUN	REPUBBLICA	o in alternativa Fausto Bertinotti -- tutti del fronte del no -- Lucio De Carlini ed Edoardo Guarino -- fronte	del sì --	dovrebbero lasciare il posto a Sergio Cofferati , a Paolo Brutti , a Riccardo Terzi ( fronte del sì ) e
+						DET ADV NOUN	REPUBBLICA	questione poi mi pare dirimente visto che , con una maggioranza semplice , si possono ottenere leggi che invece --	queste sì --	potranno dare dei risultati efficaci , e soprattutto per sempre  .
+						DET ADV NOUN	REPUBBLICA	questo ; gli italiani hanno piuttosto riservato i loro entusiasmi al cenone e ai botti di San Silvestro che --	questi sì --	hanno richiamato grandi folle nelle piazze e generale tripudio .
+						DET ADV NOUN	REPUBBLICA	trentamila sostenitori , il capo della Lega aveva espresso una posizione diversa :  Dopo il referendum e la vittoria	del sì --	aveva detto -- il Senato è delegittimato , e dunque bisogna andare subito a elezioni  .
+
+1	0	0	sì Apostolo
+						DET ADV ADJ NOUN	ITWAC	State dunque bene attenti a queste terribili affermazioni d'	un sì grande Apostolo	: quando v' accorgete di non capire , accontentatevi intanto di credere alle divine Scritture che c' insegnano l' esistenza non
+
+1	0	0	sì Aprile
+						DET ADV NOUN	ITWAC	da l' Unità Inizio pagina 5 Marzo 03 Art. 18 senza se e senza ma Il correntone si sposta	sul sì Aprile	lavora alla svolta sul referendum .
+
+1	0	0	sì Articolo
+						DET ADV NOUN	ITWAC	2003 Lavoro minorile , sono 144.000 i bambini sfruttati in Italia Fermi i salari , l' inflazione galoppa Epifani apre	al sì Articolo	18 , la Quercia verso l' astensione Lavoro , riforma incostituzionale Referendum , la lunga marcia di Epifani verso il «
+
+1	0	0	sì Capitale
+						DET ADV ADJ NOUN	ITWAC	Ricordiamoci in fine che per vegliare alla custodia di	una sì vasta Capitale	è assolutamente necessaria una cavalleria .
+
+1	0	0	sì Cerimonia
+						DET ADV NOUN	ITWAC	Falchi , una sposa botticelliana L' attrice svela i particolari	del sì Cerimonia	: all' Argentario .
+
+2	0	0	sì DS
+						DET ADV NOUN	ITWAC	- Tutti i venerdì i Democratici di Sinistra sono in piazza per spiegare le ragioni	del sì DS	: ecco perchè vi invitiamo a votare Riceviamo e pubblichiamo I Democratici di Sinistra di Gavirate sono impegnati nella campagna a
+						DET ADV NOUN	ITWAC	ne discute a Ispra Gavirate - Tutti i venerdì i Democratici di Sinistra sono in piazza per spiegare le ragioni	del sì DS	: ecco perchè vi invitiamo a votare Varese - 4500 medici e dentisti varesini in assemblea nel capoluogo .
+
+2	0	0	sì Ddl
+						DET ADV NOUN	ITWAC	Già dalla Finanziaria arriveranno segnali positivi per la carta stampata  Il Cardinale Ruini invita a pluralismo , Udc verso	il sì Ddl	Gasparri , Annunziata :  No al voto di scambio  Il ministro :  Affermazioni gravi e ridicole  Le
+						DET ADV NOUN	ITWAC	Già dalla Finanziaria arriveranno segnali positivi per la carta stampata  Il Cardinale Ruini invita a pluralismo , Udc verso	il sì Ddl	Gasparri , appello della Fieg per cambiare la legge Un appello al Parlamento della Federazione Italiana Editori Giornali sarà pubblicato oggi
+
+1	0	0	sì Espulsioni
+						DET ADV NOUN	ITWAC	» Lampedusa , nuovo sbarco per 142 Punta coltello contro una bimba : fermato Matrimonio Elkann-Borromeo John e Lavinia pronunciano	il sì Espulsioni	, i giudici di pace s' organizzano Ma dall' Anm piovono critiche su riforma Castelli : soddisfacente la nuova legge
+
+1	0	0	sì Fecondazione
+						DET ADV NOUN	ITWAC	E intanto nasce l' Intesa laica per	il sì Fecondazione	, forcing dei radicali Ds fiduciosi : il quorum ci sarà di CARMELO LOPAPA Emma Bonino ROMA - La soglia del
+
+1	0	0	sì Inizio
+						DET ADV NOUN	ITWAC	varata dalla Cgil EPIFANI : CGIL NON PUÒ STARE CON CHI DICE NO Referendum , la Cgil si schieri con	il sì Inizio	pagina Gennaio 2003 Scuola : la sfida della Cgil : stop alla riforma Ces : il prossimo 21 marzo sarà una
+
+1	0	0	sì Invito
+						DET ADV NOUN	ITWAC	, ma quello che mi sconcerta è l' impegno quasi nullo di molti partiti che si sono detti a favore	del sì Invito	chiunque abbia a cuore la vittoria del sì , a girare per la propria città e invitare i concittadini a votare
+
+1	0	0	sì Moscadelletto
+						DET ADV ADJ NOUN	ITWAC	Del Leggiadretto ,	del sì divino Moscadelletto	di Montalcino ( n. 62 ) talor per scherzo ne chieggio un nappo ( n. 63 ) , ma non incappo
+
+1	0	0	sì Oriente
+						DET ADV ADJ NOUN	ITWAC	È l' alba , l' alba , l' alba	il sì grazioso Oriente	Ma il Sole elettrico e il Giorno sono sulle nostre sponde Energia , Allegria , l' Occidente ammaestra con le sue
+
+1	0	0	sì Padre
+						DET ADV ADJ NOUN	ITWAC	E non volete voi , che io bevessi questo calice , che mi è stato preparato dalle mani di	un sì buon Padre	?
+
+0	0	1	sì Prof
+						DET ADV NOUN	WIKICONLL	 In seguito , quando Prof. pone la  Domanda  Mignolo risponde  Credo	di sì Prof	. , ma poi dovrebbero smontare il ponte e spedir- lo là a pezzi  .
+
+3	0	0	sì Re
+						DET ADV ADJ NOUN	ITWAC	intende , che per se stessa non ha cosa buona , e si vergogna e confonde di star avanti ad	un sì gran Re	, e vede il poco , che gli rende per lo molto , che gli dee : che necessità vi è
+						DET ADV ADJ NOUN	ITWAC	marito ; ma questo fatto savio dal suo stesso infortunio : no , disse , non è decente , che	un sì gran Re	abbia per compagno nella sua morte un guercio .
+						DET ADV ADJ NOUN	ITWAC	potente , e quelli sono gli schiavi , che male possono essi fare a quei , che sono servi di	un sì gran Re	e Signore ?
+
+2	0	0	sì Referendum
+						DET ADV NOUN	ITWAC	Costituito il comitato per	il sì Referendum	, in mille hanno  votato  grazie a Varesenews « Voto sì per dire sì alla vita » .
+						DET ADV NOUN	ITWAC	Costituito il comitato per	il sì Referendum	, in mille hanno  votato  grazie a Varesenews Varese - Mercoledì 18 ( ore 21 ) Gino Strada all'
+
+1	0	0	sì Rifondazione
+						DET ADV NOUN	ITWAC	D' accordo Ds , Democratici e Popolari , verso	il sì Rifondazione	, possibilisti con modifiche i Verdi .
+
+1	0	0	sì Riforma
+						DET ADV ADJ NOUN	ITWAC	del Csm europeo Vigna : « La mafia cambia strategia e invade le imprese » Disegno di legge sulla montagna	Un sì condizionato Riforma	Moratti Oggi i decreti sul nuovo obbligo Bassolino : « Dice che sono un oligarca ?
+
+1	0	0	sì Rischi
+						DET ADV NOUN	ITWAC	possono installare tralicci a loro piacimento , ignorando la salute di tutti Referendum elettrosmog : medici e ricercatori a favore	del sì Rischi	pericolosi Tumori , disturbi alla tiroide , cefalee : sono le affezioni più comuni tra chi vive nei pressi di elettrodotti
+
+1	0	0	sì Signore
+						DET ADV ADJ NOUN	ITWAC	così da tutto cava confusione , e pena : conoscendo , essere molto basso il suo modo d' operare per	un sì gran Signore	.
+
+0	0	1	sì Stato
+						DET ADV ADJ NOUN	WIKICONLL	dall' ingegno del Fossombroni , al punto che giunse ad esclamare : «  Peccato , un sì grande ministro	un sì piccolo Stato	! » .
+
+1	0	0	sì accusa
+						DET ADV NOUN	ITWAC	la polemica sul voto all' estero e quella sugli sms , si apre un nuovo fronte : il comitato per	il sì accusa	il ministero dell' Interno di aver diffuso dati rilevati prima dell' orario indicato e quindi più bassi .
+
+1	0	0	sì acquisto
+						DET ADV ADJ NOUN	ITWAC	L' arcivescovo di Milano non si lasciò sfuggire l' occasione di	un sì prezioso acquisto	e , accettata la signoria , mandò come suo governatore il conte Pallavicino , il quale entrò in Genova il 10
+
+0	1	0	sì affare
+						DET ADV ADJ NOUN	REPUBBLICA	Ma che ci credereste voialtri a	un sì madornale affare	?
+
+1	0	0	sì affetti
+						DET ADV ADJ NOUN	ITWAC	a pezzi e bocconi mi veniva fatta da lei ; interrotta , come si può credere , dall' immensa agitazione	dei sì diversi affetti	che ambedue ci travagliavano .
+
+1	0	0	sì alimentazione
+						DET ADV ADJ NOUN	ITWAC	A completamento di	una sì varia alimentazione	non poteva mancare la somministrazione di quattro-cinque tarme della farina al giorno .
+
+11	0	0	sì all
+						DET ADJ ADV NOUN	ITWAC	Anche se Giorgio La Malfa , leader del Pri che fa parte della maggioranza , nel motivare	il suo sì all	all ´ articolo 117 ha chiesto se non sia il caso di accantonare le parti che riguardano premierato , Senato federale
+						DET ADV NOUN	ITWAC	Aggiungo che senza alcun dubbio è da rifiutarsi	un sì all	?
+						DET ADV NOUN	ITWAC	E nessuno ha dubbio che la questione lo sia , quindi	il sì all	´ ammissibilità è praticamente scontato .
+						DET ADV NOUN	ITWAC	Il leader della Margherita Francesco Rutelli avverte il governo Berlusconi : resta certo	il sì all	´ impegno umanitario , ma l ´ utilizzo delle truppe italiane in una occupazione militare dell ´ Iraq fuori dal quadro
+						DET ADV NOUN	ITWAC	Margherita Boniver , sottosegretario agli Esteri , schierata per	il sì all	´ abrogazione della legge 40 , non ha dubbi .
+						DET ADV NOUN	ITWAC	Per il secondo giorno il verde Paolo Cento chiede a Castelli di « ritirare la riforma spezzando il patto scellerato	del sì all	´ ordinamento in cambio della Cirielli » .
+						DET ADV NOUN	ITWAC	Per noi	il sì all	´ Europa è un fatto ovvio perché ne abbiamo più bisogno , anche nei ricordi .
+						DET ADV NOUN	ITWAC	Unica variante : l ´ opposizione soddisfatta	del sì all	´ invio delle rogatorie potrebbe ritirare la mozione di sfiducia .
+						DET ADV NOUN	ITWAC	con la maggioranza Fecondazione , testo di Amato Presentata la proposta per  dribblare  il referendum La mediazione prevede	il sì all	´ eterologa e la possibilità di utilizzare gli embrioni per fare ricerca scientifica L ´ iniziativa rischia ora di riaccendere la
+						DET ADV NOUN	ITWAC	di fronte a dati che tutto sommato confermano la centralità della famiglia , la contrarietà ai matrimoni tra omosessuali ,	il sì all	´ adozione solo alle coppie sposate .
+						DET ADV NOUN	ITWAC	sindacati confederali la prossima settimana metteranno il sigillo sul prolungamento di un altro anno della cassa integrazione Alfa , vince	il sì all	´ accordo ma i Cobas non lo firmeranno Hanno votato in 711 e l ´ 89 per cento ha approvato l
+
+2	0	0	sì amante
+						DET ADV ADJ NOUN	ITWAC	La maestà d'	un sì sublime amante	bramoso d' involar corpo sì bello , de la ministra sua prese sembiante , chè non degnò cangiarsi inaltro augello .
+						DET ADV ADJ NOUN	ITWAC	So che	un sì fido amante	non troverà più Nice ; che un' altra ingannatrice è facile a trovar .
+
+0	1	0	sì ambientalista
+						DET ADV NOUN	REPUBBLICA	Dopo la vittoria	del sì ambientalista	ed anti-inquinamento sono cominciate le sperimentazioni con parziali chiusure del centro storico , pedonalizzazioni di alcune piazze , divieti , fasce
+
+3	0	0	sì amore
+						DET ADV ADJ NOUN	ITWAC	( Fa invidia	un sì bell' amore	) .
+						DET ADV ADJ NOUN	ITWAC	( ridente ) Roberto : ( Fa invidia	un sì bell' amore	) .
+						DET ADV ADJ NOUN	ITWAC	neppure la metà ne accennasse , non confessando quasi a sé medesima , non che ad altra persona nessuna ,	un sì nefando amore	.
+
+1	0	0	sì animale
+						DET ADV ADJ NOUN	ITWAC	Un viaggiatore in più non può stancare	un sì gigantesco animale	.
+
+0	1	0	sì anti-abortisti
+						DET ADV NOUN	REPUBBLICA	Invece , nel meridione il recente voto dc ( 28,8 ) surclassa	i sì anti-abortisti	( 21,0 ) .
+
+2	0	0	sì antichità
+						DET ADV ADJ NOUN	ITWAC	a vedere disfare una tanta opera , e non poteva far di meno di non sentire dispiacere e dolersi che	una sì bella antichità	che poteva dirsi veramente eterna , fosse ora disfatta  .
+						DET ADV ADJ NOUN	ITWAC	volgo , ma anche i più accorti si guardavano da que ' dì , credendo che una tradizione canonizzata da	una sì grande antichità	si appoggiasse a sodi fondamenti , che nondimeno era solamente fabbricata nelle nuvole , o sia nella fantasia degl ' impostori
+
+1	0	0	sì antitesi
+						DET ADV ADJ NOUN	ITWAC	in un teatrino che dovrebbe parlare solo di viaggi ( auguri permettendo ) , e solo un turnista insoddisfatto userebbe	una sì sprovveduta antitesi	che violenta la  facondia  a virtù professionale degli architetti ...
+
+1	0	0	sì apostolo
+						DET ADV ADJ NOUN	ITWAC	La chiesa romana temeva infatti che la chiesa di Compostella , fondata sopra	un sì grande apostolo	, guadagnando più autorità episcopale , potesse assumere il primato di onore tre le chiese d' Occidente ; e per il
+
+1	0	0	sì ardimento
+						DET ADV ADJ NOUN	ITWAC	Ma neppure io esigo da lui	un sì grande ardimento	: soltanto io non so perdonargli ch ' egli preferisca una certa non so quale sicurezza di vivere agiatamente .
+
+0	0	1	sì ardore
+						DET ADV ADJ NOUN	WIKICONLL	nell ambito del Seminario Vescovile di Padova dove “ certo in verun altro istituto ch io sappia coltivansi come quivi	con sì indicibile ardore	i classici studj , onde aggirando- ti in quel sacro recinto , tra quelle mura venerande , ti parea per poco
+
+0	1	0	sì argomenti
+						DET ADV NOUN	REPUBBLICA	sinistra della svolta che dopo Firenze , Milano , Torino e Roma Occhetto ha riproposto ieri a Livorno presta spesso	al sì argomenti	tipici dei sostenitori del no .
+
+1	0	0	sì argomento
+						DET ADV ADJ NOUN	ITWAC	Basta per il momento quanto ho detto poiché se volessi ora esporvi	un sì grande argomento	come deve essere compreso , sarei sciocco e pretenzioso ad un tempo perché presumerei di averne una conoscenza certa .
+
+1	0	0	sì arma
+						DET ADV ADJ NOUN	ITWAC	sulle cineprese digitali e quell' improbabile piccone - neppure durante la rivolta dei minatori rumeni mi è capitato di vedere	una sì scomoda arma	da guerra usata o anche solo brandita - ho riletto il dibattito di oggi su armi e violenza con occhi diversi
+
+2	0	1	sì aspetto
+						DET ADV ADJ NOUN	ITWAC	Non vo ' patir ch '	un sì leggiadro aspetto	abbi veduto , e guadagnar nol tenti .
+						DET ADV ADJ NOUN	ITWAC	POMPEO - Supplice qua non sono , non imploro mercè ; no , non paventa Pompeo di morte	il sì temuto aspetto	: sol per la patria io vivo ; se me rigetti , no , pregar non saprò , poiché sdegna un
+						DET ADV ADJ NOUN	WIKICONLL	 In questa tomba tenebrosa e oscura ,   Giace un villan	di sì deforme aspetto	,   Che più d' orso che d' uomo avea figura ,   Ma di tant' alto e nobil'
+
+1	0	0	sì attacco
+						DET ADV ADJ NOUN	ITWAC	Che lâ  TMorrido essere possa permettersi di perpetrare	un sì gratuito attacco	, ledendo la sua leggiadra maestà , è a dir poco disdicevole .
+
+0	1	0	sì attendista
+						DET ADV NOUN	REPUBBLICA	entusiamo dei cespugli , di destra di centro e di sinistra , alla prudente attenzione di Fini sulla Finanziaria ,	al sì attendista	di D' Alema che non esclude un Dini-bis ed elezioni in primavera , fino a Bossi che sta a vedere e
+
+4	0	0	sì attentato
+						DET ADV ADJ NOUN	ITWAC	Certo , quali che siano stati in pochi giorni i vantaggi militari che essa compisce con	un sì vile attentato	, l' esperienza ci ha troppo chiaramente insegnato , che tali rovesci non saranno per noi , che presagi di trionfi
+						DET ADV ADJ NOUN	ITWAC	Ma non pretenda Egli , strappando a Pietro le chiavi , volgere contro a noi i fulmini spirituali che	un sì nefando attentato	sarebbe ugualmente aborrito e da Dio e dagli uomini .
+						DET ADV ADJ NOUN	ITWAC	atterrare tutte le porte del mio palazzo , e lo dichiaro fin d' ora responsabile di tutte le conseguenze di	un sì enorme attentato	...
+						DET ADV ADJ NOUN	ITWAC	atterrare tutte le porte del mio palazzo , e lo dichiaro fin d' ora responsabile di tutte le conseguenze di	un sì enorme attentato	 .
+
+2	0	0	sì attesa
+						DET ADV ADJ NOUN	ITWAC	Ad esse andò naturalmente tutta l' esultanza e tutta la passione accumulatasi dopo	una sì lunga attesa	; e d' altra parte , nell' animo dei Granatieri , quei sentimenti si ripercossero , creando un vincolo indissolubile .
+						DET ADV ADJ NOUN	ITWAC	sindaco sta per sciogliere la riserva e sul suo nome il dibattito è sempre più vivo Moratti a un passo	dal sì Grande attesa	a sinistra per la decisione : favorevoli , contrari e scettici dal Corriere - 12 ottobre 2000 Moratti candidato , il
+
+1	0	0	sì aumento
+						DET ADV ADJ NOUN	ITWAC	Quale può essere lo scopo di	un sì straordinario aumento	di soldati armati in Italia ?
+
+1	0	0	sì autore
+						DET ADV ADJ NOUN	ITWAC	Occorre egli di più dopo	un sì classico autore	?
+
+1	0	0	sì autorità
+						DET ADV ADJ NOUN	ITWAC	uomini : o , se pure una tale stupida moltitudine vi è stata mai , che concedesse ad un solo	una sì stravagante autorità	, non potea essa costringer giammai le future generazioni a raffermarla e soffrirla .
+
+1	0	0	sì avventura
+						DET ADV ADJ NOUN	ITWAC	s' infiammò ; senza esitare un attimo , pensò che sarebbe stato lui , quello che avrebbe condotto a fine	una sì bella avventura	, e spinto dall' amore e dalla gloria , decise di mettersi subito alla prova .
+
+1	0	0	sì avverbio
+						DET ADV NOUN	ITWAC	Non mi pento tuttavia di aver distinto	il sì avverbio	dal si pronome , nonostante che spessissimo dinanzi ai verbi non si possa decidere con sicurezza se si tratti dell' uno
+
+1	0	0	sì avvertenza
+						DET ADV ADJ NOUN	ITWAC	Avvertita che avranno	una sì profonda avvertenza	[ 1 ] non sarà forse un bel vederli battersi la fronte , e sospirando e gemendo , esclamare con voce
+
+1	0	0	sì avvocato
+						DET ADV ADJ NOUN	ITWAC	in seguito la sua correzione fosse soppressa da quelli che erano troppo fanatici di quell' errore e non volessero perdere	un sì illustre avvocato	, che in certo modo poteva garantirli .
+
+0	0	1	sì azione
+						DET ADV ADJ NOUN	WIKICONLL	quanto coi tormenti e colle lusinghe si procurasse di trar loro di bocca , chi gli avesse sedotti ed incitati	a sì esecranda azione	, nulla si poté ricavar- ne , sennonché l' Accolti sosteneva d' aver di ciò parlato cogli angeli , i quali
+
+1	0	0	sì banchetto
+						DET ADV ADJ NOUN	ITWAC	ineguagliabile e chiunque , anche il più docile degli erbivori e persino le lentissime Ampullarie , se riuscissero a raggiungere	un sì prelibato banchetto	, si trasformerebbero in ingordi ed insaziabili mangioni .
+
+1	0	0	sì bene
+						DET ADV ADJ NOUN	ITWAC	un minim cenno vostro mascer plebea , un verme vile , un mostro : 72 io vi ringrazio che d'	un sì gran bene	abbiev ricolma l' umil mia persona , tant più che essend le gerarchie terrene simbol di quelle che vi fan corona
+
+1	0	0	sì beneficio
+						DET ADV ADJ NOUN	ITWAC	che , se le mie affermazioni fossero risultate vere , mi si sarebbe dovuta dimostrare la più grande riconoscenza per	un sì gran beneficio	.
+
+1	0	0	sì berlusconiano
+						DET ADV NOUN	ITWAC	In fondo	il sì berlusconiano	è arrivato quasi nelle stesse ore in cui il pm Boccassini avviava la sua requisitoria contro Cesare Previti .
+
+1	0	0	sì brano
+						DET ADV ADJ NOUN	ITWAC	Prendete nove nomi disposti a mettere le mani su	un sì rilevante brano	.
+
+1	0	0	sì bretone
+						DET ADV NOUN	ITWAC	------------------------------------------------- Politica Claudio Martini in Bretagna Ouest France Francia Il 9 maggio sera il comitato  Per	un sì bretone	di sinistra  ha accolto a Rennes il presidente della Regione Toscana Claudio Martini .
+
+1	0	0	sì buio
+						DET ADV NOUN	ITWAC	Le notte nello spirito durò anche allora , ma , lo dico pure , in mezzo a	un sì buio	pesto , feci una fortissima indigestione spirituale ...
+
+1	0	0	sì cagione
+						DET ADV ADJ NOUN	ITWAC	Come mai	una sì bella cagione	ha potuto produrre in voi un si abbominevole effetto ?
+
+1	0	0	sì cameraccia
+						DET ADV ADJ NOUN	ITWAC	, e domandò al marito : - Come va , mio signore , che essendo voi tanto ricco , avete	una sì brutta cameraccia	?
+
+1	0	0	sì cammino
+						DET ADV ADJ NOUN	ITWAC	siamo nella Luna , spediamoci dalle cose che appartengono a lei , per non avere a fare un' altra volta	un sì lungo cammino	.
+
+0	1	0	sì campione
+						DET ADV ADJ NOUN	REPUBBLICA	Quello fu un furto autentico , doloso , indegno di	un sì grande campione	.
+
+3	0	0	sì campo
+						DET ADV ADJ NOUN	ITWAC	Eppur del tutto esser lieto non so : chi potria dirmi se	un sì bel campo	io rivedrò più mai ?
+						DET ADV ADJ NOUN	ITWAC	volta mai più rifar non si potria , non dèssi come un dado gittarlo ad occhi chiusi , avventurarlo in	un sì piccol campo	, e in un campo mal noto , e quel che è peggio noto al nemico .
+						DET ADV ADJ NOUN	ITWAC	vorrei certamente entrare in lizza per iscruttinare la verità delle nostre storie , e per investigarle tanto sottilmente da togliere	un sì bel campo	ove potrà con tanta felicità far belle prove la nostra poesia francese , la quale sebbene non sia per ora ancor
+
+1	0	0	sì capolavoro
+						DET ADV ADJ NOUN	ITWAC	Naturalmente era difficile confrontarsi con	un sì tal capolavoro	, ma la moda dei remake dilaga ed i botteghini rispondono positivamente a questa tendenza , perciò qualche appassionato ha deciso
+
+1	1	0	sì carico
+						DET ADV NOUN	ITWAC	Un sì scontato visto che Follini da due anni chiede un Nuovo Inizio , ma anche	un sì carico	di dubbi perché troppe volte il capo di An ha battuto il colpo per poi rinunciare all' affondo .
+						DET ADJ ADV NOUN	REPUBBLICA	aliena comunque la sua sinistra che gli rimprovera il voltafaccia compiuto , comporta molte diffidenze nei moderati che hanno votato	il suo sì carico	carico di atlantismo limitato perché non c' era altro sì da votare , ma non sono certo felici di avere l'
+
+0	0	1	sì carmi
+						DET ADV ADJ NOUN	WIKICONLL	, che se medesmo sprona   Nel mar de le vitruti a vele piene   Felice voi che	con sì dotti carmi	  Rendete ogn' uom più lieto e più giocondo ,   Così innalzando il gran valor ne l' armi
+
+1	0	0	sì carosello
+						DET ADV ADJ NOUN	ITWAC	Il mondo dello spettacolo in posa per	il sì Quel carosello	di star stracciate dal prof. Vescovi Tommaso Gomez Il professor Angelo Vescovi se n' era levate tante di soddisfazioni in vita
+
+1	0	0	sì caso
+						DET ADV ADJ NOUN	ITWAC	come la Città d' Atene ai trenta tiranni , non bisogna stupirsi , ch ' ella serva , ma compiangere	un sì funesto caso	; o piuttosto non dovrassi nè stupirsene , nè dolersene ; ma soffrire una tanta calamità con pazienza , riserbandosi ad
+
+1	0	0	sì castigo
+						DET ADV ADJ NOUN	ITWAC	Il timore di	un sì rigoroso castigo	, spaventò tutti i cittadini ; nessuno osava parlargli o avere relazioni .
+
+1	0	0	sì castità
+						DET ADV ADJ NOUN	ITWAC	Tuttavia anche se alcuni coniugati sono superiori [ ad altri ] in virtù di	una sì grande castità	coniugale da praticare l' unione carnale al solo fine di procreare e , una volta battezzati e rigenerati , vivono in
+
+1	0	0	sì centro
+						DET ADV ADJ NOUN	ITWAC	Certo i nostri illustri ospiti avranno pensato che in un freddo pomeriggio di fine inverno gli abitanti di	un sì armonioso centro	non aspettassero altro che di star seduti per più di un' ora ad ammirare le inusitate bellezze artistiche che arricchiscono la
+
+1	0	0	sì circospezione
+						DET ADV ADJ NOUN	ITWAC	torto che le fanciulle siano dissimulatrici , quando i nostri costumi , inesorabili soltanto sul punto delle convenienze , comandano	una sì vigilante circospezione	.
+
+2	0	0	sì città
+						DET ADV ADJ NOUN	ITWAC	e poi abiti a Roma che è	una sì adatta città	per camminare a vuoto !
+						DET ADV ADJ NOUN	ITWAC	venisse a soffrire un danno enorme , preferì eludere l' ordine regio piuttostoché , obbedendo , occasionare la rovina di	una sì grande città	.
+
+1	0	0	sì colpa
+						DET ADV ADJ NOUN	ITWAC	Di fronte ad	una sì grave colpa	, sulla quale i ventitré anni trascorsi parrebbe a prima giunta potessero operare beneficamente una specie di prescrizione , io non
+
+0	0	1	sì coltura
+						DET ADV ADJ NOUN	WIKICONLL	è però dovuta alla produzione vinicola ( Rossese di Dolceacqua ) e non è da dimenticare la meno vasta ma	altre sì importante coltura	di ulivi .
+
+1	0	0	sì commercio
+						DET ADV ADJ NOUN	ITWAC	, ed incarichiamo Voi di vegliare con ogni sollecitudine e riferirci in proposito , all' effetto , che sia estinto	un sì obbrobrioso commercio	, riservandoci in caso di bisogno di prendere coll ' Autorità locale , contro coloro che ricadessero , i necessari provvedimenti
+
+1	0	0	sì compito
+						DET ADV ADJ NOUN	ITWAC	Il volontario è formato per affontare tutte le difficoltà insite in	un sì complesso compito	, ma soprattutto egli è sempre affiancato da un operatore che lo supporta con la propria presenza , fornendogli suggerimenti cui
+
+1	0	0	sì concetto
+						DET ADV ADJ NOUN	ITWAC	Forse ti stupisci che mi dichiari incapace di soddisfare un tale debito , mentre tu hai	un sì alto concetto	di me e mi conosci come io conosco me stesso ; ma è proprio questo a procurarmi l' imbarazzo di rispondere
+
+1	0	0	sì condescendenza
+						DET ADV ADJ NOUN	ITWAC	Rendo grazie alla bontà di mio padre , che usami	una sì amorosa condescendenza	; ma io non sono in grado di abbandonarmi ad una sì repentina risoluzione .
+
+1	0	0	sì condottiero
+						DET ADV ADJ NOUN	ITWAC	Quindi neanche a noi è consentito abbandonare	un sì grande condottiero	.
+
+1	0	0	sì contemplazione
+						DET ADV ADJ NOUN	ITWAC	La medesima Santa tutto ciò adempì perfettamente ; e però fu dotata d'	una sì sublime contemplazione	, e di sì rari doni .
+
+0	1	0	sì contenuti
+						DET ADV NOUN	REPUBBLICA	E molti dei no e	dei sì contenuti	nelle Raccomandazioni che chiudono il volumetto sembrano assai lontane da qualsiasi uso .
+
+0	1	0	sì conti
+						DET ADV NOUN	REPUBBLICA	solo gli uomini del no , presi d' infilata da un argomento ineccepibile : il messaggio è per chiunque anche	nel sì conti	di poter condizionare , in una maggioranza risicata , un segretario compresso sulla destra .
+
+1	0	0	sì copia
+						DET ADV ADJ NOUN	ITWAC	« È egli possibile , riprese Lauretta , che ella sia	una sì brutta copia	dei Loveloce e dei Valmonti ?
+
+0	0	1	sì corso
+						DET ADV ADJ NOUN	WIKICONLL	l'  Apollo e Dafne  ) :  Oh quanto poco profitto ho fatto io nell' arte della scultura	un sì lungo corso	di anni , mentre io conosco che da fanciullo maneggiavo il marmo in questo modo !
+
+1	0	0	sì cosa
+						DET ADV ADJ NOUN	ITWAC	assolutamente idea di come realizzare una cosa del genere Però , e sottolineo però , non mi dispiacerebbe affatto vedere	una sì interessante cosa	realizzata .
+
+5	2	0	sì critico
+						DET ADV ADJ NOUN	ITWAC	Anzi fu la lode di	un sì autorevole critico	che m' incorò alla pubblicazione di questo secondo romanzo , il quale fu poi ignorato anche da lui , che pur
+						DET ADV NOUN	ITWAC	Amato è quindi per	un sì critico	alla Costituzione , ma mette in guardia dall' unirsi al coro dei no , perché questo significherebbe  unire l' utopia
+						DET ADV NOUN	ITWAC	Confermo che voteremo contro il trattato europeo , anche se tenteremo un collegamento con	il sì critico	espresso da una parte della sinistra .
+						DET ADV NOUN	ITWAC	Ecco perché c' è spazio per	un sì critico	che continua a battersi per allargare il processo costituente , per una vera Europa federale , per realizzare il sogno nato
+						DET ADV NOUN	ITWAC	e olandese ) alla Costituzione europea :  Facciamo appello a tutte le forze schierate per il no o per	il sì critico	al Trattato affinché mettano insieme le risorse per raccogliere le domande del popolo contro il neoliberismo , espresse nel rifiuto del
+						DET ADV NOUN	REPUBBLICA	Invece , ci sono stati almeno sei tipi di risposta :	un sì critico	, espresso anche da molte forze progressiste , un no ugualmente progressista , un sì degli agrari , un no dei
+						DET ADV NOUN	REPUBBLICA	mette una curiosa ostinazione nel non rispondere alla domanda : se su quel pezzo di carta avrebbe apposto più volentieri	un sì critico	o un no equivoco .
+
+1	0	0	sì cuore
+						DET ADV ADJ NOUN	ITWAC	Voi possedete	un sì bel cuore	, una sì perfetta sincerità , e temete ch ' io non vi stimi , ch ' io non vi rispetti
+
+1	0	0	sì cupidigia
+						DET ADV ADJ NOUN	ITWAC	Niuno negherà che in que ' tempi	la sì gran cupidigia	di aver delle sacre reliquie , che per altro è commendabile , a cagion dell' ignoranza allora dominante , fosse esposta
+
+1	0	0	sì dati
+						DET ADV NOUN	ITWAC	Ad esempio , non capisco assolutamente le posizioni per il  no  all' eterologa , e non capisco	i sì dati	d' impeto alla selezione e alla ricerca sugli embrioni , che mi sembra il primo passo verso un futuro più fosco
+
+1	0	0	sì debitore
+						DET ADV ADJ NOUN	ITWAC	Certo , sarebbe stato meglio o piuttosto più conveniente per	un sì grande debitore	, che stava per rendere conto e aspettava la misericordia del suo padrone , che fosse stato lui , il primo
+
+1	0	0	sì decoro
+						DET ADV ADJ NOUN	ITWAC	Citando la divina Scrittura si fanno credere altrettanti santi Tommasi e nuovi Dottori della Chiesa , conservando in ciò	un sì ingegnoso decoro	che in una riga ti rappresentano un innamorato perduto , e nell' altra ti fanno un sermoncino cristiano , ch '
+
+3	1	0	sì delitto
+						DET ADV ADJ NOUN	ITWAC	La regina acconsentì , ma poi pentitasi e temendo di non mantenere il segreto di	un sì orribile delitto	, rivelò le intenzioni del conte al marito , il quale lo fece mettere a morte .
+						DET ADV ADJ NOUN	ITWAC	nel momento in cui Giuda sta per uscire per poi tornare con i Giudei , al pensiero dell' imminenza di	un sì nefando delitto	del suo traditore , si turbò nello spirito .
+						DET ADV ADJ NOUN	ITWAC	più rinomato di quel di Milano , ove nel contagio del 1630 , furono prese parecchie persone , che confessarono	un sì enorme delitto	, e furono aspramente giustiziate .
+						DET ADV ADJ NOUN	REPUBBLICA	seta di colore bianco-rosso-verde , con scienza che la medesima servir dovesse alla Rivolta ; e di non avere rivelato	un sì atroce delitto	, diretto al pregiudizio di S. A. R. Francesco IV , nostro Veneratissimo Sovrano  ...
+
+0	1	0	sì deriva
+						DET ADJ ADV NOUN	REPUBBLICA	Ho parlato con gli uomini dello staff medico e tecnico ,	il mio sì deriva	deriva dal loro pieno assenso  .
+
+2	0	0	sì desiderio
+						DET ADV ADJ NOUN	ITWAC	Aix , gli scrisse :  Vi assicuro che leggendola sono restato talmente fuori di me che , acceso da	un sì grande desiderio	di fare qualche cosa a sua imitazione , ho stabilito non concedere sonno agli occhi miei , ne risposo ai miei
+						DET ADV ADJ NOUN	ITWAC	La B. Madre di Chantal aveva	un sì gran desiderio	di conoscere , e di seguire la divina volontà , che nel sol udir pronunciare questa parola , volontà divina ,
+
+1	0	0	sì destino
+						DET ADV NOUN	ITWAC	E adesso che son pronto mi chiedo se sia giusto , in un tempo così poi , urlare a	un sì destino	.
+
+1	0	0	sì diffusione
+						DET ADV ADJ NOUN	ITWAC	Questo testo infatti ha non poca importanza , dal momento che ha avuto	una sì vasta diffusione	e fu usato dagli Apostoli ; ciò è attestato non solo dai fatti , ma ricordo che lo hai attestato pure
+
+1	0	0	sì dignità
+						DET ADV ADJ NOUN	ITWAC	meditate quale sacro dovere vi incombe di assistere e soccorrere nelle sue angustie quella Chiesa , che vi insignì di	una sì onorevole dignità	.
+
+1	0	0	sì dilettanza
+						DET ADV ADJ NOUN	ITWAC	in tale affare ; E dicemi esto motto per usanza : « Or ecco leggiadria di gentil core , Per	una sì selvaggia dilettanza	Lasciar le donne e lor gaia sembianza  .
+
+1	0	0	sì diritto
+						DET ADV ADJ NOUN	ITWAC	il tutto in funzione di esigenze che di certo non appaiono talmente preminenti o inderogabili da giustificare la compressione di	un sì fondamentale diritto	dell' uomo .
+
+1	0	0	sì disciplina
+						DET ADV ADJ NOUN	ITWAC	prima che necessità della vita mi obbligassero a racchiudere la mia giovinezza dentro	una sì severa disciplina	.
+
+1	0	0	sì discussione
+						DET ADV ADJ NOUN	ITWAC	dall' altro parlando loro all' orecchio affinché dichiarassero se fosse bardella o fornimento da cavallo quella gioia che aveva occasionata	una sì tumultuosa discussione	.
+
+1	0	0	sì disordine
+						DET ADV ADJ NOUN	ITWAC	Per togliere	un sì pernicioso disordine	rendesi necessario a mio avviso di richiamare in osservanza le antiche discipline in proposito col far rinnovare i stampi , affinché
+
+1	0	0	sì disposizione
+						DET ADV ADJ NOUN	ITWAC	Marta : Signore , poiché siete in	una sì bella disposizione	di far del bene , non farete voi qualche cosa per la signora Angelica ?
+
+2	0	0	sì distanza
+						DET ADV ADJ NOUN	ITWAC	Chi oserebbe , con una simile tempesta , impegnare la lotta ad	una sì grande distanza	dai nostri porti , se non fosse montata dai figli del diavolo , da quei briganti della Tortue ?
+						DET ADV ADJ NOUN	ITWAC	Gli astronomi han dato il nome di appulso ai fenomeni nei quali la Luna passa ad	una sì piccola distanza	da una stella , o da una pianeta , che è quasi vicina ad ecclissarla .
+
+1	0	0	sì documento
+						DET ADV ADJ NOUN	ITWAC	In vece di	un sì dubbioso documento	, meglio sia l' attendere un bello e sicuro placito , esistente in Verona nell' archivio del nobil Monastero degli Olivetani
+
+2	0	0	sì dolore
+						DET ADV ADJ NOUN	ITWAC	Separarsi è	un sì dolce dolore	, che dirò buona notte finché non sarà mattina .
+						DET ADV ADJ NOUN	ITWAC	perché gli porta amore , di fargli quel pensiero irrito e nullo ; ma non gli val , perch '	un sì gran dolore	non riceve conforto né trastullo .
+
+2	0	0	sì domanda
+						DET ADV ADJ NOUN	ITWAC	] L' esperienza dimostra che la possibilità di eseguire con estrema speditezza e precisione calcoli elaborati crea ben presto	una sì grande domanda	di tali servizi che una macchina sola viene presto saturata .
+						DET ADV ADJ NOUN	ITWAC	A meno che non si sia davvero convinti che ci sia	una sì ampia domanda	di commentatori , che non vedono l' ora di pagare per esprimere la loro opinione .
+
+1	0	0	sì donazione
+						DET ADV ADJ NOUN	ITWAC	Giusto motivo c' è di sospettar qualche interpolazione nella narrativa di esso scrittore , da che ad	una sì magnifica donazione	, che abbraccia la maggior parte d' Italia , contraddicono di troppo le storie e i monumenti dell' antichità .
+
+2	0	0	sì donna
+						DET ADV ADJ NOUN	ITWAC	' i ' no la posso a lo ' ntelletto dire : veder mi par de la sua labbia uscire	una sì bella donna	, che la mente comprender no la può , che ' mmantenente ne nasce un' altra di bellezza nova , da
+						DET ADV ADJ NOUN	ITWAC	' i ' non la posso a lo ' ntelletto dire : veder mi par de la sua labbia uscire	una sì bella donna	, che la mente comprender no la può , che ' mmantenente 10 ne nasce un' altra di bellezza nova ,
+
+4	0	0	sì dono
+						DET ADV ADJ NOUN	ITWAC	Approfittiamone ora , caro fratello e / o sorella , di	un sì grande dono	fatto dal Padre Celeste all' Umanità , grazie alla Passione e Morte e Resurrezione del Suo Unico Figlio e Nostro Signore
+						DET ADV ADJ NOUN	ITWAC	Fa' fruttificare in noi	un sì prezioso dono	; non permette che esso venga soffocato con l' amore di noi stessi .
+						DET ADV ADJ NOUN	ITWAC	Il padre Vittore , facendo ritorno a casa , lodava Dio ed era pieno di gioia , avendogli mandato innanzi	un sì prezioso dono	, a Lui che era pronto a raggiungerlo in seguito .
+						DET ADV ADJ NOUN	ITWAC	donazione ( il che sembra indicare il Notaio che s' intitola Anestasius Tabellius de civitate Romae ) , avesse fatto	un sì ampio dono	di beni ad un monistero fondato in Padova , cioè in una città allora sottoposta ai Re Longobardi , nemici del
+
+0	0	2	sì dré
+						DET ADV NOUN	WIKICONLL	sé dré idé , lü / lé a l' é dré idé , nögn a sèm dré idé , violtar	a sì dré	idé , lùi a inn dré idé  , indicativo imperfetto :  men a idéu , ti a ti idéi
+						DET ADV NOUN	WIKICONLL	sé dré mangiá , lü / lé a l' é dré mangiá , nögn a sèm dré mangiá , violtar	a sì dré	mangiá , lùi inn dré mangiá  , indicativo imperfetto :  men a mangéu , ti a ti mangéi ,
+
+1	0	0	sì editorialista
+						DET ADV ADJ NOUN	ITWAC	Era per	il sì ogni editorialista	di ogni giornale ; e alcuni , come Serge July su Libération e Jean Daniel sul Nouvel Observateur , hanno partecipato
+
+1	0	0	sì effetto
+						DET ADV ADJ NOUN	ITWAC	' l suo re l' abbia eletto , e pel miglior di tutti i buoni tolto , a cui commetta	un sì importante effetto	; pur mostra affanno e gran mestizia in volto , non per paura che gli turbi il petto ; che non
+
+2	0	0	sì entusiasta
+						DET ADV NOUN	ITWAC	Il segretario di Rifondazione incassa	il sì entusiasta	di Verdi , Pdci e sinistra ds e il sì prudente di Quercia e Margherita , dove in molti sottolineano che
+						DET ADV NOUN	ITWAC	alla Nato I circa 1,6 milioni di elettori sloveni chiamati a votare al doppio referendum del 23 marzo hanno espresso	un sì entusiasta	all' adesione all' Ue ( 88 % dei consensi ) e un' approvazione meno plebiscitaria ( 66 % ) , ma
+
+1	0	0	sì errore
+						DET ADV ADJ NOUN	ITWAC	Diciamo che anche i Confessori e Direttori spirituali potrebbero essere responsabili di	un sì grave errore	, non
+
+1	0	0	sì esempio
+						DET ADV ADJ NOUN	ITWAC	Regola de ' Canonici , e così dilatata , che forse in niuna città mancava questo bell' ornamento , e	un sì nobile esempio	di disciplina ecclesiastica , vivendo tutti nel chiostro medesimo , e facendo vita comune .
+
+1	0	0	sì esercito
+						DET ADV ADJ NOUN	ITWAC	L' Imperatore scrisse allora a padre Marco :  Il nemico viene con una potenza e	un sì numeroso esercito	, che da cento anni in qua non se n' era visto uno di simile  .
+
+1	0	0	sì esitazione
+						DET ADV ADJ NOUN	ITWAC	Chi mi impedisce di annoverare fra	i sì qualunque esitazione	?
+
+1	0	0	sì espediente
+						DET ADV ADJ NOUN	ITWAC	Non avremo bisogno di ricorrere a	un sì terribile espediente	.
+
+0	1	0	sì esterno
+						DET ADV NOUN	REPUBBLICA	LE CITTA' IN CRISI Perché il Pri studia la possibilità di	un sì esterno	.
+
+1	0	0	sì eterno
+						DET ADV NOUN	ITWAC	quella maestosa e fiera collina A don Carlo In quello sguardo paterno caldo e protettivo come il sole nel giorno	del sì eterno	ricordo le sue belle parole e l' invito su quell' altare fiorito noi tre sotto la croce poco dopo l' amore
+
+0	1	0	sì europeo
+						DET ADV NOUN	REPUBBLICA	Romano Prodi  -- per dir- la con il braccio destro di Franco Marini , Antonello Soro -- nel giorno	del sì europeo	all' Italia .
+
+1	0	0	sì fanciulla
+						DET ADV ADJ NOUN	ITWAC	esame ) ha evinto la competenza di Sue in fatto di Teorie d' Enunciazione & simili , competenza inconsueta per	una sì giovane fanciulla	.
+
+0	0	1	sì fatti
+						DET ADJ ADV NOUN	WIKICONLL	iscrizione del 1490 ricorda il trasferimento della biblioteca francescana al piano superiore del convento da quello a terra « pregiudizievole	a materiali sì fatti	fatti » ( Angelo Battaglini , 1794 ) .
+
+2	0	1	sì fatto
+						DET ADV NOUN	ITWAC	Ma da	un sì fatto	mezzo ne ridonderebbero in appresso più mali ; tra cui non è il menomo , il ritrovarsi poscia fra il popolo
+						DET ADV NOUN	ITWAC	Non ho veduto mai , né letto altrove , fuor ch ' in Turpin , d'	un sì fatto	animale : questo rispetto a credere mi muove , che l' augel fosse un diavolo infernale che Malagigi in quella forma
+						DET ADV ADJ NOUN	WIKICONLL	E buon per costoro , perché bel premio aveano da riportare	di sì orrido fatto	.
+
+1	0	0	sì fautore
+						DET ADV ADJ NOUN	ITWAC	, ambendo possedere tutta Italia , vi avea già fatto su conto , mal sopportava dâ  TMavere a vicino	un sì aperto fautore	della Francia : lâ  TMimperatore Ferdinando pretendeva come di un feudo imperiale , darne egli stesso lâ  TMinvestitura ,
+
+1	0	0	sì favore
+						DET ADV ADJ NOUN	ITWAC	In segno di gratitudine , quell' uomo stava chinandosi per fare delle carezze al mostro , che gli aveva reso	un sì gran favore	, quando sentì una voce che disse :  Una buona azione non resta mai senza ricompensa  e nel tempo
+
+1	0	0	sì favorevol
+						DET ADV NOUN	ITWAC	più né meno ad essi il pattuito salario , se pur tale non fosse la lor colpa che non meritasse	un sì favorevol	trattamento .
+
+1	0	0	sì fede
+						DET ADV ADJ NOUN	ITWAC	Io son da l' aspettar omai sì stanca , sì vinta dal dolor e dal disio , per	la sì poca fede	e molto oblio di chi del suo tornar , lassa , mi manca , che lei , che ' l mondo
+
+1	0	0	sì fenomeno
+						DET ADV ADJ NOUN	ITWAC	, ma , disgraziatamente , non saremo noi spettatori d'	un sì meraviglioso fenomeno	, che si produrrà solo lungo una striscia terrestre che , partendo dall' Oceano Pacifico ( ore 15,33 ) , attraverserà
+
+1	0	0	sì fiamma
+						DET ADV ADJ NOUN	ITWAC	  Io non ho ragione di rimproverarmi	una sì bella fiamma	 , replicò il Principe ,  quando avrete veduto il ritratto di questa graziosa Principessa , son sicuro che compatirete
+
+1	0	0	sì fine
+						DET ADV ADJ NOUN	ITWAC	Nel proporsi	un sì ambizioso fine	, Carlo Borromeo ed i suoi successori incontrarono inevitabili ostacoli , anche perché il programma si distingueva per « coerenza ,
+
+1	0	0	sì fiume
+						DET ADV ADJ NOUN	ITWAC	La pompa e le glorie di	un sì glorioso fiume	sgorgano da scaturigini inconoscibili , sfuggenti , imprendibili .
+
+2	0	0	sì folla
+						DET ADV ADJ NOUN	ITWAC	, hanno il dovere di provvedere che l' Africa non venga più oltre svuotata dei suoi abitanti indigeni e che	una sì gran folla	di gente d' ambo i sessi , trascinata via a truppe e a frotte come da un fiume che scorre senza
+						DET ADV ADJ NOUN	ITWAC	donde mai i cadaveri , quando la carne è già putrida , danno vita a vermi , e come mai	una sì grande folla	di esseri viventi , senza ossa e senza sangue , brulica su per gli arti tumefatti ?
+
+0	1	0	sì foriere
+						DET ADV NOUN	REPUBBLICA	a parlare di  normali  elezioni del Consiglio superiore della magistratura e di  normali  riforme parlamentari ,	queste sì foriere	, almeno così si spera , di miglioramenti decisivi per tutti gli operatori del settore ma soprattutto per i cittadini .
+
+2	0	0	sì fortuna
+						DET ADV ADJ NOUN	ITWAC	E chi v' impedisce	una sì gran fortuna	?
+						DET ADV ADJ NOUN	ITWAC	Fulgenzio : E chi v' impedisce	una sì gran fortuna	?
+
+3	0	0	sì fuoco
+						DET ADV ADJ NOUN	ITWAC	( Catullo ) La bella donna mia d'	un sì bel fuoco	( L. Ariosto ) Innamorato ( J. W. Goethe ) Paolina ( U. Saba ) Donna gentil , mentr ' io
+						DET ADV ADJ NOUN	ITWAC	| La bella donna mia d'	un sì bel fuoco	| Charles Baudelaire Poeta francese .
+						DET ADV ADJ NOUN	ITWAC	( Traduzione : Lorenzo De Ninis ) La bella donna mia d'	un sì bel fuoco	, e di sì bella neve ha il viso adorno , ch ' Amor , mirando intorno qual di lor sia
+
+1	0	0	sì gaudio
+						DET ADV ADJ NOUN	ITWAC	poiché godono di	un sì gran gaudio	?
+
+1	0	0	sì gazzarra
+						DET ADV ADJ NOUN	ITWAC	Siccome il clero tentava d' impedire	una sì sconcia gazzarra	, quelli si misero a scagliare sassi contro la chiesa .
+
+1	0	0	sì gentil
+						DET ADV NOUN	ITWAC	64 Logistilla mostrò molto aver grato ch ' a lei venisse	un sì gentil	signore ; e comandò che fosse accarezzato , e che studiasse ognun di fargli onore .
+
+1	0	0	sì gioco
+						DET ADV ADJ NOUN	ITWAC	Vorrei aggiungere  Ma se è buona , deve essere liberata  , ma io stessa mi pento subito di	un sì banale gioco	...
+
+1	0	0	sì giovinetto
+						DET ADV NOUN	ITWAC	o crolla , et par che reste Ciascun qual sasso immoto ; e il palladino 590 Si ammira forte che	un sì giovinetto	Sia sì gagliardo et l' elmo sì perfetto .
+
+1	0	0	sì giudice
+						DET ADV ADJ NOUN	ITWAC	Per ciò questi miei scritti debbono risentirsi per aver avuta la sorte d' andar nell' arbitrio d'	un sì gran giudice	, il quale , nel maraviglioso concorso di tante virtù che rendono V. S. Illustrissima ammirabile a tutti , ella con
+
+1	0	0	sì giudizio
+						DET ADV ADJ NOUN	ITWAC	Confesso di essere incapace ad emettere	un sì arduo giudizio	, incline a credere che nel suo interno Gioberti sia cattolico , benché qua e là in quest' opera dia occasione
+
+0	2	1	sì grazie
+						DET ADV NOUN	REPUBBLICA	Anche perché ormai i Giochi non fanno più paura : sono passati dal no grazie ,	al sì grazie	.
+						DET ADV NOUN	REPUBBLICA	Tra qualche no grazie , però ,	qualche sì grazie	Vialli a Berlusconi lo ha pur detto .
+						DET ADV NOUN	WIKICONLL	Quando la gente chiedeva a  su Maimoni  se voleva vino , questi con la testa diceva	di sì grazie	ad una maschera nascosta che tirava dei fili collegati alla testa .
+
+1	0	0	sì guadagno
+						DET ADV ADJ NOUN	ITWAC	Giustiniano , si permetteva il frutto annuo del dodici per cento , con tutta ragione da gran tempo è proibito	un sì esorbitante guadagno	.
+
+2	0	0	sì guerra
+						DET ADV ADJ NOUN	ITWAC	È ridicolo pensare che dopo	una sì lunga guerra	e dopo lo sforzo dei popoli si ritorni tranquillamente all' Austria di prima .
+						DET ADV ADJ NOUN	ITWAC	Non gli fosse mai venuta questa voglia ; perché s' accese	una sì aspra guerra	che durò sino all' anno 552 , con lo sterminio di tante terre e città , e coll ' aver sofferto
+
+1	0	0	sì idea
+						DET ADV ADJ NOUN	ITWAC	Pure chi crederebbe ch '	una sì grottesca idea	( e il grottesco è il genere meno ingegnoso di tutti ) sia fra quelle più predilette dal Cronista di Pindo
+
+1	0	0	sì ideatore
+						DET ADV ADJ NOUN	ITWAC	Non dobbiamo osare cioè di biasimare nella leggerezza dell' umana presunzione l' opera di	un sì grande ideatore	.
+
+1	0	0	sì ignoranza
+						DET ADV ADJ NOUN	ITWAC	Credendo allora , non già ad	una sì profonda ignoranza	, ma supponendo che fosse uno scherzo del generale , che , vedendolo così giovane , avesse potuto dubitare della sua
+
+1	0	0	sì illusione
+						DET ADV ADJ NOUN	ITWAC	Ma per colpa di questa mal consigliata imitazione de ' nostri storici , si distrugge tutto l' incanto di	una sì bella illusione	; ed i Pitt , ed i Grenville , e i Vashington si trasformano in altrettanti Gonfalonieri di Firenze .
+
+1	0	0	sì impatto
+						DET ADV ADJ NOUN	ITWAC	capisce perché non si debba provare analoga sensibilità nei confronti di tragedie che , forse , non riescono a suscitare	un sì profondo impatto	emotivo , solo perché si consumano lentamente giorno dopo giorno .
+
+1	0	0	sì impegno
+						DET ADV ADJ NOUN	ITWAC	anima e le parole che mi son proprie l' una bramosa di descrivere il tuo splendore le altre incapaci di	un sì gravoso impegno	.
+
+1	1	0	sì impero
+						DET ADV ADJ NOUN	ITWAC	' eran soliti di pagare a Dario : ed avendogli qualcuno fatta rimostranza , che potea trarre rendita maggiore da	un sì vasto impero	, rispose , che non amava il giardiniere , che tagliava fino alla radice i cavoli , di cui non doveva
+						DET ADV ADJ NOUN	REPUBBLICA	Il fardello del rappresentare	un sì grande impero	ha pesato su Andrei per un intero set , e metà del secondo , durante il quale ha subito uno scoraggiante
+
+2	0	0	sì impeto
+						DET ADV ADJ NOUN	ITWAC	, e la calma di Sordello , « a guisa di leon quando si posa » , mutata subito in	un sì vivace impeto	di affetti , e Stazio che corre incontro a Virgilio per abbracciarlo , obliando di essere un' ombra , e il
+						DET ADV ADJ NOUN	ITWAC	delle pecorelle , e la calma di Sordello , a guisa di leon quando si posa , mutata subito in	un sì vivace impeto	di affetti , e Stazio che corre incontro a Virgilio per abbracciarlo , obliando di essere un' ombra , e il
+
+1	0	0	sì importanza
+						DET ADV ADJ NOUN	ITWAC	Se , secondo i motivi d'	una sì alta importanza	, si potessero avventurare delle congetture , perciocché , a questo riguardo , sembra convenire agli interessi della Grande Bretagna ,
+
+1	0	0	sì impresa
+						DET ADV ADJ NOUN	ITWAC	bene , quant ' altri mai ve ne sieno stati , perchè credettero il di lui cuore troppo debole per	una sì grande impresa	.
+
+1	0	0	sì incombenza
+						DET ADV ADJ NOUN	ITWAC	Per soddisfare ad	una sì onorevole incombenza	, io mi sono recato tra voi , o bravi e fedeli Toscani .
+
+1	0	0	sì indifferenza
+						DET ADV ADJ NOUN	ITWAC	vedeva egli bene , e io diceva ancora , che se n' andava a poco a poco , ma con	una sì perfetta indifferenza	, che il vivere , e ' l morire , i patimenti , ed i sollievi , tutto gli era una
+
+0	1	0	sì inglese
+						DET ADV NOUN	REPUBBLICA	Weinberger partirà oggi da Bruxelles portando- si in tasca anche	il sì inglese	alle  guerre stellari  .
+
+1	0	0	sì intervallo
+						DET ADV ADJ NOUN	ITWAC	Lo Spicq esclude questa conclusione , dato che al versetto 6 e 10 , in	un sì breve intervallo	, si usano due termini , benché sinonimi , diversi ( neôteroi-neanìskoi ) ; tuttavia nota che la duplice presenza dell'
+
+1	0	0	sì invidiabil
+						DET ADV NOUN	ITWAC	resto , se alcuna delle umane cagioni v' ebbe parte , l' ignoranza quella potè essere che servì a conservare	una sì invidiabil	tranquillità .
+
+1	0	0	sì invito
+						DET ADV ADJ NOUN	ITWAC	Si può declinare	un sì gentile invito	?
+
+1	0	0	sì ipoteca
+						DET ADV NOUN	ITWAC	la strada ad un più stretto rapporto con la base sociale di cui sono espressione ; 2 ) il piano	del sì ipoteca	non solo il raccordo tra lavoro e lavori e regola il rapporto con le nuove modalità lavorative ed i nuovi soggetti
+
+1	0	0	sì istante
+						DET ADV ADJ NOUN	ITWAC	Bramai sempre	un sì dolce istante	.
+
+2	0	0	sì lasso
+						DET ADV ADJ NOUN	ITWAC	Non è molto coerente ( quanti fatti in	un sì breve lasso	di tempo !
+						DET ADV ADJ NOUN	ITWAC	eterna del suo Verbo senza alcun intervallo di sillabe , è assai strano come mai la luce fu creata in	un sì gran lasso	di tempo , fin tanto cioè che passasse lo spazio d' un giorno e venisse la sera .
+
+1	0	0	sì lazzi
+						DET ADV ADJ NOUN	ITWAC	Per finire : Non importa se a noi resteranno	i sì abbondanti lazzi	ed altri s' ingozzeranno ...
+
+3	0	0	sì legge
+						DET ADV NOUN	ITWAC	Il comitato per	il sì legge	in questi numeri la conferma dei suoi timori : sarebbero state contate diverse persone che in realtà non hanno potuto votare
+						DET ADV NOUN	ITWAC	La Poesia , è dare immaginazione Riflessione chiarezza e ogni volta che	la sì legge	è  emozione !
+						DET ADV NOUN	ITWAC	Oggi , e lo dico con grande soddisfazione parlare di terapia è diventato normale ,	lo sì legge	sui giornali africani , se ne parla nei convegni scientifici sull' Aids in Africa , ne parlano le agenzie internazionali .
+
+0	0	1	sì lezioni
+						DET ADV ADJ NOUN	WIKICONLL	[ ... ] Pareva che dopo sì lungo tempo e	con sì dure lezioni	si dovesse conoscere la realtà delle cose ; pareva che si dovesse cominciare a ragionare con la propria testa , coi
+
+1	0	0	sì liberalità
+						DET ADV ADJ NOUN	ITWAC	Costantino M. quegli fu che introdusse questa maniera di manumissione , concedendola ai cherici ; e passò poi	una sì pia liberalità	anche ai laici .
+
+2	0	0	sì line
+						DET ADV ADJ NOUN	ITWAC	4 ° quesito ( scheda rosa ) : Che cosa prevede la legge ; Cosa succede se vince	il sì On line	Il testo della legge numero 40 del 19 febbraio 2004 ; un glossario curato da Giulia Crivelli : Le parole del
+						DET ADV ADJ NOUN	ITWAC	La voce più interessante del menù è  il giorno	del sì on line	 .
+
+1	0	0	sì lingua
+						DET ADV ADJ NOUN	ITWAC	Onde alquanto inanimito dal suddetto conte Catanti a non trascurare	una sì bella lingua	, e che era pure la mia , dacché di essere io francese non acconsentiva a niun modo , mi rimisi
+
+1	0	0	sì litote
+						DET ADV ADJ NOUN	ITWAC	PIETRONE Solo un turnista insoddisfatto azzarderebbe	una sì penosa litote	solo per citare pseudo dati biografici ( assolutamente personali ) in un teatrino che dovrebbe parlare solo di viaggi ( auguri
+
+1	0	0	sì lotta
+						DET ADV ADJ NOUN	ITWAC	Pace sì lieta , uscita impensatamente da	una sì triste lotta	, rese le Sabine più care ai padri ed agli sposi , e a Romolo sopra tutto ; poi avendo diviso
+
+1	0	0	sì luce
+						DET ADV ADJ NOUN	ITWAC	scomparsa dai nostri cuori tutta quella tristezza che li avvolgeva come una nebbia , ma dentro di essi è brillata	una sì gran luce	di gioia che a noi è sembrato che quel dolore e quella tristezza non abbiano fatto altro in noi che rendere
+
+1	0	0	sì madre
+						DET ADV ADJ NOUN	ITWAC	aiutato dalla bontà di Dio procurai di sottomettermi alle divine dispositioni , e di postporre ogni mia consolatione di havere	una sì buona madre	viva in terra , col suo gran bene confidando in Dio che fosse in luogo di salute e veramente non potea
+
+1	0	0	sì maestro
+						DET ADV ADJ NOUN	ITWAC	Che cosa potremo fare di meglio che insegnare le massime che	un sì grande maestro	enunciò dandone la spiegazione ?
+
+0	1	0	sì mafiosi
+						DET ADV NOUN	REPUBBLICA	killer mafiosi avesse festeggiato in lieto convivio il ritorno al paese natale di Giovanni Alaimo , del clan dei Caruana	questi sì mafiosi	senza distinguo dato che fanno il loro lavoro nel Venezuela ; ma nel leso garantismo della commissione antimafia , dei magistrati
+
+1	0	0	sì mal
+						DET ADV NOUN	ITWAC	nella propria , tanto contento quanto Lotario pensieroso , non sapendo in qual modo dirigersi per condurre a buon fine	una sì mal	immaginata impresa .
+
+1	0	0	sì martedì
+						DET ADV NOUN	ITWAC	votala : ( 2.3 / 51 ) Tra i votanti hanno prevalso	i sì martedì	, 14 giugno 2005 Pochi votanti per i quattro quesiti referendari .
+
+1	0	0	sì materia
+						DET ADV ADJ NOUN	ITWAC	E se è lecito ricreare	una sì lugubre materia	, racconterò di un commissario , al quale facendo gola la vigna dâ  TMun appestato , nè sapendo come altrimenti
+
+1	0	0	sì medico
+						DET ADV ADJ NOUN	ITWAC	Se tutti sono sani , perché mai	un sì gran medico	è disceso dal cielo ?
+
+1	0	0	sì melodia
+						DET ADV ADJ NOUN	ITWAC	per i campionamenti adagiati su di esso e per quelle ritmiche techno minimali che mutano esponenzialmente sorreggendo la struttura di	una sì famosa melodia	è una dato di fatto ineluttabile .
+
+1	0	0	sì metamorfosi
+						DET ADV ADJ NOUN	ITWAC	Dido in uto non è	una sì gran metamorfosi	, e Candido , per mezzo di questo leggier cambiamento , divenne un grandissimo signore .
+
+0	1	0	sì miliardario
+						DET ADJ ADV NOUN	REPUBBLICA	campo , i suoi atteggiamenti da leader , per sognare un ritorno a tre mesi fa , al giorno prima	del suo sì miliardario	miliardario al Chelsea .
+
+2	0	0	sì ministero
+						DET ADV ADJ NOUN	ITWAC	Sarebbe meglio imitare il suo coraggio per rendersi degno d'	un sì grande ministero	, secondo la misura dei doni che gli erano stati conferiti : d' altronde questi stessi non erano così modesti come
+						DET ADV ADJ NOUN	ITWAC	scelti all' alto privilegio di servir Cristo in voi ; io vi chiedo umilmente perdono se non abbiamo degnamente adempito	un sì gran ministero	.
+
+0	0	1	sì ministro
+						DET ADV ADJ NOUN	WIKICONLL	Napoleone rimase fortemente colpito dall' ingegno del Fossombroni , al punto che giunse ad esclamare : «  Peccato ,	un sì grande ministro	per un sì piccolo Stato ! » .
+
+1	0	0	sì misfatto
+						DET ADV ADJ NOUN	ITWAC	La notizia di	un sì orrendo misfatto	commosse tutta l' Europa , e Clemente VI ordinò a Beltramo del Balzo , gran giustiziere del reame di Napoli ,
+
+2	0	1	sì mistero
+						DET ADV ADJ NOUN	ITWAC	Certamente noi non neghiamo in coloro che divulgano tali opinioni il desiderio non disprezzabile di scrutare	un sì grande mistero	, sviscerandone le inesauribili ricchezze e svelandone il senso agli uomini del nostro tempo ; anzi riconosciamo e approviamo quel desiderio
+						DET ADV ADJ NOUN	ITWAC	in essa un' evidentissima prefigurazione simbolica del Nuovo Testamento - né siamo capaci di parlare in modo abbastanza degno di	un sì grande mistero	data la fretta che abbiamo di terminare .
+						DET ADV ADJ NOUN	WIKICONLL	Dio ci guardi dall' affer ­ mare una cosa simile , dopo che abbiamo conosciuto il sacramento	un sì grande mistero	, dopo la condi ­ scendenza ( il concepimento ) del Signore che si è degnato di nascere dalla Vergine Maria
+
+1	0	0	sì mole
+						DET ADV ADJ NOUN	ITWAC	un peso che con la sua gravezza li affatica , potessero anche conoscere da che cause ciò provenga e perché	una sì grande mole	, per così dire , di male nel petto persista , non così passerebbero la vita , come ora per lo
+
+6	0	0	sì moltitudine
+						DET ADV ADJ NOUN	ITWAC	Altrimenti molto ingiustamente si sarebbe agito con	una sì grande moltitudine	di martiri i cui corpi non fu possibile seppellire ; e poi la Verità avrebbe affermato il falso nel dire :
+						DET ADV ADJ NOUN	ITWAC	Dio non voglia che	una sì grande moltitudine	di vergini sia ridotta a un numero così piccolo !
+						DET ADV ADJ NOUN	ITWAC	la sua famiglia uno scandalo e in tal modo - come in seguito narra la Scrittura - andò in rovina	una sì grande moltitudine	di figli 51 .
+						DET ADV ADJ NOUN	ITWAC	ne ridonderebbero in appresso più mali ; tra cui non è il menomo , il ritrovarsi poscia fra il popolo	una sì gran moltitudine	d' enti , che soldati non potrebbero esser più , e che cittadini ( ove anco il volessero ) divenir non
+						DET ADV ADJ NOUN	ITWAC	per il semplice fatto che affermi di essere costretto a dar fastidio a me , pur trovandoti a Cartagine tra	una sì gran moltitudine	di dotti .
+						DET ADV ADJ NOUN	ITWAC	terracotta e vi nascosero dentro delle fiaccole accese e dopo essere state infrante le brocche le numerose torce accese atterrirono	una sì grande moltitudine	di nemici : la Scrittura infatti non dice che fosse Dio a spingerlo a fare quell' azione .
+
+0	1	0	sì morbido
+						DET ADV ADJ NOUN	REPUBBLICA	Mancini risponde	un sì morbido morbido	: Certo che a fine stagione si è un po' più stanchi , è comprensibile .
+
+1	0	1	sì morte
+						DET ADV ADJ NOUN	ITWAC	quelle lagrime che non mi cavò il dolore me l' ha poi cavate la tenerezza nell' intendere le particolarità di	una sì felice morte	, che voi e le sorelle m' havete significato con le lettere venutemi con la posta .
+						DET ADV ADJ NOUN	WIKICONLL	E io ne feci notomia , per vedere la causa	di sì dolce morte	» .
+
+1	0	0	sì mura
+						DET ADV ADJ NOUN	ITWAC	60 Come fu presso	alle sì ricche mura	, che ' l mondo altre non ha de la lor sorte , lasciò la strada che per la pianura ampla
+
+3	0	0	sì nobil
+						DET ADV NOUN	ITWAC	, Ove da pochi a gran pena s' arriva ; Suol dolsi Etruria , che sia ignuda e priva D'	un sì nobil	tesor , sì ricco pegno .
+						DET ADV NOUN	ITWAC	Pare che i susseguenti Re di Francia non si mettessero gran pensiero di questo ; ma in Italia durò lungamente	una sì nobil	usanza , perché i Re ed Imperadori non rade volte intervenivano almeno ai placiti generali , e attendevano a comporre le
+						DET ADV NOUN	ITWAC	fierezza che convenivasi a un uomo che portava una sì lunga sfilata di nomi , egli parlava alla gente con	un sì nobil	disdegno , arricciava talmente il naso , alzava sì spietatamente la voce , prendeva un tuono da imporre talmente e affettava
+
+3	0	1	sì nome
+						DET ADV ADJ NOUN	ITWAC	- Il ciel ti scelse , Il ciel ti scrisse	un sì gran nome	in fronte ...
+						DET ADV ADJ NOUN	ITWAC	Il ciel ti scelse , il ciel ti scrisse	un sì gran nome	in fronte ; tal don ti fece , che a chiunque il rechi , n' andrà superbo .
+						DET ADV ADJ NOUN	ITWAC	dal leggere questi articoletti che non possiamo coll ' autore loro denominare « Italiani » ; poichè va oramai negato	un sì bel nome	a tutto ciò che ha poco valore , o che gonfiandoci d' orgoglio tende a contrastarci i frutti della comune civilizzazione
+						DET ADV ADJ NOUN	WIKICONLL	La locuzione latina Tanto nomini nullum par elogium , traducibile in italiano come 	un sì gran nome	nessun elogio ( è ) adeguato  , costituisce l' epitaffio ( composto dal Dottor Ferroni ) del monumento a Niccolò
+
+1	0	0	sì notte
+						DET ADV ADJ NOUN	ITWAC	corso dell' altra metà dell' anno , sarebbe forse da stupirsi , se coloro che nati fossero nello spazio d'	una sì lunga notte	, senz' aver giammai nè veduto nè udito mentovare lo splendore del giorno , si abituassero alle tenebre , e non
+
+14	0	0	sì numero
+						DET ADV ADJ NOUN	ITWAC	Aggiungo inoltre un altro problema : c' è in Africa	un sì gran numero	d' individui chiamati comunemente  mangoni  che in gran parte essi svuotano dei suoi abitanti , deportando nelle province d'
+						DET ADV ADJ NOUN	ITWAC	D' Annunzio sa disvelare segrete affinità ; si rivela , in questo romanzo , capace di esprimere poeticamente 	un sì gran numero	di cose recondite
+						DET ADV ADJ NOUN	ITWAC	D' onde viene una così gran pace in	un sì gran numero	di persone ?
+						DET ADV ADJ NOUN	ITWAC	Egli tuttavia scrive :  Farà meraviglia a molti de ' miei Leggitori , come mai , dopo	un sì gran numero	di valorosi cantanti , che tuttora fioriscono , possa essere invalsa l' opinione , in cui da qualche tempo sono ,
+						DET ADV ADJ NOUN	ITWAC	M. - Qual è dunque la ragione per cui si è costretti a scandire dei piedi con	un sì gran numero	di sillabe e nello stesso tempo si deve ammettere , in base alle dimostrazioni già esposte , che il piede usato
+						DET ADV ADJ NOUN	ITWAC	Nessuna nazione può vantare come l' Italia	un sì gran numero	d' accademie scientifiche e letterarie .
+						DET ADV ADJ NOUN	ITWAC	Non ci venga mai in mente , dunque , di affermare che	un sì gran numero	di fedeli qualificati e di uomini timorati di Dio non abbiano il timor di Dio , che i Greci chiamano
+						DET ADV ADJ NOUN	ITWAC	Poi s' impadronirono di quaranta calici che erano sull' altare e di candelabri d' argento , dei quali vi era	un sì gran numero	che era impossibile contarli  .
+						DET ADV ADJ NOUN	ITWAC	Poi si impadronirono di quaranta calici che erano sull' altare e di candelabri d' argento , dei quali vi era	un sì grande numero	che era impossibile contarli  .
+						DET ADV ADJ NOUN	ITWAC	Si scoprono i deplorevoli errori che si diffondono per il mondo , che seducono	un sì gran numero	di anime , e dei quali , forse , noi stessi siamo stati a lungo le vittime .
+						DET ADV ADJ NOUN	ITWAC	fortezza per professar generosamente la fede contro tutti i nemici e principalmente contro il rispetto umano , che impedisce a	un sì gran numero	d' uomini di praticare i doveri religiosi .
+						DET ADV ADJ NOUN	ITWAC	ha veduto nascere nelle più liete sue contrade tutta l' augusta famiglia , che regge con il paterno suo freno	un sì gran numero	di nazioni .
+						DET ADV ADJ NOUN	ITWAC	idee né ripeterle in presenza di qualcuno dei nostri ; d' altra parte non sarebbe facile scoprirle in mezzo a	un sì gran numero	di fedeli né in qualsiasi altro luogo .
+						DET ADV ADJ NOUN	ITWAC	ne sapeva i nomi , di questi qui non ne aveva idea , e stupiva che ce ne potessero essere	un sì gran numero	.
+
+1	0	0	sì odio
+						DET ADV ADJ NOUN	ITWAC	Quali erano i veri motivi che avevano scatenato	un sì feroce odio	?
+
+1	0	1	sì oggetto
+						DET ADV ADJ NOUN	ITWAC	nell' abbandonare	un sì caro oggetto	mi si stacca il cuore dal seno , ed è un miracolo ch ' io non soccomba .
+						DET ADV NOUN	WIKICONLL	Il negozio autorizzativo sembra , invero , risolver- si in altre fattispecie ,	queste sì oggetto	di qualifica e disciplina .
+
+2	0	0	sì onore
+						DET ADV ADJ NOUN	ITWAC	Viene posto anche quest' altro quesito : per qual motivo gli animali prodotti dalle acque meritarono	un sì grande onore	di ricevere , da parte del Creatore , soltanto essi la benedizione come gli uomini ?
+						DET ADV ADJ NOUN	ITWAC	un dolce velo di mestizia le copre il volto dal profilo greco e colla destra par che respinga da sé	un sì grande onore	.
+
+2	0	0	sì opera
+						DET ADV ADJ NOUN	ITWAC	mo Capitolo e Clero Liberiano ha risoluto di dar principio ad	una sì necessaria opera	, con far porre mano lunedì ( 2/1 ) alla demolizione del portico vecchio affine di fare i fondamenti per la
+						DET ADV ADJ NOUN	ITWAC	polifonica , dalla Messa di Tournai a ' The Marshall Mathers Lp ' , nessun altro è riuscito a compiere	una sì profonda opera	di rimozione delle sovrastrutture socio-culturali .
+
+0	1	0	sì opportunità
+						DET ADV ADJ NOUN	REPUBBLICA	Sono comunque dei palliativi dice Alfredo Galasso Il vero problema è offrire ai fautori del no e a quelli	del sì uguali opportunità	.
+
+0	1	0	sì opure
+						DET ADV NOUN	REPUBBLICA	accordo , ho solo messo a disposizione tutti gli strumenti per render- lo possibile , ora tocca alle parti dire	un sì opure	un no .
+
+1	1	0	sì ostacolo
+						DET ADV ADJ NOUN	ITWAC	Come può evitarsi la morte spirituale di questi deboli e	un sì grande ostacolo	alla loro salvezza , mentre facciamo tanti sforzi per guadagnarli alla Chiesa Cattolica ?
+						DET ADV NOUN	REPUBBLICA	 deciso dal ministro si fondano su  argomenti falsi  ; rievocano prassi superate ; tutelano interessi corporativi ,	questi sì ostacolo	maggiore e più insidioso per una giustizia efficiente e giusta .
+
+1	0	0	sì ottimo
+						DET ADV NOUN	ITWAC	Onde è naturale il dubbio che quel consesso metropolitano abbia cooperato in qualche modo alla fine miseranda di	un sì ottimo	principe .
+
+1	0	0	sì pace
+						DET ADV ADJ NOUN	ITWAC	tua porta , chiama a te Gesù , il tuo diletto , e resta con lui nella cella ; ché	una sì grande pace	altrove non la troverai .
+
+2	0	0	sì padre
+						DET ADV ADJ NOUN	ITWAC	alla soavità di Cristo , e se non volete farlo spontaneamente , vi forziamo a prender parte alla cena di	un sì gran padre	di famiglia !
+						DET ADV ADJ NOUN	ITWAC	molti l' occasione di assicurarsi la salvezza che è in Cristo : anche se spinti ad entrare al banchetto di	un sì nobile padre	di famiglia , anzi , forzati ad entrare , essi tuttavia trovano nella sala di che gioire per essere entrati .
+
+1	0	0	sì paraules
+						DET ADV ADJ NOUN	ITWAC	natural perque la veu s' afili perquè les paraules no siguin un cop més tan sols paraules continua la poesia	continua-la sì sense paraules	Versiò poema : Eduard Escoffet e Francesco Ardolino Biagio Cepollaro - Dopo tre anni , de : Versi Nuovi ( 1998
+
+1	0	0	sì parente
+						DET ADV ADJ NOUN	ITWAC	- 67 Guidon , ch ' altrove avria fatto gran festa d' aver trovato	un sì stretto parente	, quivi l' accolse con la faccia mesta , perché fu di vedervilo dolente .
+
+0	1	0	sì parlamentare
+						DET ADV NOUN	REPUBBLICA	Soltanto dopo	il sì parlamentare	il governo potrà adottare i decreti delegati che avranno valore di legge .
+
+4	1	1	sì parte
+						DET ADV ADJ NOUN	ITWAC	In essa l' ottimo Pastore , lamentando che	una sì grande parte	degli uomini , si trovano ingiustamente in uno stato misero e calamitoso , con animo invitto prende a tutelare egli stesso
+						DET ADV ADJ NOUN	ITWAC	abbiamo pensato che non fosse senza importanza per i nostri lettori di ben conoscere un uomo , che ha avuta	una sì gran parte	negli avvenimenti che ci rimangono a raccontare , e di cui la Chiesa ha voluto fare un santo perché la Francia
+						DET ADV ADJ NOUN	ITWAC	economiche di Melchiorre Gioia , che è la più bella storia e la piu filosofica che si possa scrivere di	una sì preziosa parte	dell' umano sapere ?
+						DET ADV ADJ NOUN	ITWAC	quali vengono riscattati dalla medesima condanna comprendessero che l' intera massa sarebbe stata meritevole del castigo che vedrebbero inflitto a	una sì gran parte	di essa non solo nella persona di coloro i quali al peccato originale ne aggiungono molti altri con la libera e
+						DET ADV ADJ NOUN	REPUBBLICA	come il probabile successore di Natta : egli ha sostenuto con gran vigore la tesi della vice-segreteria trainando sulla sponda	del sì gran parte	del gruppo dei sessantenni .
+						DET ADV ADJ NOUN	WIKICONLL	Si schierò	il sì gran parte	del partito laburista allora al governo con Harold Wilson , gran parte dei conservatori della neo leader Margaret Thatcher , del
+
+2	0	0	sì passione
+						DET ADV ADJ NOUN	ITWAC	Don Roberto : ( a Fabrizio ) Chi può resistere a	una sì bella passione	?
+						DET ADV ADJ NOUN	ITWAC	Questo sia l' unico nostro pensiero ,	una sì generosa passione	faccia tacere tutte le altre meno nobili ; ventiquattro milioni d' Italiani di certo avranno una patria potente , un comune
+
+1	0	0	sì paura
+						DET ADV ADJ NOUN	ITWAC	Pertanto lâ  TMimperatore inviò , alla guida di Rambaldo Collato , queâ  TM terribili lanzichinecchi , che fecero	una sì brutta paura	a don Abbondio , e regalarono la peste allâ  TMItalia .
+
+2	0	0	sì peccato
+						DET ADV ADJ NOUN	ITWAC	A questo proposito non voglio discutere quale castigo meritereste per la gravità di	un sì mostruoso peccato	, o quanto siamo moderati verso di voi per spirito di cristiana mansuetudine ; dico solo : se questa è una
+						DET ADV ADJ NOUN	ITWAC	In qual modo dunque , dopo	un sì grave peccato	, commesso da Gedeone e dal popolo , la regione ebbe pace quarant' anni dal momento che la Scrittura è solita
+
+1	0	0	sì pegno
+						DET ADV ADJ NOUN	ITWAC	mi trovo dal pericolo , dico che avrei dovuto fare ciò che non feci ; e dopo avermi lasciato rubare	un sì prezioso pegno	, maledico il ladro che me lo ha tolto e di cui potevo prendere vendetta se avessi avuto cuore di farlo
+
+1	0	0	sì pena
+						DET ADV ADJ NOUN	ITWAC	l' essere da voi scacciata con questa macchia al decoro mio , è un tal dolore per me , è	una sì fiera pena	, che non avrò coraggio di tollerarla , che mi farà soccombere , che mi darà miseramente la morte .
+
+1	0	0	sì pericolo
+						DET ADV ADJ NOUN	ITWAC	Solo l' umiltà può salvarci da	un sì grande pericolo	.
+
+1	0	0	sì persona
+						DET ADV ADJ NOUN	ITWAC	, signor curato , che non si conviene che io mi stia a cavallo quando se ne sta a piedi	una sì rispettabile persona	come la signoria vostra .
+
+2	0	0	sì personaggio
+						DET ADV ADJ NOUN	ITWAC	e anche  spiritosi  , riescono ora a digerire simili frequentazioni , ritrovarsi e compattarsi sotto l' egida di	un sì buffo personaggio	che evidentemente non ha nulla di meglio da fare nel newsgroup e nella vita ...
+						DET ADV ADJ NOUN	ITWAC	e il chiasso che fece la mattina appresso il popolo romano , a cui Virgilio era notissimo , quando vide	un sì grave personaggio	in quella pensile situazione .
+
+1	0	0	sì peso
+						DET ADV ADJ NOUN	ITWAC	giorni cattivi quelli che noi viviamo nella corruzione di questa carne , in un sì grave , o meglio sotto	un sì grave peso	del corpo corruttibile , fra tante pericolose tentazioni , fra tante difficoltà , giorni in cui falso è il piacere ,
+
+1	0	0	sì piacere
+						DET ADV ADJ NOUN	ITWAC	Non vogliamo defraudarlo di	un sì grande piacere	.
+
+1	0	0	sì piano
+						DET ADV ADJ NOUN	ITWAC	Poi , il giornalista , si chiede vanamente , perché mai , in	un sì magnanimo piano	, alcuni uomini , o sarebbe meglio dire alcune forze politiche , debbano vedere uno strumento di imperialismo economico e politico
+
+3	0	0	sì picciol
+						DET ADJ ADV NOUN	ITWAC	Amore , io non mi pento D' esser ferito de la tua saetta , S'	un tuo sì picciol	picciol ben tanto diletta .
+						DET ADV NOUN	ITWAC	pur con Tolomeo ritener Venere sotto il Sole , i quali potrebbon dire che in vano si cercasse di veder	un sì picciol	neo nell' immensa e lucidissima faccia di quello .
+						DET ADV NOUN	ITWAC	volta Mai piú rifar non si potria , non dèssi Come un dado gittarlo ad occhi chiusi , Avventurarlo in	un sì picciol	campo , E in un campo mal noto , e quel ch ' è peggio Noto al nemico .
+
+1	0	0	sì pietà
+						DET ADV ADJ NOUN	ITWAC	rivolgere a sé gli sguardi anche fra tanta miseria ; ma non era il solo aspetto della donna che ispirasse	una sì rara pietà	.
+
+0	0	1	sì pittura
+						DET ADV ADJ NOUN	WIKICONLL	rimase imperfetta in alcune stanze di Belvedere dopo la morte sua , opera certo degna di lui e dell' ornamento	di sì divina pittura	 .
+
+0	0	1	sì porti
+						DET ADV NOUN	WIKICONLL	Nonostante la taglia , vive benissimo anche in casa a patto	lo sì porti	a fare qualche passeggiata per il tono muscolare .
+
+1	0	0	sì possente
+						DET ADV NOUN	ITWAC	i figli che la moglie , tanto più grave e funesto è l' errore di chi procreandoli somministra al tiranno	un sì possente	mezzo di più per offenderlo , intimorirlo , ed opprimerlo ; come a se stesso procaccia un mezzo di più per
+
+1	0	1	sì potere
+						DET ADV ADJ NOUN	ITWAC	Ma per verità l' abito , che in ogni cosa esercita	un sì gran potere	su di noi in nulla mostra di avere più vigore , che nell' insegnarci servire .
+						DET ADV ADJ NOUN	WIKICONLL	rammenta la sedia stercoraria in questi termini : « questa sedia è stata così predisposta affinché colui che è investito	un sì grande potere	sappia che egli non è Dio , ma un uomo e pertanto è sottomesso alle necessità della natura » .
+
+1	0	0	sì preda
+						DET ADV ADJ NOUN	ITWAC	se avesse proibito o limitato il saccheggio , ma nello stesso tempo per non essere poi rimproverato dal Senato se	una sì ricca preda	avesse concesso alle truppe , scrisse al Senato chiedendogli istruzioni in proposito .
+
+1	0	0	sì preferenza
+						DET ADV ADJ NOUN	ITWAC	Esaminando poi la ragione di	una sì stolta preferenza	, ci trovai un falso amor proprio individuale , che a ciò mi spingeva senza ch ' io pure me ne
+
+1	0	0	sì prelato
+						DET ADV ADJ NOUN	ITWAC	cui sto si ànno il mondo Sotto da lor sì forte aviluppato , Ched e' nonn-è nes [ s ]	un sì gran prelato	C [ h ] ' a lor possanza truovi riva o fondo .
+
+0	1	0	sì premio
+						DET ADV ADJ NOUN	REPUBBLICA	Tutto è possibile , naturalmente : anche che Pontiggia vinca a mani basse	il sì sofferto premio	e non ci sarebbe , beninteso , nulla da eccepire .
+
+0	0	1	sì prigione
+						DET ADV ADJ NOUN	WIKICONLL	« Condannato	in sì crudel prigione	che non so come non sia morto insieme per la malvagità dell' aria [ ... ] carico di famiglia [ ...
+
+1	0	0	sì privilegio
+						DET ADV ADJ NOUN	ITWAC	contati sulla punta delle dita per comodo di chiunque , si servano pure ; io non verrò a constatar loro	un sì bel privilegio	.
+
+3	0	0	sì prodigio
+						DET ADV ADJ NOUN	ITWAC	Ciononostante chi , se non il Signore , ispirò la sua mente e gli fece prendere quella decisione per compiere	un sì gran prodigio	?
+						DET ADV ADJ NOUN	ITWAC	pastore sonnolento , perché Voi mi chiamaste a questo convito di grazia , perché mi faceste degno d' assistere a	un sì giocondo prodigio	!
+						DET ADV ADJ NOUN	ITWAC	pastore sonnolento , perche Voi mi chiamaste a questo convito di grazia , perche mi faceste degno d' assistere a	un sì giocondo prodigio	!
+
+1	0	0	sì prodotto
+						DET ADV ADJ NOUN	ITWAC	si piccolo al suo destino , che fa sorpresa il vedere come si sieno molestati ed occupati tanti cittadini per	un sì tenue prodotto	.
+
+1	0	0	sì progetto
+						DET ADV ADJ NOUN	ITWAC	Tuttavia ho sempre sentito come una spina nel fianco di	un sì grandioso progetto	il mancato completamento del 3 ° anello , attualmente costruito sul lato lungo ovest e sui due lati corti .
+
+0	1	0	sì punti
+						DET ADV NOUN	REPUBBLICA	Cesare Salvi ha escluso che	il sì punti	a tornare a forme palesi o mascherate di centralismo democratico : l' idea , ha spiegato , è di rendere stabile
+
+1	0	0	sì punto
+						DET ADV ADJ NOUN	ITWAC	gli atti ch ' io ho tratto dall' archivio della Comunità di Modena , degni troppo di luce per riguardare	un sì importante punto	della Storia d' Italia .
+
+1	0	0	sì quesito
+						DET ADV ADJ NOUN	ITWAC	E quindi il contrasto con le legge 194 ed un suo possibile attacco mi porta inevitabilmente ad appoggiare con	un sì questo quesito	.
+
+1	0	0	sì raffica
+						DET ADV ADJ NOUN	ITWAC	E davanti	ai sì a. raffica	espressi dai rappresentanti di enti locali ed istituzioni nulla hanno potuto i no della Confcommercio  .
+
+1	0	0	sì raffreddore
+						DET ADV ADJ NOUN	ITWAC	A proposito degli ultimi classificati , ha dovuto accusare	un sì forte raffreddore	il mio fiuto di talent scout ...
+
+0	0	1	sì rai
+						DET ADV ADJ NOUN	WIKICONLL	e d oro e d ostro riccamente ornata , ove ' n copia le gemme , in copia i lumi	spargon sì vivi rai	...  » .
+
+0	1	0	sì razzisti
+						DET ADV NOUN	REPUBBLICA	Selva , capolista a Venezia , respinge le accuse e ricorda come la Vivante sia l' autrice di manifesti 	questi sì razzisti	, contro gli extracomunitari  .
+
+0	1	0	sì referendario
+						DET ADV NOUN	REPUBBLICA	Non pensi che	il sì referendario	abbia dato un colpo all' autorità della magistratura e quindi abbia accresciuto il tasso complessivo d' ingovernabilità del sistema ?
+
+1	0	0	sì referendum
+						DET ADV NOUN	ITWAC	23/05/2005 Ue : Barroso crede	nel sì referendum	francese su Costituzione Il Presidente della Commissione Ue preoccupato per la crescita del no in Francia 21/05/2005 Cannes : Palma d'
+
+1	0	0	sì regina
+						DET ADV ADJ NOUN	ITWAC	Quale non fu la felicità dei Neofiti , ai quali fu concesso di avvicinarsi ad	una sì augusta regina	, alla Vergine-Madre , alla quale era stato dato di portare nel casto suo seno Colui che era la speranza d'
+
+1	0	0	sì responsabilità
+						DET ADV ADJ NOUN	ITWAC	Rossi G. onde non assumeva intera	una sì grave responsabilità	e per lasciar a tutti i cittadini libero campo alla critica , trattandosi di un problema così importante , fece esporre
+
+0	1	0	sì ricevimento
+						DET ADV ADJ NOUN	REPUBBLICA	la moglie Albina Ferruzzi , ha accarezzato tutto il concerto come fosse un padrone di casa soddisfatto di aver preparato	un sì bel ricevimento	per i suoi ospiti .
+
+2	0	0	sì ricompensa
+						DET ADV ADJ NOUN	ITWAC	Ci ha promesso una gran ricompensa : in relazione a	una sì gran ricompensa	che ci ha promessa , vediamo che cosa ci ha comandato .
+						DET ADV ADJ NOUN	ITWAC	Orbene , infiammati da questa magnifica promessa e dall' amore per	una sì preziosa ricompensa	, cerchiamo di preparare fin d' ora per ubbidirgli le nostre forze , i fianchi e le braccia .
+
+0	1	0	sì rifiuti
+						DET ADV NOUN	REPUBBLICA	E non giova che	il sì rifiuti	la realtà di un ampio dissenso , perché ne indebolisce la fecondità , ed è strano che alle porte del Duemila
+
+6	0	0	sì risoluzione
+						DET ADV ADJ NOUN	ITWAC	' egli abbandonasse Napoli , di cui il soggiorno diventava pericoloso per lui , non aveva la forza di prendere	una sì dura risoluzione	.
+						DET ADV ADJ NOUN	ITWAC	' io vada a Genova , tutti vi farete le maraviglie che in un momento mi sia lasciata condurre ad	una sì violenta risoluzione	.
+						DET ADV ADJ NOUN	ITWAC	Cacambo applaudì	una sì saggia risoluzione	; gli dispiaceva di separarsi dal suo buon padrone , divenuto suo intimo amico , ma il piacere d' essergli utile
+						DET ADV ADJ NOUN	ITWAC	E quanto vi devo essere grato d'	una sì buona risoluzione	, quantunque per me abbia un po' del rimprovero !
+						DET ADV ADJ NOUN	ITWAC	di mio padre , che usami una sì amorosa condescendenza ; ma io non sono in grado di abbandonarmi ad	una sì repentina risoluzione	.
+						DET ADV ADJ NOUN	ITWAC	e quanto vi devo esser grato d'	una sì buona risoluzione	; quantunque per me abbia un po' del rimprovero !
+
+0	1	0	sì rispetto
+						DET ADV NOUN	REPUBBLICA	alcune sezioni dove tradizionalmente lo scudocrociato ottiene i suoi maggiori consensi si vede infatti che ci sono delle consistenti flessioni	del sì rispetto	alla dote ipotizzata di consensi sulla base delle scelte dichiarate dalle singole forze politiche .
+
+1	0	0	sì risultato
+						DET ADV ADJ NOUN	ITWAC	cui realmente la capitolazione fu firmata , cioè il 27 giugno , il Cardinale , lietissimo di essere giunto a	un sì felice risultato	, scrisse al Re il minuto racconto delle operazioni compite e incaricò il capitano Foote di consegnare la lettera a Sua
+
+1	0	0	sì romore
+						DET ADV ADJ NOUN	ITWAC	non abbia a partorire , ché io non so come io mi facessi , ché io odo fare alle femine	un sì gran romore	quando son per partorire , con tutto che elle abbian buon cotal grande donde farlo , che io credo , se
+
+1	0	0	sì rovina
+						DET ADV ADJ NOUN	ITWAC	Ho fatto precipitare su di lei una sventura sì grande e sui miei figli	una sì grande rovina	che non ho diritto d' oppormi in nulla ai suoi desideri .
+
+1	0	0	sì russo
+						DET ADV NOUN	ITWAC	Il ministero degli esteri di Mosca , comunque , non ha ancora formalizzato	il sì russo	in Consiglio di sicurezza .
+
+1	0	0	sì sabbie
+						DET ADV NOUN	ITWAC	Se il tuo film finisce così se c' è un no invece di	un sì sabbie	mobili sotto di noi e la luce si spegne oramai ormai Io nascerò dove ti ho lasciato nascerò non avrò paura
+
+1	0	0	sì sacerdote
+						DET ADV ADJ NOUN	ITWAC	Che fortuna per la nostra Diocesi aver avuto	un sì santo sacerdote	!
+
+2	0	0	sì sacramento
+						DET ADV ADJ NOUN	ITWAC	 Perché si devono scegliere i giorni in cui si vive con maggior purezza e continenza per accostarsi degnamente a	un sì augusto sacramento	, poiché chi mangerà indegnamente , mangia e beve la propria condanna  ( 1 Cor 11 , 29 ) .
+						DET ADV ADJ NOUN	ITWAC	 Perché si devono scegliere i giorni in cui si vive con maggior purezza e continenza per accostarsi degnamente a	un sì augusto sacramento	, poiché chi mangerà indegnamente , mangia e beve la propria condanna 2  .
+
+0	0	1	sì salse
+						DET ADV ADJ NOUN	WIKICONLL	nome e per cognome , Venedico Caccianemico e gli chiede cosa ci faccia in questo luogo di tormento ( 	a sì pungenti salse	 , forse echeggiando le  salse  bolognesi che erano fosse comuni per criminali non degni di sepoltura in terra
+
+1	0	0	sì santità
+						DET ADV ADJ NOUN	ITWAC	: poiché pochi certamente trovansi tra quei , che senza l' aiuto di lumi straordinari della grazia , giungano ad	una sì eccelsa santità	, qual fu quella di questo umil servo di Dio .
+
+1	0	0	sì santo
+						DET ADV ADJ NOUN	ITWAC	che cosa dobbiamo chiedere nelle nostre preghiere , mentre Davide , il quale era , come abbiamo già detto ,	un sì gran santo	, scongiura Dio di non allontanare da lui il suo sguardo ?
+
+1	0	0	sì scandalo
+						DET ADV ADJ NOUN	ITWAC	E poi sarebbe strano che per una questione dubbia si debba causare	un sì grave scandalo	di tutti i fedeli , i quali penserebbero che siano macchiati di sordida avidità di denaro i propri vescovi , da
+
+1	0	0	sì scelleratezza
+						DET ADV ADJ NOUN	ITWAC	, che regola tutti gli avvenimenti , volle che i suoi bagagli fossero presi dai barbari , affinché fosse svelata	una sì grave scelleratezza	.
+
+1	0	0	sì sciagura
+						DET ADV ADJ NOUN	ITWAC	turbati dall' agitazione di costui , sono diventato odioso anch' io stesso , poiché sarei stato io ad arrecare loro	una sì grave sciagura	, come essi non bisbigliano più con soffocate mormorazioni , ma lo vanno proclamando con aperte proteste e alte grida ;
+
+4	0	0	sì scopo
+						DET ADV ADJ NOUN	ITWAC	Non io per ciò da	un sì sublime scopo	Rimuoverò giammai l' animo , e l' arte , Debil quantunque e poco a sì grand' uopo .
+						DET ADV ADJ NOUN	ITWAC	libertà chiamin di vita parte nasceranno dopo di lui , egli non rimuoverà giammai l' animo e l' arte da	un sì sublime scopo	.
+						DET ADV ADJ NOUN	ITWAC	persuaso , che l' armata sotto il mio comando compirà le disposizioni , ch ' io prendo in oggi per	un sì sacro scopo	nazionale , col passaggio del Lech , con altrettanta fiducia , ed indivisibile attaccamento , quanto ella in tanti , e
+						DET ADV ADJ NOUN	ITWAC	sua cultura , nella sua capacità produttiva e tecnica con metodi adatti e larghezza di mezzi quali si convengono ad	un sì alto scopo	.
+
+0	2	0	sì secco
+						DET ADV NOUN	REPUBBLICA	La risposta è	un sì secco	che non lascia dubbi .
+						DET ADV NOUN	REPUBBLICA	La risposta è	un sì secco	e sicuro come un colpo di proiettile .
+
+0	0	2	sì sede
+						DET ADV NOUN	WIKICONLL	A Varazze ha	altre sì sede	dal 1976 una radio locale privata ( Radio Skylab ) che ha come slogan  tutta la musica che c' è
+						DET ADV NOUN	WIKICONLL	Sede dell' attività giudiziaria nel levante della provincia genovese è , dal 1892 ,	altre sì sede	della locale diocesi .
+
+0	1	0	sì segni
+						DET ADV NOUN	REPUBBLICA	scontro sul significato del referendum : i partiti referendari ( Psi , Pr e Pli ) vogliono che la vittoria	dei sì segni	una sconfitta politica della magistratura , democristiani e comunisti vogliono evitare che ciò avvenga .
+
+1	0	0	sì segreto
+						DET ADV NOUN	ITWAC	, che puoi essere accolto non dalla folla , non dalla massa , ma dal cuore d' un uomo ,	dal sì segreto	d' un uomo solo che non si lascia dominare e condizionare dal  come tutti  .
+
+1	0	0	sì seminatore
+						DET ADV ADJ NOUN	ITWAC	ne sazierà abbondantemente e salutarmente ; e intanto , con la predicazione del Vangelo , si diffonde la gloria di	un sì grande seminatore	e piovitore e irrigatore e autore della crescita stessa 10 .
+
+1	0	0	sì sentimento
+						DET ADV ADJ NOUN	ITWAC	Con gran franchezza diceva agli altri questa bell' Anima	un sì bel sentimento	, perché sapea per propria sperienza , esser ella appunto per questa via giunta a conseguire con tanto suo vantaggio la
+
+1	0	0	sì sfilata
+						DET ADV ADJ NOUN	ITWAC	Questo signore avea tutta la fierezza che convenivasi a un uomo che portava	una sì lunga sfilata	di nomi , egli parlava alla gente con un sì nobil disdegno , arricciava talmente il naso , alzava sì spietatamente
+
+1	0	0	sì sfregio
+						DET ADV ADJ NOUN	ITWAC	Corte lo stimolavano a prendere la dovuta vendetta , con dirgli non esser dovere , che portasse lungamente nel volto	un sì grave sfregio	; egli passandosi dolcemente la mano sul viso , sorridendo rispose : Io non vi trovo alcun sfregio .
+
+1	0	0	sì sguardo
+						DET ADV ADJ NOUN	ITWAC	io veggio , e mi spiace , che natural mia dote a me non vale né mi fa degno d'	un sì caro sguardo	, sforzomi d' esser tale qual a l' alta speranza si conface , et al foco gentil ond ' io tutto
+
+1	0	0	sì signora
+						DET ADV ADJ NOUN	ITWAC	la benedico anzi , e la benedirò in tutto il corso della mia vita , avendomi fatto degno di amare	una sì alta signora	, come è Dulcinea del Toboso .
+
+1	0	0	sì signore
+						DET ADV ADJ NOUN	ITWAC	buon gusto del padrone e la sua generosità in far simili spese , non perchè mi sappiate ritratto vicino ad	un sì grande signore	e fra dame e cavalieri ; mentre che gli staffieri e gli Aiuducchi potrebbero dir altrettanto , essendovi ancor loro dipinti
+
+1	0	0	sì sincerità
+						DET ADV ADJ NOUN	ITWAC	Voi possedete un sì bel cuore ,	una sì perfetta sincerità	, e temete ch ' io non vi stimi , ch ' io non vi rispetti , ch ' io non
+
+1	0	0	sì situazione
+						DET ADV ADJ NOUN	ITWAC	Il Governo cosa propone di fronte ad	una sì grave situazione	?
+
+1	0	0	sì sodalizio
+						DET ADV ADJ NOUN	ITWAC	discorso del sig. Mongiat Angelo , il quale si disse orgoglioso che anche nel paese dei suoi padri sia sorto	un sì utile sodalizio	.
+
+1	0	0	sì sofferenza
+						DET ADV ADJ NOUN	ITWAC	, nel dolce e piacevole rapporto con lui , non avrebbe mai avuto la forza e la capacità di affrontare	una sì grande sofferenza	.
+
+2	0	0	sì soggetto
+						DET ADV ADJ NOUN	ITWAC	Dovendomi nei seguenti anni render conto in me stesso della cagione di quell' affetto mio sragionevole per	un sì tristo soggetto	, se mi volessi abbellire , direi che ciò proveniva forse in me da una certa generosità di carattere ; ma
+						DET ADV ADJ NOUN	ITWAC	E seben la sua morte apporta rammarico per loro , che sono restate prive d'	un sì buon soggetto	: nondimeno per lui è assai vantaggioso , havendolo il Signore liberato dal secolo presente , in cui sono tanti guai
+
+1	0	0	sì soggiorno
+						DET ADV ADJ NOUN	ITWAC	Mia madre disperava , e pur molto meno afflitta di me , volle per qualche tempo involarsi a	un sì funesto soggiorno	.
+
+0	0	1	sì solerzia
+						DET ADV ADJ NOUN	WIKICONLL	parecchi mesi dell' anno ritraevasi in villa , affine di vigilare le campestri faccende , a cui seppe pur vacare	con sì intelligente solerzia	che li aumentò , e di alcuni perfezionamenti agrarj indotti pe suoi auspicj nella cultura di quei fondi rustici fu favellato
+
+1	0	0	sì somma
+						DET ADV ADJ NOUN	ITWAC	se pure si potevano chiamare così delle persone le quali , in assenza e all' insaputa del marito , presero	una sì gran somma	di danaro da una donna a essi sconosciuta , e per di più sposata ; sarebbe anzi stato lodato Dio per
+
+1	0	0	sì sonno
+						DET ADV ADJ NOUN	ITWAC	Ma tutti non dormivano d'	un sì buon sonno	quanto quello di La Fayette .
+
+1	0	0	sì sorgente
+						DET ADV ADJ NOUN	ITWAC	Felici noi che la più sublime e la più gloriosa di tutte sia uscita trionfante da	una sì impura sorgente	!
+
+1	0	0	sì sorriso
+						DET ADV NOUN	ITWAC	Una sonnolenza inzuppa quella che fu passione data	del sì sorriso	di fattore , confisca il potere nell' eclisse alla fonte del ponente imponente manoscritto .
+
+1	0	0	sì sospetto
+						DET ADV ADJ NOUN	ITWAC	anima a San Melchiorre da Cirami , a San Cesare del Palazzaccio e a San Marcello da Belmonte Mezzagno 	un sì malevolo sospetto	?
+
+1	0	0	sì sospiro
+						DET ADV ADJ NOUN	ITWAC	mi scuote ancora il braccio e , accennando col capo in su e in giù , tre volte , emette	un sì cupo sospiro	, sì pietoso , da dare l' impressione che dovesse squassarlo e porre fine lì stesso alla sua vita .
+
+1	0	0	sì sound
+						DET ADV ADJ NOUN	ITWAC	* Quale alchimia avete per dare	un sì bel sound	alla vostra musica ?
+
+1	0	0	sì sovvenimento
+						DET ADV ADJ NOUN	ITWAC	prende la borsa con violenza ) Il signor Don Roberto ha tanto del mio nelle mani , che può mandarmi	un sì piccolo sovvenimento	; e quando anche non avesse del mio , la sua bontà , la sua onestà , non mi metterebbero in
+
+3	0	0	sì stato
+						DET ADV ADJ NOUN	ITWAC	Come avrebbero i Sovrani spodestati , a fronte di	un sì violento stato	di cose , potuto far udire la loro voce ?
+						DET ADV ADJ NOUN	ITWAC	Verissimo , non lo nego , ma il fatto è che per giungere a	un sì sublime stato	di meditazione io personalmente , Michele Vacchiano , necessito di un minimo di tranquillità iniziale , di quel briciolino di silenzio
+						DET ADV ADJ NOUN	ITWAC	dire , s' informò della causa e dell' effetto , e della ragion sufficiente , che aveva ridotto Pangloss a	un sì compassionevole stato	.
+
+0	0	1	sì stèi
+						DET ADV NOUN	WIKICONLL	ti a ti sé stèi , lü / lé a l' é stèi , nögn a sèm stèi , violtar	a sì stèi	, lùi a inn stèi  , indicativo futuro :  men a saó , ti a ti saé , lü
+
+0	1	0	sì storia
+						DET ADV NOUN	REPUBBLICA	essere -- il condizionale è d' obbligo nella speranza di essere smentiti -- il triste capolinea di una storia --	questa sì storia	-- cominciata nel 1918 col sogno di Nicola Romeo e mortificata dai regimi che negli anni Sessanta e Settanta hanno progressivamente
+
+1	0	0	sì strada
+						DET ADV ADJ NOUN	ITWAC	altri critici malevoli , che hanno avuto a ridire sulle più banali azioni della sua vita , non avrebbero trascurato	una sì bella strada	maestra che si offriva alla loro maldicenza , o che l' imperatore Augusto , che fece bruciare tutti i libri di
+
+0	0	1	sì strage
+						DET ADV ADJ NOUN	WIKICONLL	Agatocle , colpito	da sì grande strage	, riunì i dispersi e , bruciati gli accampamenti , si ritirò a Gela .
+
+1	0	0	sì sull
+						DET ADV NOUN	ITWAC	Dinanzi a uno schieramento così ampio , le convinzioni di chi guardava	al sì sull	´ articolo 18 come un atto magari ingrato ma doveroso non possono che restarne scosse .
+
+1	0	0	sì suonà
+						DET ADV NOUN	ITWAC	chiuso il suo breve intervento nel Salone dei Cinquecento di Palazzo Vecchio in occasione dell' inaugurazione della mostra ' Dove	il sì suonà	sulla lingua italiana .
+
+2	0	0	sì suono
+						DET ADV ADJ NOUN	ITWAC	brioscio tale l' ultima ragion fu fatta e il sospir fatale di colui che in faccia parìà la blatta emanò	il sì lieve suono	che distrusse li pensieri mia e de li mi compagni pè morir nel tanfo dei bagni 23/02/2004 alle 00:19 Torna su
+						DET ADV ADJ NOUN	ITWAC	tutta caricata di campanelle e di sonagli , quando questa ruota andava a torno le campanelle e ' sonagli facevano	un sì dolce suono	e canto che al mondo nonn-è stormento che a quello si potessi asomigliare .
+
+1	0	0	sì superiorità
+						DET ADV ADJ NOUN	ITWAC	in questo caso , con chi si astiene dopo avere sostenuto , con animo europeo di così vasta portata ,	una sì forte superiorità	della decisione quadro rispetto ai principi nazionali che regolano i rapporti tra il cittadino e la legge in termini di tutela
+
+1	0	0	sì supplizio
+						DET ADV ADJ NOUN	ITWAC	Io domando se anche ai tempi dell' Inquisizione s' è mai pensato a infliggere	un sì terribile supplizio	a un povero innocente .
+
+1	0	0	sì sventatezza
+						DET ADV ADJ NOUN	ITWAC	P.S. ora , magari , ci sarà pure qualche fannullone perditempo che sprecherà le sue energie per commentare	una sì stomachevole sventatezza	.
+
+2	0	0	sì sventura
+						DET ADV ADJ NOUN	ITWAC	la gelida ala della morte , sfiorando le chiome di lui forse ancora bionde , chiude e suggella per sempre	una sì lunga sventura	.
+						DET ADV ADJ NOUN	ITWAC	opponga , mentre tu ti trovi preoccupato per la tua situazione critica e non dai nessun ordine per tenere lontana	una sì grande sventura	?
+
+2	0	0	sì talento
+						DET ADV ADJ NOUN	ITWAC	) pensò egli tosto , che non lieve utilità sarebbe stata per Roma , se fatto avesse ella acquisto di	un sì raro talento	, e riflettè per l' altra parte , che mal prova fa d' ordinario una buona pianta qualora cultore non trovi
+						DET ADV NOUN	ITWAC	Capisci che un uomo del genere ha	un sì talento	musicale enorme , ma soprattutto una qualità umana altrettanto grande : quella di essere una persona semplice , incapace di nascondersi
+
+1	0	0	sì teatro
+						DET ADV ADJ NOUN	ITWAC	Scrive Kant in una delle sue pagine più belle che il mondo presente ci apre	un sì immenso teatro	di varietà , ordine , finalità e bellezza , sia che lo si persegua nella infinità dello spazio , o nella
+
+0	1	0	sì tema
+						DET ADV ADJ NOUN	REPUBBLICA	è pertanto benvenuta -- dopo le tante di vario taglio e merito riferite a	un sì vasto tema	-- una mostra come quella accolta ora a Milano dalla Fondazione Mazzotta : non solo intitolata ma interamente dedicata alla Brucke
+
+1	0	0	sì tempesta
+						DET ADV ADJ NOUN	ITWAC	a quei colpi di spada dati dalla signoria vostra a quello sventurato passeggero , dovesse tener dietro per la posta	una sì terribile tempesta	di bastonate qual fu quella che si scaricò sopra le nostre spalle ?
+
+1	0	0	sì tenore
+						DET ADV ADJ NOUN	ITWAC	Nessuno però dei confessori gli ordinò mai di tenere	un sì costante tenore	di comunicarsi nel giorno stesso della confessione .
+
+1	0	0	sì tensione
+						DET ADV ADJ NOUN	ITWAC	timo e rosmarino nei vari campioni odorati di Cinque Terre Bianco 2003 , con quello maturato sur lie che aveva	una sì bella tensione	sapida , un umore salmastroso , un battito minerale tale da allungarne la scia e renderla diritta e decisa .
+
+1	0	0	sì tenzona
+						DET ADV NOUN	ITWAC	Nel suo cuore dunque	il sì tenzona	col no .
+
+1	0	0	sì teorico
+						DET ADV NOUN	ITWAC	All' appello al rispetto reciproco il ministro leghista Roberto Calderoli ha risposto con	un sì teorico	.
+
+2	0	0	sì tesoro
+						DET ADV ADJ NOUN	ITWAC	Lorenzo ( m. 258 ) fu occasionato proprio dalla brama che il giudice aveva di mettere le mani addosso a	un sì grande tesoro	, che l' arcidiacono non aveva voluto consegnargli ( 10 ) .
+						DET ADV ADJ NOUN	ITWAC	e saccheggiate le ricche ville suburbane , poi si rimisero in mare e fecero ritorno a Pisa , riportando indietro	un sì grande tesoro	che bastò per cominciare la famosa fabbrica del Duomo , dove , infatti , c' è pure un' iscrizione del tempo
+
+3	0	0	sì testimonianza
+						DET ADV ADJ NOUN	ITWAC	Era guerriero il santo re David , al quale il Signore diede	una sì grande testimonianza	.
+						DET ADV ADJ NOUN	ITWAC	la tradizione di un popolo e i principi di una religione che , nel corso dei secoli , hanno dato	una sì alta testimonianza	di amore , di rispetto verso la persona umana .
+						DET ADV ADJ NOUN	ITWAC	nemico esteriore , ed ha promesso d' impiegar tutte le sue cure per condurvi alla perfezion militare Quanto giubìlo apporta	una sì grata testimonianza	nel cuore di tutt ' i Repubblicani , altrettanto avvilimento reca a ' depravati , e dispreggevoli nemici della Libertà .
+
+1	0	0	sì tocco
+						DET ADV ADJ NOUN	ITWAC	Capisco , peraltro , la difesa muliebre ad oltranza di	un sì bel tocco	di manzo ; d' altronde noi maschietti , davanti ad una quarta ben riempita facciamo numeri ben più ridicoli ...
+
+2	0	0	sì torto
+						DET ADV ADJ NOUN	ITWAC	E certamente io non sarò per fare	un sì gran torto	al nostro ritmo ( giacchè io servomi volentieri di una tale parola , che affatto non mi dispiace ) : imperocchè
+						DET ADV ADJ NOUN	ITWAC	Non fate a lei , non fate a me	un sì gran torto	.
+
+2	0	0	sì totale
+						DET ADJ ADV NOUN	ITWAC	dell' Annunciazione del Signore ci hanno offerto nuovi motivi per vivere ancora di più l' umiltà , l' obbedienza ,	il nostro sì totale	totale al Signore .
+						DET ADV NOUN	ITWAC	Penso che il feeling esistente fra la Madre Speranza e mia madre fosse costituito dalla sofferenza che le accomunava e	dal sì totale	all' Amore Misericordioso .
+
+1	0	0	sì trascuranza
+						DET ADV ADJ NOUN	ITWAC	Con sua licenza però , io non la credo vera	una sì gran trascuranza	degli stranieri ; ed ella mi permetterà anche di osservare che il bel « giardino di natura » non c' entra
+
+1	0	0	sì trattato
+						DET ADV ADJ NOUN	ITWAC	un trattato di alleanza colla Repubblica Francese contra i due Imperatori di Germania , e di Russia , e che	un sì bel trattato	sia opera del Cittadino Sieyes , mandato dal Direttorio alla Corte di Berlino per reprimere l' ambiziosa politica delle divisate due
+
+1	0	0	sì tratto
+						DET ADV ADJ NOUN	ITWAC	Ma se gli avverrà	un sì bel tratto	di sorte , non sarà per questo dappiù di altri italiani eruditi pieni d' ardore e di pazienza , che svolgono
+
+1	0	0	sì travaglio
+						DET ADV ADJ NOUN	ITWAC	Approdammo e , sbarcati , saremmo a lungo rimasti per terra , scampati com' eravamo ad	un sì grande travaglio	; tuttavia ci rimettemmo in piedi e scegliemmo trenta di noi per restare a guardia della nave , mentre venti ,
+
+1	0	0	sì trono
+						DET ADV ADJ NOUN	ITWAC	Non fu mai costruito	un sì magnifico trono	in nessun altro regno » ( I Re , 10 , 18 - 20 ) .
+
+1	0	0	sì turco
+						DET ADV NOUN	ITWAC	La maggior parte dei giornali afferma che dopo	il sì turco	cipriota , la questione di Cipro non può più essere un ostacolo alla adesione della Turchia all ?
+
+1	0	0	sì turpitudine
+						DET ADV ADJ NOUN	ITWAC	In quella città era diventata così abituale	una sì nefanda turpitudine	, che ormai la disonestà era onestà e veniva biasimato chi la biasimava anziché quello che la praticava .
+
+1	0	0	sì tutore
+						DET ADV ADJ NOUN	ITWAC	Benedetto Dio , che mi ha concesso la grazia di avere	un sì bravo tutore	al mio fianco .
+
+1	0	0	sì udienza
+						DET ADV ADJ NOUN	ITWAC	risoluzione unanima di qualunque persona di qualsisia condizione ebbe sì buono effetto che il Progettore fu talmente mortificato in vedere	una sì tenue udienza	al suo Oratorio ; che di due cento e settanta e piu persone che si ritrovavano nel Teatro , è manifesto
+
+0	1	0	sì ufficiale
+						DET ADV NOUN	REPUBBLICA	In questo caso , anche se	il sì ufficiale	sarà pronunciato solo oggi , i verdi scenderanno in campo sotto lo stendardo del sole che ride .
+
+2	0	0	sì ufficio
+						DET ADV ADJ NOUN	ITWAC	Anche in considerazione del fatto che l' istituzione di	un sì importante ufficio	giudiziario avrebbe comportato altresì la istituzione di uffici satellite come il tribunale per i minorenni , quello di sorveglianza , l'
+						DET ADV ADJ NOUN	ITWAC	evidente , compiere il proprio dovere di un ministro della Chiesa , non poteva senza danno alle anime , esercitare	un sì geloso ufficio	 .
+
+1	0	0	sì ulivista
+						DET ADV NOUN	ITWAC	Lo scatto d' orgoglio che ha accompagnato	il sì ulivista	al federalismo rischia d' essere già compromesso .
+
+3	1	0	sì uomo
+						DET ADV ADJ NOUN	ITWAC	BONARDA : Non so come avete fatto , nonostante tutto , a sposare	un sì meschino uomo	...
+						DET ADV ADJ NOUN	ITWAC	Se tu su questo argomento hai potuto apprendere da	un sì grand' uomo	qualcosa con cui si possa rispondere con ragione a coloro che son perplessi sulla sorte di tali bambini , ti prego
+						DET ADV ADJ NOUN	ITWAC	modo ne scapiterà la vostra riputazione e la vostra fama : vi sta meglio dissimulare l' offesa e non accogliere	un sì perfido uomo	a quest' ora , qui , sole : non vi dimenticate che siamo deboli donne ; ch ' egli è uomo
+						DET ADV ADJ NOUN	REPUBBLICA	l' imperatore lo definirà  una merda in una calza di seta  ) commenterà impassibile :  Peccato che	un sì grande uomo	sia così mal educato  .
+
+1	0	0	sì vaccata
+						DET ADV ADJ NOUN	ITWAC	Ma chi hai ascoltato sino ad oggi per dire	una sì grande vaccata	!?! Porco il mondo che boiata ragazzi ...
+
+1	0	0	sì vanità
+						DET ADV ADJ NOUN	ITWAC	Io non sosterrò che tutta la parte letteraria dalla Biblioteca sia distesa con	una sì spaventosa vanità	.
+
+1	0	0	sì vascello
+						DET ADV ADJ NOUN	ITWAC	  E si rovina o si tenta di rovinare	un sì magnifico vascello	aereo ?
+
+1	0	0	sì vello
+						DET ADV ADJ NOUN	ITWAC	La parola divina , aggiunse , è nobile in sè , non abbisogna di	un sì nobile vello	.
+
+1	0	0	sì vendetta
+						DET ADV ADJ NOUN	ITWAC	capace di questa totale omissione di se stesso , non si reputi stoltamente capace , né degno , di eseguire	una sì alta vendetta	; e si persuada , che meritava egli veramente l' oltraggio che ha ricevuto ; e pazientemente quindi sel goda .
+
+1	0	0	sì venditore
+						DET ADV ADJ NOUN	ITWAC	tarocchi ve li leggo dopo ) vengano riproposti , senza autenticazione alcuna se non il nome dell' esercente , da	un sì illustre venditore	.
+
+0	2	0	sì verbale
+						DET ADJ ADV NOUN	REPUBBLICA	In serata Ahtissaari ha telefonato al dittatore serbo strappando- gli	un nuovo sì verbale	verbale agli impegni di pace .
+						DET ADV NOUN	REPUBBLICA	sua posizione : non ci chiedono di firmare ( l' accordo , ndr ) , cominciano ad accontentar- si di	un sì verbale	 .
+
+2	0	0	sì viaggio
+						DET ADV ADJ NOUN	ITWAC	Mi dica , signore , si propone ella dunque di fare inutilmente	un sì gran viaggio	, e di trascurare e perdere l' occasione di un sì ricco e nobile matrimonio com' è questo , la cui
+						DET ADV ADJ NOUN	ITWAC	giorni di questa mia berlinata seconda , né per altra ragione mi vi trattenni che per riposarmivi un poco di	un sì disagiato viaggio	.
+
+1	0	0	sì villeggiatura
+						DET ADV ADJ NOUN	ITWAC	Alla prima , il rumore e la puzza di quel caos dopo	una sì lunga villeggiatura	, mi rattristarono assai .
+
+1	0	0	sì violenza
+						DET ADV ADJ NOUN	ITWAC	' era in ascolto ; da quella lettura venivano fuori dei delitti così inauditi che nessun orecchio avrebbe potuto sostenere	una sì terribile violenza	dello stesso veleno .
+
+1	0	0	sì virtù
+						DET ADV ADJ NOUN	ITWAC	spiegò ; a proposito di essa è stato da te chiesto qual ' è il tempo più conveniente per insegnare	una sì gran virtù	pure con l' azione .
+
+1	0	0	sì visto
+						DET ADV ADJ NOUN	ITWAC	Sharon nei giorni scorsi aveva espresso il suo sì al percorso verso la pace in Medio Oriente ,	un sì condizionato visto	che il premier ( da sempre portatore di una linea dura verso i palestinesi ) ha sottoposto agli Usa una serie
+
+1	0	1	sì vita
+						DET ADV ADJ NOUN	ITWAC	il profitto , che ricavano da così grandi tormenti , ed il bene , che possono sperare dagli stenti d'	una sì miserabile vita	.
+						DET ADV ADJ NOUN	WIKICONLL	, che ora infrange alle opposte scogliere il mare Tirreno , metti giudizio : purga i vini , e ,	in sì breve vita	, taglia una troppo lunga speranza .
+
+2	0	0	sì volte
+						DET ADV ADJ NOUN	ITWAC	cui conveniva , o dire un no più strano , più inaspettato , più scandaloso che mai , o ripetere	un sì tante volte	detto ; lo ripetè , e fu monaca per sempre .
+						DET ADV ADJ NOUN	ITWAC	cui conveniva , o dire un no più strano , più inaspettato , più scandaloso che mai , o ripetere	un sì tante volte	detto ; lo ripeté , e fu monaca per sempre .
+
+0	0	1	sì zuffa
+						DET ADV ADJ NOUN	WIKICONLL	Lo scontro , descritto ironicamente da Machiavelli ( che scrisse  Ed in tanta rotta e	in sì lunga zuffa	che durò dalle venti alle ventiquattro ore , non vi morì che un uomo , il quale non di ferite ne
+

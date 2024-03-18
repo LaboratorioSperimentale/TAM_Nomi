@@ -1,0 +1,279 @@
+prefix	TOT	ITWAC	REPUBBLICA	WIKICONLL	ADV-N	ERR	semantica nome	serve contesto	animato	valore prefisso
+pre	15	4	11	0	pre-accordi		processo	x
+pre	141	70	71	0	pre-accordo		processo	x
+pre	208	196	6	6	pre-adesione		processo	x		adesione di massima
+pre	13	13	0	0	pre-adolescente		condizione
+pre	44	38	0	6	pre-adolescenti		condizione			quasi adolescenti
+pre	28	28	0	0	pre-adolescenza		condizione
+pre	5	0	5	0	pre-adozione		processo	x		prima fase dell'adozione
+pre	4	4	0	0	pre-alfabetizzazione		processo	x		prima fase di alfabetizzazione
+pre	28	28	0	0	pre-alimentazione		processo	x
+pre	118	81	37	0	pre-allarme		condizione	x		x di minore intensità che precede la X vera e propria
+pre	33	24	9	0	pre-allerta		condizione	x
+pre	7	0	7	0	pre-alternativa	x		x
+pre	4	4	0	0	pre-ammissione		processo	x		ammissione preliminare
+pre	17	17	0	0	pre-ammortamento		processo	x
+pre	10	10	0	0	pre-analisi		processo	x		prime fasi di X
+pre	9	4	5	0	pre-anestesia		processo	x		x di minore intensità che precede la X vera e propria
+pre	9	9	0	0	pre-antipasto	x		x
+pre	148	130	14	4	pre-apertura	x		x
+pre	4	4	0	0	pre-aperture	x		x
+pre	5	5	0	0	pre-appello		evento	x		tipo di X che precede X vero e proprio
+pre	4	4	0	0	pre-approvazione		processo	x		tipo di X che precede X vero e proprio
+pre	4	4	0	0	pre-ascolto		processo	x		primo ascolto
+pre	6	0	6	0	pre-assegnazione		processo	x
+pre	4	0	4	0	pre-assemblea	x		x
+pre	23	14	5	4	pre-asta	x		x
+pre	10	10	0	0	Pre-atti	x		x
+pre	5	0	5	0	pre-aumento	x		x
+pre	4	4	0	0	pre-authentication	x
+pre	6	6	0	0	pre-battaglia		evento	x
+pre	7	0	0	7	pre-bellici	x
+pre	4	4	0	0	pre-benedettino	x
+pre	17	17	0	0	pre-boom	x		x
+pre	15	15	0	0	pre-cambio	x		x
+pre	4	4	0	0	pre-camera	x		x
+pre	13	0	13	0	pre-campagna		evento	x		prime fasi di X
+pre	222	137	41	44	pre-campionato	x		x
+pre	4	0	4	0	pre-cantiere	x		x
+pre	4	4	0	0	pre-chiamata	x		x
+pre	4	0	4	0	pre-cinema	x		x
+pre	4	4	0	0	pre-CIPE	x
+pre	4	4	0	0	pre-cog	x
+pre	4	0	4	0	pre-collocamento	x		x
+pre	22	22	0	0	pre-colloquio	x		x
+pre	5	0	0	5	pre-colombiano	x
+pre	4	0	4	0	pre-comizio	x		x
+pre	12	12	0	0	pre-comprensione	x		x
+pre	6	6	0	0	pre-comprensioni	x		x
+pre	7	7	0	0	pre-concepimento	x				-
+pre	7	7	0	0	pre-concerto	x		x
+pre	10	10	0	0	pre-concetti	x				x
+pre	314	244	65	5	pre-condizione		condizione	x		X precedente
+pre	194	142	52	0	pre-condizioni		condizione	x
+pre	18	18	0	0	Pre-Conferenza	x		x
+pre	356	356	0	0	Pre-conferenza	x		x
+pre	52	47	5	0	pre-conferenza	x		x
+pre	11	11	0	0	pre-Conferenza	x		x
+pre	38	38	0	0	pre-conferenze	x		x
+pre	24	24	0	0	Pre-conferenze	x		x
+pre	12	12	0	0	pre-Conferenze	x		x
+pre	6	6	0	0	pre-congedo	x		x
+pre	9	0	9	0	pre-congresso	x		x
+pre	18	18	0	0	pre-conoscenze		condizione			x precedente
+pre	13	0	13	0	pre-consiglio	x		x
+pre	5	0	5	0	pre-consultazione		processo	x		x preliminare
+pre	41	22	19	0	pre-consuntivo	x		x
+pre	256	251	5	0	pre-contratti		evento	x
+pre	292	258	24	10	pre-contratto		evento	x
+pre	6	6	0	0	Pre-contratto		evento	x
+pre	6	6	0	0	pre-convegno	x		x
+pre	8	0	0	8	pre-convocati	x		x
+pre	6	6	0	0	pre-corsi	x		x
+pre	8	0	8	0	pre-crac	x		x
+pre	4	0	4	0	pre-crack	x		x
+pre	4	4	0	0	pre-crimine	x		x
+pre	49	9	36	4	pre-crisi	x		x
+pre	18	0	0	18	Pre-Crisi	x		x
+pre	42	0	0	42	pre-Crisi	x		x
+pre	7	0	0	7	Pre-Crisis	x
+pre	13	0	0	13	pre-Crisis	x
+pre	7	0	0	7	pre-cristiani	x		x
+pre	4	4	0	0	pre-cultura		concetto	x		quasi-cultura inca
+pre	4	0	0	4	Pre-debutto	x		x
+pre	20	20	0	0	Pre-decoder	x		x
+pre	10	6	4	0	pre-derby	x		x
+pre	4	4	0	0	pre-dimissione	x		x
+pre	5	0	5	0	pre-dimissioni	x		x
+pre	10	10	0	0	pre-disco	x		x
+pre	4	4	0	0	pre-doc	x
+pre	4	0	0	4	Pre-dreadnought	x
+pre	4	0	0	4	pre-Dreadnought	x
+pre	38	0	0	38	pre-dreadnought	x
+pre	59	59	0	0	pre-eclampsia	x		x
+pre	7	0	0	7	pre-elaborazione	x		x
+pre	25	0	25	0	pre-elettorale	x
+pre	9	0	9	0	pre-elettorali	x
+pre	4	4	0	0	pre-elezioni	x		x
+pre	239	209	30	0	pre-embrione	x		x
+pre	50	34	16	0	pre-embrioni	x		x
+pre	27	19	0	8	pre-emergenza		condizione	x		x di minore intensità che precede la X vera e propria
+pre	1520	1507	13	0	pre-esame		evento	x		x che precede x vero e proprio
+pre	34	34	0	0	Pre-esame		evento	x
+pre	4	0	4	0	pre-esami		evento	x
+pre	19	5	0	14	pre-esercizio	x		x
+pre	7	0	0	7	pre-esistenti	x
+pre	16	10	0	6	pre-esistenza	x		x
+pre	14	9	0	5	pre-esposizione	x		x
+pre	19	19	0	0	pre-euro	x				-
+pre	20	0	0	20	pre-evoluzione	x		x
+pre	85	0	0	85	pre-evoluzioni	x		x
+pre	4	4	0	0	pre-fase	x				-
+pre	4	4	0	0	pre-fatti	x
+pre	54	54	0	0	pre-fattibilità	x				-
+pre	5	0	5	0	pre-ferie	x		x
+pre	6	0	6	0	pre-festival	x		x
+pre	9	9	0	0	pre-finale	x		x
+pre	5	5	0	0	pre-finanziamento		processo	x
+pre	4	0	0	4	pre-flop	x		x
+pre	14	14	0	0	pre-formazione	x		x
+pre	6	0	6	0	pre-fusione	x		x
+pre	227	206	11	10	pre-gara	x		x
+pre	17	0	0	17	Pre-gara	x		x
+pre	114	107	7	0	pre-giudizi	x				x
+pre	128	120	8	0	pre-giudizio	x				x
+pre	4	0	4	0	pre-golpe	x		x
+pre	14	4	0	10	pre-guerra	x		x
+pre	5	5	0	0	pre-home	x
+pre	6	0	0	6	Pre-Illinoiano	x
+pre	11	11	0	0	pre-immatricolazione	x				x
+pre	819	808	7	4	pre-impianto	x		x
+pre	18	0	18	0	pre-imposte	x		x
+pre	4	4	0	0	pre-impresa	x		x
+pre	8	0	8	0	pre-inaugurazione	x		x
+pre	4	0	4	0	pre-inchiesta		processo	x
+pre	10	4	6	0	pre-incontro		evento	x		x preliminare
+pre	5	5	0	0	pre-incremento	x		x
+pre	6	0	6	0	pre-indagine		processo	x		X preliminare
+pre	4	0	0	4	pre-indoeuropea	x
+pre	6	0	6	0	pre-infarto		evento?	x		quasi infarto
+pre	9	4	0	5	pre-infortunio	x				-
+pre	4	4	0	0	pre-ingressi		processo	x		NB nomi al plurale!
+pre	4	4	0	0	pre-inserimento	x		x
+pre	8	8	0	0	pre-installazione	x		x
+pre	10	6	0	4	pre-intervento	x		x
+pre	126	97	29	0	pre-intesa		evento	x
+pre	6	0	6	0	pre-invasione	x		x
+pre	9	9	0	0	pre-investimento	x		x
+pre	8	8	0	0	pre-ira	x				-
+pre	6	6	0	0	pre-iscritti		condizione	x
+pre	405	400	5	0	pre-iscrizione		condizione	x
+pre	201	190	11	0	pre-iscrizioni		condizione	x
+pre	5	5	0	0	Pre-iscrizioni		condizione	x		X da confermare!!
+pre	12	12	0	0	pre-istruttoria	x		x
+pre	4	0	0	4	Pre-Juniores	x		x
+pre	25	0	0	25	pre-juniores	x		x
+pre	8	4	0	4	pre-lancio	x		x
+pre	7	0	0	7	Pre-lancio	x		x
+pre	28	28	0	0	pre-laurea	x		x
+pre	4	4	0	0	pre-lettura	x		x
+pre	8	0	0	8	Pre-Libertadores	x
+pre	5	0	5	0	pre-maman	x
+pre	6	0	0	6	pre-metro	x				-
+pre	5	0	0	5	pre-miRNA	x
+pre	8	8	0	0	pre-modernità	x		x
+pre	5	0	5	0	pre-mondiali	x		x
+pre	53	42	0	11	pre-morte	x				-
+pre	18	0	0	18	pre-mRNA	x		x
+pre	4	4	0	0	pre-mutazione	x		x
+pre	6	0	6	0	pre-natalizi	x
+pre	5	0	5	0	pre-natalizio	x
+pre	5	5	0	0	pre-negoziati	x		x
+pre	14	0	14	0	pre-negoziato	x		x
+pre	8	0	0	8	Pre-Nettariano	x
+pre	5	0	5	0	pre-offerte		processo	x
+pre	4	0	0	4	pre-olimpica	x
+pre	5	0	5	0	pre-olimpico	x
+pre	7	0	0	7	Pre-Olímpico	x
+pre	4	0	0	4	pre-Ora	x
+pre	4	0	0	4	pre-order	x
+pre	10	0	0	10	pre-ordine		evento	x
+pre	8	4	0	4	pre-ordini		evento	x
+pre	77	77	0	0	pre-pagamento	x		x
+pre	106	106	0	0	pre-parco	x				-
+pre	5	5	0	0	pre-Parco	x				-
+pre	18	18	0	0	pre-partenza	x				-
+pre	201	164	19	18	pre-partita	x		x
+pre	153	0	153	0	pre-pensionamenti	x		x
+pre	87	37	46	4	pre-pensionamento	x		x
+pre	6	0	6	0	pre-pensionarsi	x
+pre	10	0	10	0	pre-pensionati	x				x
+pre	5	0	5	0	pre-pensionato		condizione			X prima del tempo normale
+pre	4	0	4	0	pre-pop		movimento	x
+pre	37	37	0	0	pre-post	x
+pre	6	6	0	0	pre-press	x
+pre	25	19	6	0	pre-primavera	x		x
+pre	26	26	0	0	pre-print	x
+pre	7	7	0	0	pre-procedura	x		x
+pre	9	5	0	4	pre-processing	x
+pre	13	0	13	0	pre-processo	x		x
+pre	7	7	0	0	pre-processore	x		x
+pre	654	368	22	264	pre-produzione	x				-
+pre	4	0	0	4	Pre-Produzione	x				-
+pre	13	0	0	13	Pre-produzione	x				-
+pre	8	8	0	0	pre-proposta		evento	x
+pre	4	4	0	0	pre-qualifica	x		x
+pre	21	15	0	6	pre-qualificazione	x		x
+pre	23	0	14	9	pre-qualifiche	x		x
+pre	7	0	7	0	pre-raffaelliti	x		x
+pre	5	0	5	0	pre-razzismo	x		x
+pre	4	0	0	4	pre-RC	x
+pre	8	0	8	0	pre-recessione	x		x
+pre	4	0	4	0	pre-referendum	x		x
+pre	19	19	0	0	pre-regata	x		x
+pre	55	50	5	0	pre-registrazione	x		x
+pre	38	0	38	0	pre-relazione	x		x
+pre	21	16	0	5	pre-release	x
+pre	46	0	0	46	Pre-Release	x
+pre	4	0	0	4	pre-replicazione	x				-
+pre	63	63	0	0	Pre-requisiti		condizione			x
+pre	247	231	11	5	pre-requisiti		condizione			x
+pre	199	175	19	5	pre-requisito		condizione			x
+pre	10	0	0	10	pre-restyling	x		x
+pre	5	5	0	0	pre-riconoscimento		processo	x
+pre	69	58	11	0	pre-riforma	x		x
+pre	27	0	0	27	pre-rilascio	x				-
+pre	7	0	0	7	pre-riscaldamento	x		x
+pre	46	46	0	0	pre-riserva	x				-
+pre	42	33	9	0	pre-ritiro	x		x
+pre	14	5	9	0	pre-riunione	x		x
+pre	21	8	13	0	pre-rivoluzione	x		x
+pre	8	0	0	8	pre-RNA	x				-
+pre	7	0	0	7	pre-romana	x
+pre	643	643	0	0	pre-ruolo	x		x
+pre	7	0	0	7	pre-scoperta	x		x
+pre	4	4	0	0	pre-screening	x		x
+pre	4	4	0	0	pre-scrittura	x		x
+pre	81	81	0	0	pre-scuola	x		x
+pre	26	4	0	22	pre-season	x
+pre	7	0	0	7	Pre-Season	x
+pre	4	0	0	4	Pre-season	x
+pre	14	0	0	14	pre-selezionati		condizione			X in via preliminare e temporanea, da confermare
+pre	215	191	18	6	pre-selezione		evento			x
+pre	10	0	5	5	pre-selezioni		evento			x
+pre	4	0	4	0	pre-sentenza	x		x
+pre	107	18	0	89	pre-sequenza	x		x
+pre	16	0	12	4	pre-serale	x		x
+pre	52	52	0	0	Pre-serata	x		x
+pre	11	11	0	0	pre-serata	x		x
+pre	109	18	5	86	pre-serie	x				-
+pre	7	0	0	7	pre-show	x		x
+pre	5	0	5	0	pre-sondaggio	x		x
+pre	55	35	0	20	pre-stagione	x				-
+pre	8	8	0	0	pre-stampa	x				-
+pre	4	0	4	0	pre-summit	x		x
+pre	6	0	6	0	pre-tangentopoli	x				-
+pre	18	8	10	0	pre-tasse	x		x
+pre	8	0	8	0	pre-tattica	x		x
+pre	18	18	0	0	pre-termine	x				-
+pre	86	86	0	0	pre-test		evento	x
+pre	5	5	0	0	Pre-test		evento	x
+pre	4	4	0	0	Pre-testi	x
+pre	5	5	0	0	pre-testi	x
+pre	59	51	8	0	pre-testo	x
+pre	27	27	0	0	preti-operai	x
+pre	10	10	0	0	pre-trapianto	x				-
+pre	92	92	0	0	pre-trattamento	x		x
+pre	6	0	6	0	pre-trattativa	x		x
+pre	14	14	0	0	pre-tribolazione	x				x
+pre	5	0	5	0	pre-ultimatum	x				x
+pre	4	0	0	4	pre-unitari	x
+pre	6	6	0	0	pre-urbanizzazione	x		x
+pre	12	12	0	0	pre-valutazione		processo			X preliminare da confermare
+pre	5	5	0	0	pre-veggenza	x				-
+pre	23	9	8	6	pre-vendita		evento			X che accade prima del normale
+pre	46	23	23	0	pre-vertice	x				x
+pre	5	5	0	0	pre-visione	x				-
+pre	21	17	0	4	pre-volo	x				-
+pre	16	11	5	0	pre-voto	x		x
+pre	14	14	0	0	pre-zona	x				-

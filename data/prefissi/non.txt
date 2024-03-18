@@ -1,0 +1,295 @@
+prefix	TOT	ITWAC	REPUBBLICA	WIKICONLL	ADV-N	ERR	semantica nome	serve contesto	animato	valore prefisso
+non	20	4	0	16	non-A		-
+non	4	0	0	4	non-accettazione		processo	x
+non	6	0	6	0	non-accordo		processo	x
+non	22	22	0	0	non-acquisto		-	x
+non	41	0	13	28	non-aggressione		-	x
+non	43	13	23	7	non-allineamento		-	x
+non	37	0	37	0	non-allineati	x
+non	5	0	5	0	non-americani		-	x
+non	5	0	5	0	non-americano		-	x
+non	17	12	5	0	non-amore		stato/condizione/entità	x
+non	4	4	0	0	non-anima		entità	x
+non	6	6	0	0	non-anime	 	entità
+non	18	13	5	0	non-appartenenza		-	x
+non	5	0	0	5	non-arabi		-	x
+non	27	19	8	0	non-arte		concetto/entità	x
+non	13	13	0	0	non-attaccamento		-	x
+non	5	5	0	0	non-attendees	x
+non	9	0	9	0	non-attore		mestiere	x
+non	17	4	13	0	non-attori		mestiere	x
+non	90	86	4	0	non-autosufficienza		-
+non	4	4	0	0	non-Avventisti		-
+non	45	40	5	0	non-azione		?	x
+non	6	6	0	0	non-b		-
+non	30	4	17	9	non-belligeranza		-
+non	13	0	4	9	non-bianchi		-
+non	4	0	0	4	non-bianco		-
+non	4	4	0	0	non-binding	x
+non	6	6	0	0	non-blocking	x
+non	4	4	0	0	non-blog	x
+non	4	0	0	4	non-breaking	x
+non	5	5	0	0	non-brevettabilità		-
+non	6	6	0	0	non-cacheable	x
+non	4	4	0	0	non-calciatore		mestiere	x
+non	4	0	4	0	non-candidati		-	x
+non	11	0	11	0	non-candidato			x
+non	5	0	5	0	non-candidatura		-	x
+non	4	0	4	0	non-cantanti		-	x
+non	4	4	0	0	non-carcere		condizione?	x
+non	14	0	0	14	non-carnivore	x
+non	4	0	0	4	non-cattolici		-
+non	4	0	4	0	non-chalance	x
+non	40	29	5	6	non-cittadini		condizione	x
+non	14	14	0	0	non-cittadino		condizione?	x
+non	4	4	0	0	non-civiltà		condizione/concetto	x
+non	4	4	0	0	non-cognitivismo		-
+non	109	95	8	6	non-collaborazione		-	x
+non	54	47	7	0	non-colore		entità	x
+non	5	0	5	0	non-colpevolezza		-
+non	18	4	0	14	non-combattenti		-
+non	15	15	0	0	non-commercial	x
+non	11	6	5	0	non-compleanno		-	x
+non	5	5	0	0	non-compliance	x
+non	39	20	15	4	non-comunicazione		condizione	x
+non	7	0	7	0	non-comunista		-	x
+non	9	0	9	0	non-comunisti		-	x
+non	4	0	4	0	non-condanna		-	x
+non	4	4	0	0	non-confessionalità		-
+non	8	0	8	0	non-conformismo		-
+non	8	0	0	8	non-conformisti		-
+non	5	5	0	0	non-conformità		-
+non	51	51	0	0	non-conoscenza		stato	x
+non	5	5	0	0	non-contraddittorietà		-
+non	154	110	7	37	non-contraddizione		-
+non	4	0	4	0	non-controllo		-	x
+non	123	118	0	5	non-cooperazione		-	x
+non	10	10	0	0	non-credente		condizione
+non	22	8	10	4	non-credenti		condizione
+non	5	0	5	0	non-credenza		-
+non	23	10	0	13	non-cristiani		-
+non	44	37	7	0	non-cultura		entità	x
+non	6	0	6	0	non-danza		entità	x
+non	21	9	12	0	non-decisione		processo	x
+non	4	0	4	0	non-decisioni		processo	x
+non	5	5	0	0	non-democrazia		condizione	x
+non	16	16	0	0	non-descrittori		-
+non	19	0	13	6	non-detto		-
+non	6	0	6	0	non-dialogo		?	x
+non	4	4	0	0	non-differenza		-	x
+non	20	20	0	0	non-diffusione		-
+non	4	0	4	0	non-dimissioni			x
+non	46	46	0	0	non-Dinosauri		-
+non	6	6	0	0	non-directory	x
+non	4	4	0	0	non-direttività		-
+non	200	189	4	7	non-discriminazione		-
+non	10	5	0	5	non-disgiunzione		-
+non	8	0	0	8	non-Disney		-
+non	4	4	0	0	non-distinzione			x
+non	4	4	0	0	non-divisione			x
+non	4	4	0	0	non-dominio		-
+non	18	4	14	0	non-ds	x
+non	22	8	0	14	non-dualismo			x
+non	31	22	0	9	non-dualità			x
+non	60	35	10	15	non-ebrei		-
+non	12	7	5	0	non-ebreo		-
+non	4	0	4	0	non-eletti		-
+non	6	6	0	0	non-energia		-
+non	4	4	0	0	non-ente			x
+non	8	0	0	8	non-entità			x
+non	54	41	0	13	non-equilibrio			x
+non	6	0	6	0	non-eroi			x
+non	150	120	11	19	non-esistenza			x
+non	13	13	0	0	non-esperienza			x
+non	4	4	0	0	non-esperto			x
+non	5	0	5	0	non-esserci	x
+non	273	150	13	110	non-essere			x
+non	4	0	4	0	non-eventi			x
+non	21	8	13	0	non-evento			x
+non	4	4	0	0	non-evidenza			x
+non	41	0	0	41	non-famiglie			x
+non	4	0	4	0	non-fare	x
+non	120	78	28	14	non-fiction		-
+non	4	0	0	4	non-fidanzata			x
+non	8	0	8	0	non-film			x
+non	11	7	0	4	non-filosofia			x
+non	4	4	0	0	non-filosofo			x
+non	13	0	7	6	non-finito		-
+non	4	4	0	0	non-fisico		-
+non	6	0	6	0	non-food	x
+non	4	4	0	0	non-FR	x
+non	7	0	0	7	non-free	x
+non	5	0	5	0	non-fumatore		-
+non	116	82	29	5	non-fumatori		-
+non	5	0	0	5	non-gaussianità		-
+non	6	0	6	0	non-gestione			x
+non	4	4	0	0	non-giocatori		-
+non	32	13	19	0	non-gioco			x
+non	8	8	0	0	non-giudei		-
+non	7	0	7	0	non-gol			x
+non	51	6	45	0	non-governo			x
+non	24	18	6	0	non-guerra			x
+non	5	0	0	5	non-Han	x
+non	6	0	0	6	non-Hodgkin	x
+non	48	48	0	0	non-ht	x
+non	13	9	0	4	non-identità			x
+non	4	0	4	0	non-impegno			x
+non	14	14	0	0	non-informazione			x
+non	16	5	11	0	non-ingerenza		-
+non	5	5	0	0	non-insulin	x
+non	4	4	0	0	non-insulin-dependent	x
+non	9	9	0	0	non-insulino	x
+non	4	0	4	0	non-intellettualismo			x
+non	31	4	14	13	non-interferenza			x
+non	14	0	0	14	non-interventismo		-
+non	87	50	23	14	non-intervento			x
+non	5	0	5	0	non-intervista			x
+non	41	32	0	9	non-Io		-
+non	11	11	0	0	non-IO		-
+non	44	0	4	40	non-io		-
+non	8	8	0	0	non-iscritti		-
+non	4	0	0	4	non-italiani		-
+non	14	14	0	0	non-Jews		-
+non	121	91	30	0	non-lavoro			x
+non	4	0	0	4	non-league	x
+non	6	0	6	0	non-lettore		-
+non	33	12	21	0	non-lettori		-
+non	11	11	0	0	non-libertà		-
+non	13	0	13	0	non-libri			x
+non	7	0	7	0	non-libro			x
+non	4	0	0	4	non-linear	x
+non	120	96	0	24	non-linearità		-
+non	26	19	0	7	non-località			x
+non	222	212	10	0	non-luoghi			x
+non	428	387	28	13	non-luogo			x
+non	14	14	0	0	non-manifesto			x
+non	17	9	0	8	non-membri		-
+non	15	15	0	0	non-metalli		-
+non	6	0	0	6	non-metallo		-
+non	4	4	0	0	non-metodo			x
+non	20	20	0	0	non-miglioramento			x
+non	8	0	8	0	non-mondo			x
+non	4	4	0	0	non-monumento			x
+non	30	24	0	6	non-morta			x
+non	28	12	0	16	non-morte			x
+non	471	322	0	149	non-morti			x
+non	261	217	0	44	non-morto
+non	5	0	0	5	non-mosso	x
+non	4	0	4	0	non-musicista		-
+non	19	0	5	14	non-musulmani		-
+non	4	4	0	0	non-nascondimento		-
+non	4	0	4	0	non-nati		-
+non	4	4	0	0	non-nativo		-
+non	14	0	0	14	non-nave			x
+non	5	5	0	0	non-nemico			x
+non	42	42	0	0	non-neutralità		-
+non	89	71	18	0	non-notizia			x
+non	10	4	6	0	non-notizie			x
+non	6	6	0	0	non-obbligo			x
+non	5	0	5	0	non-obiettori		-
+non	6	6	0	0	non-occidente		-
+non	4	0	4	0	non-occupazione			x
+non	6	0	0	6	non-OGM		-
+non	4	0	4	0	non-opera			x
+non	4	0	4	0	non-opposizione			x
+non	4	0	4	0	non-p	x
+non	4	4	0	0	non-pacifista		-
+non	4	0	4	0	non-paper	x
+non	5	5	0	0	non-parole			x
+non	5	0	5	0	non-partecipazione			x
+non	6	0	6	0	non-partita			x
+non	15	4	11	0	non-partito			x
+non	119	119	0	0	non-pensiero			x
+non	4	0	4	0	non-permanenti	x
+non	20	13	7	0	non-persona			x
+non	70	58	12	0	non-persone			x
+non	4	0	4	0	non-pittura		-
+non	13	9	0	4	non-poesia		-
+non	16	0	16	0	non-politica			x
+non	4	0	4	0	non-politici		-
+non	4	4	0	0	non-possesso		-
+non	14	7	7	0	non-potere			x
+non	6	6	0	0	non-premi		-
+non	9	4	5	0	non-presenza			x
+non	17	10	7	0	non-problema			x
+non	4	4	0	0	non-processabilità		-
+non	5	5	0	0	non-professionisti		-
+non	1828	1544	97	187	non-profit	x
+non	171	171	0	0	non-prolifération	x
+non	115	62	47	6	non-proliferazione		-
+non	14	9	5	0	non-protagonista		-
+non	10	4	6	0	non-protagonisti		-
+non	11	5	6	0	non-punibilità		-
+non	8	0	8	0	non-ragione			x
+non	5	0	5	0	non-realismo		-
+non	9	9	0	0	non-realtà			x
+non	4	4	0	0	non-recurring	x
+non	36	36	0	0	non-refoulement	x
+non	4	0	4	0	non-regia			x
+non	7	0	7	0	non-residenti		-
+non	5	0	0	5	non-residuo		-
+non	8	8	0	0	non-responsabilità			x
+non	4	4	0	0	non-retail	x
+non	4	0	0	4	non-riconoscimento			x
+non	4	0	4	0	non-riforma			x
+non	12	4	8	0	non-rispetto			x
+non	19	10	9	0	non-risposta			x
+non	90	68	17	5	non-ritorno		-
+non	4	4	0	0	non-rom		-
+non	4	0	0	4	non-romani		-
+non	29	20	9	0	non-sapere			x
+non	13	0	13	0	non-scelta			x
+non	7	0	7	0	non-scelte			x
+non	17	11	0	6	non-scienza		-
+non	6	0	0	6	non-scuola		-
+non	6	0	0	6	non-sé		-
+non	18	6	0	12	non-self	x
+non	171	136	22	13	non-sense	x
+non	5	5	0	0	non-sensi	x
+non	429	372	40	17	non-senso			x
+non	4	4	0	0	non-separabilità		-
+non	6	0	6	0	non-serbi		-
+non	4	0	4	0	non-serietà		-
+non	7	0	7	0	non-sfiducia			x
+non	4	0	4	0	non-socialista		-
+non	10	0	4	6	non-socialisti		-
+non	6	6	0	0	non-soggetti		-
+non	12	5	7	0	non-soluzione			x
+non	4	0	0	4	non-sostanzialità		-
+non	4	4	0	0	non-sovrapposizione		-
+non	4	4	0	0	non-spazio-tempo		-
+non	5	0	5	0	non-spettacolo			x
+non	8	8	0	0	non-spreco		-
+non	5	5	0	0	non-SSIS	x
+non	30	0	0	30	non-standard			x
+non	12	5	7	0	non-stile			x
+non	728	357	305	66	non-stop	x
+non	63	44	19	0	non-storia			x
+non	4	0	4	0	non-storie			x
+non	10	10	0	0	non-straniero	x
+non	8	8	0	0	non-sviluppo			x
+non	4	4	0	0	non-tacco		-
+non	5	5	0	0	non-target			x
+non	4	0	4	0	non-teatro			x
+non	52	48	4	0	non-tempo			x
+non	6	0	0	6	non-terminale	x
+non	7	0	0	7	non-title	x
+non	4	4	0	0	non-tombola			x
+non	4	4	0	0	non-transaction	x
+non	5	0	5	0	non-udenti		-
+non	5	5	0	0	non-ulivista	x
+non	16	0	0	16	non-umani	x
+non	4	0	4	0	non-uomini			x
+non	19	19	0	0	non-uomo			x
+non	5	0	5	0	non-valore		-
+non	5	0	5	0	non-valori		-
+non	10	0	10	0	non-vedenti		-
+non	37	37	0	0	non-vegetariani			x
+non	62	53	9	0	non-verità			x
+non	13	13	0	0	non-violence	x
+non	10	0	6	4	non-violento	x
+non	1610	1430	110	70	non-violenza		-
+non	217	185	19	13	non-vita		-
+non	4	4	0	0	non-vlax	x
+non	16	9	7	0	non-volontà		x
+non	298	237	61	0	non-voto		x

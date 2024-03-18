@@ -1,0 +1,13 @@
+prefix	TOT	ITWAC	REPUBBLICA	WIKICONLL	ADV-N	ERR	semantica nome	serve contesto	animato	valore prefisso
+quasi	16	16	0	0	quasi-città		condizione	x
+quasi	44	44	0	0	quasi-collisione		-
+quasi	23	23	0	0	quasi-cristalli		-
+quasi	19	19	0	0	quasi-delitti		evento	x
+quasi	7	7	0	0	quasi-delitto		evento	x
+quasi	25	25	0	0	quasi-domicilio		condizione
+quasi	6	6	0	0	quasi-mercati		condizione	x
+quasi	41	41	0	0	quasi-monopolio		grado
+quasi	5	0	0	5	Quasi-Psycommu	x
+quasi	4	4	0	0	quasi-società		condizione
+quasi	4	4	0	0	quasi-suicidio		evento
+quasi	4	0	0	4	Quasi-Zenith		condizione

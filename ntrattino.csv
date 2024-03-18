@@ -1,931 +1,1628 @@
-ante	7	7	0	0	ante-guerra	-	
-ante	8	8	0	0	ante-riforma	-	
-dopo	4	4	0	0	dopo-elezioni	-	
-dopo	55	55	0	0	dopo-guerra	-	
-dopo	4	4	0	0	dopo-Indire	-	
-dopo	4	4	0	0	dopo-mensa	-	
-dopo	9	9	0	0	dopo-partita	-	
-dopo	16	16	0	0	dopo-scuola	-	
-dopo	4	4	0	0	dopo-terremoto	-	
-neo	102	48	31	23	neo-acquisto	x	
-neo	5	0	5	0	neo-alleati	x	
-neo	19	0	4	15	neo-allenatore	x	
-neo	25	0	25	0	neo-ambasciatore	x	
-neo	33	0	33	0	neo-amministratore	x	
-neo	12	12	0	0	neo-aristotelismo	-	
-neo	42	22	20	0	neo-assessore	x	
-neo	452	401	51	0	neo-assunti	x	
-neo	21	21	0	0	Neo-assunti	x	
-neo	127	116	7	4	neo-assunto	x	
-neo	4	0	4	0	neo-attore	x	
-neo	6	0	6	0	neo-autonomi		x
-neo	5	0	5	0	neo-autoritarismo	x	
-neo	84	34	43	7	neo-avanguardia		x
-neo	5	5	0	0	Neo-Avanguardia		x
-neo	24	10	10	4	neo-avanguardie		x
-neo	4	0	4	0	neo-azionista	x	
-neo	9	0	9	0	neo-azionisti	x	
-neo	4	0	4	0	neo-borghesia	x	
-neo	50	13	19	18	neo-campione	x	
-neo	18	0	14	4	neo-campioni	x	
-neo	7	0	7	0	neo-cancelliere	x	
-neo	6	0	6	0	neo-candidato	x	
-neo	23	4	19	0	neo-capitalismo	x	
-neo	6	0	0	6	neo-capitano	x	
-neo	17	0	17	0	neo-capo	x	
-neo	10	0	10	0	neo-cardinale	x	
-neo	4	0	4	0	neo-cavalieri	x	
-neo	41	35	6	0	neo-centralismo		x
-neo	18	0	18	0	neo-centrismo		x
-neo	4	0	4	0	neo-centristi	x	
-neo	5	0	5	0	neo-classica		x
-neo	25	0	13	12	neo-classicismo		x
-neo	4	0	4	0	neo-classicista	-	
-neo	6	6	0	0	neo-codacons		x
-neo	78	62	10	6	neo-colonialismo	x	
-neo	19	0	19	0	neo-commissario	x	
-neo	11	0	11	0	neo-comunismo		x
-neo	10	0	10	0	neo-comunista		x
-neo	76	8	68	0	neo-comunisti		x
-neo	7	0	7	0	neo-comunitarismo		x
-neo	4	4	0	0	neo-conduttori	x	
-neo	29	20	9	0	neo-conservatore		x
-neo	277	262	15	0	neo-conservatori		x
-neo	22	16	6	0	neo-conservatorismo		x
-neo	29	5	24	0	neo-consigliere	x	
-neo	22	0	22	0	neo-consiglieri	x	
-neo	10	0	10	0	neo-consociativismo		x
-neo	4	0	4	0	neo-contrattualismo		x
-neo	6	0	0	6	neo-convertiti	x	
-neo	4	0	4	0	neo-corporativismo		x
-neo	19	0	0	19	neo-cristiani	x	
-neo	17	17	0	0	neo-criticismo		x
-neo	12	0	12	0	neo-cubismo		x
-neo	9	0	0	9	Neo-Dada		x
-neo	4	4	0	0	neo-delegati	x	
-neo	4	0	4	0	neo-deputata	x	
-neo	4	0	4	0	neo-deputati	x	
-neo	22	0	22	0	neo-deputato	x	
-neo	81	61	20	0	neo-diplomati	x	
-neo	164	41	115	8	neo-direttore	x	
-neo	8	0	8	0	neo-direttori	x	
-neo	10	0	10	0	neo-dottore	x	
-neo	9	0	9	0	neo-eletta	x	
-neo	71	46	21	4	neo-eletti	x	
-neo	305	211	61	33	neo-eletto	x	
-neo	4	4	0	0	neo-emittente	x	
-neo	19	4	15	0	neo-espressionismo		x
-neo	4	0	0	4	neo-eurasiatismo		x
-neo	40	15	25	0	neo-fascismo		x
-neo	9	0	9	0	neo-fascista		x
-neo	42	0	42	0	neo-fascisti		x
-neo	13	13	0	0	neo-fondamentalismo		x
-neo	4	4	0	0	neo-fondamentalisti		x
-neo	5	5	0	0	neo-formazione	x	
-neo	42	37	5	0	neo-genitori	x	
-neo	5	5	0	0	neo-gnosticismo		x
-neo	6	0	6	0	neo-gollismo		x
-neo	35	0	35	0	neo-gollista		x
-neo	48	0	48	0	neo-gollisti		x
-neo	4	0	0	4	neo-gotico		x
-neo	26	0	22	4	neo-governatore	x	
-neo	4	0	4	0	neo-governo	x	
-neo	6	6	0	0	neo-guelfismo		x
-neo	29	19	10	0	neo-guerra		x
-neo	4	0	4	0	neo-hippie		x
-neo	11	6	5	0	neo-idealismo		x
-neo	6	0	6	0	neo-illuminismo		x
-neo	4	0	0	4	neo-imperatore	x	
-neo	26	21	5	0	neo-imprenditore	x	
-neo	94	83	11	0	neo-imprenditori	x	
-neo	4	4	0	0	neo-impresa	x	
-neo	36	36	0	0	neo-imprese	x	
-neo	5	0	5	0	neo-impressionisti		x
-neo	4	0	4	0	neo-individualismo		x
-neo	12	8	4	0	neo-ingegnere	x	
-neo	4	0	4	0	neo-integralismo		x
-neo	15	11	4	0	neo-iscritti	x	
-neo	7	0	7	0	neo-isolazionismo		x
-neo	4	4	0	0	neo-istituzionalismo		x
-neo	5	0	5	0	neo-italiano	x	
-neo	5	0	0	5	neo-ittiti		x
-neo	6	0	6	0	neo-juventino	x	
-neo	9	9	0	0	neo-laureata	x	
-neo	475	417	54	4	neo-laureati	x	
-neo	75	66	9	0	neo-laureato	x	
-neo	23	4	19	0	neo-leader	x	
-neo	7	0	7	0	neo-liberale		x
-neo	25	14	11	0	neo-liberali		x
-neo	46	33	9	4	neo-liberalismo		x
-neo	321	284	37	0	neo-liberismo		x
-neo	15	5	10	0	neo-liberista		x
-neo	68	62	6	0	neo-liberiste		x
-neo	18	6	12	0	neo-liberisti		x
-neo	4	4	0	0	neo-lingua	x	
-neo	4	0	4	0	neo-madre	x	
-neo	12	12	0	0	neo-madri	x	
-neo	97	83	14	0	neo-mamma	x	
-neo	142	127	15	0	neo-mamme	x	
-neo	5	0	5	0	neo-manager	x	
-neo	18	0	7	11	neo-marito	x	
-neo	4	0	4	0	neo-marxismo		x
-neo	4	0	0	4	neo-marxisti		x
-neo	4	0	0	4	neo-membro	x	
-neo	7	0	7	0	neo-miliardari	x	
-neo	6	0	6	0	neo-miliardario	x	
-neo	18	0	18	0	neo-ministri	x	
-neo	402	131	271	0	neo-ministro	x	
-neo	6	6	0	0	neo-misticismo		x
-neo	15	0	7	8	neo-moglie	x	
-neo	5	0	5	0	neo-moralismo		x
-neo	16	0	16	0	neo-nazionalismo		x
-neo	5	0	5	0	neo-nazionalisti		x
-neo	12	0	12	0	neo-nazismo		x
-neo	47	32	15	0	neo-nazista		x
-neo	122	46	72	4	neo-nazisti		x
-neo	26	0	26	0	neo-neorealismo		x
-neo	4	0	4	0	neo-nominati	x	
-neo	10	0	10	0	neo-nominato	x	
-neo	6	0	6	0	neo-onorevole	x	
-neo	9	9	0	0	neo-operaista		x
-neo	6	0	6	0	neo-padre	x	
-neo	4	0	4	0	neo-padrone	x	
-neo	10	4	6	0	neo-paganesimo		x
-neo	5	5	0	0	neo-pagani		x
-neo	18	9	9	0	neo-papà	x	
-neo	7	0	7	0	neo-parlamentare	x	
-neo	5	0	5	0	neo-parlamentari	x	
-neo	5	0	5	0	neo-parlamentarismo		x
-neo	15	4	11	0	neo-partito	x	
-neo	11	0	11	0	neo-patentati	x	
-neo	6	0	6	0	neo-pauperismo		x
-neo	4	0	4	0	neo-pensionati	x	
-neo	9	0	9	0	neo-pentito	x	
-neo	4	0	0	4	neo-pitagorismo		x
-neo	4	0	0	4	Neo-Platonismo		x
-neo	4	0	0	4	neo-platonismo		x
-neo	6	0	6	0	neo-politico	x	
-neo	5	0	5	0	neo-populismo		x
-neo	4	4	0	0	neo-populista		x
-neo	10	0	10	0	neo-porporati	x	
-neo	9	0	9	0	neo-portavoce	x	
-neo	29	29	0	0	neo-positivismo		x
-neo	6	6	0	0	neo-positivisti		x
-neo	4	0	4	0	neo-prefetto	x	
-neo	75	13	62	0	neo-premier	x	
-neo	8	0	8	0	neo-premio	x	
-neo	831	349	448	34	neo-presidente	x	
-neo	8	0	0	8	neo-Presidente	x	
-neo	5	0	5	0	neo-presidenti	x	
-neo	4	0	4	0	neo-primatista	x	
-neo	4	0	4	0	neo-principessa	x	
-neo	10	0	10	0	neo-procuratore	x	
-neo	10	0	10	0	neo-professionista	x	
-neo	6	0	6	0	neo-professionisti	x	
-neo	8	0	8	0	neo-professore	x	
-neo	26	0	12	14	neo-promossa	x	
-neo	9	0	9	0	neo-promosse	x	
-neo	24	0	10	14	neo-promosso	x	
-neo	6	0	6	0	neo-proprietario	x	
-neo	4	0	4	0	neo-protezionismo		x
-neo	5	0	5	0	neo-psichedelia		x
-neo	5	0	5	0	neo-punk		x
-neo	4	0	4	0	neo-qualunquisti		x
-neo	6	0	6	0	neo-questore	x	
-neo	4	0	4	0	neo-razzismo		x
-neo	59	17	36	6	neo-realismo		x
-neo	8	0	0	8	Neo-Regina	x	
-neo	4	4	0	0	neo-regionalismo		x
-neo	23	0	23	0	neo-regista	x	
-neo	13	0	13	0	neo-responsabile	x	
-neo	6	6	0	0	neo-retributivismo		x
-neo	4	0	4	0	neo-ricchi	x	
-neo	8	0	4	4	neo-romanticismo		x
-neo	6	6	0	0	Neo-satanismo		x
-neo	10	10	0	0	neo-scientismo		x
-neo	93	8	85	0	neo-segretario	x	
-neo	47	0	43	4	neo-senatore	x	
-neo	4	0	4	0	neo-signora	x	
-neo	89	22	67	0	neo-sindaco	x	
-neo	6	0	6	0	neo-socialista		x
-neo	4	0	4	0	neo-socialisti		x
-neo	19	0	19	0	neo-sottosegretario	x	
-neo	5	0	5	0	neo-sovrintendente	x	
-neo	4	0	4	0	neo-sposa	x	
-neo	7	0	0	7	neo-sposi	x	
-neo	11	5	0	6	neo-tecnico	x	
-neo	11	4	7	0	neo-televisione	x	
-neo	5	0	5	0	neo-umanesimo		x
-neo	5	0	0	5	neo-vescovo	x	
-neo	15	0	15	0	neo-vicepresidente	x	
-neo	5	0	5	0	neo-volgarità		x
-neo	4	0	4	0	neo-yuppies		x
-non	20	4	0	16	non-A	-	
-non	4	0	0	4	non-accettazione		x
-non	6	0	6	0	non-accordo		x
-non	22	22	0	0	non-acquisto		x
-non	41	0	13	28	non-aggressione		x
-non	43	13	23	7	non-allineamento		x
-non	5	0	5	0	non-americani		x
-non	5	0	5	0	non-americano		x
-non	17	12	5	0	non-amore		x
-non	4	4	0	0	non-anima		x
-non	18	13	5	0	non-appartenenza		x
-non	5	0	0	5	non-arabi		x
-non	27	19	8	0	non-arte		x
-non	13	13	0	0	non-attaccamento		x
-non	9	0	9	0	non-attore		x
-non	17	4	13	0	non-attori		x
-non	90	86	4	0	non-autosufficienza	-	
-non	4	4	0	0	non-Avventisti	-	
-non	45	40	5	0	non-azione		x
-non	6	6	0	0	non-b	-	
-non	30	4	17	9	non-belligeranza	-	
-non	13	0	4	9	non-bianchi	-	
-non	4	0	0	4	non-bianco	-	
-non	5	5	0	0	non-brevettabilità	-	
-non	4	4	0	0	non-calciatore		x
-non	4	0	4	0	non-candidati		x
-non	11	0	11	0	non-candidato		x
-non	5	0	5	0	non-candidatura		x
-non	4	0	4	0	non-cantanti		x
-non	4	4	0	0	non-carcere		x
-non	4	0	0	4	non-cattolici	-	
-non	40	29	5	6	non-cittadini		x
-non	14	14	0	0	non-cittadino		x
-non	4	4	0	0	non-civiltà		x
-non	4	4	0	0	non-cognitivismo	-	
-non	109	95	8	6	non-collaborazione		x
-non	54	47	7	0	non-colore		x
-non	5	0	5	0	non-colpevolezza	-	
-non	18	4	0	14	non-combattenti	-	
-non	11	6	5	0	non-compleanno		x
-non	39	20	15	4	non-comunicazione		x
-non	7	0	7	0	non-comunista		x
-non	9	0	9	0	non-comunisti		x
-non	4	0	4	0	non-condanna		x
-non	4	4	0	0	non-confessionalità	-	
-non	8	0	8	0	non-conformismo	-	
-non	8	0	0	8	non-conformisti	-	
-non	5	5	0	0	non-conformità	-	
-non	51	51	0	0	non-conoscenza		x
-non	5	5	0	0	non-contraddittorietà	-	
-non	154	110	7	37	non-contraddizione	-	
-non	4	0	4	0	non-controllo		x
-non	123	118	0	5	non-cooperazione		x
-non	10	10	0	0	non-credente	-	
-non	22	8	10	4	non-credenti	-	
-non	5	0	5	0	non-credenza	-	
-non	23	10	0	13	non-cristiani	-	
-non	44	37	7	0	non-cultura		x
-non	6	0	6	0	non-danza		x
-non	21	9	12	0	non-decisione		x
-non	4	0	4	0	non-decisioni		x
-non	5	5	0	0	non-democrazia		x
-non	16	16	0	0	non-descrittori	-	
-non	19	0	13	6	non-detto	-	
-non	6	0	6	0	non-dialogo		x
-non	4	4	0	0	non-differenza		x
-non	20	20	0	0	non-diffusione	-	
-non	4	0	4	0	non-dimissioni		x
-non	46	46	0	0	non-Dinosauri	-	
-non	6	6	0	0	non-directory	-	
-non	4	4	0	0	non-direttività	-	
-non	200	189	4	7	non-discriminazione	-	
-non	10	5	0	5	non-disgiunzione	-	
-non	8	0	0	8	non-Disney	-	
-non	4	4	0	0	non-distinzione		x
-non	4	4	0	0	non-divisione		x
-non	4	4	0	0	non-dominio	-	
-non	22	8	0	14	non-dualismo		x
-non	31	22	0	9	non-dualità		x
-non	60	35	10	15	non-ebrei	-	
-non	12	7	5	0	non-ebreo	-	
-non	4	0	4	0	non-eletti	-	
-non	6	6	0	0	non-energia	-	
-non	4	4	0	0	non-ente		x
-non	8	0	0	8	non-entità		x
-non	54	41	0	13	non-equilibrio		x
-non	6	0	6	0	non-eroi		x
-non	150	120	11	19	non-esistenza		x
-non	13	13	0	0	non-esperienza		x
-non	4	4	0	0	non-esperto		x
-non	5	0	5	0	non-esserci		x
-non	273	150	13	110	non-essere		x
-non	4	0	4	0	non-eventi		x
-non	21	8	13	0	non-evento		x
-non	4	4	0	0	non-evidenza		x
-non	41	0	0	41	non-famiglie		x
-non	120	78	28	14	non-fiction	-	
-non	4	0	0	4	non-fidanzata		x
-non	8	0	8	0	non-film		x
-non	11	7	0	4	non-filosofia		x
-non	4	4	0	0	non-filosofo		x
-non	13	0	7	6	non-finito	-	
-non	4	4	0	0	non-fisico	-	
-non	5	0	5	0	non-fumatore	-	
-non	116	82	29	5	non-fumatori	-	
-non	5	0	0	5	non-gaussianità	-	
-non	6	0	6	0	non-gestione		x
-non	4	4	0	0	non-giocatori	-	
-non	32	13	19	0	non-gioco		x
-non	8	8	0	0	non-giudei	-	
-non	7	0	7	0	non-gol		x
-non	51	6	45	0	non-governo		x
-non	24	18	6	0	non-guerra		x
-non	13	9	0	4	non-identità		x
-non	4	0	4	0	non-impegno		x
-non	14	14	0	0	non-informazione		x
-non	16	5	11	0	non-ingerenza	-	
-non	4	0	4	0	non-intellettualismo		x
-non	31	4	14	13	non-interferenza		x
-non	14	0	0	14	non-interventismo	-	
-non	87	50	23	14	non-intervento		x
-non	5	0	5	0	non-intervista		x
-non	41	32	0	9	non-Io	-	
-non	11	11	0	0	non-IO	-	
-non	44	0	4	40	non-io	-	
-non	8	8	0	0	non-iscritti	-	
-non	4	0	0	4	non-italiani	-	
-non	14	14	0	0	non-Jews	-	
-non	121	91	30	0	non-lavoro		x
-non	6	0	6	0	non-lettore	-	
-non	33	12	21	0	non-lettori	-	
-non	11	11	0	0	non-libertà	-	
-non	13	0	13	0	non-libri		x
-non	7	0	7	0	non-libro		x
-non	120	96	0	24	non-linearità	-	
-non	26	19	0	7	non-località		x
-non	222	212	10	0	non-luoghi		x
-non	428	387	28	13	non-luogo		x
-non	14	14	0	0	non-manifesto		x
-non	17	9	0	8	non-membri	-	
-non	15	15	0	0	non-metalli	-	
-non	6	0	0	6	non-metallo	-	
-non	4	4	0	0	non-metodo		x
-non	20	20	0	0	non-miglioramento		x
-non	8	0	8	0	non-mondo		x
-non	4	4	0	0	non-monumento		x
-non	30	24	0	6	non-morta		x
-non	28	12	0	16	non-morte		x
-non	471	322	0	149	non-morti		x
-non	261	217	0	44	non-morto		
-non	4	0	4	0	non-musicista	-	
-non	19	0	5	14	non-musulmani	-	
-non	4	4	0	0	non-nascondimento	-	
-non	4	0	4	0	non-nati	-	
-non	4	4	0	0	non-nativo	-	
-non	14	0	0	14	non-nave		x
-non	5	5	0	0	non-nemico		x
-non	42	42	0	0	non-neutralità	-	
-non	89	71	18	0	non-notizia		x
-non	10	4	6	0	non-notizie		x
-non	6	6	0	0	non-obbligo		x
-non	5	0	5	0	non-obiettori	-	
-non	6	6	0	0	non-occidente	-	
-non	4	0	4	0	non-occupazione		x
-non	6	0	0	6	non-OGM	-	
-non	4	0	4	0	non-opera		x
-non	4	0	4	0	non-opposizione		x
-non	4	4	0	0	non-pacifista	-	
-non	5	5	0	0	non-parole		x
-non	5	0	5	0	non-partecipazione		x
-non	6	0	6	0	non-partita		x
-non	15	4	11	0	non-partito		x
-non	119	119	0	0	non-pensiero		x
-non	20	13	7	0	non-persona		x
-non	70	58	12	0	non-persone		x
-non	4	0	4	0	non-pittura	-	
-non	13	9	0	4	non-poesia	-	
-non	16	0	16	0	non-politica		x
-non	4	0	4	0	non-politici	-	
-non	4	4	0	0	non-possesso	-	
-non	14	7	7	0	non-potere		x
-non	6	6	0	0	non-premi	-	
-non	9	4	5	0	non-presenza		x
-non	17	10	7	0	non-problema		x
-non	4	4	0	0	non-processabilità	-	
-non	5	5	0	0	non-professionisti	-	
-non	115	62	47	6	non-proliferazione	-	
-non	14	9	5	0	non-protagonista	-	
-non	10	4	6	0	non-protagonisti	-	
-non	11	5	6	0	non-punibilità	-	
-non	8	0	8	0	non-ragione		x
-non	5	0	5	0	non-realismo	-	
-non	9	9	0	0	non-realtà		x
-non	4	0	4	0	non-regia		x
-non	7	0	7	0	non-residenti	-	
-non	5	0	0	5	non-residuo	-	
-non	8	8	0	0	non-responsabilità		x
-non	4	0	0	4	non-riconoscimento		x
-non	4	0	4	0	non-riforma		x
-non	12	4	8	0	non-rispetto		x
-non	19	10	9	0	non-risposta		x
-non	90	68	17	5	non-ritorno	-	
-non	4	4	0	0	non-rom	-	
-non	4	0	0	4	non-romani	-	
-non	29	20	9	0	non-sapere		x
-non	13	0	13	0	non-scelta		x
-non	7	0	7	0	non-scelte		x
-non	17	11	0	6	non-scienza	-	
-non	6	0	0	6	non-scuola	-	
-non	6	0	0	6	non-sé	-	
-non	429	372	40	17	non-senso		x
-non	4	4	0	0	non-separabilità	-	
-non	6	0	6	0	non-serbi	-	
-non	4	0	4	0	non-serietà	-	
-non	7	0	7	0	non-sfiducia		x
-non	4	0	4	0	non-socialista	-	
-non	10	0	4	6	non-socialisti	-	
-non	6	6	0	0	non-soggetti	-	
-non	12	5	7	0	non-soluzione		x
-non	4	0	0	4	non-sostanzialità	-	
-non	4	4	0	0	non-sovrapposizione	-	
-non	4	4	0	0	non-spazio-tempo	-	
-non	5	0	5	0	non-spettacolo		x
-non	8	8	0	0	non-spreco	-	
-non	30	0	0	30	non-standard		x
-non	12	5	7	0	non-stile		x
-non	63	44	19	0	non-storia		x
-non	4	0	4	0	non-storie		x
-non	8	8	0	0	non-sviluppo		x
-non	4	4	0	0	non-tacco	-	
-non	5	5	0	0	non-target		x
-non	4	0	4	0	non-teatro		x
-non	52	48	4	0	non-tempo		x
-non	4	4	0	0	non-tombola		x
-non	5	0	5	0	non-udenti	-	
-non	4	0	4	0	non-uomini		x
-non	19	19	0	0	non-uomo		x
-non	5	0	5	0	non-valore	-	
-non	5	0	5	0	non-valori	-	
-non	10	0	10	0	non-vedenti	-	
-non	37	37	0	0	non-vegetariani		x
-non	62	53	9	0	non-verità		x
-non	1610	1430	110	70	non-violenza	-	
-non	217	185	19	13	non-vita	-	
-non	16	9	7	0	non-volontà	x	
-non	298	237	61	0	non-voto	x	
-post	5	0	0	5	post-Achemenide	-	
-post	97	97	0	0	post-acuzie	-	
-post	41	41	0	0	post-adozione	-	
-post	24	20	4	0	post-alluvione		x
-post	18	0	8	10	post-apartheid	-	
-post	4	4	0	0	post-attentato	-	
-post	9	0	9	0	post-aumento	-	
-post	7	7	0	0	post-autorizzazione	-	
-post	8	0	8	0	post-avanguardia		x
-post	5	5	0	0	post-avanguardista		x
-post	140	140	0	0	post-base		x
-post	5	5	0	0	post-benzina		x
-post	4	0	4	0	post-boom	-	
-post	110	110	0	0	post-brigatismo		x
-post	4	0	0	4	post-bruciatore		x
-post	5	0	5	0	post-campionato	-	
-post	7	0	7	0	post-catastrofe	-	
-post	46	46	0	0	post-chiusura	-	
-post	4	0	0	4	post-classico	-	
-post	17	17	0	0	post-colonialismo	-	
-post	34	30	0	4	post-combustione	-	
-post	360	77	275	8	post-comunismo	-	
-post	278	148	120	10	post-comunisti		x
-post	4	4	0	0	post-concertazione		x
-post	4	4	0	0	post-concerto		x
-post	47	39	4	4	post-concilio		x
-post	49	45	0	4	post-Concilio		x
-post	112	105	0	7	post-conflitto		x
-post	105	105	0	0	post-consumo		x
-post	44	44	0	0	post-contatore		x
-post	5	0	0	5	post-contratto		x
-post	11	4	7	0	post-crisi	-	
-post	25	0	0	25	Post-Crisi	-	
-post	39	0	0	39	post-Crisi	-	
-post	4	0	4	0	post-cubismo		x
-post	5	5	0	0	post-dc		x
-post	4	4	0	0	post-decremento	-	
-post	14	0	14	0	post-democristiani	-	
-post	4	4	0	0	post-depilazione	-	
-post	7	0	7	0	post-derby	-	
-post	4	4	0	0	post-dimissione	-	
-post	963	943	14	6	post-diploma	-	
-post	4	4	0	0	Post-diploma	-	
-post	6	0	6	0	post-discoteca	-	
-post	5	5	0	0	post-distruzione	-	
-post	5	0	5	0	post-divorzio	-	
-post	1176	1151	5	20	post-dottorato	-	
-post	5	5	0	0	Post-dottorato	-	
-post	5	5	0	0	post-economia		x
-post	8	0	0	8	post-elaborazione		x
-post	21	8	13	0	post-elezioni		x
-post	73	64	0	9	post-emergenza	-	
-post	4	4	0	0	post-esame	-	
-post	81	59	0	22	post-esposizione	-	
-post	5	0	5	0	post-espressionismo	-	
-post	24	24	0	0	post-euro	-	
-post	9	4	0	5	post-evento	-	
-post	50	8	37	5	post-fascismo	-	
-post	167	92	75	0	post-fascisti	-	
-post	21	0	21	0	post-femminismo		x
-post	5	0	5	0	post-femministe	-	
-post	113	109	4	0	post-fordismo	-	
-post	15	0	15	0	post-franchismo	-	
-post	20	6	14	0	post-fusione	-	
-post	16	9	0	7	post-gara	-	
-post	8	8	0	0	Post-genoma	-	
-post	8	8	0	0	post-genoma	-	
-post	144	113	18	13	post-guerra	-	
-post	7	0	0	7	post-Guerra	-	
-post	6	0	0	6	Post-Hardcore	-	
-post	7	0	0	7	Post-hardcore	-	
-post	74	0	0	74	post-hardcore	-	
-post	8	0	0	8	post-Hartree-Fock	-	
-post	10	0	4	6	Post-impressionismo	-	
-post	38	0	19	19	post-impressionismo	-	
-post	7	0	7	0	post-impressionista	-	
-post	27	0	17	10	post-impressionisti	-	
-post	10	10	0	0	post-incidente	-	
-post	4	4	0	0	post-incontro	-	
-post	7	7	0	0	post-incremento	-	
-post	10	0	0	10	post-indipendenza	-	
-post	32	19	6	7	post-infarto	-	
-post	7	7	0	0	post-informazione		x
-post	4	4	0	0	post-infortunio	-	
-post	8	8	0	0	post-installazione	-	
-post	41	31	5	5	post-intervento	-	
-post	132	0	77	55	post-laurea	-	
-post	4	0	4	0	post-lottizzazione	-	
-post	9	0	9	0	post-maoismo	-	
-post	4	0	4	0	post-maoista	-	
-post	27	22	0	5	post-marketing		x
-post	7	0	0	7	post-materialismo	-	
-post	4	4	0	0	post-maternità	-	
-post	258	240	14	4	post-menopausa	-	
-post	4	4	0	0	post-mercato		x
-post	4	0	0	4	Post-metal	-	
-post	19	0	0	19	post-metal	-	
-post	11	0	11	0	post-missini		x
-post	95	68	20	7	post-modernismo	-	
-post	4	0	4	0	post-modernisti	-	
-post	337	302	28	7	post-modernità		x
-post	255	255	0	0	post-obbligo	-	
-post	7	0	7	0	post-occupazione	-	
-post	21	21	0	0	post-olocausto	-	
-post	88	68	11	9	post-operatori		x
-post	30	25	5	0	post-pagamento	-	
-post	39	19	10	10	post-partita	-	
-post	59	41	9	9	post-parto	-	
-post	8	0	8	0	post-perestrojka	-	
-post	5	0	5	0	post-pop	-	
-post	11	0	11	0	post-privatizzazione	-	
-post	931	683	55	193	post-produzione		x
-post	4	0	0	4	Post-produzione		x
-post	115	0	20	95	post-punk	-	
-post	5	0	0	5	Post-Punk	-	
-post	10	0	0	10	Post-punk	-	
-post	501	501	0	0	post-qualifica	-	
-post	45	45	0	0	post-raccolta	-	
-post	5	0	5	0	post-reaganismo	-	
-post	4	0	4	0	post-recessione	-	
-post	21	4	17	0	post-referendum	-	
-post	6	0	0	6	post-restyling	-	
-post	4	0	0	4	post-ricostruzione	-	
-post	57	57	0	0	post-ricovero		x
-post	18	13	5	0	post-riforma	-	
-post	15	4	6	5	post-rivoluzione	-	
-post	667	563	0	104	post-rock	-	
-post	4	0	0	4	Post-rock	-	
-post	4	0	4	0	post-rossore		x
-post	5	0	5	0	post-scissione	-	
-post	90	90	0	0	post-scuola		x
-post	4	4	0	0	post-selezione		x
-post	5	0	0	5	post-sequenza		x
-post	6	0	6	0	post-sessantotto	-	
-post	48	39	4	5	post-sisma	-	
-post	6	0	6	0	post-socialismo	-	
-post	5	0	5	0	post-socialista	-	
-post	6	0	6	0	post-socialisti	-	
-post	7	0	7	0	post-stalinismo	-	
-post	4	4	0	0	post-storia	-	
-post	42	21	5	16	post-strutturalismo	-	
-post	5	0	0	5	post-strutturalisti	-	
-post	4	0	4	0	post-svalutazione	-	
-post	5	5	0	0	post-sviluppo	-	
-post	4	0	4	0	post-tangentopoli	-	
-post	5	5	0	0	post-tensione		x
-post	5	5	0	0	post-terapia		x
-post	183	0	173	10	post-terremoto	-	
-post	18	0	18	0	post-terrorismo	-	
-post	8	8	0	0	post-tesi	-	
-post	19	19	0	0	post-test		x
-post	12	12	0	0	Post-test		x
-post	4	0	4	0	post-thatcherismo	-	
-post	4	0	4	0	post-totalitarismo	-	
-post	4	4	0	0	post-trading	-	
-post	5	0	0	5	post-transizione	-	
-post	62	62	0	0	post-trapianto	-	
-post	41	31	0	10	post-trattamento		x
-post	16	16	0	0	post-trauma	-	
-post	4	4	0	0	post-tsunami	-	
-post	5	0	5	0	post-tutto	-	
-post	4	4	0	0	post-umanità	-	
-post	454	445	5	4	post-universitari	-	
-post	8	4	4	0	post-vacanze	-	
-post	510	490	11	9	post-vendita	-	
-post	5	5	0	0	post-visita	-	
-post	6	0	6	0	post-vittoria	-	
-post	13	5	8	0	post-voto	-	
-post	4	0	0	4	Post-Vulgata	-	
-pre	15	4	11	0	pre-accordi		x
-pre	141	70	71	0	pre-accordo		x
-pre	208	196	6	6	pre-adesione		x
-pre	13	13	0	0	pre-adolescente	-	
-pre	44	38	0	6	pre-adolescenti	-	
-pre	28	28	0	0	pre-adolescenza	-	
-pre	5	0	5	0	pre-adozione		x
-pre	4	4	0	0	pre-alfabetizzazione		x
-pre	28	28	0	0	pre-alimentazione		x
-pre	118	81	37	0	pre-allarme		x
-pre	33	24	9	0	pre-allerta		x
-pre	7	0	7	0	pre-alternativa		x
-pre	4	4	0	0	pre-ammissione		x
-pre	17	17	0	0	pre-ammortamento		x
-pre	10	10	0	0	pre-analisi		x
-pre	9	4	5	0	pre-anestesia		x
-pre	9	9	0	0	pre-antipasto		x
-pre	148	130	14	4	pre-apertura		x
-pre	4	4	0	0	pre-aperture		x
-pre	5	5	0	0	pre-appello		x
-pre	4	4	0	0	pre-approvazione		x
-pre	4	4	0	0	pre-ascolto		x
-pre	6	0	6	0	pre-assegnazione		x
-pre	4	0	4	0	pre-assemblea		x
-pre	23	14	5	4	pre-asta		x
-pre	10	10	0	0	Pre-atti		x
-pre	5	0	5	0	pre-aumento		x
-pre	6	6	0	0	pre-battaglia		x
-pre	17	17	0	0	pre-boom		x
-pre	15	15	0	0	pre-cambio		x
-pre	4	4	0	0	pre-camera		x
-pre	13	0	13	0	pre-campagna		x
-pre	222	137	41	44	pre-campionato		x
-pre	4	0	4	0	pre-cantiere		x
-pre	4	4	0	0	pre-chiamata		x
-pre	4	0	4	0	pre-cinema		x
-pre	4	0	4	0	pre-collocamento		x
-pre	22	22	0	0	pre-colloquio		x
-pre	4	0	4	0	pre-comizio		x
-pre	12	12	0	0	pre-comprensione		x
-pre	6	6	0	0	pre-comprensioni		x
-pre	7	7	0	0	pre-concepimento	-	
-pre	7	7	0	0	pre-concerto		x
-pre	10	10	0	0	pre-concetti	x	
-pre	314	244	65	5	pre-condizione		x
-pre	194	142	52	0	pre-condizioni		x
-pre	18	18	0	0	Pre-Conferenza		x
-pre	356	356	0	0	Pre-conferenza		x
-pre	52	47	5	0	pre-conferenza		x
-pre	11	11	0	0	pre-Conferenza		x
-pre	38	38	0	0	pre-conferenze		x
-pre	24	24	0	0	Pre-conferenze		x
-pre	12	12	0	0	pre-Conferenze		x
-pre	6	6	0	0	pre-congedo		x
-pre	9	0	9	0	pre-congresso		x
-pre	18	18	0	0	pre-conoscenze	x	
-pre	13	0	13	0	pre-consiglio		x
-pre	5	0	5	0	pre-consultazione		x
-pre	41	22	19	0	pre-consuntivo		x
-pre	256	251	5	0	pre-contratti		x
-pre	292	258	24	10	pre-contratto		x
-pre	6	6	0	0	Pre-contratto		x
-pre	6	6	0	0	pre-convegno		x
-pre	8	0	0	8	pre-convocati		x
-pre	6	6	0	0	pre-corsi		x
-pre	8	0	8	0	pre-crac		x
-pre	4	0	4	0	pre-crack		x
-pre	4	4	0	0	pre-crimine		x
-pre	49	9	36	4	pre-crisi		x
-pre	18	0	0	18	Pre-Crisi		x
-pre	42	0	0	42	pre-Crisi		x
-pre	7	0	0	7	pre-cristiani		x
-pre	4	4	0	0	pre-cultura		x
-pre	4	0	0	4	Pre-debutto		x
-pre	20	20	0	0	Pre-decoder		x
-pre	10	6	4	0	pre-derby		x
-pre	4	4	0	0	pre-dimissione		x
-pre	5	0	5	0	pre-dimissioni		x
-pre	10	10	0	0	pre-disco		x
-pre	59	59	0	0	pre-eclampsia		x
-pre	7	0	0	7	pre-elaborazione		x
-pre	4	4	0	0	pre-elezioni		x
-pre	239	209	30	0	pre-embrione		x
-pre	50	34	16	0	pre-embrioni		x
-pre	27	19	0	8	pre-emergenza		x
-pre	1520	1507	13	0	pre-esame		x
-pre	34	34	0	0	Pre-esame		x
-pre	4	0	4	0	pre-esami		x
-pre	19	5	0	14	pre-esercizio		x
-pre	16	10	0	6	pre-esistenza		x
-pre	14	9	0	5	pre-esposizione		x
-pre	19	19	0	0	pre-euro	-	
-pre	20	0	0	20	pre-evoluzione		x
-pre	85	0	0	85	pre-evoluzioni		x
-pre	4	4	0	0	pre-fase	-	
-pre	54	54	0	0	pre-fattibilità	-	
-pre	5	0	5	0	pre-ferie		x
-pre	6	0	6	0	pre-festival		x
-pre	9	9	0	0	pre-finale		x
-pre	5	5	0	0	pre-finanziamento		x
-pre	4	0	0	4	pre-flop		x
-pre	14	14	0	0	pre-formazione		x
-pre	6	0	6	0	pre-fusione		x
-pre	227	206	11	10	pre-gara		x
-pre	17	0	0	17	Pre-gara		x
-pre	114	107	7	0	pre-giudizi	x	
-pre	128	120	8	0	pre-giudizio	x	
-pre	4	0	4	0	pre-golpe		x
-pre	14	4	0	10	pre-guerra		x
-pre	11	11	0	0	pre-immatricolazione	x	
-pre	819	808	7	4	pre-impianto		x
-pre	18	0	18	0	pre-imposte		x
-pre	4	4	0	0	pre-impresa		x
-pre	8	0	8	0	pre-inaugurazione		x
-pre	4	0	4	0	pre-inchiesta		x
-pre	10	4	6	0	pre-incontro		x
-pre	5	5	0	0	pre-incremento		x
-pre	6	0	6	0	pre-indagine		x
-pre	6	0	6	0	pre-infarto		x
-pre	9	4	0	5	pre-infortunio	-	
-pre	4	4	0	0	pre-ingressi		x
-pre	4	4	0	0	pre-inserimento		x
-pre	8	8	0	0	pre-installazione		x
-pre	10	6	0	4	pre-intervento		x
-pre	126	97	29	0	pre-intesa		x
-pre	6	0	6	0	pre-invasione		x
-pre	9	9	0	0	pre-investimento		x
-pre	8	8	0	0	pre-ira	-	
-pre	6	6	0	0	pre-iscritti		x
-pre	405	400	5	0	pre-iscrizione		x
-pre	201	190	11	0	pre-iscrizioni		x
-pre	5	5	0	0	Pre-iscrizioni		x
-pre	12	12	0	0	pre-istruttoria		x
-pre	4	0	0	4	Pre-Juniores		x
-pre	25	0	0	25	pre-juniores		x
-pre	8	4	0	4	pre-lancio		x
-pre	7	0	0	7	Pre-lancio		x
-pre	28	28	0	0	pre-laurea		x
-pre	4	4	0	0	pre-lettura		x
-pre	6	0	0	6	pre-metro	-	
-pre	8	8	0	0	pre-modernità		x
-pre	5	0	5	0	pre-mondiali		x
-pre	53	42	0	11	pre-morte	-	
-pre	18	0	0	18	pre-mRNA		x
-pre	4	4	0	0	pre-mutazione		x
-pre	5	5	0	0	pre-negoziati		x
-pre	14	0	14	0	pre-negoziato		x
-pre	5	0	5	0	pre-offerte		x
-pre	10	0	0	10	pre-ordine		x
-pre	8	4	0	4	pre-ordini		x
-pre	77	77	0	0	pre-pagamento		x
-pre	106	106	0	0	pre-parco	-	
-pre	5	5	0	0	pre-Parco	-	
-pre	18	18	0	0	pre-partenza	-	
-pre	201	164	19	18	pre-partita		x
-pre	153	0	153	0	pre-pensionamenti		x
-pre	87	37	46	4	pre-pensionamento		x
-pre	10	0	10	0	pre-pensionati	x	
-pre	5	0	5	0	pre-pensionato	x	
-pre	4	0	4	0	pre-pop		x
-pre	25	19	6	0	pre-primavera		x
-pre	7	7	0	0	pre-procedura		x
-pre	13	0	13	0	pre-processo		x
-pre	7	7	0	0	pre-processore		x
-pre	654	368	22	264	pre-produzione	-	
-pre	4	0	0	4	Pre-Produzione	-	
-pre	13	0	0	13	Pre-produzione	-	
-pre	8	8	0	0	pre-proposta		x
-pre	4	4	0	0	pre-qualifica		x
-pre	21	15	0	6	pre-qualificazione		x
-pre	23	0	14	9	pre-qualifiche		x
-pre	7	0	7	0	pre-raffaelliti		x
-pre	5	0	5	0	pre-razzismo		x
-pre	8	0	8	0	pre-recessione		x
-pre	4	0	4	0	pre-referendum		x
-pre	19	19	0	0	pre-regata		x
-pre	55	50	5	0	pre-registrazione		x
-pre	38	0	38	0	pre-relazione		x
-pre	4	0	0	4	pre-replicazione	-	
-pre	63	63	0	0	Pre-requisiti	x	
-pre	247	231	11	5	pre-requisiti	x	
-pre	199	175	19	5	pre-requisito	x	
-pre	10	0	0	10	pre-restyling		x
-pre	5	5	0	0	pre-riconoscimento		x
-pre	69	58	11	0	pre-riforma		x
-pre	27	0	0	27	pre-rilascio	-	
-pre	7	0	0	7	pre-riscaldamento		x
-pre	46	46	0	0	pre-riserva	-	
-pre	42	33	9	0	pre-ritiro		x
-pre	14	5	9	0	pre-riunione		x
-pre	21	8	13	0	pre-rivoluzione		x
-pre	8	0	0	8	pre-RNA	-	
-pre	643	643	0	0	pre-ruolo		x
-pre	7	0	0	7	pre-scoperta		x
-pre	4	4	0	0	pre-screening		x
-pre	4	4	0	0	pre-scrittura		x
-pre	81	81	0	0	pre-scuola		x
-pre	14	0	0	14	pre-selezionati	x	
-pre	215	191	18	6	pre-selezione	x	
-pre	10	0	5	5	pre-selezioni	x	
-pre	4	0	4	0	pre-sentenza		x
-pre	107	18	0	89	pre-sequenza		x
-pre	16	0	12	4	pre-serale		x
-pre	52	52	0	0	Pre-serata		x
-pre	11	11	0	0	pre-serata		x
-pre	109	18	5	86	pre-serie	-	
-pre	7	0	0	7	pre-show		x
-pre	5	0	5	0	pre-sondaggio		x
-pre	55	35	0	20	pre-stagione	-	
-pre	8	8	0	0	pre-stampa	-	
-pre	4	0	4	0	pre-summit		x
-pre	6	0	6	0	pre-tangentopoli	-	
-pre	18	8	10	0	pre-tasse		x
-pre	8	0	8	0	pre-tattica		x
-pre	18	18	0	0	pre-termine	-	
-pre	86	86	0	0	pre-test		x
-pre	5	5	0	0	Pre-test		x
-pre	10	10	0	0	pre-trapianto	-	
-pre	92	92	0	0	pre-trattamento		x
-pre	6	0	6	0	pre-trattativa		x
-pre	14	14	0	0	pre-tribolazione	x	
-pre	5	0	5	0	pre-ultimatum	x	
-pre	6	6	0	0	pre-urbanizzazione		x
-pre	12	12	0	0	pre-valutazione	x	
-pre	5	5	0	0	pre-veggenza	-	
-pre	23	9	8	6	pre-vendita	x	
-pre	46	23	23	0	pre-vertice	x	
-pre	5	5	0	0	pre-visione	-	
-pre	21	17	0	4	pre-volo	-	
-pre	16	11	5	0	pre-voto		x
-pre	14	14	0	0	pre-zona	-	
-proto	5	0	0	5	Proto-Dinastico	-	
-proto	9	0	0	9	Proto-germanico	x	
-proto	7	0	0	7	Proto-punk	x	
-pseudo	37	0	0	37	Pseudo-Apollodoro	-	
-pseudo	9	9	0	0	pseudo-artisti	x	
-pseudo	4	4	0	0	pseudo-attractor		x
-pseudo	5	5	0	0	pseudo-attractors		x
-pseudo	14	14	0	0	pseudo-attributi	x	
-pseudo	8	8	0	0	pseudo-attributo	x	
-pseudo	6	6	0	0	pseudo-carriere	x	
-pseudo	9	9	0	0	pseudo-classe	x	
-pseudo	5	5	0	0	pseudo-classi	x	
-pseudo	15	15	0	0	pseudo-codice	-	
-pseudo	5	0	0	5	Pseudo-codice	-	
-pseudo	4	4	0	0	pseudo-colori	x	
-pseudo	5	5	0	0	pseudo-critico	x	
-pseudo	4	4	0	0	pseudo-cultura	x	
-pseudo	4	4	0	0	pseudo-democrazia	x	
-pseudo	16	16	0	0	pseudo-Dionigi	-	
-pseudo	26	0	0	26	Pseudo-Dionigi	-	
-pseudo	5	5	0	0	pseudo-elementi	x	
-pseudo	5	5	0	0	pseudo-esperti	x	
-pseudo	4	4	0	0	pseudo-file	x	
-pseudo	4	0	0	4	Pseudo-Igino	-	
-pseudo	4	4	0	0	pseudo-imprenditori	x	
-pseudo	7	7	0	0	pseudo-incontinenza	x	
-pseudo	10	10	0	0	pseudo-intellettuali	x	
-pseudo	4	4	0	0	pseudo-invettiva	x	
-pseudo	19	0	0	19	Pseudo-Isidoro	-	
-pseudo	4	4	0	0	pseudo-libertà	x	
-pseudo	4	4	0	0	pseudo-matrimonio	x	
-pseudo	8	0	0	8	Pseudo-Matteo	-	
-pseudo	37	37	0	0	pseudo-piste	x	
-pseudo	5	5	0	0	pseudo-problemi	x	
-pseudo	5	5	0	0	pseudo-riforma	x	
-pseudo	40	40	0	0	pseudo-scienza	x	
-pseudo	7	0	0	7	Pseudo-Seneca	-	
-pseudo	6	6	0	0	pseudo-stabilizzazione	x	
-pseudo	5	5	0	0	pseudo-valori	x	
-pseudo	9	9	0	0	pseudo-vincoli	x	
-quasi	16	16	0	0	quasi-città	x	
-quasi	44	44	0	0	quasi-collisione	x	
-quasi	23	23	0	0	quasi-cristalli	x	
-quasi	19	19	0	0	quasi-delitti	x	
-quasi	7	7	0	0	quasi-delitto	x	
-quasi	25	25	0	0	quasi-domicilio	x	
-quasi	6	6	0	0	quasi-mercati	x	
-quasi	41	41	0	0	quasi-monopolio	x	
-quasi	4	4	0	0	quasi-società	x	
-quasi	4	4	0	0	quasi-suicidio	x	
-quasi	4	0	0	4	Quasi-Zenith	x	
-simil	6	6	0	0	simil-amministratore	x	
-simil	4	4	0	0	simil-estrazione-a-sorte	x	
-tardo	4	4	0	0	tardo-romantici	-	
-vetero	24	0	0	24	vetero-cattolica	x	
-vetero	6	0	0	6	vetero-cattolicesimo	x	
-vetero	25	0	0	25	vetero-cattolici	x	
-vetero	5	0	5	0	vetero-comunismo	x	
-vetero	14	0	14	0	vetero-comunista	x	
-vetero	5	0	5	0	vetero-comunisti	x	
-vetero	4	0	4	0	vetero-femminismo	x	
-vetero	10	0	10	0	vetero-marxismo	x	
-vetero	6	0	6	0	vetero-marxista	x	
+ITWAC	REPUBBLICA	WIKICONLL	ADV-N
+18	0	0	Pre-Conferenza
+356	0	0	Pre-conferenza
+63	0	0	Pre-requisiti
+71	0	7	ex-Iugoslavia
+81	0	18	ex-URSS
+129	0	18	ex-Unione
+7	10	13	ex-alleato
+200	19	32	ex-allievi
+17	19	19	ex-allievo
+4	5	4	ex-alunno
+5	0	0	ex-arbitro
+8	55	0	ex-assessore
+12	0	0	ex-campi
+4	13	26	ex-capitano
+145	208	46	ex-capo
+65	19	34	ex-collega
+56	31	16	ex-colleghi
+122	41	29	ex-colonia
+95	18	44	ex-colonie
+194	34	30	ex-combattenti
+94	43	79	ex-compagni
+78	44	93	ex-compagno
+93	126	13	ex-comunisti
+92	12	64	ex-convento
+11	0	0	ex-corsisti
+58	26	9	ex-dipendenti
+145	203	30	ex-direttore
+26	26	7	ex-dirigenti
+11	0	0	ex-festività
+79	21	83	ex-fidanzata
+4	0	0	ex-fumatore
+91	94	24	ex-leader
+139	64	114	ex-marito
+352	385	36	ex-ministro
+8	19	14	ex-modella
+337	110	172	ex-moglie
+102	25	196	ex-novo
+8	6	0	ex-ostaggi
+474	9	17	ex-post
+549	685	104	ex-presidente
+31	8	55	ex-ragazza
+98	5	0	ex-ribelli
+50	4	9	ex-scuola
+106	125	20	ex-sindaco
+14	0	21	ex-soldati
+10	0	0	ex-strega
+15	31	12	ex-ufficiale
+325	41	195	ex-voto
+67	0	0	ex-xxcz
+401	51	0	neo-assunti
+34	43	7	neo-avanguardia
+72	0	0	neo-cons
+262	15	0	neo-conservatori
+5	24	0	neo-consigliere
+211	61	33	neo-eletto
+5	0	0	neo-formazione
+83	11	0	neo-imprenditori
+417	54	4	neo-laureati
+66	9	0	neo-laureato
+14	11	0	neo-liberali
+284	37	0	neo-liberismo
+62	6	0	neo-liberiste
+4	0	0	neo-lingua
+83	14	0	neo-mamma
+131	271	0	neo-ministro
+5	0	0	neo-pagani
+349	448	34	neo-presidente
+22	67	0	neo-sindaco
+32	0	9	non-Io
+22	0	0	non-acquisto
+12	5	0	non-amore
+13	0	0	non-attaccamento
+4	0	0	non-binding
+95	8	6	non-collaborazione
+15	0	0	non-commercial
+110	7	37	non-contraddizione
+118	0	5	non-cooperazione
+16	0	0	non-descrittori
+189	4	7	non-discriminazione
+120	11	19	non-esistenza
+13	0	0	non-esperienza
+150	13	110	non-essere
+78	28	14	non-fiction
+8	0	0	non-giudei
+91	30	0	non-lavoro
+11	0	0	non-libertà
+96	0	24	non-linearità
+212	10	0	non-luoghi
+387	28	13	non-luogo
+322	0	149	non-morti
+58	12	0	non-persone
+7	7	0	non-potere
+4	0	0	non-processabilità
+1544	97	187	non-profit
+62	47	6	non-proliferazione
+171	0	0	non-prolifération
+68	17	5	non-ritorno
+136	22	13	non-sense
+372	40	17	non-senso
+5	7	0	non-soluzione
+357	305	66	non-stop
+48	4	0	non-tempo
+1430	110	70	non-violenza
+185	19	13	non-vita
+237	61	0	non-voto
+97	0	0	post-acuzie
+140	0	0	post-base
+110	0	0	post-brigatismo
+13	0	0	post-brigatista
+46	0	0	post-chiusura
+77	275	8	post-comunismo
+148	120	10	post-comunisti
+105	0	7	post-conflitto
+105	0	0	post-consumo
+943	14	6	post-diploma
+5	0	0	post-distruzione
+296	0	5	post-doc
+1151	5	20	post-dottorato
+159	18	5	post-fascista
+92	75	0	post-fascisti
+109	4	0	post-fordismo
+113	18	13	post-guerra
+7	0	0	post-informazione
+341	11	12	post-it
+22	0	5	post-marketing
+240	14	4	post-menopausa
+4	0	0	post-mercato
+68	20	7	post-modernismo
+302	28	7	post-modernità
+255	0	0	post-obbligo
+68	11	9	post-operatori
+683	55	193	post-produzione
+501	0	0	post-qualifica
+45	0	0	post-raccolta
+4	6	5	post-rivoluzione
+563	0	104	post-rock
+21	5	16	post-strutturalismo
+19	0	0	post-test
+16	0	0	post-trauma
+445	5	4	post-universitari
+490	11	9	post-vendita
+5	8	0	post-voto
+196	6	6	pre-adesione
+38	0	6	pre-adolescenti
+28	0	0	pre-alimentazione
+130	14	4	pre-apertura
+137	41	44	pre-campionato
+244	65	5	pre-condizione
+47	5	0	pre-conferenza
+18	0	0	pre-conoscenze
+251	5	0	pre-contratti
+258	24	10	pre-contratto
+209	30	0	pre-embrione
+1507	13	0	pre-esame
+206	11	10	pre-gara
+107	7	0	pre-giudizi
+120	8	0	pre-giudizio
+808	7	4	pre-impianto
+97	29	0	pre-intesa
+400	5	0	pre-iscrizione
+190	11	0	pre-iscrizioni
+42	0	11	pre-morte
+77	0	0	pre-pagamento
+18	0	0	pre-partenza
+164	19	18	pre-partita
+26	0	0	pre-print
+7	0	0	pre-procedura
+368	22	264	pre-produzione
+50	5	0	pre-registrazione
+231	11	5	pre-requisiti
+175	19	5	pre-requisito
+33	9	0	pre-ritiro
+643	0	0	pre-ruolo
+81	0	0	pre-scuola
+191	18	6	pre-selezione
+18	5	86	pre-serie
+35	0	20	pre-stagione
+8	10	0	pre-tasse
+92	0	0	pre-trattamento
+12	0	0	pre-valutazione
+9	0	0	pseudo-artisti
+14	0	0	pseudo-attributi
+8	0	0	pseudo-attributo
+37	0	0	pseudo-piste
+40	0	0	pseudo-scienza
+34	0	0	Pre-esame
+145	0	32	ex-Presidente
+32	0	0	ex-art
+40	4	8	ex-atleta
+23	4	0	ex-bambini
+19	5	44	ex-chiesa
+12	8	5	ex-combattente
+8	17	23	ex-compagna
+25	5	4	ex-deportati
+51	33	4	ex-dittatore
+4	5	8	ex-insegnante
+75	0	0	ex-lege
+7	0	0	ex-legge
+4	23	73	ex-membro
+26	5	17	ex-militari
+42	8	4	ex-monopolista
+19	10	32	ex-poliziotto
+12	0	0	ex-sessantottina
+82	10	20	ex-studenti
+10	0	0	ex-volontari
+22	20	0	neo-assessore
+116	7	4	neo-assunto
+35	6	0	neo-centralismo
+62	10	6	neo-colonialismo
+20	9	0	neo-conservatore
+46	21	4	neo-eletti
+21	5	0	neo-imprenditore
+36	0	0	neo-imprese
+8	4	0	neo-ingegnere
+127	15	0	neo-mamme
+9	0	0	neo-operaista
+29	0	0	neo-positivismo
+17	36	6	neo-realismo
+6	0	0	neo-retributivismo
+40	5	0	non-azione
+14	0	0	non-cittadino
+4	0	0	non-cognitivismo
+37	7	0	non-cultura
+41	0	13	non-equilibrio
+82	29	5	non-fumatori
+13	19	0	non-gioco
+5	11	0	non-ingerenza
+42	0	0	non-neutralità
+71	18	0	non-notizia
+6	0	0	non-obbligo
+119	0	0	non-pensiero
+5	0	0	non-professionisti
+9	5	0	non-protagonista
+36	0	0	non-refoulement
+37	0	0	non-vegetariani
+53	9	0	non-verità
+30	0	4	post-combustione
+16	67	0	post-comunista
+21	0	0	post-core
+8	13	0	post-elezioni
+4	0	0	post-maternità
+28	0	9	post-processing
+57	0	0	post-ricovero
+90	0	0	post-scuola
+4	0	0	post-storia
+4	0	0	pre-alfabetizzazione
+81	37	0	pre-allarme
+14	5	4	pre-asta
+4	0	0	pre-camera
+7	0	0	pre-concepimento
+142	52	0	pre-condizioni
+38	0	0	pre-conferenze
+10	0	0	pre-disco
+19	0	0	pre-euro
+9	0	0	pre-finale
+4	0	4	pre-ordini
+106	0	0	pre-parco
+37	46	4	pre-pensionamento
+15	0	6	pre-qualificazione
+16	0	5	pre-release
+58	11	0	pre-riforma
+51	8	0	pre-testo
+6	0	0	pre-urbanizzazione
+5	0	0	Post-dottorato
+52	0	0	Pre-serata
+4	0	0	dopo-Indire
+55	0	0	dopo-guerra
+4	0	0	dopo-mensa
+9	0	0	dopo-partita
+16	0	0	dopo-scuola
+4	0	0	dopo-terremoto
+4	0	20	ex-Beatle
+10	0	0	ex-Birmania
+13	0	0	ex-Convenzione
+151	0	4	ex-Yugoslavia
+10	21	17	ex-alleati
+4	5	0	ex-ambasciata
+17	22	6	ex-amici
+4	5	29	ex-cantante
+21	42	11	ex-comandante
+26	9	0	ex-democristiani
+21	46	8	ex-deputato
+94	25	13	ex-detenuti
+10	0	7	ex-detenuto
+15	19	5	ex-dipendente
+6	10	4	ex-fascisti
+44	19	47	ex-fidanzato
+4	6	8	ex-partigiani
+23	30	9	ex-repubbliche
+11	98	11	ex-senatore
+18	0	0	ex-tecnici
+14	22	4	ex-terrorista
+4	0	0	lungo-degenza
+48	31	23	neo-acquisto
+8	68	0	neo-comunisti
+13	0	0	neo-fondamentalismo
+33	9	4	neo-liberalismo
+32	15	0	neo-nazista
+86	4	0	non-autosufficienza
+47	7	0	non-colore
+51	0	0	non-conoscenza
+4	0	0	non-dominio
+18	6	0	non-guerra
+48	0	0	non-ht
+4	14	13	non-interferenza
+50	23	14	non-intervento
+12	21	0	non-lettori
+24	0	6	non-morta
+217	0	44	non-morto
+4	0	0	non-possesso
+4	0	0	non-sovrapposizione
+44	19	0	non-storia
+10	0	0	non-straniero
+4	0	0	non-tacco
+41	0	0	post-adozione
+7	0	0	post-autorizzazione
+17	0	0	post-colonialismo
+4	0	0	post-concertazione
+39	4	4	post-concilio
+5	0	0	post-economia
+9	0	7	post-gara
+37	0	63	post-season
+16	0	0	post-secondario
+4	0	0	post-trading
+70	71	0	pre-accordo
+17	0	0	pre-ammortamento
+22	19	0	pre-consuntivo
+54	0	0	pre-fattibilità
+19	6	0	pre-primavera
+46	0	0	pre-riserva
+86	0	0	pre-test
+41	0	0	quasi-monopolio
+6	0	0	simil-amministratore
+4	0	0	simil-estrazione-a-sorte
+4	0	0	tardo-medievali
+5	0	0	troppo-pieno
+21	0	0	Neo-assunti
+4	0	0	Post-diploma
+5	0	0	Pre-iscrizioni
+7	0	0	ex-Alumetal
+49	64	61	ex-agente
+21	43	31	ex-amante
+4	5	5	ex-atleti
+4	0	0	ex-baba@hetnet.nl
+28	86	51	ex-campione
+34	17	0	ex-fumatori
+35	18	44	ex-giocatore
+30	7	5	ex-gruppo
+32	66	5	ex-premier
+5	0	0	ex-proprietaria
+20	17	19	ex-ragazzo
+51	158	19	ex-segretario
+12	7	20	ex-soldato
+5	0	0	neo-adjuvante
+4	19	0	neo-capitalismo
+61	20	0	neo-diplomati
+5	0	0	neo-gnosticismo
+9	0	0	neo-laureata
+46	72	4	neo-nazisti
+13	62	0	neo-premier
+5	0	6	neo-tecnico
+4	0	0	non-Avventisti
+14	0	0	non-Jews
+13	23	7	non-allineamento
+13	5	0	non-appartenenza
+19	8	0	non-arte
+8	0	14	non-dualismo
+35	10	15	non-ebrei
+7	5	0	non-ebreo
+8	13	0	non-evento
+4	0	0	non-evidenza
+9	0	8	non-membri
+5	0	0	non-nemico
+9	0	4	non-poesia
+4	0	0	non-vlax
+45	0	4	post-Concilio
+20	4	0	post-alluvione
+4	0	0	post-attentato
+4	0	0	post-decremento
+4	0	0	post-depilazione
+64	0	9	post-emergenza
+24	0	0	post-euro
+10	0	0	post-incidente
+7	0	0	post-incremento
+25	5	0	post-pagamento
+23	11	26	post-partum
+21	22	0	post-scriptum
+62	0	0	post-trapianto
+11	0	0	pre-Conferenza
+24	9	0	pre-allerta
+6	0	0	pre-battaglia
+4	0	0	pre-chiamata
+59	0	0	pre-eclampsia
+34	16	0	pre-embrioni
+5	0	0	pre-finanziamento
+11	0	0	pre-immatricolazione
+5	0	0	pre-incremento
+4	0	0	pre-ingressi
+37	0	0	pre-post
+8	13	0	pre-rivoluzione
+10	0	0	pre-trapianto
+11	5	0	pre-voto
+4	0	0	quasi-società
+4	0	0	Pre-testi
+12	0	0	ex-Cirielli
+13	0	0	ex-Istituto
+18	69	4	ex-ambasciatore
+5	0	0	ex-datore
+33	10	99	ex-membri
+8	0	0	ex-omi
+11	7	12	ex-studente
+6	0	0	ex-tempo
+11	0	0	non-IO
+5	0	0	non-brevettabilità
+4	0	0	non-carcere
+29	5	6	non-cittadini
+4	0	14	non-combattenti
+4	0	0	non-differenza
+4	14	0	non-ds
+6	0	0	non-soggetti
+44	0	0	post-contatore
+6	0	0	post-docs
+59	0	22	post-esposizione
+31	5	5	post-intervento
+5	0	0	post-sviluppo
+28	0	0	pre-adolescenza
+22	0	0	pre-colloquio
+12	0	0	pre-comprensione
+28	0	0	pre-laurea
+6	0	0	pre-press
+5	0	0	pre-riconoscimento
+18	0	89	pre-sequenza
+5	0	0	pre-testi
+5	0	0	pseudo-riforma
+0	4	6	Post-impressionismo
+0	23	0	ex-Urss
+0	23	11	ex-aequo
+4	18	12	ex-agenti
+0	5	0	ex-albergo
+4	17	28	ex-allenatore
+43	8	15	ex-alunni
+0	10	0	ex-amanti
+0	8	0	ex-ambasciatori
+0	7	0	ex-ambasciatrice
+24	18	25	ex-amico
+0	31	4	ex-amministratore
+0	36	0	ex-amministratori
+0	11	0	ex-ammiraglio
+0	4	8	ex-appartenenti
+0	4	0	ex-articolo
+0	4	0	ex-assessori
+0	6	0	ex-assistente
+0	9	0	ex-astronauta
+10	27	6	ex-attore
+4	9	9	ex-attrice
+0	7	4	ex-avversari
+0	5	0	ex-avversario
+0	5	0	ex-avvocato
+0	5	0	ex-azioni
+0	4	0	ex-azionista
+0	4	0	ex-ballerina
+0	9	0	ex-banchiere
+0	10	9	ex-base
+0	4	0	ex-belligeranti
+0	4	0	ex-bin
+5	13	0	ex-blocco
+0	20	0	ex-boss
+0	36	0	ex-braccio
+0	6	0	ex-brigatisti
+0	5	0	ex-burocrati
+8	12	21	ex-calciatore
+0	4	0	ex-cameriera
+0	6	0	ex-cameriere
+0	10	9	ex-campioni
+0	4	4	ex-campo
+9	16	5	ex-cancelliere
+0	39	0	ex-candidato
+0	14	0	ex-capi
+0	31	11	ex-capitale
+0	12	0	ex-capogabinetto
+0	6	0	ex-capogruppo
+0	5	0	ex-carabiniere
+0	4	0	ex-carnitiani
+4	4	10	ex-caserma
+4	12	0	ex-cinema
+4	32	8	ex-collaboratore
+0	13	5	ex-collaboratori
+0	4	0	ex-collaboratrice
+13	33	5	ex-colonnello
+0	4	0	ex-commando
+0	5	0	ex-commissario
+0	4	0	ex-compagne
+0	4	10	ex-componente
+0	7	22	ex-componenti
+0	4	0	ex-comunismo
+13	28	4	ex-comunista
+5	7	6	ex-coniugi
+10	118	6	ex-consigliere
+0	13	0	ex-consiglieri
+0	4	0	ex-consulente
+0	5	0	ex-contestatori
+0	4	0	ex-coppia
+0	10	0	ex-corrispondente
+0	10	0	ex-dc
+0	4	0	ex-delfino
+7	8	4	ex-deputati
+0	6	0	ex-difensore
+0	6	0	ex-diplomatico
+0	7	0	ex-direttori
+13	59	0	ex-dirigente
+0	6	0	ex-discepoli
+0	20	0	ex-dissidente
+0	8	0	ex-enfant
+0	5	0	ex-enti
+0	7	0	ex-esercito
+0	9	0	ex-esponente
+0	8	7	ex-fabbrica
+0	4	0	ex-fascista
+0	4	0	ex-fedeli
+0	4	0	ex-finanziere
+0	16	0	ex-first
+0	10	0	ex-fortezza
+0	4	0	ex-fotomodella
+0	4	0	ex-franchisti
+0	27	0	ex-funzionari
+0	28	0	ex-funzionario
+0	83	11	ex-generale
+0	10	0	ex-generali
+0	9	18	ex-giocatori
+14	17	0	ex-giornalista
+0	8	0	ex-giovani
+0	19	0	ex-giudice
+5	107	14	ex-governatore
+0	18	7	ex-guardia
+0	7	0	ex-guardie
+0	4	0	ex-guerriglieri
+0	4	0	ex-hostess
+0	4	28	ex-imperatore
+4	49	7	ex-impero
+0	20	0	ex-impiegata
+0	4	0	ex-impiegato
+0	6	0	ex-infermiere
+0	4	0	ex-ingegnere
+0	4	0	ex-jugoslavi
+4	4	0	ex-lavoratori
+0	5	0	ex-leghista
+27	20	7	ex-libris
+0	13	0	ex-machina
+0	4	6	ex-maestro
+0	4	0	ex-maggiore
+6	27	4	ex-magistrato
+0	17	9	ex-manager
+0	6	0	ex-maresciallo
+0	36	12	ex-marine
+0	5	0	ex-mariti
+0	7	0	ex-militante
+0	22	7	ex-militanti
+0	4	0	ex-militare
+0	5	0	ex-minatore
+0	7	0	ex-ministero
+8	44	4	ex-ministri
+0	8	5	ex-mogli
+0	4	0	ex-mondo
+0	4	0	ex-monopoli
+0	5	0	ex-monopolio
+0	4	0	ex-monopolisti
+0	5	0	ex-nazista
+0	4	6	ex-nazisti
+0	7	0	ex-negoziatore
+4	21	0	ex-nemici
+0	14	5	ex-nemico
+0	16	0	ex-numero
+0	5	0	ex-onorevole
+4	10	0	ex-operai
+0	30	0	ex-operaio
+0	11	0	ex-organo
+0	5	0	ex-ostaggio
+0	7	0	ex-padrino
+0	6	5	ex-padrone
+0	4	0	ex-paese
+0	12	0	ex-paesi
+0	6	5	ex-palazzo
+0	22	0	ex-parlamentare
+0	6	0	ex-parlamentari
+0	7	0	ex-partigiano
+0	10	0	ex-partito
+5	13	9	ex-partner
+0	4	0	ex-parà
+0	5	0	ex-paziente
+13	16	30	ex-pilota
+0	5	4	ex-piloti
+0	7	0	ex-pm
+4	6	0	ex-poliziotti
+0	22	0	ex-portavoce
+0	4	0	ex-poveri
+0	4	0	ex-presentatore
+9	42	13	ex-presidenti
+0	4	10	ex-prete
+0	5	0	ex-preti
+5	6	26	ex-prigionieri
+0	26	0	ex-procuratore
+13	16	11	ex-professore
+0	4	0	ex-proprietari
+0	7	5	ex-proprietario
+0	8	6	ex-prostituta
+0	4	0	ex-protagonista
+0	7	6	ex-pugile
+0	5	0	ex-questore
+0	14	0	ex-ragazzi
+0	4	0	ex-rappresentante
+9	20	11	ex-re
+0	8	0	ex-reggia
+0	14	14	ex-regina
+0	4	0	ex-reginetta
+0	14	0	ex-repubblica
+0	4	4	ex-residenza
+4	15	0	ex-responsabile
+0	10	6	ex-rivale
+0	5	0	ex-rivali
+0	4	6	ex-sacerdote
+0	4	5	ex-sala
+0	4	0	ex-saltatore
+0	13	0	ex-satelliti
+9	7	38	ex-schiavi
+0	10	0	ex-sede
+0	5	0	ex-segretari
+0	20	4	ex-segretaria
+0	7	0	ex-seminarista
+5	14	0	ex-sessantottini
+0	8	0	ex-sessantottino
+0	10	0	ex-signora
+0	13	0	ex-sindacalista
+0	5	0	ex-sindacalisti
+0	8	0	ex-sindaci
+0	4	0	ex-sinistra
+0	19	0	ex-soci
+0	4	0	ex-socialista
+0	8	8	ex-socialisti
+0	18	7	ex-socio
+0	30	0	ex-sottosegretario
+0	7	0	ex-sovietica
+0	6	0	ex-sovietiche
+0	7	7	ex-sovrano
+0	5	0	ex-speechwriter
+0	5	0	ex-spia
+6	5	42	ex-squadra
+0	4	0	ex-stagista
+0	5	0	ex-studentessa
+0	4	0	ex-superpotenza
+0	4	0	ex-teatro
+0	6	6	ex-tecnico
+0	5	0	ex-tenente
+0	9	0	ex-tennista
+0	22	0	ex-terroristi
+0	5	0	ex-tesoriere
+0	4	0	ex-tigri
+17	8	0	ex-tossicodipendenti
+0	5	0	ex-truppe
+5	14	8	ex-ufficiali
+0	5	0	ex-ufficio
+0	4	0	ex-uomini
+0	17	0	ex-uomo
+0	4	0	ex-verdiglioniani
+0	5	0	ex-vertici
+0	5	0	ex-via
+0	9	0	ex-vice
+0	11	0	ex-vicedirettore
+0	63	4	ex-vicepresidente
+0	7	0	ex-vicesegretario
+0	5	0	ex-vicesindaco
+0	4	0	ex-villa
+0	5	0	neo-acquisita
+0	5	0	neo-alleati
+0	4	15	neo-allenatore
+0	25	0	neo-ambasciatore
+0	33	0	neo-amministratore
+0	4	0	neo-attore
+0	6	0	neo-autonomi
+0	5	0	neo-autoritarismo
+10	10	4	neo-avanguardie
+0	4	0	neo-azionista
+0	9	0	neo-azionisti
+0	4	0	neo-borghesia
+13	19	18	neo-campione
+0	14	4	neo-campioni
+0	7	0	neo-cancelliere
+0	6	0	neo-candidato
+0	17	0	neo-capo
+0	10	0	neo-cardinale
+0	4	0	neo-cavalieri
+0	18	0	neo-centrismo
+0	4	0	neo-centristi
+0	5	0	neo-classica
+0	13	12	neo-classicismo
+0	4	0	neo-classicista
+0	7	0	neo-classico
+0	19	0	neo-commissario
+0	11	0	neo-comunismo
+0	10	0	neo-comunista
+0	7	0	neo-comunitarismo
+16	6	0	neo-conservatorismo
+0	22	0	neo-consiglieri
+0	10	0	neo-consociativismo
+0	4	0	neo-contrattualismo
+0	4	0	neo-corporativismo
+0	8	19	neo-costituita
+0	8	0	neo-ct
+0	12	0	neo-cubismo
+5	10	0	neo-dc
+0	4	0	neo-deputata
+0	4	0	neo-deputati
+0	22	0	neo-deputato
+41	115	8	neo-direttore
+0	8	0	neo-direttori
+0	10	0	neo-dottore
+0	9	0	neo-eletta
+4	15	0	neo-espressionismo
+15	25	0	neo-fascismo
+0	9	0	neo-fascista
+0	42	0	neo-fascisti
+37	5	0	neo-genitori
+0	6	0	neo-gollismo
+0	35	0	neo-gollista
+0	48	0	neo-gollisti
+0	22	4	neo-governatore
+0	4	0	neo-governo
+19	10	0	neo-guerra
+0	4	0	neo-hippie
+6	5	0	neo-idealismo
+0	6	0	neo-illuminismo
+0	5	0	neo-impressionisti
+0	4	0	neo-individualismo
+0	4	0	neo-integralismo
+11	4	0	neo-iscritti
+0	7	0	neo-isolazionismo
+0	5	0	neo-italiano
+0	6	0	neo-juventino
+4	19	0	neo-leader
+0	7	0	neo-liberale
+5	10	0	neo-liberista
+6	12	0	neo-liberisti
+0	4	0	neo-madre
+0	5	0	neo-manager
+0	7	11	neo-marito
+0	4	0	neo-marxismo
+0	7	0	neo-miliardari
+0	6	0	neo-miliardario
+0	18	0	neo-ministri
+0	6	0	neo-missini
+0	7	8	neo-moglie
+0	5	0	neo-moralismo
+0	10	0	neo-nazi
+0	16	0	neo-nazionalismo
+0	5	0	neo-nazionalisti
+0	12	0	neo-nazismo
+0	26	0	neo-neorealismo
+0	4	0	neo-nominati
+0	10	0	neo-nominato
+0	6	0	neo-onorevole
+0	6	0	neo-padre
+0	4	0	neo-padrone
+4	6	0	neo-paganesimo
+9	9	0	neo-papà
+0	7	0	neo-parlamentare
+0	5	0	neo-parlamentari
+0	5	0	neo-parlamentarismo
+4	11	0	neo-partito
+0	11	0	neo-patentati
+0	6	0	neo-pauperismo
+0	4	0	neo-pensionati
+0	9	0	neo-pentito
+0	6	0	neo-politico
+0	5	0	neo-populismo
+0	10	0	neo-porporati
+0	9	0	neo-portavoce
+0	4	0	neo-prefetto
+0	8	0	neo-premio
+0	5	0	neo-presidenti
+0	4	0	neo-primatista
+0	4	0	neo-principessa
+0	14	0	neo-pro
+0	10	0	neo-procuratore
+0	10	0	neo-professionista
+0	6	0	neo-professionisti
+0	8	0	neo-professore
+0	12	14	neo-promossa
+0	9	0	neo-promosse
+0	10	14	neo-promosso
+0	6	0	neo-proprietario
+0	4	0	neo-protezionismo
+0	5	0	neo-psichedelia
+0	5	0	neo-punk
+0	4	0	neo-qualunquisti
+0	6	0	neo-questore
+0	4	0	neo-razzismo
+0	23	0	neo-regista
+0	13	0	neo-responsabile
+0	4	0	neo-ricchi
+0	4	4	neo-romanticismo
+8	85	0	neo-segretario
+0	43	4	neo-senatore
+0	4	0	neo-signora
+0	6	0	neo-socialista
+0	4	0	neo-socialisti
+0	19	0	neo-sottosegretario
+0	5	0	neo-sovrintendente
+0	4	0	neo-speaker
+0	4	0	neo-sposa
+4	7	0	neo-televisione
+0	5	0	neo-umanesimo
+0	15	0	neo-vicepresidente
+0	5	0	neo-volgarità
+0	4	0	neo-yuppies
+0	5	0	neo-zelandese
+0	4	0	neo-zelandesi
+0	6	0	non-accordo
+0	13	28	non-aggressione
+0	37	0	non-allineati
+0	5	0	non-americani
+0	5	0	non-americano
+0	9	0	non-attore
+4	13	0	non-attori
+4	17	9	non-belligeranza
+0	4	9	non-bianchi
+0	4	0	non-candidati
+0	11	0	non-candidato
+0	5	0	non-candidatura
+0	4	0	non-cantanti
+0	4	0	non-chalance
+0	5	0	non-colpevolezza
+6	5	0	non-compleanno
+20	15	4	non-comunicazione
+0	7	0	non-comunista
+0	9	0	non-comunisti
+0	4	0	non-condanna
+0	8	0	non-conformismo
+0	4	0	non-controllo
+8	10	4	non-credenti
+0	5	0	non-credenza
+0	6	0	non-danza
+9	12	0	non-decisione
+0	4	0	non-decisioni
+0	13	6	non-detto
+0	6	0	non-dialogo
+0	4	0	non-dimissioni
+0	4	0	non-eletti
+0	6	0	non-eroi
+0	5	0	non-esserci
+0	4	0	non-eventi
+0	4	0	non-fare
+0	8	0	non-film
+0	7	6	non-finito
+0	6	0	non-food
+0	5	0	non-fumatore
+0	6	0	non-gestione
+0	7	0	non-gol
+6	45	0	non-governo
+0	4	0	non-impegno
+0	4	0	non-intellettualismo
+0	5	0	non-intervista
+0	4	40	non-io
+0	6	0	non-lettore
+0	13	0	non-libri
+0	7	0	non-libro
+0	8	0	non-mondo
+0	4	0	non-musicista
+0	5	14	non-musulmani
+0	4	0	non-nati
+4	6	0	non-notizie
+0	5	0	non-obiettori
+0	4	0	non-occupazione
+0	4	0	non-opera
+0	4	0	non-opposizione
+0	4	0	non-p
+0	4	0	non-paper
+0	5	0	non-partecipazione
+0	6	0	non-partita
+4	11	0	non-partito
+0	4	0	non-permanenti
+13	7	0	non-persona
+0	4	0	non-pittura
+0	16	0	non-politica
+0	4	0	non-politici
+4	5	0	non-presenza
+10	7	0	non-problema
+4	6	0	non-protagonisti
+5	6	0	non-punibilità
+0	8	0	non-ragione
+0	5	0	non-realismo
+0	4	0	non-regia
+0	7	0	non-residenti
+0	4	0	non-riforma
+4	8	0	non-rispetto
+10	9	0	non-risposta
+20	9	0	non-sapere
+0	13	0	non-scelta
+0	7	0	non-scelte
+0	6	0	non-serbi
+0	4	0	non-serietà
+0	7	0	non-sfiducia
+0	4	0	non-socialista
+0	4	6	non-socialisti
+0	5	0	non-spettacolo
+5	7	0	non-stile
+0	4	0	non-storie
+0	4	0	non-teatro
+0	5	0	non-udenti
+0	4	0	non-uomini
+0	5	0	non-valore
+0	5	0	non-valori
+0	10	0	non-vedenti
+0	6	4	non-violento
+9	7	0	non-volontà
+0	8	10	post-apartheid
+0	9	0	post-aumento
+0	8	0	post-avanguardia
+0	18	0	post-bellica
+0	8	0	post-bellico
+0	4	0	post-boom
+0	5	0	post-campionato
+0	7	0	post-catastrofe
+0	5	0	post-coloniale
+4	7	0	post-crisi
+0	4	0	post-cubismo
+0	5	0	post-cubista
+0	14	0	post-democristiani
+0	7	0	post-derby
+0	6	0	post-discoteca
+0	5	0	post-divorzio
+0	20	0	post-elettorale
+0	4	0	post-elettorali
+0	5	0	post-espressionismo
+8	37	5	post-fascismo
+25	30	0	post-fazione
+0	4	0	post-fazioni
+0	21	0	post-femminismo
+0	10	0	post-femminista
+0	5	0	post-femministe
+0	15	0	post-franchismo
+6	14	0	post-fusione
+0	5	0	post-hippies
+0	4	0	post-imperiale
+0	19	19	post-impressionismo
+0	7	0	post-impressionista
+0	17	10	post-impressionisti
+0	39	0	post-industriale
+0	10	0	post-industriali
+19	6	7	post-infarto
+0	77	55	post-laurea
+0	11	4	post-lauream
+0	4	0	post-lottizzazione
+0	9	0	post-maoismo
+0	4	0	post-maoista
+0	11	0	post-missini
+0	54	7	post-modern
+0	4	0	post-modernisti
+0	51	49	post-mortem
+0	4	0	post-natalizi
+0	7	0	post-occupazione
+0	5	0	post-operatoria
+0	14	6	post-operatorio
+19	10	10	post-partita
+41	9	9	post-parto
+0	8	0	post-perestrojka
+0	5	0	post-pop
+0	11	0	post-privatizzazione
+0	20	95	post-punk
+0	5	0	post-reaganismo
+0	4	0	post-recessione
+4	17	0	post-referendum
+13	5	0	post-riforma
+0	4	0	post-rivoluzionario
+0	4	0	post-rossore
+0	5	0	post-scissione
+0	5	0	post-secondari
+0	7	0	post-secondaria
+0	6	0	post-sessantotto
+39	4	5	post-sisma
+0	6	0	post-socialismo
+0	5	0	post-socialista
+0	6	0	post-socialisti
+0	6	0	post-sovietica
+0	7	0	post-stalinismo
+0	4	0	post-svalutazione
+0	4	0	post-tangentopoli
+0	173	10	post-terremoto
+0	18	0	post-terrorismo
+0	4	0	post-thatcherismo
+0	4	0	post-totalitarismo
+0	4	0	post-tridentino
+0	5	0	post-tutto
+4	4	0	post-vacanze
+0	6	0	post-vittoria
+0	5	0	post-yuppie
+4	11	0	pre-accordi
+0	5	0	pre-adozione
+0	7	0	pre-alternativa
+4	5	0	pre-anestesia
+0	6	0	pre-assegnazione
+0	4	0	pre-assemblea
+0	5	0	pre-aumento
+0	13	0	pre-campagna
+0	4	0	pre-cantiere
+0	4	0	pre-cinema
+0	4	0	pre-collocamento
+0	4	0	pre-comizio
+0	9	0	pre-congresso
+0	13	0	pre-consiglio
+0	5	0	pre-consultazione
+0	8	0	pre-crac
+0	4	0	pre-crack
+9	36	4	pre-crisi
+6	4	0	pre-derby
+0	5	0	pre-dimissioni
+0	25	0	pre-elettorale
+0	9	0	pre-elettorali
+0	4	0	pre-esami
+0	5	0	pre-ferie
+0	6	0	pre-festival
+0	6	0	pre-fusione
+0	4	0	pre-golpe
+0	18	0	pre-imposte
+0	8	0	pre-inaugurazione
+0	4	0	pre-inchiesta
+4	6	0	pre-incontro
+0	6	0	pre-indagine
+0	6	0	pre-infarto
+0	6	0	pre-invasione
+0	5	0	pre-maman
+0	5	0	pre-mondiali
+0	6	0	pre-natalizi
+0	5	0	pre-natalizio
+0	14	0	pre-negoziato
+0	5	0	pre-offerte
+0	5	0	pre-olimpico
+0	153	0	pre-pensionamenti
+0	6	0	pre-pensionarsi
+0	10	0	pre-pensionati
+0	5	0	pre-pensionato
+0	4	0	pre-pop
+0	13	0	pre-processo
+0	14	9	pre-qualifiche
+0	7	0	pre-raffaelliti
+0	5	0	pre-razzismo
+0	8	0	pre-recessione
+0	4	0	pre-referendum
+0	38	0	pre-relazione
+5	9	0	pre-riunione
+0	5	5	pre-selezioni
+0	4	0	pre-sentenza
+0	12	4	pre-serale
+0	5	0	pre-sondaggio
+0	4	0	pre-summit
+0	6	0	pre-tangentopoli
+0	8	0	pre-tattica
+0	6	0	pre-trattativa
+0	5	0	pre-ultimatum
+9	8	6	pre-vendita
+23	23	0	pre-vertice
+0	5	0	vetero-comunismo
+0	14	0	vetero-comunista
+0	5	0	vetero-comunisti
+0	4	0	vetero-femminismo
+0	10	0	vetero-marxismo
+0	6	0	vetero-marxista
+5	0	0	ex-Magistero
+4	0	0	ex-Yuogoslavie
+9	0	0	ex-veline
+6	0	0	neo-codacons
+6	0	0	neo-positivisti
+5	0	0	non-compliance
+4	0	0	non-divisione
+9	0	0	non-realtà
+21	0	0	post-olocausto
+10	0	0	pre-analisi
+9	0	0	pre-antipasto
+5	0	0	pre-appello
+15	0	0	pre-cambio
+7	0	0	pre-concerto
+19	0	8	pre-emergenza
+5	0	14	pre-esercizio
+10	0	6	pre-esistenza
+12	0	0	pre-istruttoria
+4	0	0	pre-qualifica
+19	0	0	pre-regata
+8	0	0	pre-stampa
+17	0	4	pre-volo
+14	0	0	pre-zona
+5	0	0	pseudo-elementi
+25	0	0	quasi-domicilio
+4	0	0	quasi-suicidio
+24	0	0	Pre-conferenze
+20	0	0	Pre-decoder
+4	0	8	ex-DDR
+53	0	0	ex-Mastino
+8	0	0	ex-angelo
+14	0	0	ex-giovane
+4	0	0	ex-giudici
+12	0	0	ex-jugoslavia
+4	0	0	ex-orfanotrofi
+5	0	0	ex-scuderie
+10	0	0	non-credente
+20	0	0	non-diffusione
+15	0	0	non-metalli
+13	0	0	non-violence
+8	0	0	post-installazione
+12	0	0	pre-Conferenze
+5	0	0	pre-home
+4	0	0	pre-inserimento
+8	0	0	pre-installazione
+9	0	0	pre-investimento
+27	0	0	preti-operai
+15	0	0	pseudo-codice
+4	0	0	ex-Repubblica
+4	0	0	neo-chicagoani
+46	0	0	non-Dinosauri
+9	0	4	non-identità
+4	0	0	non-recurring
+4	0	0	post-incontro
+5	0	0	post-visita
+14	0	0	pre-formazione
+8	0	0	ante-riforma
+20	0	0	ex-Ufficio
+4	0	0	ex-banchieri
+4	0	23	ex-bassista
+4	0	4	ex-comuni
+4	0	0	ex-pescheria
+12	0	0	neo-madri
+4	0	0	neo-tv
+5	0	0	non-SSIS
+6	0	0	non-b
+22	0	9	non-dualità
+4	0	0	non-ente
+4	0	0	non-fisico
+5	0	0	non-insulin
+9	0	0	non-insulino
+20	0	0	non-miglioramento
+4	0	0	non-nativo
+4	0	0	non-spazio-tempo
+5	0	0	non-target
+5	0	0	pre-Parco
+4	0	0	pre-approvazione
+10	0	0	pre-concetti
+5	0	0	pre-negoziati
+4	0	22	pre-season
+4	0	0	pseudo-colori
+4	0	0	pseudo-democrazia
+4	0	0	ex-Imperatrice
+4	0	0	ex-Irakere
+5	0	4	ex-area
+4	0	57	ex-batterista
+5	0	7	ex-calciatori
+17	0	0	neo-criticismo
+4	0	0	neo-regionalismo
+4	0	16	non-A
+5	0	0	non-attendees
+14	0	0	non-informazione
+19	0	7	non-località
+4	0	0	non-pacifista
+19	0	0	post-human
+4	0	0	pre-CIPE
+17	0	0	pre-boom
+4	0	0	pre-dimissione
+9	0	5	pre-esposizione
+4	0	0	pre-mutazione
+4	0	0	pseudo-attractor
+5	0	0	pseudo-attractors
+5	0	0	pseudo-critico
+4	0	0	pseudo-libertà
+4	0	0	pseudo-matrimonio
+6	0	0	pseudo-stabilizzazione
+44	0	0	quasi-collisione
+6	0	0	quasi-mercati
+5	0	0	questions-réponses
+12	0	8	ex-Ministro
+4	0	0	non-anima
+4	0	0	non-direttività
+12	0	16	non-morte
+11	0	6	non-scienza
+4	0	0	non-separabilità
+6	0	0	pre-congedo
+4	0	0	pre-doc
+4	0	0	pre-fase
+6	0	4	pre-intervento
+5	0	0	pre-veggenza
+8	0	0	ex-coniuge
+33	0	0	ex-forzati
+5	0	7	ex-prostitute
+4	0	0	neo-emittente
+6	0	0	non-anime
+6	0	0	non-directory
+5	0	0	post-sismìa
+4	0	0	post-umanità
+4	0	0	pre-ascolto
+6	0	0	pre-corsi
+7	0	0	pre-processore
+16	0	0	pseudo-Dionigi
+10	0	0	Pre-atti
+6	0	54	ex-chitarrista
+5	0	0	ex-ordinovisti
+4	0	0	ex-regno
+4	0	0	non-blog
+5	0	0	non-conformità
+8	0	0	non-responsabilità
+5	0	0	nuova-finestra
+5	0	0	post-benzina
+4	0	0	post-install
+31	0	10	post-trattamento
+13	0	0	pre-adolescente
+4	0	4	pre-lancio
+11	0	0	pre-serata
+4	0	0	pseudo-cultura
+5	0	0	pseudo-problemi
+16	0	0	quasi-città
+8	0	0	Post-genoma
+4	0	0	ex-Mattatoio
+6	0	0	neo-guelfismo
+4	0	0	non-FR
+6	0	0	non-blocking
+6	0	0	non-cacheable
+4	0	0	non-civiltà
+10	0	13	non-cristiani
+4	0	0	non-monumento
+6	0	0	non-occidente
+4	0	0	non-retail
+5	0	0	non-sensi
+8	0	0	non-spreco
+4	0	0	non-transaction
+5	0	0	post-dc
+4	0	5	post-evento
+4	0	0	post-selezione
+4	0	0	pre-benedettino
+6	0	0	pre-comprensioni
+7	0	0	ante-guerra
+4	0	0	ex-OP
+5	0	0	ex-Procura
+5	0	4	ex-tifosi
+5	0	0	ex-viola
+12	0	0	neo-aristotelismo
+6	0	0	neuro-oncologia
+5	0	0	non-contraddittorietà
+5	0	0	post-terapia
+4	0	0	pre-authentication
+4	0	0	pre-crimine
+4	0	0	pre-cultura
+4	0	0	pre-screening
+4	0	0	pre-scrittura
+9	0	0	pseudo-classe
+5	0	0	pseudo-classi
+4	0	0	pseudo-imprenditori
+10	0	0	pseudo-intellettuali
+5	0	0	Ex-studente
+12	0	0	Post-test
+5	0	0	Pre-test
+4	0	0	ex-Ceat
+10	0	0	ex-OMI
+4	0	0	ex-proletariato
+4	0	0	ex-sottoproletariato
+4	0	0	neo-conduttori
+4	0	0	neo-delegati
+4	0	0	neo-fondamentalisti
+4	0	0	neo-impresa
+4	0	0	neo-istituzionalismo
+4	0	0	neo-populista
+4	0	0	non-metodo
+4	0	0	non-nascondimento
+8	0	0	non-sviluppo
+4	0	0	post-esame
+4	0	0	post-tsunami
+4	0	0	pre-fatti
+4	0	0	pre-impresa
+4	0	0	pre-lettura
+18	0	0	pre-termine
+5	0	0	pre-visione
+23	0	0	quasi-cristalli
+14	0	9	ex-Convento
+5	0	0	ex-cava
+6	0	0	ex-istituto
+4	0	0	ex-regime
+4	0	0	ex-teppista
+4	0	0	neo-colonianilismo
+12	0	0	neo-noir
+6	0	0	non-energia
+4	0	0	non-giocatori
+4	0	0	non-insulin-dependent
+6	0	0	non-premi
+4	0	0	non-tombola
+4	0	0	pre-ammissione
+6	0	0	pre-convegno
+4	0	10	pre-guerra
+4	0	5	pre-infortunio
+4	0	0	non-confessionalità
+5	0	5	non-disgiunzione
+7	0	4	non-filosofia
+4	0	0	non-filosofo
+8	0	0	non-iscritti
+4	0	0	non-rom
+6	0	12	non-self
+5	0	0	post-avanguardista
+4	0	0	post-counter
+8	0	0	post-genoma
+6	0	0	pre-iscritti
+8	0	0	pre-modernità
+9	0	0	pseudo-vincoli
+4	0	0	tardo-romantici
+6	0	0	Pre-contratto
+4	0	0	neo-bio-logica
+10	0	0	neo-scientismo
+5	0	0	non-democrazia
+5	0	0	non-parole
+5	0	0	non-ulivista
+19	0	0	non-uomo
+4	0	0	post-concerto
+4	0	0	post-dimissione
+4	0	0	pre-aperture
+8	0	0	pre-proposta
+6	0	0	pseudo-carriere
+6	0	0	Neo-satanismo
+6	0	0	ex-birreria
+4	0	0	ex-noleggio
+6	0	0	neo-misticismo
+4	0	0	non-calciatore
+4	0	0	non-esperto
+14	0	0	non-manifesto
+4	0	0	post-infortunio
+5	0	0	post-tensione
+8	0	0	post-tesi
+4	0	0	pre-elezioni
+5	0	4	pre-processing
+7	0	0	pseudo-incontinenza
+5	0	0	Neo-Avanguardia
+4	0	0	dopo-elezioni
+5	0	0	ex-Associazione
+4	0	0	ex-Boschine
+7	0	0	ex-Pescheria
+4	0	0	non-distinzione
+4	0	0	pre-cog
+8	0	0	pre-ira
+14	0	0	pre-tribolazione
+5	0	0	pseudo-esperti
+4	0	0	pseudo-file
+4	0	0	pseudo-invettiva
+5	0	0	pseudo-valori
+19	0	0	quasi-delitti
+7	0	0	quasi-delitto
+0	0	15	Neo-Apostolica
+0	0	4	Neo-Atlantide
+0	0	9	Neo-Dada
+0	0	5	Neo-Geo
+0	0	6	Neo-Namecc
+0	0	7	Neo-Nameck
+0	0	4	Neo-Platonismo
+0	0	8	Neo-Queen
+0	0	8	Neo-Regina
+0	0	8	Neo-Tokyo
+0	0	6	Neo-Trantor
+0	0	7	Neo-Zeon
+0	0	4	Neo-tifinagh
+0	0	25	Post-Crisi
+0	0	15	Post-Crisis
+0	0	5	Post-Dispatch
+0	0	6	Post-Hardcore
+0	0	7	Post-Modern
+0	0	8	Post-Ora
+0	0	4	Post-Panamax
+0	0	5	Post-Punk
+0	0	6	Post-Traumatic
+0	0	4	Post-Vulgata
+0	0	4	Post-War
+0	0	4	Post-grunge
+0	0	7	Post-hardcore
+0	0	12	Post-it
+0	0	4	Post-metal
+0	0	4	Post-produzione
+0	0	10	Post-punk
+0	0	4	Post-rock
+0	0	18	Pre-Crisi
+0	0	7	Pre-Crisis
+0	0	6	Pre-Illinoiano
+0	0	4	Pre-Juniores
+0	0	8	Pre-Libertadores
+0	0	8	Pre-Nettariano
+0	0	7	Pre-Olímpico
+0	0	4	Pre-Produzione
+0	0	46	Pre-Release
+0	0	7	Pre-Season
+0	0	4	Pre-debutto
+0	0	4	Pre-dreadnought
+0	0	17	Pre-gara
+0	0	7	Pre-lancio
+0	0	13	Pre-produzione
+0	0	4	Pre-season
+0	0	4	Proto-Algonchino
+0	0	5	Proto-Dinastico
+0	0	6	Proto-Tre
+0	0	9	Proto-bulgari
+0	0	9	Proto-germanico
+0	0	5	Proto-norreno
+0	0	7	Proto-punk
+0	0	37	Pseudo-Apollodoro
+0	0	26	Pseudo-Dionigi
+0	0	4	Pseudo-Igino
+0	0	19	Pseudo-Isidoro
+0	0	8	Pseudo-Matteo
+0	0	7	Pseudo-Seneca
+0	0	5	Pseudo-codice
+0	0	5	Quasi-Psycommu
+0	0	4	Quasi-Zenith
+0	0	6	ex-Casa
+0	0	4	ex-Cavaliere
+0	0	5	ex-Chiesa
+0	0	5	ex-Cotonificio
+0	0	8	ex-DC
+0	0	4	ex-FS
+0	0	5	ex-Germania
+0	0	6	ex-Guns
+0	0	7	ex-Impero
+0	0	123	ex-Jugoslavia
+0	0	5	ex-Luftwaffe
+0	0	7	ex-Maestro
+0	0	6	ex-Monastero
+0	0	4	ex-Montedison
+0	0	4	ex-NHL
+0	0	9	ex-PLI
+0	0	4	ex-PRI
+0	0	6	ex-PSI
+0	0	5	ex-Palazzo
+0	0	4	ex-Presidenti
+0	0	7	ex-RAF
+0	0	5	ex-Segretario
+0	0	7	ex-Sibir
+0	0	9	ex-US
+0	0	8	ex-USAF
+0	0	4	ex-abitanti
+0	0	7	ex-allieva
+0	0	4	ex-alunna
+0	0	8	ex-amica
+0	0	5	ex-band
+0	0	5	ex-cappella
+0	0	6	ex-carcerati
+0	0	5	ex-carcerato
+0	0	4	ex-carcere
+0	0	6	ex-casa
+0	0	4	ex-cavaliere
+0	0	4	ex-chiostro
+0	0	4	ex-ciclista
+0	0	5	ex-circoscrizione
+0	0	5	ex-cittadini
+0	0	4	ex-cognato
+0	0	9	ex-collegio
+0	0	8	ex-commilitone
+0	0	4	ex-commilitoni
+0	0	28	ex-comune
+0	0	10	ex-console
+0	0	6	ex-consoli
+0	0	6	ex-consorte
+0	0	5	ex-consulenti
+0	0	6	ex-distretti
+0	0	9	ex-fiamma
+0	0	4	ex-filanda
+0	0	6	ex-frazione
+0	0	13	ex-frontman
+0	0	6	ex-galeotto
+0	0	4	ex-garibaldino
+0	0	62	ex-gay
+0	0	4	ex-giocatrice
+0	0	10	ex-imperatrice
+0	0	6	ex-internati
+0	0	5	ex-ladro
+0	0	4	ex-luogotenente
+0	0	4	ex-mazziniani
+0	0	11	ex-mentore
+0	0	5	ex-minatori
+0	0	23	ex-monastero
+0	0	6	ex-novo.
+0	0	6	ex-officio
+0	0	7	ex-oratorio
+0	0	11	ex-ospedale
+0	0	4	ex-pirata
+0	0	4	ex-pontefice
+0	0	5	ex-portiere
+0	0	5	ex-possedimenti
+0	0	4	ex-prefetto
+0	0	4	ex-professionisti
+0	0	4	ex-protettore
+0	0	5	ex-province
+0	0	4	ex-provincia
+0	0	4	ex-refettorio
+0	0	5	ex-sacerdoti
+0	0	4	ex-scagnozzo
+0	0	14	ex-schiavo
+0	0	4	ex-spalla
+0	0	4	ex-stabilimenti
+0	0	10	ex-stabilimento
+0	0	4	ex-star
+0	0	4	ex-statale
+0	0	11	ex-stazione
+0	0	7	ex-stella
+0	0	4	ex-suora
+0	0	9	ex-tastierista
+0	0	7	ex-territori
+0	0	4	ex-uffici
+0	0	16	ex-vocalist
+0	0	6	ex-wrestler
+0	0	4	ex-zar
+0	0	8	neo-Presidente
+0	0	5	neo-arrivato
+0	0	6	neo-capitano
+0	0	4	neo-classical
+0	0	4	neo-coach
+0	0	6	neo-con
+0	0	6	neo-convertiti
+0	0	4	neo-costituite
+0	0	125	neo-costituito
+0	0	19	neo-cristiani
+0	0	4	neo-eurasiatismo
+0	0	5	neo-fondata
+0	0	5	neo-formato
+0	0	4	neo-gotico
+0	0	4	neo-imperatore
+0	0	4	neo-indipendente
+0	0	7	neo-istituito
+0	0	5	neo-ittiti
+0	0	6	neo-latine
+0	0	4	neo-marxisti
+0	0	4	neo-membro
+0	0	11	neo-nata
+0	0	8	neo-nato
+0	0	4	neo-pitagorismo
+0	0	4	neo-platonismo
+0	0	4	neo-prog
+0	0	4	neo-soul
+0	0	7	neo-sposi
+0	0	6	neo-tifinagh
+0	0	5	neo-vescovo
+0	0	8	non-Disney
+0	0	5	non-Han
+0	0	6	non-Hodgkin
+0	0	6	non-OGM
+0	0	4	non-accettazione
+0	0	5	non-arabi
+0	0	4	non-bianco
+0	0	4	non-breaking
+0	0	14	non-carnivore
+0	0	4	non-cattolici
+0	0	8	non-conformisti
+0	0	8	non-entità
+0	0	41	non-famiglie
+0	0	4	non-fidanzata
+0	0	7	non-free
+0	0	5	non-gaussianità
+0	0	14	non-interventismo
+0	0	4	non-italiani
+0	0	4	non-league
+0	0	4	non-linear
+0	0	6	non-metallo
+0	0	5	non-mosso
+0	0	14	non-nave
+0	0	5	non-residuo
+0	0	4	non-riconoscimento
+0	0	4	non-romani
+0	0	6	non-scuola
+0	0	4	non-sostanzialità
+0	0	30	non-standard
+0	0	6	non-sé
+0	0	6	non-terminale
+0	0	7	non-title
+0	0	16	non-umani
+0	0	5	post-Achemenide
+0	0	39	post-Crisi
+0	0	14	post-Crisis
+0	0	7	post-Guerra
+0	0	8	post-Hartree-Fock
+0	0	12	post-Ora
+0	0	6	post-bellici
+0	0	4	post-black
+0	0	4	post-bruciatore
+0	0	4	post-classico
+0	0	5	post-contratto
+0	0	8	post-elaborazione
+0	0	74	post-hardcore
+0	0	10	post-indipendenza
+0	0	6	post-industrial
+0	0	7	post-match
+0	0	7	post-materialismo
+0	0	19	post-metal
+0	0	6	post-restyling
+0	0	4	post-ricostruzione
+0	0	5	post-sequenza
+0	0	5	post-strutturalisti
+0	0	5	post-transizione
+0	0	42	pre-Crisi
+0	0	13	pre-Crisis
+0	0	4	pre-Dreadnought
+0	0	4	pre-Ora
+0	0	4	pre-RC
+0	0	8	pre-RNA
+0	0	7	pre-bellici
+0	0	5	pre-colombiano
+0	0	8	pre-convocati
+0	0	7	pre-cristiani
+0	0	38	pre-dreadnought
+0	0	7	pre-elaborazione
+0	0	7	pre-esistenti
+0	0	20	pre-evoluzione
+0	0	85	pre-evoluzioni
+0	0	4	pre-flop
+0	0	4	pre-indoeuropea
+0	0	25	pre-juniores
+0	0	18	pre-mRNA
+0	0	6	pre-metro
+0	0	5	pre-miRNA
+0	0	4	pre-olimpica
+0	0	4	pre-order
+0	0	10	pre-ordine
+0	0	4	pre-replicazione
+0	0	10	pre-restyling
+0	0	27	pre-rilascio
+0	0	7	pre-riscaldamento
+0	0	7	pre-romana
+0	0	7	pre-scoperta
+0	0	14	pre-selezionati
+0	0	7	pre-show
+0	0	4	pre-unitari
+0	0	24	vetero-cattolica
+0	0	6	vetero-cattolicesimo
+0	0	25	vetero-cattolici

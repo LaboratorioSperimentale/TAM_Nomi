@@ -1,0 +1,491 @@
+prefix	TOT	ITWAC	REPUBBLICA	WIKICONLL	ADV-N	ERR	semantica nome	serve contesto	animato	valore prefisso
+ex	4	0	0	4	ex-abitanti		condizione			x
+ex	34	0	23	11	ex-aequo	x
+ex	174	49	64	61	ex-agente		mestiere			x
+ex	34	4	18	12	ex-agenti		mestiere			x
+ex	5	0	5	0	ex-albergo		destinazione			x
+ex	48	10	21	17	ex-alleati		relazione sociale			x
+ex	30	7	10	13	ex-alleato		relazione sociale			x
+ex	49	4	17	28	ex-allenatore		mestiere			x
+ex	7	0	0	7	ex-allieva		condizione			x
+ex	251	200	19	32	ex-allievi		condizione			x
+ex	55	17	19	19	ex-allievo		condizione			x
+ex	7	7	0	0	ex-Alumetal	x
+ex	4	0	0	4	ex-alunna		condizione			x
+ex	66	43	8	15	ex-alunni		condizione			x
+ex	13	4	5	4	ex-alunno		condizione			x
+ex	95	21	43	31	ex-amante		parentela			x
+ex	10	0	10	0	ex-amanti		parentela			x
+ex	9	4	5	0	ex-ambasciata		destinazione			x
+ex	91	18	69	4	ex-ambasciatore		mestiere			x
+ex	8	0	8	0	ex-ambasciatori		mestiere			x
+ex	7	0	7	0	ex-ambasciatrice		mestiere			x
+ex	8	0	0	8	ex-amica		relazione sociale			x
+ex	45	17	22	6	ex-amici		relazione sociale			x
+ex	67	24	18	25	ex-amico		relazione sociale			x
+ex	35	0	31	4	ex-amministratore		ruolo			x
+ex	36	0	36	0	ex-amministratori		ruolo			x
+ex	11	0	11	0	ex-ammiraglio		mestiere			x
+ex	8	8	0	0	ex-angelo		?	x
+ex	12	0	4	8	ex-appartenenti	x				x
+ex	5	5	0	0	ex-arbitro		mestiere			x
+ex	9	5	0	4	ex-area		?	x		x
+ex	32	32	0	0	ex-art	x
+ex	4	0	4	0	ex-articolo	x
+ex	63	8	55	0	ex-assessore		ruolo			x
+ex	4	0	4	0	ex-assessori		ruolo			x
+ex	6	0	6	0	ex-assistente		ruolo			x
+ex	5	5	0	0	ex-Associazione		condizione		i	x
+ex	9	0	9	0	ex-astronauta		mestiere			x
+ex	52	40	4	8	ex-atleta		mestiere			x
+ex	14	4	5	5	ex-atleti		mestiere			x
+ex	43	10	27	6	ex-attore		mestiere			x
+ex	22	4	9	9	ex-attrice		mestiere			x
+ex	11	0	7	4	ex-avversari		relazione sociale			x
+ex	5	0	5	0	ex-avversario		relazione sociale			x
+ex	5	0	5	0	ex-avvocato		mestiere			x
+ex	5	0	5	0	ex-azioni		?	x
+ex	4	0	4	0	ex-azionista		condizione			x
+ex	4	4	0	0	ex-baba@hetnet.nl	x
+ex	4	0	4	0	ex-ballerina		mestiere			x
+ex	27	23	4	0	ex-bambini		condizione			x
+ex	9	0	9	0	ex-banchiere		mestiere			x
+ex	4	4	0	0	ex-banchieri		mestiere			x
+ex	5	0	0	5	ex-band		condizione			x
+ex	19	0	10	9	ex-base		?	x		x
+ex	27	4	0	23	ex-bassista		mestiere			x
+ex	61	4	0	57	ex-batterista		mestiere			x
+ex	24	4	0	20	ex-Beatle		condizione
+ex	4	0	4	0	ex-belligeranti	x
+ex	4	0	4	0	ex-bin	x
+ex	10	10	0	0	ex-Birmania		denominazione			-
+ex	6	6	0	0	ex-birreria		destinazione			x
+ex	18	5	13	0	ex-blocco		condizione			-
+ex	4	4	0	0	ex-Boschine	x
+ex	20	0	20	0	ex-boss		ruolo			x
+ex	36	0	36	0	ex-braccio		ruolo
+ex	6	0	6	0	ex-brigatisti		appartenenza politica			x
+ex	5	0	5	0	ex-burocrati		condizione			x
+ex	41	8	12	21	ex-calciatore		mestiere
+ex	12	5	0	7	ex-calciatori		mestiere
+ex	4	0	4	0	ex-cameriera		mestiere
+ex	6	0	6	0	ex-cameriere		mestiere
+ex	12	12	0	0	ex-campi		?	x
+ex	165	28	86	51	ex-campione		grado
+ex	19	0	10	9	ex-campioni		grado
+ex	8	0	4	4	ex-campo		?	x
+ex	30	9	16	5	ex-cancelliere		mestiere
+ex	39	0	39	0	ex-candidato		condizione
+ex	38	4	5	29	ex-cantante		mestiere
+ex	14	0	14	0	ex-capi		ruolo
+ex	42	0	31	11	ex-capitale		condizione
+ex	43	4	13	26	ex-capitano		ruolo
+ex	399	145	208	46	ex-capo		ruolo
+ex	12	0	12	0	ex-capogabinetto		ruolo
+ex	6	0	6	0	ex-capogruppo		ruolo
+ex	5	0	0	5	ex-cappella		destinazione/luogo/uso
+ex	5	0	5	0	ex-carabiniere		mestiere
+ex	6	0	0	6	ex-carcerati		condizione
+ex	5	0	0	5	ex-carcerato		condizione
+ex	4	0	0	4	ex-carcere		destinazione/luogo/uso
+ex	4	0	4	0	ex-carnitiani		appartenenza politica
+ex	6	0	0	6	ex-Casa		destinazione/luogo/uso
+ex	6	0	0	6	ex-casa		destinazione/luogo/uso
+ex	18	4	4	10	ex-caserma		destinazione/luogo/uso
+ex	5	5	0	0	ex-cava		destinazione/luogo/uso
+ex	4	0	0	4	ex-Cavaliere		ruolo
+ex	4	0	0	4	ex-cavaliere		mestiere	x
+ex	4	4	0	0	ex-Ceat	x
+ex	68	19	5	44	ex-chiesa		destinazione/luogo/uso
+ex	5	0	0	5	ex-Chiesa		destinazione/luogo/uso
+ex	4	0	0	4	ex-chiostro		destinazione/luogo/uso
+ex	60	6	0	54	ex-chitarrista		mestiere
+ex	4	0	0	4	ex-ciclista		mestiere
+ex	16	4	12	0	ex-cinema		destinazione/luogo/uso
+ex	5	0	0	5	ex-circoscrizione		condizione
+ex	12	12	0	0	ex-Cirielli	x
+ex	5	0	0	5	ex-cittadini		condizione
+ex	4	0	0	4	ex-cognato		parentela
+ex	44	4	32	8	ex-collaboratore		relazione sociale
+ex	18	0	13	5	ex-collaboratori		relazione sociale
+ex	4	0	4	0	ex-collaboratrice		relazione sociale
+ex	118	65	19	34	ex-collega		relazione sociale
+ex	103	56	31	16	ex-colleghi		relazione sociale
+ex	9	0	0	9	ex-collegio		destinazione/luogo/uso	x
+ex	192	122	41	29	ex-colonia		destinazione/luogo/uso
+ex	157	95	18	44	ex-colonie		destinazione/luogo/uso
+ex	51	13	33	5	ex-colonnello		mestiere
+ex	74	21	42	11	ex-comandante		mestiere
+ex	25	12	8	5	ex-combattente		mestiere
+ex	258	194	34	30	ex-combattenti		mestiere
+ex	4	0	4	0	ex-commando		condizione
+ex	8	0	0	8	ex-commilitone		relazione sociale
+ex	4	0	0	4	ex-commilitoni		relazione sociale
+ex	5	0	5	0	ex-commissario		mestiere
+ex	48	8	17	23	ex-compagna		parentela
+ex	4	0	4	0	ex-compagne		relazione sociale
+ex	216	94	43	79	ex-compagni		relazione sociale
+ex	215	78	44	93	ex-compagno		relazione sociale
+ex	14	0	4	10	ex-componente		condizione
+ex	29	0	7	22	ex-componenti		condizione
+ex	28	0	0	28	ex-comune		condizione		i
+ex	8	4	0	4	ex-comuni		condizione
+ex	4	0	4	0	ex-comunismo		appartenenza politica
+ex	45	13	28	4	ex-comunista		appartenenza politica
+ex	232	93	126	13	ex-comunisti		appartenenza politica
+ex	8	8	0	0	ex-coniuge		parentela
+ex	18	5	7	6	ex-coniugi		parentela
+ex	134	10	118	6	ex-consigliere		ruolo	x
+ex	13	0	13	0	ex-consiglieri		ruolo
+ex	10	0	0	10	ex-console		ruolo
+ex	6	0	0	6	ex-consoli		ruolo
+ex	6	0	0	6	ex-consorte		parentela
+ex	4	0	4	0	ex-consulente		mestiere
+ex	5	0	0	5	ex-consulenti		mestiere
+ex	5	0	5	0	ex-contestatori		condizione
+ex	168	92	12	64	ex-convento		destinazione/luogo/uso
+ex	23	14	0	9	ex-Convento		destinazione
+ex	13	13	0	0	ex-Convenzione		documento	x
+ex	4	0	4	0	ex-coppia		relazione sociale
+ex	10	0	10	0	ex-corrispondente		mestiere
+ex	11	11	0	0	ex-corsisti		condizione
+ex	5	0	0	5	ex-Cotonificio		destinazione
+ex	5	5	0	0	ex-datore		ruolo
+ex	10	0	10	0	ex-dc		appartenenza politica
+ex	8	0	0	8	ex-DC		appartenenza politica
+ex	12	4	0	8	ex-DDR		denominazione
+ex	4	0	4	0	ex-delfino		ruolo
+ex	35	26	9	0	ex-democristiani		appartenenza politica
+ex	34	25	5	4	ex-deportati		condizione
+ex	19	7	8	4	ex-deputati		ruolo
+ex	75	21	46	8	ex-deputato		ruolo
+ex	132	94	25	13	ex-detenuti		condizione
+ex	17	10	0	7	ex-detenuto		condizione
+ex	6	0	6	0	ex-difensore		ruolo
+ex	39	15	19	5	ex-dipendente		condizione
+ex	93	58	26	9	ex-dipendenti		condizione
+ex	6	0	6	0	ex-diplomatico		mestiere
+ex	378	145	203	30	ex-direttore		ruolo
+ex	7	0	7	0	ex-direttori		ruolo
+ex	72	13	59	0	ex-dirigente		ruolo
+ex	59	26	26	7	ex-dirigenti		ruolo
+ex	6	0	6	0	ex-discepoli		condizione
+ex	20	0	20	0	ex-dissidente		condizione
+ex	6	0	0	6	ex-distretti		condizione
+ex	88	51	33	4	ex-dittatore		ruolo
+ex	8	0	8	0	ex-enfant	x
+ex	5	0	5	0	ex-enti		condizione
+ex	7	0	7	0	ex-esercito		condizione
+ex	9	0	9	0	ex-esponente		ruolo
+ex	15	0	8	7	ex-fabbrica		destinazione
+ex	4	0	4	0	ex-fascista		appartenenza politica
+ex	20	6	10	4	ex-fascisti		appartenenza politica
+ex	4	0	4	0	ex-fedeli		condizione
+ex	11	11	0	0	ex-festività		condizione
+ex	9	0	0	9	ex-fiamma		relazione sociale
+ex	183	79	21	83	ex-fidanzata		parentela
+ex	110	44	19	47	ex-fidanzato		parentela
+ex	4	0	0	4	ex-filanda		destinazione
+ex	4	0	4	0	ex-finanziere		mestiere
+ex	16	0	16	0	ex-first	x
+ex	10	0	10	0	ex-fortezza		destinazione
+ex	33	33	0	0	ex-forzati		condizione
+ex	4	0	4	0	ex-fotomodella		mestiere
+ex	4	0	4	0	ex-franchisti		appartenenza politica
+ex	6	0	0	6	ex-frazione		condizione
+ex	13	0	0	13	ex-frontman		ruolo
+ex	4	0	0	4	ex-FS		denominazione
+ex	4	4	0	0	ex-fumatore		condizione
+ex	51	34	17	0	ex-fumatori		condizione
+ex	27	0	27	0	ex-funzionari		mestiere
+ex	28	0	28	0	ex-funzionario		mestiere
+ex	6	0	0	6	ex-galeotto		condizione
+ex	4	0	0	4	ex-garibaldino		appartenenza politica
+ex	62	0	0	62	ex-gay		condizione	x
+ex	94	0	83	11	ex-generale		mestiere
+ex	10	0	10	0	ex-generali		mestiere
+ex	5	0	0	5	ex-Germania		denominazione
+ex	97	35	18	44	ex-giocatore		mestiere	x
+ex	27	0	9	18	ex-giocatori		mestiere	x
+ex	4	0	0	4	ex-giocatrice		condizione	x
+ex	31	14	17	0	ex-giornalista		mestiere
+ex	14	14	0	0	ex-giovane		condizione
+ex	8	0	8	0	ex-giovani		condizione
+ex	19	0	19	0	ex-giudice		mestiere
+ex	4	4	0	0	ex-giudici		mestiere
+ex	126	5	107	14	ex-governatore		ruolo
+ex	42	30	7	5	ex-gruppo		condizione
+ex	25	0	18	7	ex-guardia		mestiere
+ex	7	0	7	0	ex-guardie		mestiere
+ex	4	0	4	0	ex-guerriglieri		mestiere
+ex	6	0	0	6	ex-Guns	x
+ex	4	0	4	0	ex-hostess		mestiere
+ex	32	0	4	28	ex-imperatore		ruolo
+ex	10	0	0	10	ex-imperatrice		ruolo
+ex	4	4	0	0	ex-Imperatrice		ruolo
+ex	60	4	49	7	ex-impero		condizione
+ex	7	0	0	7	ex-Impero		condizione
+ex	20	0	20	0	ex-impiegata		mestiere
+ex	4	0	4	0	ex-impiegato		mestiere
+ex	6	0	6	0	ex-infermiere		mestiere
+ex	4	0	4	0	ex-ingegnere		mestiere
+ex	17	4	5	8	ex-insegnante		mestiere
+ex	6	0	0	6	ex-internati		condizione
+ex	4	4	0	0	ex-Irakere	x
+ex	13	13	0	0	ex-Istituto		destinazione	x
+ex	6	6	0	0	ex-istituto		destinazione	x
+ex	78	71	0	7	ex-Iugoslavia		denominazione
+ex	4	0	4	0	ex-jugoslavi		denominazione
+ex	123	0	0	123	ex-Jugoslavia		denominazione
+ex	12	12	0	0	ex-jugoslavia		denominazione
+ex	5	0	0	5	ex-ladro		mestiere
+ex	8	4	4	0	ex-lavoratori		condizione
+ex	209	91	94	24	ex-leader		ruolo
+ex	75	75	0	0	ex-lege	x
+ex	7	7	0	0	ex-legge		documento
+ex	5	0	5	0	ex-leghista		appartenenza politica
+ex	54	27	20	7	ex-libris	x
+ex	5	0	0	5	ex-Luftwaffe	x
+ex	4	0	0	4	ex-luogotenente		mestiere
+ex	13	0	13	0	ex-machina	x
+ex	10	0	4	6	ex-maestro		mestiere	x
+ex	7	0	0	7	ex-Maestro		mestiere	x
+ex	4	0	4	0	ex-maggiore		ruolo
+ex	5	5	0	0	ex-Magistero		?	x
+ex	37	6	27	4	ex-magistrato		mestiere
+ex	26	0	17	9	ex-manager		ruolo
+ex	6	0	6	0	ex-maresciallo		mestiere
+ex	48	0	36	12	ex-marine		mestiere
+ex	5	0	5	0	ex-mariti		parentela
+ex	317	139	64	114	ex-marito		parentela
+ex	53	53	0	0	ex-Mastino		?	x
+ex	4	4	0	0	ex-Mattatoio		destinazione/luogo/uso
+ex	4	0	0	4	ex-mazziniani	x
+ex	142	33	10	99	ex-membri		ruolo
+ex	100	4	23	73	ex-membro		ruolo
+ex	11	0	0	11	ex-mentore		ruolo
+ex	7	0	7	0	ex-militante		appartenenza politica
+ex	29	0	22	7	ex-militanti		appartenenza politica	x
+ex	4	0	4	0	ex-militare		mestiere
+ex	48	26	5	17	ex-militari		mestiere
+ex	5	0	5	0	ex-minatore		mestiere
+ex	5	0	0	5	ex-minatori		mestiere
+ex	7	0	7	0	ex-ministero		denominazione	x
+ex	56	8	44	4	ex-ministri		ruolo
+ex	773	352	385	36	ex-ministro		ruolo
+ex	20	12	0	8	ex-Ministro		ruolo
+ex	41	8	19	14	ex-modella		mestiere
+ex	13	0	8	5	ex-mogli		parentela
+ex	619	337	110	172	ex-moglie		parentela
+ex	23	0	0	23	ex-monastero		destinazione/luogo/uso
+ex	6	0	0	6	ex-Monastero		destinazione/luogo/uso
+ex	4	0	4	0	ex-mondo		?	x
+ex	4	0	4	0	ex-monopoli		condizione
+ex	5	0	5	0	ex-monopolio		condizione
+ex	54	42	8	4	ex-monopolista		grado
+ex	4	0	4	0	ex-monopolisti		grado
+ex	4	0	0	4	ex-Montedison	x
+ex	5	0	5	0	ex-nazista		appartenenza politica
+ex	10	0	4	6	ex-nazisti		appartenenza politica
+ex	7	0	7	0	ex-negoziatore		ruolo
+ex	25	4	21	0	ex-nemici		relazione sociale
+ex	19	0	14	5	ex-nemico		relazione sociale
+ex	4	0	0	4	ex-NHL	x
+ex	4	4	0	0	ex-noleggio		destinazione/luogo/uso
+ex	323	102	25	196	ex-novo	x
+ex	6	0	0	6	ex-novo.	x
+ex	16	0	16	0	ex-numero		grado	x
+ex	6	0	0	6	ex-officio	x
+ex	10	10	0	0	ex-OMI	x
+ex	8	8	0	0	ex-omi	x
+ex	5	0	5	0	ex-onorevole		ruolo
+ex	4	4	0	0	ex-OP	x
+ex	14	4	10	0	ex-operai		mestiere
+ex	30	0	30	0	ex-operaio		mestiere
+ex	7	0	0	7	ex-oratorio		destinazione/luogo/uso
+ex	5	5	0	0	ex-ordinovisti	x
+ex	4	4	0	0	ex-orfanotrofi		destinazione/luogo/uso
+ex	11	0	11	0	ex-organo		condizione
+ex	11	0	0	11	ex-ospedale		destinazione/luogo/uso
+ex	14	8	6	0	ex-ostaggi		condizione
+ex	5	0	5	0	ex-ostaggio		condizione
+ex	7	0	7	0	ex-padrino		ruolo
+ex	11	0	6	5	ex-padrone		ruolo
+ex	4	0	4	0	ex-paese		condizione		i
+ex	12	0	12	0	ex-paesi		condizione
+ex	11	0	6	5	ex-palazzo		destinazione/luogo/uso
+ex	5	0	0	5	ex-Palazzo		destinazione/luogo/uso
+ex	4	0	4	0	ex-parà		mestiere
+ex	22	0	22	0	ex-parlamentare		ruolo
+ex	6	0	6	0	ex-parlamentari		ruolo
+ex	18	4	6	8	ex-partigiani		appartenenza politica
+ex	7	0	7	0	ex-partigiano		appartenenza politica
+ex	10	0	10	0	ex-partito		condizione
+ex	27	5	13	9	ex-partner		relazione sociale	x
+ex	5	0	5	0	ex-paziente		ruolo
+ex	7	7	0	0	ex-Pescheria		destinazione/luogo/uso
+ex	4	4	0	0	ex-pescheria		destinazione/luogo/uso
+ex	59	13	16	30	ex-pilota		mestiere
+ex	9	0	5	4	ex-piloti		mestiere
+ex	4	0	0	4	ex-pirata		mestiere
+ex	9	0	0	9	ex-PLI		denominazione
+ex	7	0	7	0	ex-pm		mestiere
+ex	10	4	6	0	ex-poliziotti		mestiere
+ex	61	19	10	32	ex-poliziotto		mestiere
+ex	4	0	0	4	ex-pontefice		ruolo
+ex	22	0	22	0	ex-portavoce		ruolo
+ex	5	0	0	5	ex-portiere		mestiere
+ex	5	0	0	5	ex-possedimenti		condizione
+ex	500	474	9	17	ex-post	x
+ex	4	0	4	0	ex-poveri		condizione
+ex	4	0	0	4	ex-prefetto		ruolo
+ex	103	32	66	5	ex-premier		ruolo
+ex	4	0	4	0	ex-presentatore		ruolo
+ex	1338	549	685	104	ex-presidente		ruolo
+ex	177	145	0	32	ex-Presidente		ruolo
+ex	64	9	42	13	ex-presidenti		ruolo
+ex	4	0	0	4	ex-Presidenti		ruolo
+ex	14	0	4	10	ex-prete		mestiere
+ex	5	0	5	0	ex-preti		mestiere
+ex	4	0	0	4	ex-PRI		appartenenza politica
+ex	37	5	6	26	ex-prigionieri		condizione
+ex	5	5	0	0	ex-Procura		destinazione/luogo/uso
+ex	26	0	26	0	ex-procuratore		ruolo
+ex	4	0	0	4	ex-professionisti		condizione
+ex	40	13	16	11	ex-professore		mestiere
+ex	4	4	0	0	ex-proletariato		condizione
+ex	4	0	4	0	ex-proprietari		condizione
+ex	5	5	0	0	ex-proprietaria		condizione
+ex	12	0	7	5	ex-proprietario		condizione
+ex	14	0	8	6	ex-prostituta		mestiere
+ex	12	5	0	7	ex-prostitute		mestiere
+ex	4	0	4	0	ex-protagonista		condizione
+ex	4	0	0	4	ex-protettore		ruolo
+ex	5	0	0	5	ex-province		condizione
+ex	4	0	0	4	ex-provincia		condizione
+ex	6	0	0	6	ex-PSI		denominazione
+ex	13	0	7	6	ex-pugile		mestiere
+ex	5	0	5	0	ex-questore		ruolo
+ex	7	0	0	7	ex-RAF	x
+ex	94	31	8	55	ex-ragazza		parentela	x
+ex	14	0	14	0	ex-ragazzi		parentela	x
+ex	56	20	17	19	ex-ragazzo		parentela	x
+ex	4	0	4	0	ex-rappresentante		ruolo
+ex	40	9	20	11	ex-re		ruolo
+ex	4	0	0	4	ex-refettorio		destinazione/luogo/uso
+ex	8	0	8	0	ex-reggia		destinazione/luogo/uso
+ex	4	4	0	0	ex-regime		condizione		i
+ex	28	0	14	14	ex-regina		ruolo
+ex	4	0	4	0	ex-reginetta		ruolo
+ex	4	4	0	0	ex-regno		condizione		i
+ex	14	0	14	0	ex-repubblica		condizione
+ex	4	4	0	0	ex-Repubblica		condizione		i
+ex	62	23	30	9	ex-repubbliche		condizione
+ex	8	0	4	4	ex-residenza		destinazione/luogo/uso
+ex	19	4	15	0	ex-responsabile		ruolo
+ex	103	98	5	0	ex-ribelli		condizione
+ex	16	0	10	6	ex-rivale		relazione sociale
+ex	5	0	5	0	ex-rivali		relazione sociale
+ex	10	0	4	6	ex-sacerdote		mestiere
+ex	5	0	0	5	ex-sacerdoti		mestiere
+ex	9	0	4	5	ex-sala		destinazione/luogo/uso
+ex	4	0	4	0	ex-saltatore		mestiere
+ex	13	0	13	0	ex-satelliti		condizione		i
+ex	4	0	0	4	ex-scagnozzo		ruolo
+ex	54	9	7	38	ex-schiavi		condizione
+ex	14	0	0	14	ex-schiavo		condizione
+ex	5	5	0	0	ex-scuderie		destinazione/luogo/uso
+ex	63	50	4	9	ex-scuola		destinazione/luogo/uso
+ex	10	0	10	0	ex-sede		destinazione/luogo/uso
+ex	5	0	5	0	ex-segretari		ruolo
+ex	24	0	20	4	ex-segretaria		ruolo
+ex	228	51	158	19	ex-segretario		ruolo
+ex	5	0	0	5	ex-Segretario		ruolo
+ex	7	0	7	0	ex-seminarista		condizione
+ex	120	11	98	11	ex-senatore		ruolo
+ex	12	12	0	0	ex-sessantottina		condizione
+ex	19	5	14	0	ex-sessantottini		condizione
+ex	8	0	8	0	ex-sessantottino		condizione
+ex	7	0	0	7	ex-Sibir	x
+ex	10	0	10	0	ex-signora		condizione
+ex	13	0	13	0	ex-sindacalista		mestiere
+ex	5	0	5	0	ex-sindacalisti		mestiere
+ex	8	0	8	0	ex-sindaci		ruolo
+ex	251	106	125	20	ex-sindaco		ruolo
+ex	4	0	4	0	ex-sinistra		appartenenza politica
+ex	19	0	19	0	ex-soci		relazione sociale
+ex	4	0	4	0	ex-socialista		appartenenza politica
+ex	16	0	8	8	ex-socialisti		appartenenza politica
+ex	25	0	18	7	ex-socio		relazione sociale
+ex	35	14	0	21	ex-soldati		mestiere
+ex	39	12	7	20	ex-soldato		mestiere
+ex	4	4	0	0	ex-sottoproletariato		condizione
+ex	30	0	30	0	ex-sottosegretario		ruolo
+ex	7	0	7	0	ex-sovietica	x
+ex	6	0	6	0	ex-sovietiche	x
+ex	14	0	7	7	ex-sovrano		ruolo
+ex	4	0	0	4	ex-spalla		ruolo
+ex	5	0	5	0	ex-speechwriter		mestiere
+ex	5	0	5	0	ex-spia		mestiere
+ex	53	6	5	42	ex-squadra		condizione
+ex	4	0	0	4	ex-stabilimenti		destinazione/luogo/uso
+ex	10	0	0	10	ex-stabilimento		destinazione/luogo/uso
+ex	4	0	4	0	ex-stagista		mestiere
+ex	4	0	0	4	ex-star		grado
+ex	4	0	0	4	ex-statale	x
+ex	11	0	0	11	ex-stazione		destinazione/luogo/uso
+ex	7	0	0	7	ex-stella		grado
+ex	10	10	0	0	ex-strega		mestiere	x
+ex	30	11	7	12	ex-studente		condizione
+ex	5	5	0	0	Ex-studente		condizione
+ex	5	0	5	0	ex-studentessa		condizione
+ex	112	82	10	20	ex-studenti		condizione
+ex	4	0	0	4	ex-suora		mestiere
+ex	4	0	4	0	ex-superpotenza		grado
+ex	9	0	0	9	ex-tastierista		mestiere
+ex	4	0	4	0	ex-teatro		destinazione/luogo/uso
+ex	18	18	0	0	ex-tecnici		mestiere
+ex	12	0	6	6	ex-tecnico		mestiere
+ex	6	6	0	0	ex-tempo		?	x
+ex	5	0	5	0	ex-tenente		ruolo
+ex	9	0	9	0	ex-tennista		mestiere
+ex	4	4	0	0	ex-teppista		condizione
+ex	7	0	0	7	ex-territori		condizione	x	i
+ex	40	14	22	4	ex-terrorista		condizione
+ex	22	0	22	0	ex-terroristi		condizione
+ex	5	0	5	0	ex-tesoriere		ruolo
+ex	9	5	0	4	ex-tifosi		condizione
+ex	4	0	4	0	ex-tigri		appartenenza politica	x
+ex	25	17	8	0	ex-tossicodipendenti		condizione
+ex	5	0	5	0	ex-truppe		condizione
+ex	4	0	0	4	ex-uffici		destinazione/luogo/uso
+ex	58	15	31	12	ex-ufficiale		mestiere
+ex	27	5	14	8	ex-ufficiali		mestiere
+ex	20	20	0	0	ex-Ufficio		destinazione/luogo/uso
+ex	5	0	5	0	ex-ufficio		destinazione/luogo/uso
+ex	147	129	0	18	ex-Unione		denominazione
+ex	4	0	4	0	ex-uomini		condizione	x
+ex	17	0	17	0	ex-uomo		condizione
+ex	99	81	0	18	ex-URSS		denominazione
+ex	23	0	23	0	ex-Urss		denominazione
+ex	9	0	0	9	ex-US		denominazione
+ex	8	0	0	8	ex-USAF		denominazione
+ex	9	9	0	0	ex-veline		mestiere
+ex	4	0	4	0	ex-verdiglioniani		appartenenza politica
+ex	5	0	5	0	ex-vertici		ruolo
+ex	5	0	5	0	ex-via		destinazione/luogo/uso
+ex	9	0	9	0	ex-vice		ruolo
+ex	11	0	11	0	ex-vicedirettore		ruolo
+ex	67	0	63	4	ex-vicepresidente		ruolo
+ex	7	0	7	0	ex-vicesegretario		ruolo
+ex	5	0	5	0	ex-vicesindaco		ruolo
+ex	4	0	4	0	ex-villa		destinazione/luogo/uso
+ex	5	5	0	0	ex-viola		?	x
+ex	16	0	0	16	ex-vocalist		mestiere
+ex	10	10	0	0	ex-volontari		mestiere
+ex	561	325	41	195	ex-voto	x
+ex	6	0	0	6	ex-wrestler		mestiere
+ex	67	67	0	0	ex-xxcz	x
+ex	155	151	0	4	ex-Yugoslavia		denominazione
+ex	4	4	0	0	ex-Yuogoslavie		denominazione
+ex	4	0	0	4	ex-zar		ruolo

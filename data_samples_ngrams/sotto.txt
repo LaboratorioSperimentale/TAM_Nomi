@@ -1,0 +1,825 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+1	0	0	sotto Archivisti
+						DET ADV NOUN	ITWAC	, e senza tratto successivo : Gli Uffiziali degli Archivi di Stato potranno essere tramutati fuori dalla propria Soprintendenza ;	I sotto Archivisti	che già si trovano o che fosse necessario chiamare alla direzione di un Archivio di Stato potranno essere nominati Archivisti di
+
+2	0	0	sotto Commissioni
+						DET ADV ADJ NOUN	ITWAC	Propongo alla Camera l' assegnazione in sede legislativa dei seguenti progetti di legge , dei quali	le sotto indicate Commissioni	hanno chiesto il trasferimento in sede legislativa , ai sensi dell' articolo 92 , comma 6 , del regolamento : alla
+						DET ADV ADJ NOUN	ITWAC	giorno della seduta di domani l' assegnazione , in sede legislativa , dei seguenti progetti di legge , dei quali	le sotto indicate Commissioni	permanenti , cui erano stati assegnati in sede referente , hanno chiesto , con le prescritte condizioni , il trasferimento alla
+
+1	0	0	sotto Console
+						DET ADV NOUN	ITWAC	 Camerarj  prima in numero di tre , poi due , e successivamente da un Console , e da	un sotto Console	, eletti in assemblea generale , avevano la loro sede nel palazzo del Popolo , ( un' odierna camera del lavoro
+
+3	0	0	sotto Facoltà
+						DET ADV ADJ NOUN	ITWAC	Tipologia concorsuale Sono indette le procedura di valutazione comparativa per la copertura di n. 17 posti di ricercatore universitario presso	le sotto indicate Facoltà	e per i seguente settori scientifico disciplinari : Facoltà di SCIENZE POLITICHE : SPS / 04 - SCIENZA POLITICA ( EX
+						DET ADV ADJ NOUN	ITWAC	procedura di valutazione comparativa per la copertura di n. 5 posti di professore universitario di ruolo di prima fascia presso	le sotto indicate Facoltà	e per i seguenti settori scientifico disciplinari : Facoltà di LETTERE E FILOSOFIA L 25 A  STORIA DELL' ARTE MEDIEVALE
+						DET ADV ADJ NOUN	ITWAC	procedure di valutazione comparativa per la copertura di n. 8 posti di professore universitario di ruolo di prima fascia presso	le sotto indicate Facoltà	e per i seguenti settori scientifico disciplinari : FACOLTA' di MEDICINA E CHIRURGIA BIO / 12 - BIOCHIMICA CLINICA E BIOLOGIA
+
+1	0	0	sotto Pag.
+						DET ADV NOUN	ITWAC	- Interviene	il sotto Pag.	68 segretario di Stato per il lavoro e le politiche sociali Alberto Brambilla .
+
+1	0	0	sotto Segretario
+						DET ADV NOUN	ITWAC	[ 107 ] Alla riunione del NSC , il 21 settembre , il Direttore della CIA Allen Dulles ed	il sotto Segretario	di Stato , Douglas Dillon , presero in esame le proposte di Durbrow , [ 108 ] ed il 7 ottobre
+
+2	0	0	sotto Tenente
+						DET ADV NOUN	ITWAC	Ho nominato sul Campo di Battaglia	il sotto Tenente	Leonardi al grado di Tenente , ve ne domando il Brevetto .
+						DET ADV NOUN	ITWAC	li Corpo riguarda come disertori il Capitano Majo , ed	il sotto Tenente	Giordano , per cui se esistono in Napoli v' invito a farli arrestare , e l' istesso vi dico per i
+
+1	0	0	sotto abilità
+						DET ADV NOUN	ITWAC	In base a questo modello si identificheranno	le sotto abilità	da esaminare .
+
+1	0	0	sotto abito
+						DET ADV NOUN	ITWAC	Nel 1770	il sotto abito	venne modificato : le due rigonfiature laterali vennero sostituite da un' unica rigonfiatura posteriore .
+
+3	0	0	sotto ala
+						DET ADV NOUN	ITWAC	Il maschio ha la fronte e il contorno degli occhi rosso vivo ; il resto del corpo è verde ;	la sotto ala	è nero ; all' estremità della coda si trova una macchia nera ; il becco è rosso , le zampe grigie
+						DET ADV NOUN	ITWAC	La femmina non presenta la fronte rossa e il suo piumaggio è interamente verde , anche	il sotto ala	.
+						DET ADV NOUN	ITWAC	giallo e il loro piumaggio e molto simile a quello della femmina ; si può pero distinguerne il sesso analizzando	la sotto ala	che nei maschi è nera .
+
+1	0	0	sotto albero
+						DET ADV NOUN	ITWAC	Il padre di ogni albero viene chiamato radice , ogni nodo rappresenta la radice di	un sotto albero	, ogni nodo senza figlio viene chiamato foglia .
+
+2	0	0	sotto alimentazione
+						DET ADV NOUN	ITWAC	Ci sono molti casi di ritardo mentale dovuti proprio a	una sotto alimentazione	, sottolinea il portavoce di Save the Children Italia Antonello Sacchetti , tornato da poco dall' Argentina .
+						DET ADV NOUN	ITWAC	più mais di quanto ne servirebbe a soddisfare le necessità nutrizionali di un paese come lo Zambia , vittima di	una sotto alimentazione	cronica , dove il mais è l' alimento essenziale .
+
+1	0	0	sotto analisi
+						DET ADV NOUN	ITWAC	In una review sistematica lo scopo ( per esempio , la domanda iniziale e tutte le domande successive così come	le sotto analisi	) è definito in precedenza , e i metodi che devono essere utilizzati ad ogni passaggio sono specificati .
+
+1	0	0	sotto anelli
+						DET ADV NOUN	ITWAC	quattro tipologie : Sedi POP : sono i nodi di interconnessione fra la dorsale metropolitana ( 2,5 GigaBit ) ed	i sotto anelli	di distribuzione ad 1 GigaBit ; Sedi Mini POP : sono le principali sedi che attualmente sono servite dal centralino telefonico
+
+1	0	0	sotto antenna
+						DET ADV ADJ NOUN	ITWAC	Riguardo alle centraline di rilevamento pensa che è meglio metterne	una sotto ogni antenna	per avere sott' occhio la situazione .
+
+1	0	0	sotto archivista
+						DET ADV NOUN	ITWAC	a Milano del sotto archivista Orlandini ) il segretario legge la seguente relazione ministeriale :  Per motivi di disciplina	il sotto archivista	Sig. Giovanni Orlandini con O. M. del 30 maggio scorso fu trasferito dall' archivio di Venezia a quello di Milano .
+
+1	0	0	sotto archivisti
+						DET ADV NOUN	ITWAC	Secondo il detto articolo ,	i sotto archivisti	dispensati dall' esame avrebbero dovuto essere promossi , secondo l' ordine della loro anzianità , il che era in contraddizione col
+
+3	0	0	sotto area
+						DET ADV NOUN	ITWAC	Cosa vuol dire la bandierina rossa vicino ad un messaggio o ad	una sotto area	?
+						DET ADV NOUN	ITWAC	Se appare di fianco ad	una sotto area	significa che quella conferenza contiene almeno un messaggio non letto da parte dell' Aderente .
+						DET ADV NOUN	ITWAC	con la creazione della prima area italiana , di portata europea , su Internet , ho voluto provare ad introdurre	una sotto area	rivolta agli utenti sardi , che con alterne vicende ancora oggi soppravive .
+
+1	0	0	sotto argomento
+						DET ADV NOUN	ITWAC	gerarchica : sotto etichette ( gerarchie ) , che indicano un argomento , c' è un' altra etichetta che indica	un sotto argomento	e così via verso argomenti sempre più specifici ( qualcosa di simile al sistema di catalogazione dei libri per soggetto )
+
+1	0	0	sotto armatura
+						DET ADV NOUN	ITWAC	ed è conformato a travi armati doppj , cioè a rinforzo delle due saette e della corda , avvi inferiormente	una sotto armatura	a poligono di sette lati circoscritta a una curva semicircolare , la quale forma altra armatura parziale a ciascuno dei già
+
+1	0	0	sotto armature
+						DET ADV NOUN	ITWAC	a denti di sega alternati , per cui rimangono disposti in cinque ordini , a ciascuno de ' quali corrispondono	le sotto armature	.
+
+1	0	0	sotto art.
+						DET ADV NOUN	ITWAC	e sostituendo	il sotto art.	17.3 .
+
+1	0	0	sotto arte
+						DET ADV NOUN	ITWAC	Secondo Lei la danza è	una sotto arte	del teatro oppure se ha una dignità per essere un' arte a sé , a prescindere poi dal teatro , e
+
+1	0	0	sotto articolazione
+						DET ADV NOUN	ITWAC	le tre misure ( A-Acquisizione di competenze , B-Programmi di innovazione rurale , C-Cooperazione trans-nazionale ) senza far ricorso ad	una sotto articolazione	.
+
+2	0	0	sotto articoli
+						DET ADV NOUN	ITWAC	, cassando	i sotto articoli	17.4 .
+						DET ADV NOUN	ITWAC	Pertanto l' art. 18 delle norme di attuazione va interamente cassato , mentre l' art. 17 va modificato , mantenendo	i sotto articoli	17.1 .
+
+1	0	0	sotto articolo
+						DET ADV NOUN	ITWAC	, e sostituendo	il sotto articolo	17.3 .
+
+2	0	0	sotto artt.
+						DET ADV NOUN	ITWAC	, cassando	i sotto artt.	17.4 .
+						DET ADV NOUN	ITWAC	eliminazione dell' art. 18 e la modifica dell' art. 17 delle norme di attuazione del piano regolatore generale ( mantenendo	i sotto artt.	17.1 .
+
+1	0	0	sotto aspetti
+						DET ADV ADJ NOUN	ITWAC	Almeno due cose :	una sotto certi aspetti	piacevole e l' altra , invece , che può essere dannosa .
+
+1	0	0	sotto assemblaggio
+						DET ADV NOUN	ITWAC	L' accordo stipulato prevedeva il montaggio ,	il sotto assemblaggio	, la verniciatura dei pezzi forniti dalla BMC .
+
+2	0	0	sotto autocertificazione
+						DET ADV ADJ NOUN	ITWAC	; Ai sensi dell' art. 3 , commi 10 e 11 della legge 15 maggio 1997 , n. 127 ,	la sotto indicata autocertificazione	puo' essere compilata su carta semplice , senza firma autenticata ed inviata per posta , per fax ( n. 06 69654236/215
+						DET ADV ADJ NOUN	ITWAC	Ai sensi dell' art. 3 , commi 10 e 11 della legge 15 maggio 1997 , n. 127 ,	la sotto indicata autocertificazione	puo' essere compilata su carta semplice , senza firma autenticata ed inviata per posta , per fax ( n. 06 69654236/215
+
+1	0	0	sotto baluardo
+						DET ADV ADJ NOUN	ITWAC	Ve n' è	una sotto ciascun baluardo	; collegate da bui corridoi , vi si trovano anche molte altre stanze , anch' esse buie , dove si potevano
+
+1	0	0	sotto bicchiere
+						DET ADV NOUN	ITWAC	entrare in una delle osterie aderenti , comprare i gadget dell' Ombralonga ( cinque euro per il bicchiere infrangibile ,	il sotto bicchiere	e la mappa ) e pagare da un euro e mezzo in su ogni bicchiere di vino .
+
+1	0	0	sotto bignami
+						DET ADV NOUN	ITWAC	Quasi sconosciuto , è	un sotto bignami	, non si conosce una sola sua idea .
+
+1	0	0	sotto borse
+						DET ADV ADJ NOUN	ITWAC	L' Ente Bilaterale ha deliberato di conferire	le sotto indicate borse	di studio ai lavoratori che abbiano frequentato , in corsi diurni e serali , scuole pubbliche , purché non aggiudicatari di
+
+5	0	0	sotto bosco
+						DET ADV NOUN	ITWAC	La complessità del Pinot Noir è invece negli aromi che evocano i frutti rossi , le spezie dolci e	il sotto bosco	.
+						DET ADV NOUN	ITWAC	Salendo di quota si incontrano alcune macchie di agrifogli per poi entrare nei freschi boschi di faggio , arricchito da	un sotto bosco	multicolore dove non è raro incontrare animali che vivono in questi ambienti .
+						DET ADV NOUN	ITWAC	c' era un attimo di divertimento : solo lavoro , l' unica fonte di distrazione era quando andavano a tagliare	il sotto bosco	, perché si udivano gli uccellini cantare I primi ricordi di Rigoberta nell' aldea risalgono a quando aveva cinque anni :
+						DET ADV NOUN	ITWAC	ottima e tradizionale fattura Miele d' acacia con caprino e funghi porcini : il formaggio addolcito dal miele sostiene mirabilmente	il sotto bosco	Nuvola di cioccolato bianco con tartufo e ricotta , un trionfo cromatico sul tema del bianco nelle sue diverse sfumature che
+						DET ADV NOUN	ITWAC	per esprimere quello che vediamo , conia il termine di  sopra bosco  che sta alla foresta pluviale come	il sotto bosco	sta ai nostri boschi .
+
+1	0	0	sotto braccio
+						DET ADV NOUN	ITWAC	Insieme ,	una sotto braccio	dell' altra , bellissime , sono comparse in Piazza di Spagna sorprendendo i passanti ...
+
+3	0	0	sotto campione
+						DET ADV NOUN	ITWAC	Il valore della dst tipici consente di estrarre dal data base storico	un sotto campione	di giorni , quelli con distanze da medno inferiori a dst tipici , con caratteristiche meteorologiche molto simili a quelle dei
+						DET ADV NOUN	ITWAC	Infatti cambiando la funzione distanza , con la quale si estrae	il sotto campione	meteocritici , si ottengono sotto campioni numericamente diversi .
+						DET ADV NOUN	ITWAC	intero campione composto da 300 aziende , il comparto delle 177 aziende di Milano e provincia incluse nel campione e	il sotto campione	delle 100 aziende best in class .
+
+1	0	0	sotto campo
+						DET ADV NOUN	ITWAC	che da Cracovia porta alla miniera di salgemma di Wieliczka improvvisamente ci troviamo davanti un imponente monumento eretto dove esisteva	un sotto campo	di Majdanek .
+
+1	0	0	sotto canali
+						DET ADV NOUN	ITWAC	lettore che legga i sub canali del supporto cd - se fai lo stesso senza un lettore che non legge	i sotto canali	l' estrazione avviene lo stesso ma sono presenti frequentissimi disturbi introdotti appunto dalla protezione ) ...
+
+0	1	0	sotto capi
+						DET ADV NOUN	REPUBBLICA	 è una cosa tutta interna loro  , ci spiegava il boss Carbonaro ieri mattina riferendo- si	ai sotto capi	di Cosa Nostra senza più un padrone assoluto , quello che come si usa dire qua può far sentire la
+
+1	0	0	sotto capo
+						DET ADV NOUN	ITWAC	II Armata da parecchi giorni obbligato al letto , non potendo ottenere un colloquio con S. E. Cadorna , pregava	il sotto capo	di Stato Maggiore di recarsi a Cormons ed in quel colloquio accennava perché ne riferisse al Capo  che qualora si
+
+1	0	0	sotto carenze
+						DET ADV ADJ NOUN	ITWAC	, a tutti coloro che , nei termini previsti dal bando , hanno inoltrato domande nelle quali sono state riscontrate	le sotto indicate carenze	di compilazione e / o di allegazione documentale , - mancanza della firma del richiedente - mancanza dell' indicazione relativa al
+
+10	0	0	sotto cartella
+						DET ADV NOUN	ITWAC	Accedete a cad-store.com Trovate una cartella Rivista cad 3 d	Una sotto cartella	relativa al numero , e li uploadate l' articolo ...
+						DET ADV NOUN	ITWAC	Creazione di uno ZCatalog Nella lista per aggiungere prodotti dello ZMI scegliere ZCatalog per creare un oggetto ZCatalog con	una sotto cartella	di nome Zoo .
+						DET ADV NOUN	ITWAC	Intanto , per iniziare , è importante osservare che quando installiamo Embrace nella cartella di Vampire si crea	una sotto cartella	 Materials  : questa cartella serve ad Embrace per leggere le texture che noi applichiamo nelle nostre mappe .
+						DET ADV NOUN	ITWAC	Maggiore del S.I.S.MI , in cui risultano inseriti gli atti dell' Ufficio del Direttore del Servizio , é stata rilevata	una sotto cartella	contenente copia dei documenti concernenti il MiG libico relativi al 1980 .
+						DET ADV NOUN	ITWAC	Per prima cosa bisogna copiare il col al interno di	una sotto cartella	del gioco , e poi inserirlo nella lista dei file che vengono caricati dal gioco .
+						DET ADV NOUN	ITWAC	Unhide here riporta alla luce i file nascosti nel carrier selezionato , estraendoli in	una sotto cartella	con lo stesso nome del carrier .
+						DET ADV NOUN	ITWAC	file a cui collegarsi presupponendo che sia nella stessa cartella del documento di partenza o tutt ' al più in	una sotto cartella	( es. : nomefile.html o cartella/nomefile.html ) .
+						DET ADV NOUN	ITWAC	in questa cartella devi pure creare	una sotto cartella	che puoi chiamare scaricati per far sì che quando scarichi , appunto i file vanno in essa .
+						DET ADV NOUN	ITWAC	inoltre trova nella cartella di winzozz	la sotto cartella	temp e cancella ogni tipo di file che ci trovi ( puoi stare tranquilla che nn accade nulla !!!! ) inoltre
+						DET ADV NOUN	ITWAC	se sono mp 3 si và nella cartella condivisa dove appunto , avete creato	una sotto cartella	che chiamerai , scaricati , e cliccando il brano lo puoi ascoltare immediatamente .
+
+8	0	0	sotto cartelle
+						DET ADV NOUN	ITWAC	: tar cf archivio.tar / lib  archivio.tar  conterrà quindi sia la cartella  / lib  che tutte	le sotto cartelle	e i file in essa presenti al momento dell' archiviazione .
+						DET ADV NOUN	ITWAC	Lo Scope comprende anche tutte	le sotto cartelle	ed i relativi file presenti nella cartella principale .
+						DET ADV NOUN	ITWAC	Mi spiego apro il forum e per sapere se ci sono nuovi messaggi devo aprire tutte	le sotto cartelle	, un po troppo laborioso che ne dite .
+						DET ADV NOUN	ITWAC	caratteristiche Nuovo tipo di risorsa  Cartella di file  mostrerà tutti i file contenuti in una cartella ( includendo	le sotto cartelle	) Le risorse che sono file ( caricati sul server o pagine web ) ora sono mostrate con un icona significativa
+						DET ADV NOUN	ITWAC	col NB bisogna riportare soltanto	le sotto cartelle	la stringa dev' essere inserita tra gli altri collision ( circa al centro )
+						DET ADV NOUN	ITWAC	icone e tenendo premuto per un secondo si aprirà un menù che vi permetterà di navigare quella cartella e tutte	le sotto cartelle	, evitandovi ad esempio di aprire nuove finestre di Gestione Risorse per andare a trovare un file sotto My Documents o
+						DET ADV NOUN	ITWAC	questo punto nella finestra di sinistra dobbiamo cercare la voce  HKEY _ CURRENT _ USER  e poi aprire	le sotto cartelle	 Software  ,  Microsoft  ,  Windows  ,  CurrentVersion  ,  Politicies  ,
+						DET ADV NOUN	ITWAC	sarà sufficiente utilizzare l' opzione addizionale v ( verbose ) che ci elencherà le diverse fasi del processo indicando tutte	le sotto cartelle	e i file coinvolti ; quindi , riprendendo l' esempio precedente , avremo : cp  rv linux linux 2 Il
+
+2	4	0	sotto casa
+						DET ADV ADJ NOUN	ITWAC	è lontana da Viale Giotto dove nel novembre del 1999 crollò una palazzina , è caratterizzata da numerose grotte ,	una sotto ogni casa	.
+						DET ADV NOUN	ITWAC	stesse ad indicare il numero di cassette che ancora si possono montare sul cavo ; e dato che ne ho	una sotto casa	che ho visto con i miei occhi essere l' ultima del cavo ha anche un punto a fianco del numero della
+						DET ADJ ADV NOUN	REPUBBLICA	A Torino andava ad allenar- si in bicicletta e il suo massimo svago era una partita	alla bocciofila sotto casa	casa .
+						DET ADJ ADV NOUN	REPUBBLICA	E di sé , quando una sera mette in fuga un gruppo di ragazzacci venuti a disturbar- gli	la quiete sotto casa	casa , dice :  Mi ergevo imponente davanti a loro come un cavaliere teutonico dell' Alexander Nevsky  .
+						DET ADJ ADV NOUN	REPUBBLICA	I baby rapinatori le avevano rubate poco prima per tender- gli	un' imboscata sotto casa	casa .
+						DET ADJ ADV NOUN	REPUBBLICA	di andare a Caselle o Malpensa , - e di collegamenti ferroviari diretti neanche a parlar- ne - hanno preso	l' aereo sotto casa	casa .
+
+1	0	0	sotto casco
+						DET ADV NOUN	ITWAC	del casco potete indossare un passamontagna di seta ( leggerissimo e perfettamente isolante ) , oppure fissare al bordo inferiore	un sotto casco	( ne esistono in commercio di diversi tipi ) che sistemerete poi all' interno del giubbotto .
+
+1	0	0	sotto casta
+						DET ADV NOUN	ITWAC	questa fascia della società considerata al pari dei rifiuti : in bengalese questo gruppo è chiamato  Methors  ,	una sotto casta	infima perché fanno gli spazzini , che vive negli slums della città .
+
+3	0	0	sotto categoria
+						DET ADV NOUN	ITWAC	Da segnalare	una sotto categoria	: i metamotori .
+						DET ADV NOUN	ITWAC	In questo senso , se nell' esempio precedente , volessimo inserire	la sotto categoria	 Divani ' all' interno della categoria  Arredamento ' ( che ha id = 4 ) scriveremmo una query di
+						DET ADV NOUN	ITWAC	detto che chi fa anche cedolini per  tirare a campà  non sia un consulente del lavoro o sia	una sotto categoria	.
+
+2	0	0	sotto categorie
+						DET ADV ADJ NOUN	ITWAC	La ripartizione del punteggio tra	le sotto indicate categorie	di titoli sarà la seguente : TITOLI MAX 50 PUNTI A. TITOLI DI SERVIZIO MAX 30 PUNTI A. 1 .
+						DET ADV NOUN	ITWAC	Ulteriori problemi , forse meno evidenti ma senz' altro rilevanti , derivano dal fatto che le categorie e	le sotto categorie	con cui sono classificati i reati non sono ordinate secondo un unico criterio e dunque non risultano tra di loro esclusive
+
+1	0	0	sotto cattedra
+						DET ADV NOUN	ITWAC	più qualificante visto che ci abiliterebbe per l' educazione musicale ( e secondo loro la cattedra di strumento sarà considerata	una sotto cattedra	di educazione musicale ) e che l' abilitazione varrebbe anche per le scuole superiori .
+
+1	0	0	sotto clan
+						DET ADV NOUN	ITWAC	A Beletweyne , nella Somalia centro-meridionale , scontri tra	i sotto clan	degli Jajele e dei Galje ' el avrebbero portato alla morte di almeno 36 persone ed al ferimento di altre 70
+
+1	0	0	sotto classe
+						DET ADV NOUN	ITWAC	DateIndex E'	una sotto classe	del FieldIndex , ottimizzato per campi date-time .
+
+1	0	0	sotto classificazione
+						DET ADV NOUN	ITWAC	Non si colgono uniformità neanche scendendo verso	la sotto classificazione	tra servizi privati alle imprese e quelli alle persone .
+
+1	0	0	sotto codice-Rispetta
+						DET ADV NOUN	ITWAC	Sceglie il registro e	il sotto codice-Rispetta	l' ordine dei temi .
+
+1	0	0	sotto comandi
+						DET ADV NOUN	ITWAC	 che permette di accedere a tutti	i sotto comandi	.
+
+1	0	0	sotto combinazioni
+						DET ADV ADJ NOUN	ITWAC	lavorativa in alcuni giorni , mesi o periodi dell' anno , che rientrano nelle percentuali suddette , cui si aggiungono	le sotto specificate combinazioni	: % P.T. Ore settimanali Mesi lavorativi 55,55 24 10 55,55 30 8 57 27 9 62,49 27 10 62,49 30
+
+3	1	0	sotto commissione
+						DET ADV NOUN	ITWAC	BARCELLONA -	La sotto commissione	 Diritti dell' uomo  organizza un' audizione sulla revisione del  processo di Barcellona  nel Decimo anniversario del partenariato
+						DET ADV NOUN	ITWAC	Tutti questi deputati si sono impegnati a convocare la Commissione Affari Esetri del Parlamento Europeo e	la sotto commissione	dei diriti dell' uomo affinche' queste prendano posizione sulla situazione di Kubaysi e prevedano delle azioni in favore dei prigionieri d'
+						DET ADV NOUN	ITWAC	sono nominate dalle regioni , d' intesa con i collegi regionali ; la valutazione professionale tecnica dei candidati spetta ad	una sotto commissione	composta da maestri di fitness .
+						DET ADV NOUN	REPUBBLICA	, al Dipartimento di Stato , all' ufficio italiano , e infine al Congresso , da Bob Torricelli , capo	della sotto commissione	sull' Europa .
+
+1	0	0	sotto condizioni
+						DET ADV ADJ NOUN	ITWAC	termine Lo stesso lavoratore alla scadenza di un contratto a termine può essere riassunto a termine ma devono essere rispettate	le sotto indicate condizioni	altrimenti il secondo contratto si considera a tempo indeterminato : se il contratto iniziale è di durata fino a 6 mesi
+
+1	0	0	sotto costa
+						DET ADV NOUN	ITWAC	- Quando	il sotto costa	viene battuto sistematicamente da equipaggi subacquei che pescano praticando la  trainetta  ( trascinati dal gommone con una cima corta
+
+1	0	0	sotto costo
+						DET ADV NOUN	ITWAC	che noi utiliziamo come fosse un peschereccio , vedi sea hawk , robalo ecc , in america le usano per	il sotto costo	, qui il sessa è per la laguna interna , , , vedu tu Jack Pilchard Starting Member wherever 30 Posts
+
+1	0	0	sotto criterio
+						DET ADV NOUN	ITWAC	base di evidenze oggettive che ne dimostrino : la sistematicità delle azioni riconducibili al sotto criterio , l' importanza che	il sotto criterio	assume in rapporto alla tipologia e alla politica dell' organizzazione , l' integrazione degli strumenti web con le attività ordinarie ,
+
+3	0	0	sotto cultura
+						DET ADV NOUN	ITWAC	Il fatto più grave è che in Italia c' è di base	una sotto cultura	musicale per colpa dei massmedia e del fenomeno americanizzante , che non permette di capire ad esempio ( e neanche ai
+						DET ADV NOUN	ITWAC	di imporre le tasse e di decidere sui propri investimenti e di mantenere la propria cultura ( e non intendo	la sotto cultura	alla Bossi ) .
+						DET ADV NOUN	ITWAC	far parlare  di se sono da condannare senza ombra di dubbio , così come la volgarità gratuita portatrice di	una sotto cultura	e giammai veicolatrice di messaggi sociale ben precisi , non è mai piacevole da subire , ma evidentemente nell' ultima pellicola
+
+1	0	0	sotto culture
+						DET ADV NOUN	ITWAC	perche' ignora il fatto che anche le culture locali , come	le sotto culture	, hanno le loro brave eterogeneita' interne .
+
+1	0	0	sotto denominazione
+						DET ADV NOUN	ITWAC	Il prezzo medio di una bottiglia di vino della Napa Valley è di 30 dollari , mentre una bottiglia con	la sotto denominazione	di Oakville costerà 45 dollari : si tratta della zona in cui vengono prodotti i vini di alta qualità della cantina
+
+1	0	0	sotto denominazioni
+						DET ADV NOUN	ITWAC	Per lo stesso motivo esistono	le sotto denominazioni	geografiche del Cannonau di Oliena e di Capo Ferrato .
+
+1	0	0	sotto deroghe
+						DET ADV ADJ NOUN	ITWAC	dell' inquinamento atmosferico da PM 10 nelle zone critiche e negli agglomerati della Regione Lombardia , qui recepito , con	le sotto specificate deroghe	: 1 .
+
+2	0	0	sotto determinazioni
+						DET ADV ADJ NOUN	ITWAC	Va premesso che , nei motivi di ricorso , sono state impugnate	le sotto indicate determinazioni	: 1 .
+						DET ADV ADJ NOUN	ITWAC	Va premesso che , nei motivi di ricorso , sono state impugnate	le sotto indicate determinazioni	: l' attribuzione di un  bonus  di 30 punti , come punteggio aggiuntivo ( oltre al voto di abilitazione
+
+1	0	0	sotto dichiarazioni
+						DET ADV ADJ NOUN	ITWAC	L' istanza dovrà contenere	le sotto indicate dichiarazioni	, attestanti : a ) l' iscrizione al Registro delle Imprese tenuto presso la Camera di Commercio Industria Artigianato Agricoltura ,
+
+7	0	0	sotto directory
+						DET ADV NOUN	ITWAC	Diverse immagini di bootdisk ( dischetti di avvio / boot ) ( spesso in	una sotto directory	) .
+						DET ADV NOUN	ITWAC	L' uso del nome di una directory implica sempre che	le sotto directory	che si trovano all' interno debbano essere incluse nell' archivo .
+						DET ADV NOUN	ITWAC	La cartella degli sprite contiene	una sotto directory	per ogni sprite usato .
+						DET ADV NOUN	ITWAC	Nella scheda Scan option possiamo decidere se includere anche	le sotto directory	( sotto cartelle ) nella scansione ( Include subfolders ) e / o evitare la scansione dei file rinominati ( Skip
+						DET ADV NOUN	ITWAC	Questo sorgente è stato compilato ed eseguito con ELF 90 Elenco qui	le sotto directory	più interessanti da visitare
+						DET ADV NOUN	ITWAC	comandi : cd / home / username ( serve a portarsi nella directory principale , quella contenente i file e	le sotto directory	da trasferire ) tar - czvf backup.tar.gz public _ html / ( crea un archivio cartella superiore a public _ html
+						DET ADV NOUN	ITWAC	e dare il comando tar xvfpz search-3.31b.tar.gz [ Invio ] 3 ) Cosi' facendo il file verra' scompattato , creando	una sotto directory	denominata search - 3.31 b 4 ) sempre via telnet , portarsi nella directory sopra menzionata con il comando cd search
+
+1	0	0	sotto disposizioni
+						DET ADV NOUN	ITWAC	Gli aspetti burocratici , le disposizioni ,	le sotto disposizioni	, le circolari interpretative , le spiegazioni alle circolari interpretative , e quant ' altro minano il percorso dell' operatore del
+
+1	0	0	sotto divisione
+						DET ADV NOUN	ITWAC	Al loro interno si presentano con	una sotto divisione	in cartelle e quindi in categorie fino ad arrivare al prodotto specifico ( catalogo cartella categoria prodotto ) .
+
+4	0	0	sotto documentazione
+						DET ADV ADJ NOUN	ITWAC	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Allega	la sotto indicata documentazione	: 1 ) relazione generale , a firma di tecnico abilitato , indicante le attività svolte , i dati relativi alle
+						DET ADV ADJ NOUN	ITWAC	_ _ _ _ Tel. _ _ _ _ _ _ _ _ _ _ _ _ _ _ Allega	la sotto indicata documentazione	: 1 ) relazione generale a firma di tecnico abilitato , indicante le attività svolte , i dati relativi alle cabine
+						DET ADV ADJ NOUN	ITWAC	Documentazione da presentare in caso di finanziamento In caso di finanziamento , gli interessati dovranno presentare	la sotto indicata documentazione	: 1 .
+						DET ADV ADJ NOUN	ITWAC	In caso di finanziamento , gli interessati dovranno presentare	la sotto indicata documentazione	: 1 .
+
+2	0	0	sotto dominio
+						DET ADV NOUN	ITWAC	dati se vuoi spingere il sito per la key irlanda in un modo un pochino imho al limite puoi creare	un sotto dominio	tipo fotoirlanda.irlandando.it ti crei un sistema tu di presentazione delle foto ( paesaggi , paesi , natura , persone etc etc
+						DET ADV NOUN	ITWAC	dominio principale al quale per un annetto farò convergere tutti i bl che posso ed ogni area del sito sarà	un sotto dominio	con un link dal dominio principale .
+
+1	0	0	sotto elenco
+						DET ADV NOUN	ITWAC	E' sufficiente fare click sull' icona di un sito per avere	un sotto elenco	delle pagine visitate su di esso : un ultimo click su una pagina vi riporta ad essa .
+
+1	0	0	sotto espressione
+						DET ADV NOUN	ITWAC	Vedremo in seguito che tale meccanismo permette di non dovere ricalcolare	la sotto espressione	con agregazione maggiore nel valutare le operazioni binarie .
+
+1	0	0	sotto etichetta
+						DET ADV NOUN	ITWAC	ultimi mesi c' è  Monster Allergy  , nuova serie a fumetti italiana prodotta e distribuita dalla Disney attraverso	la sotto etichetta	 Buena Vista Comics  .
+
+1	0	0	sotto fattura
+						DET ADV ADJ NOUN	ITWAC	manutenzione ordinaria e straordinaria su moduli prefabbricati assegnati a seguito della crisi sismica iniziata il 26 settembre 1997 ; VISTE	la sotto indicata fattura	trasmessa dal Comune di Nocera Umbra e pervenuta all' Ufficio Provveditorato , Demanio e Patrimonio in data 17 marzo 1999 :
+
+1	0	0	sotto filone
+						DET ADV NOUN	ITWAC	Dopo una manciata di imitazioni , anche straniere ,	il sotto filone	inaugurato da Miraglia si spense nell' indifferenza più totale .
+
+3	0	0	sotto finanziamento
+						DET ADV NOUN	ITWAC	Da sottolineare , inoltre , come	il sotto finanziamento	del sistema universitario italiano si verifichi sia per la componente pubblica sia per quella privata , ( 0,1 % del PIL
+						DET ADV NOUN	ITWAC	e che questo maggior costo poi lo paghiamo in	un sotto finanziamento	delle pensioni di vecchiaia e di altri settori dello stato sociale ( educazione , sanita ?
+						DET ADV NOUN	ITWAC	il presidente bisogna operare nella continuita' della riforma gia' fatta , modificando quello che non va , primo tra tutto	il sotto finanziamento	dell' ente .
+
+0	0	1	sotto finestra
+						DET ADV NOUN	WIKICONLL	Quest possibilità viene sfruttata per esempio dalla versione X Window di Ghostviwe : questo programma crea	una sotto finestra	, salvando il suo identificatore in una variabile d' ambiente e chiama Ghostscript ; questo programma disegna il contenuto del file
+
+5	0	0	sotto fondo
+						DET ADV NOUN	ITWAC	(  In futuro , nella mia mente , vivrò assai a lungo in questo mondo  ) , rivelano	un sotto fondo	di triste meditazione come di chi , in uno stato di inesprimibile gioia , si prepari a una certa solitudine ,
+						DET ADV NOUN	ITWAC	, 22:08 » | Rispondi citando Cara Silvia , tu dici che negli anni settanta era impossibile qualsiasi corteggiamento senza	il sotto fondo	di Battisti ?
+						DET ADV NOUN	ITWAC	Sabato 19 Giugno 2004 , 22:08 Cara Silvia , tu dici che negli anni settanta era impossibile qualsiasi corteggiamento senza	il sotto fondo	di Battisti ?
+						DET ADV NOUN	ITWAC	diciamo che	i sotto fondo	si sente quel rumorino strano tipo una lamina metallica che vibra ...
+						DET ADV NOUN	ITWAC	peccato ke sto cavolo di blog nn mette	un sotto fondo	musicale ...
+
+5	7	1	sotto forma
+						DET ADV NOUN	ITWAC	E quindi è tutto basato su	una sotto forma	di ricatto che tu devi rimanere li' , lavorare bene , non pretendere nulla per poter lavorare .
+						DET ADV NOUN	ITWAC	che mentre ero	la sotto forma	di polvere ...
+						DET ADV NOUN	ITWAC	dalla funzione di logo per entrare nel visual , assumendo molteplici forme : un bocciolo , una rosa rigogliosa ,	una sotto forma	di schizzo .
+						DET ADV NOUN	ITWAC	entrare concretamente nella foto , assumendo però molteplici forme : un bocciolo , una rosa al culmine della fioritura ,	una sotto forma	di schizzo , fino addirittura a tramutarsi in un altro fiore .
+						DET ADV NOUN	ITWAC	vasto dibattito sull' ipotesi di trasformare i Movimenti in una sorta di Partito o in gruppo / i organizzato /	i sotto forma	( comunque ) assimilabile ad un Partito .
+						DET ADJ ADV NOUN	REPUBBLICA	 Preferisco occupar- me dello stomaco dei vivi che della gloria	dei trapassati sotto forma	forma di monumenti  , aveva affermato Alfred Nobel con bella concretezza .
+						DET ADJ ADV NOUN	REPUBBLICA	acquisita , spingesse franchi e italiani alla ricerca successiva di una superiorità spirituale , magari illudendo- si di requisir- la	ai bizantini sotto forma	forma di reliquie e tesori ecclesiastici .
+						DET ADJ ADV NOUN	REPUBBLICA	del passaggio di proprietà ammontava a 86 miliardi e consentiva alle banche di portar- si via il 6,8 per cento	del fatturato sotto forma	forma di oneri passivi .
+						DET ADJ ADV NOUN	REPUBBLICA	espresse da molti filosofi e letterati ( Schopenhauer , Nietzsche , Weininger , Musil per citar- ne alcuni ) o	al contrario sotto forma	forma di una  protesta virile  , che contribuirà alla nascita dei fascismi europei .
+						DET ADJ ADV NOUN	REPUBBLICA	gli operatori e un aumento della redditività delle imprese , anche se tali guadagni di efficienza non sembrano trasferir- si	ai consumatori sotto forma	forma di una riduzione dei prezzi .
+						DET ADJ ADV NOUN	REPUBBLICA	in primavera a Torino ; che cosa ci si poteva aspettare da Dario Fo che già vent' anni fa ritrasse	il navigatore sotto forma	forma di imbroglione patentato nella sua Isabella , tre caravelle e un cacciaballe ?
+						DET ADJ ADV NOUN	REPUBBLICA	le condizioni inflazionistiche nelle quali le imprese possono acquisire ai profitti le riduzioni dei costi in luogo di trasferir- le	ai consumatori sotto forma	forma di ribassi dei prezzi .
+						DET ADJ ADV NOUN	WIKICONLL	Dal XVII secolo il presepe iniziò a diffonder- si anche nelle case	dei nobili sotto forma	forma di  soprammobili  o di vere e proprie cappelle in miniatura anche grazie all' invito del papa durante il
+
+2	0	0	sotto forum
+						DET ADV NOUN	ITWAC	9/11/2004 alle 1:53:47 PM 11/09/2004 11.14.14 giuseppefailoni Moderatore registrato il 08/09/2004 messaggi : 158 questa discussione essendo comune a tutti	i sotto forum	riservati sarà svolta solo quì .
+						DET ADV NOUN	ITWAC	news che sono comuni a tutti i gruppi tematici ( e a tutta la parte riservata del FT ) vedere	il sotto forum	 Forum telematico di Agenda 21  .
+
+1	0	0	sotto funzione
+						DET ADV NOUN	ITWAC	- 21/7/2002 alle 19:15 Ciao , volevo solo indicarvi ( nel caso non ci aveste fatto caso ) che esiste	una sotto funzione	del comando area che permette di calcolare  almeno  l' area di una figura chiusa .
+
+0	1	0	sotto gavettoni
+						DET ADV NOUN	REPUBBLICA	che Schumacher , oltre un' ora dopo la gara , ieri ha festeggiato a lungo , abbracciando- li uno per	uno sotto gavettoni	di acqua e lambrusco , nel box Ferrari dove , dopo tre giorni di rombi rintronanti i ragazzi si distendevano con
+
+4	0	0	sotto genere
+						DET ADV NOUN	ITWAC	Considerato per anni	un sotto genere	, il filone dei film sugli zombi , in realtà possiede una chiave di lettura concreta e profonda .
+						DET ADV NOUN	ITWAC	Dicendo dialettale , stiamo definendo	un sotto genere	, un fenomeno folkloristico , negando così , il rango di lingua al dialetto !
+						DET ADV NOUN	ITWAC	In particolare per  Trigun  questi tratti provengono dal western , dando così vita a	un sotto genere	che possiamo chiamare  fanta-western  .
+						DET ADV NOUN	ITWAC	il funk ) però ritengo abbiano sviluppato uno stile talmente personale da non poterli inserire in un genere o in	un sotto genere	.
+
+4	0	0	sotto giochi
+						DET ADV NOUN	ITWAC	Anche se non bisogna sottovalutare il discorso rigiocabilità :	i sotto giochi	presenti invogliano a riprendere in mano Dead to Rights anche solo per una partitella veloce .
+						DET ADV NOUN	ITWAC	Apprezzabile d' altra parte	i sotto giochi	proposti dal flipper , sbloccabili attraverso speciali combo , che donano una leggera speziatura alla più magra desolazione del gioco in
+						DET ADV NOUN	ITWAC	chi non vorrebbe passare ore e ore a giocare nella  Sfereo - Piscina  , e poi abbiamo anche	i sotto giochi	con i Chocobo , che sono divertenti .
+						DET ADV NOUN	ITWAC	la stramba opzione  Dal Dottore  , in cui uno strano medico dirà a ogni giocatore come andranno risolti	i sotto giochi	: oscillando la testa , cantando , ballando e via dicendo .
+
+1	0	0	sotto gioco
+						DET ADV NOUN	ITWAC	Abbiamo guadagnato qualche anello	Un sotto gioco	a squadre : in questo serve parecchia coordinazione Molto spesso Robotnik sarà coinvolto nei sottogiochi In Sonic Shuffle ciascun giocatore (
+
+0	1	0	sotto giuramento
+						DET ADJ ADV NOUN	REPUBBLICA	Cerca solo di smontare le undici accuse di Starr , soffermando- si su quella più grave ,	la bugia sotto giuramento	giuramento :  Non è stato dimostrato -- scrive -- che il presidente avesse voluto veramente mentire  .
+
+1	0	0	sotto gola
+						DET ADV NOUN	ITWAC	Piccola macchia focata su ciascuna guancia e al di sotto dell' occhio , con la mandibola e	il sotto gola	focate a forma di V. Gli arti anteriori , a partire dal capo verso il basso , sono focati ad eccezione
+
+1	0	0	sotto gruppi
+						DET ADV NOUN	ITWAC	Nello stesso tempo	i sotto gruppi	della techno si sono radicalizzati , non tanto per purismo quanto per costituire migliori target di vendita .
+
+4	0	0	sotto gruppo
+						DET ADV NOUN	ITWAC	Dicembre 1996 Gruppo di lavoro sui partenariati pubblico / privato e incentivazione delle realizzazioni 1997 - 1998 in cooperazione con	il sotto gruppo	Bangemann
+						DET ADV NOUN	ITWAC	Proantocianidine ( PAC ) Sono	un sotto gruppo	dei bioflavonidi presenti in vari frutti e verdure .
+						DET ADV NOUN	ITWAC	Tutte le immagini grafiche convogliano informazioni e le parole sulla carta non sono altro che	un sotto gruppo	.
+						DET ADV NOUN	ITWAC	di fattori che mi sfuggono ma che posso solo ipotizzare lo hanno circoscritto al rango di  esperienza  ,	un sotto gruppo	di vg cui far rientrare le emozioni intime più forti e fondanti , una nutrita schiera di fricchettoni che svariano da
+
+0	4	0	sotto i
+						DET ADJ ADV NOUN	REPUBBLICA	Roccaforte della diversità il cui patron , George , ha vicissitudini con Albin detto Zaza , campione di virtuosismi	al femminile sotto i	i riflettori , inconciliabile coi seriosi genitori della ragazza del figlio di George ( colpevole d' una tresca con una donna
+						DET ADJ ADV NOUN	REPUBBLICA	dalle mani e pronunciò un torrente di parole in spagnolo in tono amichevole e persino rassicurante , poi diede in	una risatina sotto i	i baffi e riattaccò .
+						DET ADJ ADV NOUN	REPUBBLICA	prender- si le sue responsabilità , che non i cosiddetti  dragoni  asiatici che invece sono caduti uno dopo	l' altro sotto i	i colpi della crisi .
+						DET ADJ ADV NOUN	REPUBBLICA	ricordiamo- lo , l' Italia è stata a lungo guidata da  governi tecnici  , nei giorni dell' evaporazione	della politica sotto i	i colpi di Tangentopoli .
+
+1	0	0	sotto impiego
+						DET ADV NOUN	ITWAC	rischiano di intaccare il principio di inamovibilità della sede ; si pone inoltre il fondato timore che si configuri comunque	un sotto impiego	di risorse a fronte di un ampio numero di magistrati collocati nelle previste riserve della magistratura distrettuale .
+
+0	1	0	sotto inchiesta
+						DET ADJ ADV NOUN	REPUBBLICA	È possibile ricostruir- le incrociando i nomi dei protagonisti della vicenda : Giulio Andreotti ,	il politico sotto inchiesta	inchiesta , Tommaso Buscetta e Marino Mannoia , i pentiti interrogati da Caselli e Lo Forte negli Stati Uniti .
+
+1	0	0	sotto indicazioni
+						DET ADV ADJ NOUN	ITWAC	Nella formulazione dei progetti , dovranno rispettarsi	le sotto specificate indicazioni	.
+
+1	0	0	sotto indirizzi
+						DET ADV NOUN	ITWAC	Poi ci dice quali saranno	i sotto indirizzi	dei licei artistico ( arti figurative , architettura-design-ambiente , audiovisivo-multimediale-scenografico ) , economico ( aziendale , istituzionale ) e tecnologico (
+
+2	0	0	sotto inquadramento
+						DET ADV NOUN	ITWAC	Una volta  risolto 	il sotto inquadramento	, sarà doveroso fare attuare alla Pubblica Amministrazione la prassi dei crediti formativi legati a percorsi di merito , in altre
+						DET ADV NOUN	ITWAC	di contratto di formazione lavoro nelle aree dell' obiettivo uno , con il permanere di benefici oltre che contrattuali (	il sotto inquadramento	) anche di legge ( la riduzione degli oneri fiscali e contributivi ) .
+
+1	0	0	sotto internet
+						DET ADV ADJ NOUN	ITWAC	E' in corso di allestimento	il sotto sito internet	, dedicato all' innovazione ed e-government , che troverete all' interno del portale della Provincia di Piacenza ( www.provincia.pc.it ) .
+
+1	0	0	sotto investimento
+						DET ADV NOUN	ITWAC	L' altro problema serio è	il sotto investimento	nelle infrastrutture , senza cui alla lunga il sistema economico crolla .
+
+1	0	0	sotto ipotesi
+						DET ADV NOUN	ITWAC	E' una terza ipotesi che logicamente è possibile , diciamo che è	una sotto ipotesi	delle indicazioni , per capirci .
+
+1	0	0	sotto istruzioni
+						DET ADV ADJ NOUN	ITWAC	Nello specifico , consultare	le sotto richiamate istruzioni	.
+
+1	0	0	sotto label
+						DET ADV NOUN	ITWAC	una copia di quell' albo , del 1978 ( tenuta bene ) su etichetta  antilles  ( credo fosse	una sotto label	della island ) con tutte queste foto di brutti ceffi nel retro cover non ho piu' avuto il coraggio di ascoltarlo
+
+0	0	8	sotto le
+						DET ADV NOUN	WIKICONLL	, durante la guerra tra papa Eugenio IV ed i baroni romani , il comandante pontificio Orso Orsini si spinse	fin sotto le	mura di Marino senza assaltar- la ; da un assalto si astenne anche il cardinale arcivescovo di Firenze Giovanni Maria Vitelleschi
+						DET ADV NOUN	WIKICONLL	, durante la guerra tra papa Eugenio IV ed i baroni romani , il comandante pontificio Orso Orsini si spinse	fin sotto le	mura di Marino senza assaltar- le ; da un assalto si astenne anche il cardinale arcivescovo di Firenze Giovanni Maria Vitelleschi
+						DET ADV NOUN	WIKICONLL	I giganteschi monoliti cedono uno dopo l	altro sotto le	spinte furiose di una forza malefica .
+						DET ADV NOUN	WIKICONLL	Il 12 aprile 1022 l esercito imperiale arrivò	fin sotto le	mura della fortezza di Troia che tuttavia resistette agli attacchi per oltre tre mesi , costringendo l imperatore a rinunciare all
+						DET ADV NOUN	WIKICONLL	alla volta l' intero , aspro paesaggio , umanizzando- lo con quei scenografici terrazzamenti a gradinate , che , partendo	da sotto le	rocce della montagna scendono giù , ora più ripidi ora più distesi , sino al Brenta .
+						DET ADV NOUN	WIKICONLL	con i lacci ) , e infine , essendo questo l ultimo verso normalmente cantato , una testa che spunta	da sotto le	coperte .
+						DET ADV NOUN	WIKICONLL	rimase ferito anche Giuseppe Garibaldi che per spronare i suoi uomini in difficoltà per l attacco nemico , si spinse	fin sotto le	linee austriache .
+						DET ADV NOUN	WIKICONLL	si è appreso infatti , tra l' altro , che l antico letto fluviale si estende per un lungo tratto	fin sotto le	attuali acque dell' Oceano Atlantico , lungo la piattaforma continentale atlantica .
+
+0	1	0	sotto leghe
+						DET ADV NOUN	REPUBBLICA	Una lega che si articola però in	tante sotto leghe	, associazioni , congreghe , circoli .
+
+0	0	1	sotto licenza
+						DET ADJ ADV NOUN	WIKICONLL	bootleg tradotti in lingua inglese ) è un videogioco di tipo  Picchiaduro a scorrimento orizzontale  sviluppato nel 1991	dalla Tamtex sotto licenza	licenza e pubblicazione della Irem Corporation , prodotto solamente per la console NES e venduto solamente in Giappone .
+
+1	0	0	sotto limite
+						DET ADV NOUN	ITWAC	La garanzia deve intendersi prestata con un massimale di  250.000,00 con	il sotto limite	di  2.500,00 per danni arrecati all' immobile .
+
+1	0	0	sotto linguaggio
+						DET ADV NOUN	ITWAC	Penso che una discriminante aggiuntiva sia la diffusione del termine , vedere se appartenente ad	un sotto linguaggio	o alla lingua comune .
+
+2	0	0	sotto link
+						DET ADV NOUN	ITWAC	e per quanto riguarda le quest allakhazam.com e' molto esauriente e con una funzionalita' improbabile su un forum visto tutti	i sotto link	e collegamenti veloci .
+						DET ADV NOUN	ITWAC	io non l' ho ancora visitato tutto , nemmeno	i sotto link	.
+
+1	0	0	sotto livelli
+						DET ADV NOUN	ITWAC	( io l' ho scassinata !! : P ) ( Ovviamente come detto prima ammazzate tutti i mostri e fatevi	i sotto livelli	che ci sono ) Catacombe Livello 3 Questo livello è come l' altro ...
+
+2	0	0	sotto livello
+						DET ADV NOUN	ITWAC	Ciascun livello ha un numero di sotto livelli pari a n. In ciascun livello	il sotto livello	più basso è chiamato s. Il secondo sotto livello p Il terzo sotto livello d Il quarto sotto livello f Il
+						DET ADV NOUN	ITWAC	Il secondo sotto livello p Il terzo sotto livello d Il quarto sotto livello f Il primo livello ha solo	il sotto livello	s Il numero quantico angolare definisce la forma degli orbitali che possono essere : a simmetria sferica ( orbitale s )
+
+1	0	0	sotto mano
+						DET ADV NOUN	ITWAC	Se ve ne capita	una sotto mano	, fateci un bel pensierino .
+
+1	0	0	sotto manutenzione
+						DET ADV NOUN	ITWAC	Ricordato , poi , che proprio in questi giorni la ditta Smeco che gestisce i depuratori  con	una sotto manutenzione	tale i Comuni interessati stanno richiedendo la gestione diretta poiché non viene garantito il servizio - della provincia di Cosenza e
+
+1	0	0	sotto marchio
+						DET ADV NOUN	ITWAC	in borsa , la Marvel ad esempio , non potrà mai spingersi troppo oltre nei contenuti che presenta , mentre	un sotto marchio	rivolto a un pubblico adulto come Vertigo potrà anche toccare temi ritenuti tabù .
+
+5	0	0	sotto menù
+						DET ADV NOUN	ITWAC	 ,  Video  Risoulzione :	il sotto menù	 rescale  , vi permette di modificare la risoluzione dei fotogrammi .
+						DET ADV NOUN	ITWAC	 Anni 2000  a sua volta ogni gruppo di anni contiene	un sotto menù	specifico organizzato per voli fatti in un dato anno .
+						DET ADV NOUN	ITWAC	Prima di cominciare a visionare	i sotto menù	, ecco un breve schema di come consultare la sezione Generalità .
+						DET ADV NOUN	ITWAC	Se , come nel caso in figura , esiste	un sotto menù	, bisogna considerare anche quelli .
+						DET ADV NOUN	ITWAC	ma su , nel menù Comunità c' è	il sotto menù	Sezione Amici www.eldalie.it/utenti / e quindi basta scegliere Illustrazioni e Disegni www.eldalie.it/utenti/Disegni.php Tra l' altro è anche disponibile , la versione
+
+7	0	0	sotto menu
+						DET ADV NOUN	ITWAC	0 px ; width : 160 px ; z-index : 11 ; visibility : hidden ;  / DIV Anche	i sotto menu	saranno implementati in forma di livelli che saranno visualizzati o nascosti , in funzione del movimento del mouse che si sposterà
+						DET ADV NOUN	ITWAC	Ecco un piccolo esempio per aggiungere un menu parent ed	un sotto menu	con eventi lato client e lato server : # region IUserControlMenuSupport Members public void CreateWebPartMenu(Microsoft.SharePoint.WebPartPages.WebPart sender , Microsoft.SharePoint.WebPartPages.Menu webPartMenu ) {
+						DET ADV NOUN	ITWAC	Il sofware è gratuito e si può scaricare dal sito www.adobe.it individua	un sotto menu	contenente ulteriori documenti o tavole in formato Adobe PDF indica un link a una pagina Internet appartenente a un altro sito
+						DET ADV NOUN	ITWAC	Una cosa veramente difficile e complessi sono i menu ,	i sotto menu	, e i sotto-sotto menu ...
+						DET ADV NOUN	ITWAC	a tendina lentamente , allora il tutto funziona , ma se con il puntatore arrivo  velocemente  , allora	il sotto menu	non si apre anche se sto sopra la voce per un tempo prolungato .
+						DET ADV NOUN	ITWAC	esempio provato : ora che stai leggendo questa pagina , vai nel menu strumenti di FF , da li scegli	il sotto menu	di tinyurl creator , qui scegli ' da indiirizzo web attuale ' .
+						DET ADV NOUN	ITWAC	sul telecomando o scorrendo la lista di tutti i canali , bisogna andare in un menù apposta , pasare a	un sotto menu	, indicare il canale aggiuntivo da vedere e fermrsi li .
+
+1	0	0	sotto ministri
+						DET ADV NOUN	ITWAC	e anche Karmilienko si sedette , poi Kisha andò a capo tavola , e dunque potette parlare con tranquillità con	i sotto ministri	e persone varie : - Cari signori politici , siamo qui per parlare di un fatto di stato pericolosissimo , non
+
+1	0	0	sotto missione
+						DET ADV NOUN	ITWAC	del 26 Aprile 2005 In corteo per la Carta ANGELO MASTRANDREA ,  il manifesto  del 26 Aprile 2005	La sotto missione	ROBERTO SILVESTRI ,  il manifesto  del 24 Aprile 2005 Se la Lega offende l' Islam di Van Gogh ANTONELLO
+
+0	1	0	sotto misura
+						DET ADV NOUN	REPUBBLICA	L' Inter qui ha preso fiato , permettendo- si ancora due traversoni di Orlandini ,	uno sotto misura	ma sterile , l' altro deviato forse da un braccio di Favalli , ma senza interventi arbitrali .
+
+2	0	0	sotto misure
+						DET ADV ADJ NOUN	ITWAC	) Sui compensi corrisposti al personale con rapporto di lavoro a tempo determinato impegnato nelle commissioni d' esame vanno applicate	le sotto indicate misure	di contributi INPS a carico dello Stato T.B.C. D.S. ENAOLI 1 = Personale docente con contratto a tempo determinato con rapporto
+						DET ADV ADJ NOUN	ITWAC	) Sui compensi corrisposti al personale con rapporto di lavoro a tempo determinato impegnato nelle commissioni d' esame vanno applicate	le sotto indicate misure	di contributi Inps a carico dello stato ( vedi tabella 3 ) .
+
+1	0	0	sotto modifiche
+						DET ADV ADJ NOUN	ITWAC	esteso la giurisdizione della Corte dei Conti anche ai dipendenti degli enti locali ed ha ampliato quella sugli amministratori introducendo	le sotto richiamate modifiche	: a ) P rescrizione quinquennale dell' azione di responsabilità .
+
+1	0	0	sotto motivi
+						DET ADV ADJ NOUN	ITWAC	Gli Avvocati R. e P. hanno interposto appello per M. deducendo	i sotto specificati motivi	di censura : 1 .
+
+1	0	0	sotto mucosi
+						DET ADV NOUN	ITWAC	I fibromi maggiormente incriminabili in tal senso sono	i sotto mucosi	.
+
+1	0	0	sotto nocchiero
+						DET ADV NOUN	ITWAC	dagli indigeni era stato ucciso il sottotenente di vascello ZAVAGLI della R. nave  Volta  ed erano stati feriti	il sotto nocchiero	BERTOLUCCI e il marinaio BERTORELLI ; ma altri gravi fatti stavano per avvenire in Eritrea , dove due nemici pericolosi entrambi
+
+1	0	0	sotto notifica
+						DET ADV NOUN	ITWAC	Il problema principale per la rilevazione è	la sotto notifica	dei casi di malattia , in particolare per le malattie più frequenti appartenenti alla classe II .
+
+1	0	0	sotto obiettivi
+						DET ADV NOUN	ITWAC	ed i risultati attesi indicati nella Direttiva Generale sull' azione amministrativa e sulla gestione per l' anno 2002 ed individuano	i sotto obiettivi	dipartimentali in funzione dei quali le strutture programmano e svolgono le loro attività .
+
+1	0	0	sotto obiettivo
+						DET ADV NOUN	ITWAC	In particolare , esiste	un sotto obiettivo	legato al ricambio generazionale e ad una maggiore incentivazione della crescita degli imprenditori più giovani e meno consolidati da un punto
+
+2	0	0	sotto occupazione
+						DET ADV NOUN	ITWAC	, che generano pesanti problematiche di recessione , che amplificano la disoccupazione e	la sotto occupazione	e cio ?
+						DET ADV NOUN	ITWAC	dal cosi detto  libero mercato  , che generano pesanti problematiche di recessione , che amplificano la disoccupazione e	la sotto occupazione	e cio' colpisce , anche nei paesi piu' avanzati , principalmente le giovani generazioni .
+
+1	0	0	sotto oggetto
+						DET ADV NOUN	ITWAC	elenca tutte le sue sottocartelle.Si noti la crezione dei tre oggetti che permettono di realizzare questo script : ognuno e	un sotto oggetto	dell' altro .
+
+1	0	0	sotto orpelli
+						DET ADV NOUN	ITWAC	Due potenze nucleari , l' India e la Cina , sono politeiste -	una sotto orpelli	modernisti , l' altra sotto orpelli marxisti .
+
+1	0	0	sotto pagina
+						DET ADV NOUN	ITWAC	Quindi premendo i pulsanti sottopagina cambierà	la sotto pagina	, ma la pagina teletext sarà sempre la 505 .
+
+0	1	0	sotto palco
+						DET ADJ ADV NOUN	REPUBBLICA	sociali sono nate le riot girl , band femminili punk - hardcore , che impongono agli uomini di stare lontano	dal loro sotto palco	palco .
+
+2	0	0	sotto pancia
+						DET ADV NOUN	ITWAC	 Perché ho	il sotto pancia	...
+						DET ADV NOUN	ITWAC	Così come	il sotto pancia	che è verniciato nei colori della carrozzeria .
+
+1	0	0	sotto pannelli
+						DET ADV NOUN	ITWAC	Aprite / Chiudete	i sotto pannelli	cliccando sul rettangolo grigio posti alla sommità , che comprende il titolo .
+
+2	0	0	sotto paragrafi
+						DET ADV NOUN	ITWAC	Aspetti generali e linee di indirizzo  e  Azioni e strumenti per il governo della spesa sanitaria  con	i sotto paragrafi	 Accordi e contratti  ,  Autorizzazione  che sono approvati , indi dà lettura del sottoparagrafo  Accreditamento
+						DET ADV NOUN	ITWAC	a memoria i contratti , i manuali , le procedure , le regole , i cavilli , i paragrafi ,	i sotto paragrafi	, i commi , meno l' adattabilità dei medesimi a una realtà in continua evoluzione .
+
+1	0	0	sotto parroco
+						DET ADV NOUN	ITWAC	Tra gli arrestati si contano finora , oltre il nominato Baker e suo figlio ,	il sotto parroco	del Carmine , principe di Canossa ; i due fratelli magistrato e vescovo de lorio , e l' altro magistrato Giovan
+
+5	0	0	sotto parti
+						DET ADV ADJ NOUN	ITWAC	7 ) - che il servizio sarà eseguito dalla Società o Ditte raggruppate per	le sotto indicate parti	: ...
+						DET ADV ADJ NOUN	ITWAC	7 ) che il servizio sarà eseguito dalla Società o Ditte raggruppate per	le sotto indicate parti	: ...
+						DET ADV ADJ NOUN	ITWAC	9 ) - che il servizio sarà eseguito dalla Società o Ditte raggruppate per	le sotto indicate parti	: ...
+						DET ADV ADJ NOUN	ITWAC	predeterminate per l' esecuzione del servizio 9 ) - che il servizio sarà eseguito dalla Società o Ditte raggruppate per	le sotto indicate parti	: ...
+						DET ADV ADJ NOUN	ITWAC	rappresentanza all' impresa designata capogruppo ; 8 ) - che la fornitura sarà eseguita dalla Società o Ditte raggruppate per	le sotto indicate parti	: ...
+
+1	0	0	sotto passaggio
+						DET ADV NOUN	ITWAC	Poi puoi utilizzare	un sotto passaggio	pedonale del centro commerciale OrioCenter .
+
+3	0	0	sotto passo
+						DET ADV NOUN	ITWAC	AUTRICE Qui per esempio si sta costruendo	il sotto passo	alla futura tranvia , opera collegata all' Alta Velocità .
+						DET ADV NOUN	ITWAC	poi , nel bollore di uno dei primi giorni caldi , ho raggiunto Sasso Marconi passando sotto l' autostrada per	un sotto passo	mostratomi da un agricoltore .
+						DET ADV NOUN	ITWAC	za Giovanni 23 ° ( dopo	il sotto passo	, verso la chiesa ; - il SEGNALE DIVIETO DI TRANSITO , per tutte le categorie di veicoli , eccetto quelli
+
+0	1	0	sotto pelle
+						DET ADJ ADV NOUN	REPUBBLICA	, e per la stessa Inter , che tutti i fratelli bauscia considerano all' occaso ( asserendo di sentir- si	la magra sotto pelle	pelle ) , mentre il diligente Giovanni Trap insiste nel dire che lo scudetto è ancora in gioco e che proprio
+
+2	0	0	sotto pelo
+						DET ADV NOUN	ITWAC	Pelo di copertura , lungo , dritto e aperto e	un sotto pelo	corto , spesso e ovattato .
+						DET ADV NOUN	ITWAC	a poi dimenticavo , sia il maine coon che il norvegese hanno	un sotto pelo	, ma quallo del norvegese è più lanoso
+
+1	0	0	sotto popolazioni
+						DET ADV NOUN	ITWAC	- Si devono definire i domini di studio , ossia	le sotto popolazioni	con riferimento alle quali si vuole calcolare ciascun parametro oggetto di stima ; tali sotto popolazioni possono essere definite in base
+
+0	2	0	sotto porta
+						DET ADJ ADV NOUN	REPUBBLICA	è lui stesso :  Un giorno , Gianni Brera scrisse che gli ricordavo Piola per certi movimenti , per	l' inventiva sotto porta	porta .
+						DET ADJ ADV NOUN	REPUBBLICA	Prima dell' intervallo Rai sfiora il 3 - 1 con una botta dal limite mentre Lama chiude in corner	una spaccata sotto porta	porta di Pin .
+
+1	0	1	sotto pressioni
+						DET ADV NOUN	ITWAC	Le verifiche statiche dei contrafforti sono da effettuare con le norme indicate in D - 1 ma	le sotto pressioni	sui contrafforti verranno supposte variabili linearmente dal valore pari alla massima pressione idrostatica di invaso in corrispondenza del paramento di monte
+						DET ADV ADJ NOUN	WIKICONLL	Per due giorni , il 112° reggimento rimase nelle vicinanze di Schmidt	per sotto forti pressioni	.
+
+1	0	0	sotto presupposti
+						DET ADV ADJ NOUN	ITWAC	di Campo K.Z. di sterminio ai fini della concessione delle provvidenze di cui alla legge n 791/1980 , debbono concorrere	i sotto specificati presupposti	: - la natura politica delle cause che ebbero a determinare la deportazione per ragioni di fede , ideologia o razza
+
+1	0	0	sotto problema
+						DET ADV NOUN	ITWAC	macchina - un supercomputer - ma quasi sempre distribuito tra macchine più piccole , a ognuna delle quali si assegna	un sotto problema	.
+
+1	0	0	sotto problemi
+						DET ADV NOUN	ITWAC	per l' ascolto : individua le informazioni fornite nel corso della lezione  individua i problemi generali e	i sotto problemi	fa inferenze in rapporto a discorsi orali in relazione a diverse informazioni .
+
+1	0	0	sotto procedura
+						DET ADV ADJ NOUN	ITWAC	delle sue problematiche è previsto dal CCNL 03/11/1994 e dagli accordi aziendali sottoscritti , le parti hanno concordato di definire	la sotto specificata procedura	quale modalità finalizzata a praticare la gestione della organizzazione del lavoro nell' ambito del modello di relazioni Sindacali così come disciplinato
+
+2	1	0	sotto processo
+						DET ADV NOUN	ITWAC	il nostro esempio il cost driver è il numero di documenti indicizzati , sia perché la presenza del documento attiva	il sotto processo	, sia perché il numero di documenti indicizzati indica quante volte il sotto processo è stato ripetuto , cioè la quantità
+						DET ADV NOUN	ITWAC	perché la presenza del documento attiva il sotto processo , sia perché il numero di documenti indicizzati indica quante volte	il sotto processo	è stato ripetuto , cioè la quantità di attività necessaria : nell' esempio si tratta di 14.635 documenti indicizzati ; tasso
+						DET ADV NOUN	REPUBBLICA	Al meeting di	Cl sotto processo	il governo Prodi .
+
+2	0	0	sotto prodotti
+						DET ADV NOUN	ITWAC	lingua-dialetto , paese-universo L' unità rinasce integrata dalla molteplicità Riabilitazione delle caratterizzazioni etniche Salto vertiginoso ma di qualità perché esclude	i sotto prodotti	, quote intermedie , culturali ed umani
+						DET ADV NOUN	ITWAC	lingua-dialetto , paese-universo L' unità rinasce integrata dalla molteplicità Riabilitazione delle caratterizzazioni etniche Salto vertiginoso ma di qualità perché esclude	i sotto prodotti	, quote intermedie , culturali ed umani ABSTRACT Gli argomenti trattati oggi devono essere ricomposti in un quadro teorico che coinvolge
+
+2	0	0	sotto prodotto
+						DET ADV NOUN	ITWAC	che se le fanno in Lombardia o nel Veneto le cose diventano storiche e se le facciamo in Calabria sono	un sotto prodotto	.
+						DET ADV NOUN	ITWAC	ricercata : era un incidente assai frequente , e tollerato con brutale indifferenza , ma sostanzialmente non voluto ; insomma	un sotto prodotto	dovuto alla fame , al freddo , alle infezioni , alla fatica .
+
+1	0	0	sotto produzione
+						DET ADV NOUN	ITWAC	finalità estetiche , ma al di là di questo appare promettente anche sul fronte della lotta alle patologie che determinano	una sotto produzione	di grassi .
+
+3	0	0	sotto progetti
+						DET ADV NOUN	ITWAC	Le regioni hanno 30 giorni per verificare	i sotto progetti	e gli interventi inseriti nel progetto regionale e renderli coerenti con le indicazioni della commissione paritetica ; Successivamente all' inoltro della
+						DET ADV NOUN	ITWAC	Nicoletta Scalzotto : è un lavoro in progress che andrà ad arricchirsi strada facendo e dal quale comunque si apriranno	i sotto progetti	compresi sicuramente in una delle competenze che gli si sono attribuite Nicoletta Scalzotto : Saranno sviluppi macroscopici di alcuni nodi già
+						DET ADV NOUN	ITWAC	paese ; - Manufacturing : rilevante per la competitività del paese ; con in aggiunta la necessità di differenziare bene	i sotto progetti	.
+
+2	0	0	sotto progetto
+						DET ADV NOUN	ITWAC	l' intervento originario , aumenti dei costi unitari previsti per le unità di personale o variazioni che diano vita ad	un sotto progetto	con finalità diverse rispetto all' originario , economie su oneri di assicurazione come meglio specificato nel precedente paragrafo , ecc. Parimenti
+						DET ADV NOUN	ITWAC	organizzazione da parte di ogni singola scuola ( a cui appartiene il docente o i docenti in formazione ) di	un sotto progetto	didattico che , ancorato a quello generale , ne rappresenta la realizzazione  in situazione  .
+
+1	0	0	sotto programma
+						DET ADV NOUN	ITWAC	Nellâ  TMambito di Alinvest è previsto	il sotto programma	Al-Interprise , che supporta lâ  TMorganizzazione , durante fiere specializzate , di incontri tra imprenditori di almeno tre Stati europei
+
+2	0	0	sotto proletariato
+						DET ADV NOUN	ITWAC	Metà degli adulti è analfabeta e costituisce classicamente	un sotto proletariato	abbonato all' economia informale dell' edilizia e del turismo : venditori di vergini dai vestiti sgargianti , di amache , di
+						DET ADV NOUN	ITWAC	Metà degli adulti della comunità è analfabeta e costituisce classicamente	un sotto proletariato	abbonato all' economia informale dell' edilizia e del turismo : venditori di vergini dai vestiti sgargianti , di amache , di
+
+1	0	0	sotto qualifiche
+						DET ADV ADJ NOUN	ITWAC	------------------------------------------- 4 ) In deroga alle norme statutarie vengono nominati , con	le sotto specificate qualifiche	, Consiglieri dell' Associazione in oggetto , con tutti i poteri previsti nello statuto sopra riportato , i signori : -
+
+1	0	0	sotto rappresentanza
+						DET ADV NOUN	ITWAC	Dunque ,	la sotto rappresentanza	non tutela assolutamente i diritti .
+
+1	0	0	sotto rappresentazione
+						DET ADV NOUN	ITWAC	Anche in questo caso però valgono considerazioni analoghe rispetto a quanto riferito per le spese di ricerca circa	la sotto rappresentazione	dei dati delle imprese .
+
+1	0	0	sotto razza
+						DET ADV NOUN	ITWAC	Nell' ambito di questa specie	la sotto razza	definita come Stella di Natale che possiede una fioritura ( in realtà sono foglie trasformate ) di colore dal rosso al
+
+1	0	0	sotto remunerazione
+						DET ADV NOUN	ITWAC	per le stesse collaborazioni , nel qual caso , è evidente il pericolo del circolo vizioso , dal momento che	la sotto remunerazione	delle collaborazioni è , in realtà , diffusissima e prevalente .
+
+1	0	0	sotto requisiti
+						DET ADV ADJ NOUN	ITWAC	collettivo aziendale , proceda all' assunzione a tempo indeterminato di nuovo personale , vengono riconosciuti particolari benefici , purché esistano	i sotto specificati requisiti	.
+
+2	0	2	sotto rete
+						DET ADV NOUN	ITWAC	da un punto : 207.66.130.108 E' un vero e proprio indirizzo postale , dove ogni gruppo di 4 cifre identifica	una sotto rete	.
+						DET ADV NOUN	ITWAC	del protocollo che si sta utilizzando , indispensabile per consentire ai gateway di effettuare le eventuali conversioni nel passaggio da	una sotto rete	ad un' altra .
+						DET ADV NOUN	WIKICONLL	all' avversario per tornare a centro campo ; il Cut ( detto anche Spin Drop ) è un colpo che	da sotto rete	cerca di mandare il volano il più possibile corto e basso dall' altra parte .
+						DET ADV NOUN	WIKICONLL	che di rovescio , facendo attenzione alla posizione della racchetta e delle gambe : in entrambi i casi si gioca	da sotto rete	, con la racchetta alta ed il piatto corde dritto ; nella volèe di dritto il colpo va accompagnato al movimento
+
+2	0	0	sotto reti
+						DET ADV NOUN	ITWAC	- Ridefinite	le sotto reti	nord-sud , rafforzate le aree deboli , novità anche per le tariffe Trasporti più efficienti , grazie alla Regione Trasporti pubblici
+						DET ADV NOUN	ITWAC	Il meccanismo di condivisione e co-generazione della conoscenza è ricorsivamente al lavoro in tutte	le sotto reti	ed è un ciclo composto di due processi : codifica e instanziazione ( o contestualizzazione ) .
+
+0	0	2	sotto rispetto
+						DET ADV NOUN	WIKICONLL	, ed anche per le prestazioni generali il velivolo , una volta in linea , si posizionerà operativamente un gradino	di sotto rispetto	agli attuali McDonnell Douglas C-17 Globemaster III ed all' Ilyushin Il-76 .
+						DET ADV NOUN	WIKICONLL	Quando la zona da risanare si trova	di sotto rispetto	a quelle circostanti ed è disponibile un corso d' acqua ricco di  torbida  ( cioè che trasporta in sospensione
+
+1	0	0	sotto risultanze
+						DET ADV ADJ NOUN	ITWAC	Inoltre il processo di riaccertamento dei residui sia passivi che attivi ha prodotto	le sotto indicate risultanze	: maggiori residui attivi riaccertati per euro 43.996,95 minori residui attivi riaccertati per euro 1.234.488,24 minori residui passivi riaccertati per euro
+
+3	0	0	sotto salario
+						DET ADV NOUN	ITWAC	; c' è poi una terza causa forse la più importante , ed è che , in una realtà dove	il sotto salario	ed il sommerso sono fenomeni dilaganti , dove i diritti minimi garantiti vengono negati , dove l' applicazione del contratto nazionale
+						DET ADV NOUN	ITWAC	Insomma , basta con	il sotto salario	e con lo sfruttamento dei giovani , delle donne e di tutti coloro che sono costretti a subire la condizione di
+						DET ADV NOUN	ITWAC	Insomma , basta con	il sotto salario	e lo sfruttamento dei giovani , delle donne e di tutti coloro che sono costretti a subire la condizione di precario
+
+1	0	0	sotto scelte
+						DET ADV NOUN	ITWAC	Per farlo su Navigator basta scegliere dal menu opzioni  Network preference  e tra	le sotto scelte	 protocols  quindi cliccare sulla casella che dice accepting a cookie , questo farà aprire una finestrella ogni volta che
+
+1	0	0	sotto scrittori
+						DET ADV NOUN	ITWAC	Il contratto collettivo si intende stipulato se	i sotto scrittori	rappresentano - almeno il 51 per cento degli iscritti alle associazioni che concorrono alla formazione di ciascuna rappresentanza unitaria , purché
+
+1	0	0	sotto scrizione
+						DET ADV NOUN	ITWAC	ART. 13 IMPOSSIBILITÀ SOPRAVVENUTA Qualora , dopo	la sotto scrizione	del presente contratto , intervengano provvedimenti di pubbliche Autorità o altri eventi che rendano impossibile per Energit l' adempimento degli obblighi
+
+1	0	0	sotto segretari
+						DET ADV NOUN	ITWAC	sfere , non basta portare i Ministri per dire che si fanno le autostrade , bisogna portare i Ministri e	i sotto segretari	anche per ottenere qualcosa altro , per cercare di ottenere questo risultato .
+
+7	0	0	sotto segretario
+						DET ADV NOUN	ITWAC	In occasione del vertice di Washington ,	il sotto segretario	al commercio Usa Grant Aldonas si è detto sicuro che il Congresso modificherà la legge fiscale entro l' anno , così
+						DET ADV NOUN	ITWAC	La modifica dello statuto dovrà avvenire entro la metà novembre , ha proseguito	il sotto segretario	, precisando che i privati avranno comunque una quota minoritaria .
+						DET ADV NOUN	ITWAC	Musi , vicesegretario generale della Uil , abbia accolto positivamente l' invito di Letta , soprattutto per il fatto che	il sotto segretario	ha fatto esplicito riferimento alla conclusione dell' attuale stagione contrattuale .
+						DET ADV NOUN	ITWAC	Nell' aereo C - 130 che ha dovuto atterrare a Oman per una avaria , c' era anche	il sotto segretario	Sgarbi .
+						DET ADV NOUN	ITWAC	Pag. 61 Renzo PATRIA ( FI ) ringrazia	il sotto segretario	sottolineando tuttavia come la pur puntuale risposta fornita non rappresenti una soluzione alla questione posta nell' interrogazione .
+						DET ADV NOUN	ITWAC	di sicurezza e ordine pubblico - spiega il ministro - e già nel tardo pomeriggio si terrà una riunione tra	il sotto segretario	Letta , il ministro degli Esteri e dell' Interno  .
+						DET ADV NOUN	ITWAC	la proposta , lanciata ieri dal Comune di Roma , di un ' superbollo ' per i suv , oggi	il sotto segretario	all' Ambiente ha confermato che è allo studio un provvedimento generale di ' tassazione differenziata ' a seconda delle emissioni inquinati
+
+2	0	0	sotto sella
+						DET ADV NOUN	ITWAC	Vani portaoggetti : Câ  TMè soltanto	il sotto sella	illuminato , dal momento che nello scudo anteriore sono alloggiati i serbatoi dellâ  TMacqua e della benzina .
+						DET ADV NOUN	ITWAC	Vani portaoggetti : Câ  TMè soltanto	il sotto sella	illuminato con presa per la ricarica del cellulare e il fermo per tenerlo bloccato , dal momento che nello scudo anteriore
+
+0	1	0	sotto seni
+						DET ADJ ADV NOUN	REPUBBLICA	altrimenti dissimulate , venti anni fa consentiva al Chiambretti adolescente di rimirare altri e deliziosi panorami , di ricoverar- si	tutto intero sotto seni	seni generosissimi e marmorei , e da quei rifugi far- si un' idea formativa della vita .
+
+1	0	0	sotto servizi
+						DET ADV NOUN	ITWAC	Invece ci sarebbero da migliorare	i sotto servizi	( che poi sono servizi primari come acqua , fogne e gas ) , fare le opere per sistemare il dissesto
+
+1	0	0	sotto settore
+						DET ADV NOUN	ITWAC	% sul corrispondente periodo precedente ) , le riviste di informatica hanno subito un crollo del 20,8 % , mentre	il sotto settore	delle pubblicazioni dedicate a internet hanno registrato addirittura un - 52,8 % .
+
+2	0	0	sotto settori
+						DET ADV NOUN	ITWAC	Richieste molto variegate : dal pieno impegno per tutti	i sotto settori	, all' eliminazione delle eccezioni MFN ; dall' abolizione del sistema di quote , all' eliminazione di regimi fiscali discriminatori .
+						DET ADV NOUN	ITWAC	particolare due Paesi dell' OMC chiedono impegni completi per l' accesso al mercato e al trattamento nazionale , per tutti	i sotto settori	ed in tutti modi di fornitura .
+
+6	0	0	sotto sezione
+						DET ADV NOUN	ITWAC	) Archivi full-text di tutte le pubblicazioni IEEE e IEE dal 1988 ad oggi ; 5 ) Accesso illimitato ad	una sotto sezione	di INSPEC ( database contenente informazioni bibliografiche ed abstracts ) .
+						DET ADV NOUN	ITWAC	, in una logica quasi ricorsiva , una bolla  per saperne di più  con cui si accede ad	una sotto sezione	sul ruolo di p nel calcolo delle probabilità .
+						DET ADV NOUN	ITWAC	La sezione scolastica è articolata in	una sotto sezione	letteraria (  Le parole della Favola  , fiabe o favole inedite in lingua italiana ) e figurativa (
+						DET ADV NOUN	ITWAC	Sicché molto giustamente chi è intervenuto su questo aspetto della riunione ha sottolineato la necessità di preparare	una sotto sezione	del  simposio di Barcellona  esplicitamente mirato ad una presa di contatto con chi frequenta l' Unione Europea più da
+						DET ADV NOUN	ITWAC	b ) Poiché si tratta di una attribuzione militare , sulla base delle risultanze della sezione 1 , ivi inclusa	la sotto sezione	( f ) , il ministro della Difesa promulgherà tali ordini e regolamenti , inclusi gli ordini per nominare una o
+						DET ADV NOUN	ITWAC	da Pidduxp - Martedì 08 Luglio 2003 ore 18:52 chiudi E' con grande piacere che vi annuncio l' apertura di	una sotto sezione	in Maya chiamata  Plug-in  in cui potrete trovare tools e plug-in per il software della Alias , tutte rigorosamente
+
+1	0	0	sotto sezioni
+						DET ADV NOUN	ITWAC	Il portale della televisione pubblica italiana con i link a tutte	le sotto sezioni	e ai siti delle tre reti ...
+
+3	0	0	sotto sigla
+						DET ADV NOUN	ITWAC	[ quote ] Io terrei sempre l' idea di essere un prodotto di CAD3d.it e PSU potrebbe essere	una sotto sigla	.
+						DET ADV NOUN	ITWAC	Io terrei sempre l' idea di essere un prodotto di CAD3d.it e PSU potrebbe essere	una sotto sigla	.
+						DET ADV NOUN	ITWAC	Sandro Cocchi che annuncia che lascia il Gruppo di Rifondazione Comunista e si sposta nel Gruppo misto , con appunto	la sotto sigla	dei Comunisti Italiani .
+
+6	0	0	sotto sistema
+						DET ADV NOUN	ITWAC	22 - 23 - 28 - 29 Ottobre 2 ° MODULO : Le Democrazie Occidentali : il sottosistema elettorale e	il sotto sistema	esecutivo Testo : Pasquino G. , Sistemi Politici Comparati , Bologna , Bononia University Press , 2003 : capitoli 2 °
+						DET ADV NOUN	ITWAC	Altrettanto negativa è la soluzione conformistica , che comporta per le Chiese la trasformazione in	un sotto sistema	funzionale , il che equivale a descriverne la collocazione sociale sotto forma di nicchia privata .
+						DET ADV NOUN	ITWAC	Entro il tema dell' evoluzione , vorrei prendere in esame	un sotto sistema	di quello che è il macrosistema dell' evoluzione culturale , cioè l' evoluzione del linguaggio scientifico , confrontato e , per
+						DET ADV NOUN	ITWAC	Il general intellect è	un sotto sistema	del cervello sociale complessivo ed la capacità di gestire e sviluppare la l' economia delle conoscenze con gli apparati tecnologici per
+						DET ADV NOUN	ITWAC	Questo comando fa in modo che un dato utente si trovi ad operare in	un sotto sistema	, in genere , più limitato del principale sul quale non può influire .
+						DET ADV NOUN	ITWAC	le difficoltà dei disabili e le istanze dei mondo della produzione che possono essere viste come esempio di attivazione di	un sotto sistema	ad hoc per la soluzione di una contingenza particolare e cioè rendere il cittadino disabile il più compatibile possibile con il
+
+1	0	0	sotto sistemi
+						DET ADV NOUN	ITWAC	( insieme , non somma , di parti ) 2 ) divisibile in sottosistemi ( agglomerati funzionali ) 3 )	i sotto sistemi	sono : economia , cultura , politica 4 ) mi pare evidente che ogni sottosistema ( autonomo ) ha un ruolo
+
+1	0	0	sotto siti
+						DET ADV NOUN	ITWAC	Alcuni link sono celesti e indicano	i sotto siti	di contenuti , altri link sono invece bianchi e indicano siti di servizi .
+
+4	0	0	sotto sito
+						DET ADV NOUN	ITWAC	Celli prevede nel prossimo futuro di poter presentare	il sotto sito	dedicato all' Archivio Vaticano .
+						DET ADV NOUN	ITWAC	Il sito è registrato a nome della società IMC , mentre	il sotto sito	italiano è registrato presso i server inglesi della società Rackspace Maged Hosting , a sua volta avente sede in San Antonio
+						DET ADV NOUN	ITWAC	Museo d' Arte Contemporanea del Castello di Rivoli di Torino http://www.castellodirivoli.org Alla voce DIPARTIMENTO EDUCAZIONE si apre	un sotto sito	articolato nel quale , come isolette collegate tra loro , sono presenti tutte le attività svolte dal Castello di Rivoli :
+						DET ADV NOUN	ITWAC	oppressi del 2000 , celebrato a Verona ed ora , oltre a ritrovarvi le relazioni delle giornate , vi è	un sotto sito	formato dalle provocazioni e proposte del secondo Giubileo degli oppressi realizzato dalla carovana della pace nel settembre del 2002 .
+
+1	0	0	sotto skritto
+						DET ADV NOUN	ITWAC	: Epoc  MDM il 14 Feb 2004 , 04:36 ho sentito di MOOOOOLTO peggio e devo dire ke neanke	il sotto skritto	se la kava male ( qlkuno ke  mi  rikorda allo smau ?
+
+1	0	0	sotto spazi
+						DET ADV NOUN	ITWAC	crea un albero binario in cui i nodi rappresentano i poligoni utilizzati per suddividere lo spazio e i rami rappresentano	i sotto spazi	stessi .
+
+1	0	0	sotto stima
+						DET ADV NOUN	ITWAC	più neanche un sistema che guarda all' Europa , ma è un sistema che guarda la singola Regione , ha	la sotto stima	delle spese in cui le Regioni stesse che dovrebbero poi gestire la sanità , in cui le maggioranze di centro sinistra
+
+2	0	0	sotto suolo
+						DET ADV NOUN	ITWAC	È la convenzione internazionale che protegge in particolare i fondali marini e	il sotto suolo	al di fuori dei limiti territoriali .
+						DET ADV NOUN	ITWAC	Lunedì 17 febbraio inizieranno in piazza San Carlo lavori di scavo per esaminare	il sotto suolo	in prospettiva della costruzione del nuovo parcheggio interrato , per il quale è già stato redatto il progetto preliminare .
+
+1	0	0	sotto sviluppo
+						DET ADV NOUN	ITWAC	una pratica che dovrebbe diventare abituale , sempre che sia contenuta entro limiti ragionevoli , e ad essa dovrebbe corrispondere	un sotto sviluppo	, allo scopo di contenere le luci entro i limiti di stampabilità .
+
+1	0	0	sotto tabella
+						DET ADV NOUN	ITWAC	Create Sub-table tool : è lo strumento per la creazione di	una sotto tabella	all' interno di una determinata cella esistente .
+
+1	0	0	sotto task
+						DET ADV NOUN	ITWAC	doveva attaccare Gela ) e la 45 ° ( chiamata Cent Force , che avrebbe attaccato Scoglitti ) , più	una sotto task	force separata ( Joss Force ) composta da 27.000 uomini della 3 ° divisione guidata dal generale Lucian Truscott ( rinforzata
+
+1	0	0	sotto temi
+						DET ADV NOUN	ITWAC	Ed è proprio questa considerazione a introdurre	i sotto temi	oggi preposti che analizzano in particolare le specificità delle condizioni di vita di chi professa in uniforme .
+
+1	0	0	sotto tempi
+						DET ADV NOUN	ITWAC	assicura congiuntamente delle 2 proposizioni , cioè che le massime e le minime vibrazioni si fanno tutte a una a	una sotto tempi	eguali , e che l' impedimento e ritardamento dell' aria non opera più ne i moti velocissimi che ne i tardissimi
+
+1	0	0	sotto terra
+						DET ADV NOUN	ITWAC	'inferno ( Baschet : le giustizie dell' 'aldilà ) Inferno , dal latino ,  le porte di sotto ,	i sotto terra	 , perché si immaginava che i defunti vivessero sottoterra .
+
+2	0	0	sotto testa
+						DET ADV NOUN	ITWAC	che figata , ora si che si ragiona e' bellissima ne ho prese due perche' voglio tentare quando avro' anche	il sotto testa	di adattarlo tornendolo al vecchio sirio della mia honda poi vi faro' sapere Autore Risposta : max .
+						DET ADV NOUN	ITWAC	ci guadagnerebbe di brutto , allora mi garantisci che la testata va bene cosi com' e' ma devo cambiare anche	il sotto testa	o anche quello e' buono quello del vecchio sirio ?
+
+1	0	0	sotto testo
+						DET ADV NOUN	ITWAC	orchestrali più bassi ) e un notevole gusto per la sperimentazione hanno saputo incontrare alacremente il discorso cronenberghiano , creando	un sotto testo	tanto autonomo e partecipe da prescindere totalmente la funzione di semplice commento , sin dalle prime esperienze cinematografiche .
+
+6	0	0	sotto tetto
+						DET ADV NOUN	ITWAC	È stato dato il permesso di alzare	il sotto tetto	, a patto che via Lisenzio fosse rimessa a nuovo .
+						DET ADV NOUN	ITWAC	In particolare , sotto sera , una flebile luce illumina fioca una finestrella di	un sotto tetto	Una soffitta con una vista incredibile che , scorrendo sulle tegole dei tetti , arriva fino al mare A volte ,
+						DET ADV NOUN	ITWAC	Risultato :	il sotto tetto	ovviamente non e' riscaldato e le vecchie tubature sono saltate ; l' abbiamo scoperto quand' era troppo tardi e la cucina
+						DET ADV NOUN	ITWAC	Si sviluppa su tre piani più	il sotto tetto	e conserva ancora molte strutture originarie .
+						DET ADV NOUN	ITWAC	cucina , semi distrutta , il lampadario che ondeggia , la carta da parati , le brecce sui muri ,	il sotto tetto	distrutto ma a tratti ancora raggiungibile , sono di quanto più realistico si sia mai fatto .
+						DET ADV NOUN	ITWAC	hanno licenza abitativa per solo 45/50 mq. poiché la parte interrata è venduta come  cantina o garage  e	il sotto tetto	come  essiccatoio o lavatoio  .
+
+1	0	0	sotto tipologie
+						DET ADV ADJ NOUN	ITWAC	L' Agenzia del Territorio individua	le sotto indicate tipologie	contrattuali .
+
+1	0	0	sotto titoli
+						DET ADV NOUN	ITWAC	@ 5:05 pm carina l' idea delle musicassette , cmq ank ' io guardo sempre i dvd in inglese con	i sotto titoli	.
+
+2	0	0	sotto titolo
+						DET ADV NOUN	ITWAC	Nel corso della  serata informativa per un paese attento  , come recita	il sotto titolo	dell' incontro , verrà proiettato il video clip dal titolo  Come il giorno e la notte   Idee in
+						DET ADV NOUN	ITWAC	Non è un caso che	il sotto titolo	scelto è i giovani incontrano le Comunità straniere perché proprio dai noi ragazzi deve è può partire un diverso approccio nei
+
+1	0	0	sotto tono
+						DET ADV NOUN	ITWAC	Gorizia ) nel givellotto nono con 65.89 mt	il sotto tono	Cesar Biserka ( cus Trieste ) Campionessa italiana promesse che ha lanciato 44 mt .
+
+1	0	0	sotto trame
+						DET ADV NOUN	ITWAC	, come dici tu Gemmel non è esente da difetti anzi , concordo con te che spesso nei suoi libri	le sotto trame	siano inesistenti , e che non si soffermi su molti paricolari  di contorno  , che i protagonisti siano spesso
+
+1	0	0	sotto tuta
+						DET ADV NOUN	ITWAC	Ho fatto un grosso errore a non indossare	il sotto tuta	e dopo una decina di giri ero intirizzito .
+
+4	0	0	sotto unità
+						DET ADV NOUN	ITWAC	 b ) Al punto 5 è aggiunto il seguente testo : 	La sotto unità	amministrativa incaricata dell' esecuzione dei pagamenti , oppure l' unità incaricata della sua supervisione , deve disporre dei documenti che attestano
+						DET ADV NOUN	ITWAC	Il senso del racconto è nella stessa combinazione degli elementi e consiste nel potere che ha il tutto di integrare	le sotto unità	; inversamente il senso di un elemento è la sua capacità di entrare in relazione con altri elementi e con la
+						DET ADV NOUN	ITWAC	Inizialmente sono stati utilizzati come cavie dei topi che non possedevano	la sotto unità	b 2 del recettore ; poi si è ripetuta l' analisi negli stessi animali manipolati perché esprimessero la sotto unità indicata
+						DET ADV NOUN	ITWAC	la sotto unità b 2 del recettore ; poi si è ripetuta l' analisi negli stessi animali manipolati perché esprimessero	la sotto unità	indicata .
+
+1	0	0	sotto uomini
+						DET ADV NOUN	ITWAC	e proibito ; meglio metterli in un magazzino ; e il magazzino per le persone prive di anima , per	i sotto uomini	che valgono meno di niente , è il Centro di permanenza temporanea ( questo è il ridicolo - e tragico -
+
+1	0	0	sotto utilizzatore
+						DET ADV NOUN	ITWAC	Non solo , ma il call center di primo tipo è anche	un sotto utilizzatore	della tecnologia .
+
+8	0	0	sotto utilizzazione
+						DET ADV NOUN	ITWAC	E aggiunge : « Continueremo con questo paradosso di abbondanza in un oceano di miseria e di	una sotto utilizzazione	del Pds fin che la gente non avrà potere d' acquisto .
+						DET ADV NOUN	ITWAC	concentrato nelle categorie 5 e 4 stelle ) riesca a coprire soltanto il 63 % dei posti disponibili ( e	la sotto utilizzazione	delle strutture è più elevata nelle categorie inferiori di alberghi ) .
+						DET ADV NOUN	ITWAC	determinino una perdita delle potenzialità professionali acquisite o affinate sino a quel momento , o che per altro verso comportino	una sotto utilizzazione	del patrimonio professionale del lavoratore , avendosi riguardo non solo alla natura intrinseca delle attività esplicate dal lavoratore , ma anche
+						DET ADV NOUN	ITWAC	e poco adattati al pubblico destinatario  e non solo in Italia : v. Ulijn - Strother 1995  donde	la sotto utilizzazione	( o uso erroneo ) di questi apparecchi da buona parte del pubblico .
+						DET ADV NOUN	ITWAC	e sulla sua collocazione nell' ambito aziendale - da comportare un abbassamento del globale livello delle prestazioni del lavoratore ,	una sotto utilizzazione	delle capacità dallo stesso acquisite ed un consequenziale impoverimento della sua professionalità .
+						DET ADV NOUN	ITWAC	qui largamente presente una offerta di lavoro altamente qualificata che incontra nella regione forti difficoltà di inserimento lavorativo e rischia	una sotto utilizzazione	con conseguenti danni tanto sul piano individuale che su quello sociale .
+						DET ADV NOUN	ITWAC	storni di stanziamenti hanno notevolmente modificato la struttura del bilancio 1989 ; inoltre , si è constatato in tale ambito	una sotto utilizzazione	degli stanziamenti d' impegno e di pagamento , nonché una concentazione delle operazioni alla fine dell' esercizio .
+						DET ADV NOUN	ITWAC	trasferimento di quote fra produttori lattieri che operano in stati membri diversi , compensare fra stati membri la sovra o	la sotto utilizzazione	dei quantitativi di riferimento nazionali , riformare il sistema sanzionatorio applicabile agli acquirenti in caso di infrazione e a migliorare i
+
+10	0	0	sotto utilizzo
+						DET ADV NOUN	ITWAC	- L' ABC permette la misurazione di capacità inutilizzata : nel caso DETYA l' utilizzo dell' ABC mostrò al management	il sotto utilizzo	delle risorse - L' ABC migliora le realazioni con il pubblico : i più scettici circa l' utilizo delle risorse all'
+						DET ADV NOUN	ITWAC	( o anche una sua migliore distribuzione ) sarà intercettata dalle importazioni , l' unico equilibrio possibile sarà quello di	un sotto utilizzo	dei fattori di produzione e in particolare del lavoro .
+						DET ADV NOUN	ITWAC	è stata stimata l' incidenza percentuale dovuta alla perdita di superficie residenziale per le caratteristiche morfologiche del territorio , con	un sotto utilizzo	del volume residenziale teorico , nonché di un' aliquota pari a quella rilevata nell' ultimo censimento , da destinare a vani
+						DET ADV NOUN	ITWAC	In particolare si evidenzia	il sotto utilizzo	degli incentivi predisposti per la previdenza complementare , dovuto , in parte al ritardo nell' applicazione rispetto ai tempi previsti ,
+						DET ADV NOUN	ITWAC	Pur convenendo in	un sotto utilizzo	delle strumentazioni radiologiche , riconducibili ad una non volontà dei Direttori generali di riorganizzare i servizi , manca un programma di
+						DET ADV NOUN	ITWAC	Sosteniamo il diritto dei Rom di esistere : evitiamo lo spreco , il disuso ,	il sotto utilizzo	di strutture e spazi in Bologna e provincia .
+						DET ADV NOUN	ITWAC	Spesso la tariffa a scatti ( es. 12 secondi ) comporta	un sotto utilizzo	dello scatto stesso ; l' addebito e l' iva , sono voci aggiuntive piuttosto care che nelle campagne pubblicitarie vengono poco
+						DET ADV NOUN	ITWAC	allo sviluppo commerciale e al finanziamento delle nuove idee su scala comunitaria , si assisterà ad una fuga o a	un sotto utilizzo	delle idee e i vantaggi andranno persi .
+						DET ADV NOUN	ITWAC	cesare quindi	un sotto utilizzo	della metro così credo che il tram abbia molto più senso inoltre essendo in corsia riservata ha buone percorrenze ...
+						DET ADV NOUN	ITWAC	i paesi il metodo di calcolo del valore di soglia del reddito pro capite o ricorrere ad altri criteri ;	il sotto utilizzo	del potenziale delle regioni arretrate ; la criticità spaziale di alcune delle regioni arretrate ; ovvero , infine , concentrare le
+
+1	0	0	sotto valutazione
+						DET ADV NOUN	ITWAC	Emerge con forza	una sotto valutazione	del rischio rispetto ad alcune mansioni : è più esposto ad un eventuale contagio il parrucchiere rispetto ad un esponente delle
+
+1	0	0	sotto vaso
+						DET ADV NOUN	ITWAC	Se appoggiate delle piante sul mobile mettete	un sotto vaso	, e accertatevi che non trasudi umidità .
+
+2	0	0	sotto voci
+						DET ADV NOUN	ITWAC	Cliccando sulla voce che ci interessa vengono visualizzate	le sotto voci	Situazione di partenza Scelta della voce  Ricerca imprese  Servizi principali di Telemaco La modalità di utilizzo di Telemaco può
+						DET ADV NOUN	ITWAC	voci in elenco contraddistinte da una freccia di colore arancione comparirà al loro fianco un ulteriore menù , che mostrerà	le sotto voci	in cui si articola la voce stessa .
+
+1	0	0	sotto zone
+						DET ADV NOUN	ITWAC	La resa massima di uva per ettaro per il chianti è di 90 quintali , per	le sotto zone	80 quintali , escluso il Chianti Classico e il superiore per i quali la resa ettariale è di 75 quintali .
+

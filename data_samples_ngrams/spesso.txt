@@ -1,0 +1,1073 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	0	1	spesso Antonio
+						DET ADJ ADV NOUN	WIKICONLL	Tra predicazioni instancabili e lunghe ore dedicate	al confessionale spesso Antonio	Antonio compiva lunghi digiuni .
+
+1	0	0	spesso Giove
+						DET ADJ ADV NOUN	ITWAC	Eccho una nimpha bella , e vezzosa la qual con altre nimphe dimorava in una selva chera molto ombrosa ne	la qual spesso Giove	Giove a spasso andava per miticar la sua fama amorosa et uno di mentre el si solazzava Giuno dal ciel discese
+
+0	0	1	spesso Paraguay
+						DET ADV ADJ NOUN	WIKICONLL	Le favorite erano le solite Argentina e Uruguay , con un occhio di riguardo verso Brasile e	lo spesso sorprendente Paraguay	.
+
+1	0	0	spesso acquirente
+						DET ADV ADJ NOUN	ITWAC	gli agricoltori si trovano realmente ad essere  costretti  a vendere ciò che hanno prodotto ( senza pre-finanziamenti )	allo spesso unico acquirente	cui si appoggiano anche e soprattutto le multi ...
+
+1	0	0	spesso aggressione
+						DET ADV ADJ NOUN	ITWAC	del nostro territorio e , dall altro , una spesso grande superficialità nella costruzione di dighe e , soprattutto ,	una spesso irresponsabile aggressione	del territorio .
+
+0	1	0	spesso alberazione
+						DET ADV ADJ NOUN	REPUBBLICA	Questa mia proposta logicamente vale , per ora , solo per i boschi demaniali , regionali , comunali , compresa	la spesso carente alberazione	di giardini e strade nelle città .
+
+1	0	0	spesso alone
+						DET ADV NOUN	ITWAC	Si noti	lo spesso alone	biancastro attorno a Floyd , causato dal processo di edge enhancement .
+
+1	0	0	spesso alternativa
+						DET ADV ADJ NOUN	ITWAC	E un terreno di compensazione	alla spesso drammatica alternativa	o bassa manovalanza o clandestinità .
+
+0	0	2	spesso anello
+						DET ADV NOUN	WIKICONLL	Le nucule obovoidi , erette , rugose , sono concave e	uno spesso anello	a guisa di collare alla base .
+						DET ADV NOUN	WIKICONLL	ovoidi , erette , qualche volta curve , di solito sono verrucose e spesso rugose , concave alla base e	uno spesso anello	a guisa di collare .
+
+1	0	0	spesso apatia
+						DET ADV ADJ NOUN	ITWAC	UNESCO all UNICEF , e la prassi scolastica , sovente incerta su tematiche di questo tipo , non tanto per	la spesso citata apatia	diffusa , quanto per la difficoltà di trovare contenuti e piste di lavoro effettivamente utili e interessanti .
+
+3	0	0	spesso appeal
+						DET ADV NOUN	ITWAC	- 2004 alle : 9:49 C eravamo così ben abituati dopo gli altri film di Soderbergh che speravamo di trovare	lo spesso appeal	.
+						DET ADV NOUN	ITWAC	Extra 19/12/2004 Ocean s Twelve C eravamo così ben abituati dopo gli altri film di Soderbergh che speravamo di trovare	lo spesso appeal	.
+						DET ADV NOUN	ITWAC	Recensione 06/01/2005 Ocean s Twelve C eravamo così ben abituati dopo gli altri film di Soderbergh che speravamo di trovare	lo spesso appeal	.
+
+1	0	0	spesso applicazione
+						DET ADV ADJ NOUN	ITWAC	di giustizia  per porre rimedio alla lunghezza spesso spropositata delle pene del nostro paese , ma anche per rispondere	alla spesso mancata applicazione	della Legge Gozzini .
+
+0	0	1	spesso architrave
+						DET ADV NOUN	WIKICONLL	breve scalinata , l ingresso è infatti costituito da un primo diaframma concavo , tripartito da due pilastri giganti coronati	dallo spesso architrave	, seguito da uno spazio convesso , pavimentato in travertino e racchiuso da due pareti oblique con una parete di fondo
+
+1	0	0	spesso archivi
+						DET ADV ADJ NOUN	ITWAC	di storia l importanza delle fonti e del loro uso , che nel volume sono protagoniste e invitano a visitare	gli spesso dimenticati archivi	comunali del territorio , ove la documentazione del periodo delle guerre francesi si sia conservata e il responsabile dell istituzione sia
+
+1	0	0	spesso argomentazioni
+						DET ADV ADJ NOUN	ITWAC	a smorzare le polemiche , a giocare di sponda , a non aggredire con la forza della propria competenza tecnica	le spesso esili argomentazioni	degli avversari ( e ne ha tanti , sia tra le file dell opposizione , com è ovvio , sia tra
+
+1	0	0	spesso aspettative
+						DET ADV ADJ NOUN	ITWAC	Un indagine sulla sinistra italiana condotta confrontando	le spesso inascoltate aspettative	della  base  con la spesso discussa azione dei vertici .
+
+0	0	1	spesso atrio
+						DET ADV NOUN	WIKICONLL	Sotto l arco venne a formar- si	uno spesso atrio	, diventato il punto di filtraggio tra interno ed esterno .
+
+1	0	0	spesso atteggiamento
+						DET ADV ADJ NOUN	ITWAC	illuminata come poche volte ho visto lungo i miei itinerari , invece di chiamarmi  babbo  , o distendersi	nello spesso ipocrita atteggiamento	del  Lei  , m ha fatto riflettere , donandomi quella verve sentimentale che solo i giovani posson dare con
+
+1	0	0	spesso attenzione
+						DET ADV ADJ NOUN	ITWAC	stesse domande non hanno perso il loro fascino ed importanza , e ci inducono a riflettere su un dato :	la spesso insufficiente attenzione	da noi rivolta verso la realtà acustica del mondo in cui viviamo , sia sotto gli aspetti negativi ( l aumento
+
+2	0	0	spesso attività
+						DET ADV ADJ NOUN	ITWAC	Altre cause delle frane sono riconducibili alle crisi sismiche che investono le aree in parola o	alla spesso incauta attività	antropica .
+						DET ADV ADJ NOUN	ITWAC	Per quanto concerne le rilevate differenze tra il Mezzogiorno e il resto d Italia , è opportuno ricordare che	la spesso disordinata attività	di costruzione di strutture ospedaliere ha avuto inizio circa quarant anni or sono per recuperare il grave ritardo che caratterizzava il
+
+1	0	0	spesso azione
+						DET ADV ADJ NOUN	ITWAC	Un indagine sulla sinistra italiana condotta confrontando le spesso inascoltate aspettative della  base  con	la spesso discussa azione	dei vertici .
+
+1	0	0	spesso banalità
+						DET ADV ADJ NOUN	ITWAC	a una progressiva scomparsa di una « sapida » ipotassi a favore di testi sempre più piani e paratattici ,	dalla spesso sconcertante banalità	linguistica ( e questo ahimè anche in letteratura ...
+
+1	0	0	spesso banchetti
+						DET ADV ADJ NOUN	ITWAC	Forse vi erano cristiani che vi partecipavano , ed anche non si sottraevano agli eccessi in	sui spesso quei banchetti	finivano .
+
+0	0	1	spesso banco
+						DET ADV NOUN	WIKICONLL	vulcani investì la piana dove oggi si estende il lago Omodeo , le rigogliose foreste che vi crescevano rimasero sommerse	uno spesso banco	di materiali incoerenti .
+
+1	0	0	spesso barriera
+						DET ADV ADJ NOUN	ITWAC	interno del mondo scientifico e favorire il trasferimento dei risultati della ricerca nella società e nella cultura in generale superando	la spesso pretestuosa barriera	di chi è portato a definirsi  non addetto ai lavori  .
+
+0	0	1	spesso basamento
+						DET ADV NOUN	WIKICONLL	Sono formate da obelischi piramidali che poggiano	uno spesso basamento	decorato da ghirlande ; a metà altezza si trovano quattro teste leonine , poi fiori e festoni .
+
+1	0	0	spesso basi
+						DET ADV ADJ NOUN	ITWAC	Osserva il prof. Carmignani che l interesse dei giovani è generalmente buono ma	le spesso modeste basi	culturali degli studenti degli istituti tecnici rendono difficile la lettura di ogni tipo di testo un po complesso ; concorda con
+
+1	0	0	spesso battaglia
+						DET ADV ADJ NOUN	ITWAC	che trascurabile in specie da chi consideri schemi e classificazioni , ove ben congegnati , come efficaci armi per combattere	la spesso difficile battaglia	della comprensione giuridica .
+
+1	0	0	spesso bicchiere
+						DET ADV NOUN	ITWAC	Si sentì ridicolo mentre sorseggiava il liquore con	lo spesso bicchiere	in mano , fuori tono .
+
+1	0	0	spesso bilanci
+						DET ADV ADJ NOUN	ITWAC	spopolamento che ha portato a un invecchiamento precoce della sua gente e per questo qui vivono molti pensionati che aiutano	gli spesso magri bilanci	familiari .
+
+0	1	0	spesso bollette
+						DET ADV ADJ NOUN	REPUBBLICA	sociale dovesse essere addomesticata con la concessione di un temporaneo blocco delle tariffe ovvero blandita con una stampigliatura più nitida	delle spesso incomprensibili bollette	.
+
+1	0	0	spesso booklet
+						DET ADV NOUN	ITWAC	Bello anche	lo spesso booklet	con i testi ; insomma , non vedo l ora di rivederli la prossima estate a qualche festival .
+
+1	0	2	spesso bordo
+						DET ADV NOUN	ITWAC	schermo con un bordo troppo largo e l altro lato dell immagine che si ripiega su se stessa , producendo	un spesso bordo	bianco e una striscia di  immagine fantasma  da quella parte .
+						DET ADV NOUN	WIKICONLL	Intorno a questo cerchio , si trova	uno spesso bordo	, sempre verde , recante al suo interno , nella parte superiore , la scritta bianca CORITIBA FOOT BALL CLUB ,
+						DET ADV NOUN	WIKICONLL	e campana e di nuovo fortemente conica per la campana , decisamente svasata , la quale però presenta alla base	uno spesso bordo	rivolto verso l interno .
+
+0	1	0	spesso bruttezza
+						DET ADV ADJ NOUN	REPUBBLICA	Mentre altre ragioni spingono ad un intervento che ripristini i nudi nella loro integrità : prima fra tutte	la spesso clamorosa bruttezza	dei panni sovrammessi .
+
+2	0	0	spesso burocrazia
+						DET ADV ADJ NOUN	ITWAC	Stato per l India è , per fortuna , una stagione terminata , anche se restano strascichi dello statalismo sia	nella spesso soffocante burocrazia	, sia in quel che a Cuba viene definito  socionismo  , cioè nella necessità di ricorrere a dei
+						DET ADV ADJ NOUN	ITWAC	da una parte all altra della città ( soprattutto di una città grande come Roma ) , e scontrarsi con	una spesso incomprensibile burocrazia	.
+
+0	0	1	spesso calice
+						DET ADV NOUN	WIKICONLL	Strutturalmente possono essere descritti	uno spesso calice	concamerato longitudinalmente da setti trasversali , disseminato in ogni sua parte di pori inalanti attraverso i quali l organismo filtrava l
+
+1	0	0	spesso capacità
+						DET ADV ADJ NOUN	ITWAC	Poco è ancora conosciuto	sulle spesso alte capacità	cognitive presenti nelle syndrome di Asperger , o sulle difficoltà osservate nelle capacità esecutive superiori .
+
+1	0	0	spesso capitolo
+						DET ADJ ADV NOUN	ITWAC	Schmid che con Bignone prospettava un interpretazione spiritualistica cristiana delle dottrine epicuree , non ha esitato a intitolare	il suo spesso capitolo	capitolo sulla dottrina  La filosofia di Epicuro come dottrina di vita e messaggio di saggezza  ( pp.59ss. ) ,
+
+1	0	0	spesso cappuccio
+						DET ADJ ADV NOUN	ITWAC	riporre l orologio nell armadio per non udire il ticchettio , e poi si tirava sugli occhi e le orecchie	il suo spesso cappuccio	cappuccio monacale .
+
+0	0	1	spesso carapace
+						DET ADV NOUN	WIKICONLL	dalle abitudini simili a quelle degli scoiattoli , che si nutrivano di vegetali dal guscio duro o di insetti forniti	uno spesso carapace	.
+
+0	0	1	spesso caratteristiche
+						DET ADV ADJ NOUN	WIKICONLL	Le piante psammofile , (	le spesso concomitanti caratteristiche	di resistenza all arido ed al sale ) sono importantissime piante pioniere di zone desertiche , infatti contrastano la desertificazione ,
+
+1	0	0	spesso carenze
+						DET ADV ADJ NOUN	ITWAC	coinvolgimento affettivo da parte dei due genitori , ma anche una notevole chiarezza di idee e di proposte di fronte	alle spesso gravi carenze	e inadempienze delle istituzioni scolastiche e socio-ambientali rispetto alle esigenze ed aspettative dei loro figli , i quali devono veder riconosciuti
+
+1	0	0	spesso carichi
+						DET ADJ ADV NOUN	ITWAC	Per di più i Gomez hanno confezionato un lavoro lungo e gonfio , con	i bassi spesso carichi	carichi di fuzz e le chitarre che tendono ad un suono indie , ma  Split the difference  rimane solo
+
+0	0	1	spesso cerchione
+						DET ADV NOUN	WIKICONLL	Le grandi ruote erano realizzate in legno duro e dotate	uno spesso cerchione	di ferro .
+
+0	0	2	spesso cercine
+						DET ADV NOUN	WIKICONLL	forma può passare da ovoide a reniforme , possono ancora essere erette o oblique , lisce o costate , e	uno spesso cercine	basale .
+						DET ADV NOUN	WIKICONLL	reniformi o emisferiche , erette o oblique , reticolate o rugose , sono di solito più o meno tubercolate e	uno spesso cercine	alla base .
+
+0	1	0	spesso cerniera
+						DET ADV ADJ NOUN	REPUBBLICA	Qui Debenedetti cominciò a sperimentare	la spesso difficile cerniera	tra vocazione letteraria e impegno civile e a selezionare un repertorio senza dubbio inconsueto per quegli anni .
+
+1	0	0	spesso cerone
+						DET ADV NOUN	ITWAC	Torna ad onore del personaggio una sostanziale e trasparente sincerità , nonostante	lo spesso cerone	del trucco ; ed è uno spirito di commozione tutto umano ed umanitario ; spirito che il corredo di più o
+
+1	0	0	spesso cifre
+						DET ADV ADJ NOUN	ITWAC	È dunque una conoscitrice attenta del mercato del lavoro , e particolarmente esperta nell analizzarlo e comprenderlo anche attraverso	le spesso ingannevoli cifre	dell informazione ufficiale o ufficiosa .
+
+0	0	1	spesso cilindro
+						DET ADV NOUN	WIKICONLL	L edificio reimpiega materiali più antichi , sia	nello spesso cilindro	esterno , sia per le quindici coppie di colonne che delimitano lo spazio centrale e sostengono la cupola .
+
+1	0	0	spesso circostanze
+						DET ADV ADJ NOUN	ITWAC	 che va letto , una dimostrazione di sensibilità suprema , quella stessa che , probabilmente , al contatto con	le spesso frenetiche circostanze	dello sport , lo ha limitato nel curriculum .
+
+1	0	0	spesso citata
+						DET ADV NOUN	ITWAC	e delle quali un paio ( Music Deluxe e Mastertone Multimedia ) con attività nel settore dell editoria musicale e	la spesso citata	Merlin come virtualmente inattiva .
+
+0	0	1	spesso ciuffo
+						DET ADV NOUN	WIKICONLL	 Occasio  (  Occasione  ) , che ha le sembianze di una vergine con il volto coperto	uno spesso ciuffo	di capelli ( perché essa non è conosciuta dall uomo ) e la testa calva , e con le ali ai
+
+1	0	0	spesso classe
+						DET ADV ADJ NOUN	ITWAC	gli europei invece di guardarsi allo specchio , fieri della loro bontà , collaborassero di più , non tanto con	la spesso corrotta classe	dirigente africana , ma con le classi medi e borghesi presenti nel continente avrebbero molte sorprese .
+
+1	0	0	spesso collo
+						DET ADV NOUN	ITWAC	per un attimo privo di espressione , il suo volto era pallido e sudato e delle chiazze rosse gli imporporavano	lo spesso collo	.
+
+1	0	0	spesso collocazione
+						DET ADV ADJ NOUN	ITWAC	L ultimo convegno , dedicato « ai problemi	della spesso difficile collocazione	degli immigrati nel mondo del lavoro » ( di cui il volume in oggetto raccoglie le relazioni ) ha preso le
+
+1	0	0	spesso colpevoli
+						DET ADV ADJ NOUN	ITWAC	Dunque Confcommercio dice basta ai diti puntati	sugli spesso presunti colpevoli	e ad una  politica del capro espiatorio  che non gioverebbe a nessuno .
+
+1	0	0	spesso complessità
+						DET ADV ADJ NOUN	ITWAC	colori , senza quelle piccole pennellate di rosa che colorano un viso , con una essenzialità che stravince se paragonata	alla spesso eccessiva complessità	delle colorazioni al computer .
+
+1	0	0	spesso comunicati
+						DET ADV ADJ NOUN	ITWAC	La stessa cosa si potrebbe fare con	gli spesso tediosi comunicati	dei partiti politici : si potrebbe fare una sezione apposta .
+
+0	1	0	spesso concessione
+						DET ADV ADJ NOUN	REPUBBLICA	Gli altri , i diseredati , gli rimproveravano	la spesso negata concessione	di un premio , che poteva assomigliare ad una banconota di cinquanta lire .
+
+1	0	0	spesso conclusioni
+						DET ADV ADJ NOUN	ITWAC	Moretti , sarcastico ma entusiasta , costruito per brevi episodi simili a strisce di tipo fumettistico , dalle quali mutuano	le spesso folgoranti conclusioni	.
+
+1	0	0	spesso condizione
+						DET ADV ADJ NOUN	ITWAC	i territori palestinesi e ne annette ulteriori porzioni , prefigurando non uno Stato , ma cantoni , in cui permane	la spesso misera condizione	di circa 1 milione di rifugiati ( oltre 3 milioni con quelli della diaspora ) verso i quali Israele rifiuta di
+
+5	0	2	spesso condizioni
+						DET ADV ADJ NOUN	ITWAC	assicurare ai nostri militari il 100 per cento dell indennità di missione , tanto più giustificata quanto più si considerino	le spesso disagevoli condizioni	di impiego .
+						DET ADV ADJ NOUN	ITWAC	del settore assistenziale , che è in misura sempre maggiore utilizzato come scarico dei soggetti malati non autosufficienti , e	le spesso incivili condizioni	di vita della fascia più debole della popolazione ( ad esempio i soggetti con handicap impossibilitati a svolgere qualsiasi attività lavorativa
+						DET ADV ADJ NOUN	ITWAC	di tanti ritardi lungo le tratte Trieste-Venezia e Udine-Treviso-Venezia , ma anche delle modifiche di orario dei treni interregionali e	delle spesso precarie condizioni	igieniche dei vagoni , tre aspetti che hanno portato molti pendolari a raccogliere una serie di firme e sollecitare l intervento
+						DET ADV ADJ NOUN	ITWAC	motivi di uno sviluppo ritardato Una delle cause che più pesantemente influivano sui ritardi del processo di scolarizzazione va individuata	nelle spesso dolenti condizioni	delle finanze comunali sulle quali gravava infatti l onere maggiore dell istruzione primaria , secondo quanto prescritto dalla legge Casati ²
+						DET ADV ADJ NOUN	ITWAC	scure , addirittura nere , e le parti inferiori bianche ; questa similitudine , associata alle dimensioni abbastanza modeste ,	alle spesso pessime condizioni	di osservazione sia per distanza che per visibilità e alla spiccata tendenza di questi uccelli a volare molto rapidamente e a
+						DET ADV ADJ NOUN	WIKICONLL	Capo Horn è noto	le spesso avverse condizioni	climatiche che rendono difficile il doppiar- lo con imbarcazioni a vela .
+						DET ADV ADJ NOUN	WIKICONLL	la terra era in mano ai gabelloti ed ai mafiosi , mentre il mare era pericoloso da attraversare , date	le spesso fatiscenti condizioni	delle imbarcazioni .
+
+0	0	1	spesso confine
+						DET ADV ADJ NOUN	WIKICONLL	Si pensi poi all intricato sovrappor- si di norme italiane , europee e internazionali oltre che	allo spesso labile confine	tra illegalità e legalità che caratterizza un contesto ambiguo come Internet .
+
+1	0	0	spesso confini
+						DET ADV ADJ NOUN	ITWAC	Ma , anche , una nuova disciplina del tentativo e del concorso di persone nel reato , delimitandone meglio	gli spesso labili confini	.
+
+1	0	0	spesso congiunture
+						DET ADV ADJ NOUN	ITWAC	avere successo mediatico , a tenere insieme coalizioni eterogenee , a guidare governi di caratura non eccelsa , a muoversi	nelle spesso drammatiche congiunture	internazionali .
+
+1	0	0	spesso connubio
+						DET ADV ADJ NOUN	ITWAC	ritrovo del comune : saranno chiamati a soffiare soprattutto i più giovani , giusto per mostrare loro i rischi legati	allo spesso tragico connubio	alcol-guida .
+
+2	0	0	spesso conseguenze
+						DET ADV ADJ NOUN	ITWAC	La dura realtà nel peggiore e nel migliore dei casi per	le spesso felici conseguenze	cui si va incontro è l emigrazione .
+						DET ADV ADJ NOUN	ITWAC	Senza temerne	le spesso mortali conseguenze	.
+
+1	0	0	spesso consigli
+						DET ADV ADJ NOUN	ITWAC	e lacciuoli di alcun genere ( che non siano le vendite , naturalmente ) , e senza dover dare ascolto	agli spesso inascoltati consigli	di terzi .
+
+1	0	0	spesso constatazione
+						DET ADV ADJ NOUN	ITWAC	La verità è che l argomento continua a sollecitare tanti interrogativi per diversi motivi : uno di questi è	la spesso amara constatazione	del perdurare del fenomeno , un altro è il fatto che a questa attività di rilevazione si dedichino numerosi soggetti sia
+
+2	0	0	spesso contrapposizione
+						DET ADV ADJ NOUN	ITWAC	Se la discussione restasse nell alveo delle cose concrete da fare , cadrebbe	la spesso artificiosa contrapposizione	tra sinistra radicale e moderata .
+						DET ADV ADJ NOUN	ITWAC	dell economia e nel fare questo si tende a disintegrare non solo l unitarietà formale dello Stato ma a creare	una spesso fittizia contrapposizione	tra pubblico e privato facendo leva sui ritardi effettivi del processo di modernizzazione della maggior parte delle articolazioni amministrative pubbliche ,
+
+0	1	0	spesso controlli
+						DET ADV ADJ NOUN	REPUBBLICA	Nonostante questo , i possessori di documenti così contraffatti riescono a superare	gli spesso frettolosi controlli	degli agenti .
+
+1	0	0	spesso convinzione
+						DET ADV ADJ NOUN	ITWAC	& EGRAVE ; importante però non creare eccessive aspettative nello studente , come	la spesso generalizzata convinzione	di poter trovare in Rete qualsiasi documento .
+
+0	1	0	spesso convivenza
+						DET ADV ADJ NOUN	REPUBBLICA	Tra gli scopi principali , stemperare con la conoscenza	la spesso difficile convivenza	tra immigrati e indigeni .
+
+1	0	0	spesso copertura
+						DET ADV ADJ NOUN	ITWAC	mercato ( tra i sei e i sette dollari e mezzo all ora ) con benefit marginali tra i quali	una spesso inadeguata copertura	sanitaria .
+
+0	1	1	spesso cordone
+						DET ADV NOUN	REPUBBLICA	malconcio edificio , su una strada piena di garage , coperto di decine di bandiere israeliane , e difeso da	uno spesso cordone	militare : al centro dello spazio delimitato dai soldati varie decine di coloni aspettavano .
+						DET ADV NOUN	WIKICONLL	Il legamento sopraspinoso è	uno spesso cordone	fibroso della colonna vertebrale , sottostante al legamento nucale , che si estende dalla settima vertebra cervicale fino al sacro .
+
+0	0	8	spesso cornicione
+						DET ADV NOUN	WIKICONLL	- alquanto deteriorate - di pietra serena , scanditi da file regolari di quattro finestre rettangolari incorniciate , e conclusi	uno spesso cornicione	modanato aggettante , ancora in pietra serena .
+						DET ADV NOUN	WIKICONLL	, preceduta da una lunga scala , è caratterizzata da un portale del 1515 , sormontato da vari bassorilievi e	uno spesso cornicione	.
+						DET ADV NOUN	WIKICONLL	I tre blocchi sono conclusi	uno spesso cornicione	in travertino che nasconde le falde delle coperture a tetto .
+						DET ADV NOUN	WIKICONLL	Nel sottotetto	uno spesso cornicione	dentellato disegna la parte alta della facciata .
+						DET ADV NOUN	WIKICONLL	alta zoccolatura in pietra e in marmo , che sfuma nella fascia decorata sottogronda a fondo monocromatico , conclusa infine	uno spesso cornicione	marmoreo modanato .
+						DET ADV NOUN	WIKICONLL	di aperture rettangolari , appare delimitato alle estremità da fasce in travertino , sottolineato da una alta zoccolatura e coronato	uno spesso cornicione	modanato che funge da gronda in aggetto , ambedue nuovamente in travertino ; di dimensioni ridotte rispetto ai due dormitori ,
+						DET ADV NOUN	WIKICONLL	evidenzia i tre livelli con mezzanino , caratterizzando- si per le aperture a tutto sesto dei due piani nobili e	uno spesso cornicione	dentellato .
+						DET ADV NOUN	WIKICONLL	facciate principali , nuovamente spartite in cinque settori , inquadrate da fasce in travertino e delimitate dall alta zoccolatura e	dallo spesso cornicione	in notevole aggetto .
+
+1	0	0	spesso coscienze
+						DET ADV ADJ NOUN	ITWAC	, seppure limitato dalla scarsa possibilità produttiva concessagli dall industria hollywoodiana , è riuscito comunque a lasciare un segno forte	sulle spesso disabitate coscienze	americane e americanofile .
+
+1	0	0	spesso costo
+						DET ADV ADJ NOUN	ITWAC	avrebbero voglia di trascorrere tre o quattro giorni all Elba con il camper o la roulottes vengono dissuasi dal farlo	dallo spesso altissimo costo	del trasporto marittimo : meglio dunque trascorrere qualche giorno lungo la costa o dirigersi verso le città d arte della Toscana
+
+1	0	0	spesso costruzione
+						DET ADV ADJ NOUN	ITWAC	vignette iper-realistiche e ben curate ad altre decisamente poco attraenti e talvolta anche di difficile lettura ( non aiuta certo	la spesso confusionaria costruzione	della tavola ) .
+
+1	0	0	spesso critiche
+						DET ADV ADJ NOUN	ITWAC	al centro di profonde e non più rinviabili riforme , indispensabili per farlo entrare in Europa in maniera forte nonostante	le spesso strumentali critiche	e riserve avanzate da pseudoalleati o da  esaminatori abusivi  che preferirebbero continuare a tenere l Italia fuori dalle stanze
+
+0	0	1	spesso crostacei
+						DET ADV NOUN	WIKICONLL	Le specie che utilizzano l emocianina per il trasporto dell ossigeno sono	molto spesso crostacei	che vivono in ambienti particolarmente freddi e con una bassa pressione di ossigeno .
+
+0	0	1	spesso cuscino
+						DET ADV NOUN	WIKICONLL	le tre figure sedute è proprio la sedia : si tratta di un modello senza braccioli né schienale , coperto	uno spesso cuscino	con una ricca decorazione ricamata e con le gambe modellate e decorate , con davanti un poggiapiedi .
+
+1	0	0	spesso decisioni
+						DET ADV ADJ NOUN	ITWAC	inadatta ad affrontare i problemi della vita quotidiana , fatica a capire il rigido moralismo di Emerenc , ne subisce	le spesso indecifrabili decisioni	, non sa cosa pensare dell alone di mistero che ne circonda l esistenza e soprattutto la casa , con quella
+
+1	0	0	spesso denigrazione
+						DET ADV ADJ NOUN	ITWAC	garantire continuità e coesione interna dei suoi parteicipanti , attraverso strategie comunicative definite di flaming e di shutting , cioè	la spesso feroce denigrazione	e l isolamento di chi non è « in linea » .
+
+1	0	0	spesso descrizioni
+						DET ADV ADJ NOUN	ITWAC	L intero corpus iconografico , a commento	delle spesso astruse descrizioni	di macchine ed ordigni , è frutto di una tarda elaborazione che può essere riportata alla tradizione medievale [ 28 ]
+
+1	1	0	spesso dibattiti
+						DET ADV ADJ NOUN	ITWAC	la protagonista e addirittura il collante del gruppo era la signora Pina , squisita padrona di casa e sensibile moderatrice	degli spesso accesi dibattiti	.
+						DET ADV ADJ NOUN	REPUBBLICA	Durata insolita rispetto alla media	dei spesso cavillosi dibattiti	tra giudici .
+
+1	0	0	spesso dieta
+						DET ADV ADJ NOUN	ITWAC	Anche la stessa cucina povera delle campagne , ha saputo , nonostante la limitatezza delle risorse , portare mutazione	alla spesso ripetitiva dieta	.
+
+0	1	1	spesso differenze
+						DET ADV ADJ NOUN	REPUBBLICA	su una grande quantità di veicoli  era la spiegazione che Case e concessionari davano a chi chiedeva il perché	delle spesso abissali differenze	di prezzo rispetto ad un analoga vettura a benzina .
+						DET ADV ADJ NOUN	WIKICONLL	molto semplice , una delle più basilari trovate in archeologia , l interpretazione corretta fa assegnamento sulla capacità di spiegare	le spesso sottili differenze	che distinguono le parti del posthole .
+
+0	2	1	spesso difficoltà
+						DET ADV ADJ NOUN	REPUBBLICA	Il problema -- osserva il Csm -- assume speciale gravità nel caso del pretore penale già alle prese con	le spesso insormontabili difficoltà	connesse alla recente entrata in vigore del nuovo codice , ma deve ritener- si rilevante per tutti gli altri uffici giudiziari
+						DET ADV ADJ NOUN	REPUBBLICA	teme una valanga di processi  Il problema assume speciale gravità nel caso del pretore penale già alle prese con	le spesso insormontabili difficoltà	connesse al nuovo codice  .
+						DET ADV ADJ NOUN	WIKICONLL	regioni  rosse  ; anche se bisogna tener conto del fenomeno migratorio che ha caratterizzato essenzialmente le regioni meridionali	la spesso frequente difficoltà	per gli emigrati di raggiungere i seggi nei paesi d origine o di ricevere i certificati elettorali .
+
+1	0	0	spesso disamina
+						DET ADV ADJ NOUN	ITWAC	pare che la sfida dell automazione per questo tipo di biblioteche debba essere vista a questo livello , piuttosto che	nella spesso defatigante disamina	di pacchetti di automazione di procedure che in realtà piccole non sempre hanno davvero necessità di essere automatizzate .
+
+1	0	0	spesso disciplina
+						DET ADV ADJ NOUN	ITWAC	c.p.p. e , più in generale , delle altre norme di coordinamento che , nel ricondurre	la spesso frammentaria disciplina	processuale entro lo schema unitario del codice di procedura penale , avevano comunque come unico riferimento il processo  ordinario
+
+0	0	2	spesso disco
+						DET ADV NOUN	WIKICONLL	) ; si tratta di una Be di Herbig di classe B8e , con forti emissioni nell Hα , circondata	uno spesso disco	di polveri che assorbe gran parte della sua radiazione , causando- ne anche un eccesso di radiazione infrarossa di ben 3
+						DET ADV NOUN	WIKICONLL	Studi successivi hanno mostrato che l astro è circondato	uno spesso disco	di polveri , che riduce la luminosità del corpo celeste di un fattore 2 ; di conseguenza , WOH G64 brilla
+
+2	0	1	spesso disponibilità
+						DET ADV ADJ NOUN	ITWAC	Quest ultima considerazione va anche collegata alla onnipresenza degli ingranditori ed	alla spesso scarsa disponibilità	di proiettori : insomma due fattori , l uso  storico  degli acetati e la mancanza  moderna  di
+						DET ADV ADJ NOUN	ITWAC	alloggiative interne , al servizio di vettovagliamento , alla mancanza d alloggi a prezzo agevolato per i nuclei familiari e	alla spesso carente disponibilità	di infrastrutture e attrezzature per il tempo libero e per lo svago .
+						DET ADV ADJ NOUN	WIKICONLL	Ciò , unitamente	alla spesso scarsa disponibilità	delle aziende a diffondere dati diretti su consumo e produzione di rifiuti , può rendere molto faticosa la fase di Life
+
+2	0	0	spesso distribuzione
+						DET ADV ADJ NOUN	ITWAC	Resta poi la pesante eredità di	una spesso iniqua distribuzione	della ricchezza , all ´ interno delle singole nazioni e a livello mondiale .
+						DET ADV ADJ NOUN	ITWAC	Resta poi la pesante eredità di	una spesso iniqua distribuzione	della ricchezza , all interno delle singole nazioni e a livello mondiale [ ...
+
+1	0	1	spesso diversità
+						DET ADV ADJ NOUN	ITWAC	Se la cosa può a prima vista apparire strana alla luce	delle spesso laceranti diversità	di posizioni e di approcci che caratterizzano questo campo disciplinare , bisogna d altra parte considerare che quest anno il premio
+						DET ADV ADJ NOUN	WIKICONLL	Come per molti altri argomenti di tipo teologico ed etico , anche sull omosessualità c è	una spesso profonda diversità	di vedute e posizioni .
+
+1	0	0	spesso documentazione
+						DET ADV ADJ NOUN	ITWAC	hanno subito un notevole sviluppo in questi mesi , ma , come al solito con diversi standard spesso incompatibili e	una spesso insufficiente documentazione	tecnica da parte dei costruttori .
+
+1	0	0	spesso documentazioni
+						DET ADV ADJ NOUN	ITWAC	, può ritenersi necessario subordinare al consenso dell interessato il trattamento nell ambito delle banche-dati  endoprocessuali  , costituite	dalle spesso copiose documentazioni	del processo ; in tali casi l informatica costituisce uno strumento per la migliore conoscenza di vicende che , in ogni
+
+1	0	0	spesso domande
+						DET ADV ADJ NOUN	ITWAC	Guardatevi dunque dall esprimere lapidari giudizi su temi controversi , prima di avere sondato , o intuito	dalle spesso ingenue domande	, qual  è la sua opinione in oggetto .
+
+1	0	0	spesso durata
+						DET ADV ADJ NOUN	ITWAC	È soprattutto il caso dei detenuti immigrati che , a causa delle difficoltà di comunicazione e	della spesso breve durata	delle loro pene , scontano la propria condanna senza venire quasi mai in contatto con gli opertori penitenziari e senza avere
+
+1	0	0	spesso egoismi
+						DET ADV ADJ NOUN	ITWAC	crisi matrimoniali tra coniugi riverberano i loro effetti negativi sui figli minori che , quindi , diventano le vittime sacrificali	dei spesso ingiustificati egoismi	e conflittualità dei genitori .
+
+0	0	1	spesso elementi
+						DET ADV NOUN	WIKICONLL	sound molto particolare , costituito da una commistione di post-rock , ibridazioni fra musica rock ed elettronica , sperimentale ,	con spesso elementi	di musica ambient .
+
+0	1	0	spesso enti
+						DET ADV ADJ NOUN	REPUBBLICA	del legislatore ha voluto evitare la piaga dei condomini misti , una voce che ha sempre aggravato organizzazione e costi	dei spesso disastrati enti	gestori .
+
+1	0	0	spesso equilibrio
+						DET ADV ADJ NOUN	ITWAC	Perché queste , durante la mestruazione , erano impure e quindi pericolosissime per	lo spesso precario equilibrio	di queste società pastorali : il loro sangue era misterioso perché non frutto di una ferita o isolato , ma ricorrente
+
+1	0	0	spesso esperienza
+						DET ADV ADJ NOUN	ITWAC	la valorizzazione del proprio patrimonio culturale , di tutte le conoscenze e competenze acquisite nel Paese d origine e durante	la spesso faticosa esperienza	dell emigrazione .
+
+0	1	0	spesso esperienze
+						DET ADV ADJ NOUN	REPUBBLICA	posizioni conquistate , gli strateghi angloamericani hanno avuto tutto il tempo di mettere a punto un piano che tenga conto	delle spesso disastrose esperienze	autunnali , di quel sostanziale e cruentissimo pari e patta .
+
+1	0	0	spesso estate
+						DET ADV ADJ NOUN	ITWAC	Alegre i piú moderni hanno l aria condizionata ( un lusso , una necessità o una minimale forma di welfare	nella spesso rovente estate	australe ?
+
+1	0	0	spesso evidenza
+						DET ADV ADJ NOUN	ITWAC	dei ragionamenti qui argomentati , a beneficio di una dimensione extra insulare di valutazioni storico-economiche sulla Sardegna , con riguardo	alla spesso trascurata evidenza	delle storie personali di chi ha realmente contribuito allo sviluppo commerciale , scientifico e tecnologico del mondo moderno .
+
+2	0	0	spesso evoluzione
+						DET ADV ADJ NOUN	ITWAC	In questo caso	la spesso imperscrutabile evoluzione	delle lingue ha trovato un felice , e certamente non voluto , connubio fra il nome della montagna e le sue
+						DET ADV ADJ NOUN	ITWAC	da sempre più diffuse edizioni on line che ben si prestano , quest ultime , a quegli aggiornamenti costanti che	la spesso rapida evoluzione	delel conoscenze porta inevitabilmente con sé .
+
+2	0	0	spesso famiglia
+						DET ADV ADJ NOUN	ITWAC	Gente che stentava a mettere insieme il necessario per garantire un modestissimo piatto caldo	alla spesso numerosa famiglia	.
+						DET ADV ADJ NOUN	ITWAC	buona clientela che , pagando quasi sempre in  natura  , consentiva loro di portare avanti in maniera decorosa	la spesso numerosa famiglia	.
+
+0	0	1	spesso fasciame
+						DET ADV NOUN	WIKICONLL	m , largo 1,3 m e ha un peso minimo piuttosto elevato , fissato attorno ai 210 kg , dato	lo spesso fasciame	in legno ( larice o mogano ) che sostiene il guscio esterno in vetroresina .
+
+0	1	0	spesso fascicolo
+						DET ADV NOUN	REPUBBLICA	I carabinieri riaprono	lo spesso fascicolo	intestato a Marcello Calì .
+
+1	0	0	spesso fasi
+						DET ADV ADJ NOUN	ITWAC	nella letteratura , forzando , con le tinte di questa , i contenuti di un rapporto , di un confronto	sulle spesso contorte fasi	della vita .
+
+1	0	0	spesso fatica
+						DET ADV ADJ NOUN	ITWAC	aspirazione ad una vita piena di senso , che non perde mai le ragioni per cui vivere è bello anche	nella spesso dura fatica	quotidiana .
+
+1	0	0	spesso femmine
+						DET ADV ADJ NOUN	ITWAC	loro prestazioni comportamentali , quali l offerta da parte dei maschi degli Empididi di un  regalo di nozze 	alle spesso riluttanti femmine	, il fenomeno degli  sciami maschili danzanti  , ad esempio , non cessano di stupire chi si dedica al
+
+2	0	0	spesso file
+						DET ADV ADJ NOUN	ITWAC	aprono le porte ogni giorno a migliaia di turisti , così fa , lontano dai clamori e dalle polemiche suscitate	dalle spesso interminabili file	, il museo Correr .
+						DET ADV ADJ NOUN	ITWAC	aprono le porte ogni giorno a migliaia di turisti , così fa , lontano dai clamori e dalle polemiche suscitate	dalle spesso interminabili file	, il museo Correr , luogo simbolo della civiltà , della storia e delle espressioni d arte della città .
+
+1	0	0	spesso filo
+						DET ADV NOUN	ITWAC	, tentando di evitare le ortiche , si era soffermata a pochi passi da uno dei due pali che sostenevano	lo spesso filo	di plastica per il bucato .
+
+1	0	0	spesso filtro
+						DET ADV NOUN	ITWAC	Vista da vicino , senza passare attraverso	lo spesso filtro	informativo opposto da Khartoum , la situazione sul campo è completamente diversa .
+
+1	0	0	spesso fisionomia
+						DET ADV ADJ NOUN	ITWAC	il margine di separatezza tra interno ed esterno dell uomo si è complicato , con la globalizzazione , ha assunto	una spesso oscura fisionomia	 .
+
+1	0	1	spesso foglio
+						DET ADV NOUN	ITWAC	Una vera fortuna che vi sia la protezione	dello spesso foglio	di plastica ad evitare danni ...
+						DET ADV NOUN	WIKICONLL	Roush inserì	uno spesso foglio	di rame nei moduli e all estremità dei fogli di rame pose il sistema di raffreddamento al freon .
+
+1	0	0	spesso fonti
+						DET ADV ADJ NOUN	ITWAC	non solo risponde a tutte queste , legittime , curiosità , ma offre , oltre alla lettura ragionata e leggera	delle spesso difficili fonti	apocrife ( sovente usate in modo superficiale e improprio , vedi il Codice da Vinci e dintorni ) , anche un
+
+1	0	0	spesso frasi
+						DET ADV ADJ NOUN	ITWAC	Prima di raccontare le altre storie ,	le spesso brevi frasi	che segnano il tempo di una tragedia , affrontata dai londinesi con una durezza che non va confusa con l indifferenza
+
+1	0	0	spesso frequentazione
+						DET ADV ADJ NOUN	ITWAC	Oggi è meta di scampagnate e gite , ritrovo di	una spesso affollata frequentazione	turistica , non sempre rispettosa dell integrità , nè cosciente dei valori del luogo .
+
+1	0	0	spesso generalizzazioni
+						DET ADV ADJ NOUN	ITWAC	di Darwin su Spencer rappresentò in qualche modo la sempre ben radicata riserva di scetticismo che gli scienziati provano rispetto	alle spesso indebite generalizzazioni	dei filosofi , a noi non rimane che considerare che Spencer mostrò un grande coraggio intellettuale ( od una grande dose
+
+1	0	0	spesso gerarchizzazione
+						DET ADV ADJ NOUN	ITWAC	I rapporti di collaborazione-concorrenza che intercorrono tra i vari imprenditori di uno stesso distretto ,	la spesso assente gerarchizzazione	delle diverse fasi della produzione , il ricorso molto sostanzioso e frequente a lavorazioni svolte presso il domicilio di lavoratori formalmente
+
+1	0	0	spesso gestione
+						DET ADV ADJ NOUN	ITWAC	forza di Battle Mages risiedono principalmente nella sua naturale vocazione per il combattimento a suon di magie , a scapito	della spesso noiosa gestione	delle risorse che qui avviene in modo completamente automatico .
+
+1	0	0	spesso giornale
+						DET ADV NOUN	ITWAC	In caso di recidività per parte dello stesso gerente e	nello spesso giornale	, le multe potranno essere , secondo le circostanze , accresciute fino al doppio .
+
+0	0	1	spesso giustapposizioni
+						DET ADV ADJ NOUN	WIKICONLL	tradizionali , che hanno una maggiore ripresa in questa direzione e che aiuta molto l ascoltatore nel senso di rendere	le spesso casuali giustapposizioni	di generi musicali  .
+
+1	0	0	spesso grigiore
+						DET ADV NOUN	ITWAC	, che sostiene l impianto culturale complesso esposto da Bellini , così come prova lo stesso orrore Suo nei confronti	dello spesso grigiore	che avvolgerebbe società per intero secolarizzate , ma ritiene che il richiamo , nel preambolo della bozza di costituzione dell UE
+
+1	0	0	spesso guerra
+						DET ADV ADJ NOUN	ITWAC	Soltanto dopo che il fiato appannante del tempo sbiadì questi nomi nel crudele gioco delle mode o	nella spesso inutile guerra	delle poetiche , Roma divenne la capitale prescelta da quegli straordinari provinciali dell  antinovecento  : gli emigrati che a
+
+1	0	1	spesso guscio
+						DET ADV NOUN	ITWAC	Tra questi , il piú facile da riconoscere é Arctica islandica , un grosso bivalve	dallo spesso guscio	grigio , che giunse nel Mediterraneo dalle zone dell Atlantico settentrionale dove ancora oggi vive .
+						DET ADV NOUN	WIKICONLL	Il nocciolo è inserito in un contenitore di metallo pesante , come l uranio 238 , a formare	uno spesso guscio	detto  tamper  (  tampone  o  borraggio  ) che limita la fuga all esterno dei neutroni
+
+1	0	0	spesso ideologia
+						DET ADV ADJ NOUN	ITWAC	si può fare , crediamo , iniziando a lavorare senza pensare che l AIB sia un partito da governare con	una spesso cagionevole ideologia	al servizio di una dirigenza elitaria o che assomigli a un associazione-azienda da dirigere col piglio efficientista del manager .
+
+1	0	0	spesso impegno
+						DET ADV NOUN	ITWAC	Si attende	lo spesso impegno	per l amministrazione del catasto e l adozione di un quadro giuridico atto a creare una funzione pubblica indipendente , professionale
+
+0	1	0	spesso impennate
+						DET ADV ADJ NOUN	REPUBBLICA	Ma l Italia che ieri assisteva con entusiasmo compiaciuto , divertito ,	alle spesso clamorose impennate	dell uomo che aveva incoronato  reuccio  .
+
+1	0	0	spesso imprese
+						DET ADV ADJ NOUN	ITWAC	Ma cosa fanno e in quali settori operano	le spesso minuscole imprese	degli immigrati ?
+
+1	0	0	spesso indifferenziazione
+						DET ADV NOUN	ITWAC	Il voto nominale e	la spesso indifferenziazione	ideologica o di programma politico tra i partiti favorisce un fenomeno al limite dello scandalo , che è la migrazione da
+
+1	0	0	spesso iniziative
+						DET ADV ADJ NOUN	ITWAC	 Scienza  e  cultura generale  costituiscono tuttora in Italia un binomio conflittuale , nonostante	le spesso meritorie iniziative	prese nel campo della pubblicistica scientifica dal secondo dopoguerra ad oggi e il gran numero di collane librarie dedicate alla divulgazione
+
+3	0	0	spesso interpretazione
+						DET ADV ADJ NOUN	ITWAC	è assistito alla progressiva erosione del potere provvedimentale del Consiglio , causato dal concomitante riassetto normativo di alcune materie e	alla spesso problematica interpretazione	del contenuto e dei limiti di alcune competenze consiliari .
+						DET ADV ADJ NOUN	ITWAC	messe in discussione alcune garanzie che toccano sicuramente la programmazione e la gestione dei progetti di ricerca , ma soprattutto	una spesso equivoca interpretazione	della autonomia degli Istituti e dei ricercatori .
+						DET ADV ADJ NOUN	ITWAC	quali non si può sottovalutare l importanza in questa materia , la legge sulla parità scolastica consente di fare chiarezza	sulla spesso equivoca interpretazione	data in questa materia alla nostra Carta costituzionale  .
+
+1	0	3	spesso involucro
+						DET ADV NOUN	ITWAC	Il solo ed unico luogo irraggiungibile	dallo spesso involucro	di plastica sistemato ad Imperia .
+						DET ADV NOUN	WIKICONLL	, formato da ferro e nichel ( denominato  nife  ) , attorniato da una zona di transizione e	uno spesso involucro	solido di composizione media basaltica , ricco in ferro e magnesio , racchiuso dalle rocce più superficiali e leggere ricche di
+						DET ADV NOUN	WIKICONLL	Le spore sono circondate	uno spesso involucro	prodotto dalla cellula che vi è contenuta ; entro la spora vi è un “ filamento polare ” che si diparte
+						DET ADV NOUN	WIKICONLL	Rinvenibili tra luglio a maggio dell anno successivo , questi bruchi , gregari , trascorrono l inverno	uno spesso involucro	serico .
+
+1	0	0	spesso ipertrofia
+						DET ADV ADJ NOUN	ITWAC	grado di soddisfare i bisogni diversificati in continua espansione e che sfuggono a tutte le pretese di uniformità ben visibili	nella spesso umoristica ipertrofia	legislativa delle istituzioni legislative europeo-comunitarie .
+
+0	0	2	spesso isolamento
+						DET ADV NOUN	WIKICONLL	Bisogna aggiungere che il contenitore dovrà disporre	uno spesso isolamento	.
+						DET ADV NOUN	WIKICONLL	scambiatori di calore con altro tipo di fluido di lavoro e molteplici rabbocchi del serbatoio ) potrebbe ridurre la necessità	uno spesso isolamento	e potrebbe permettere di funzionare evitando che si formino croste di ghiaccio .
+
+0	1	1	spesso istruzioni
+						DET ADV ADJ NOUN	REPUBBLICA	MILIONI di contribuenti impegnati nell annuale lotta con il famigerato Modello 740 possono se non altro provare , nella lettura	delle spesso criptiche istruzioni	, qualche guizzo di stupore e di curiosità .
+						DET ADV NOUN	WIKICONLL	engine , che crea in maniera casuale una nuova routine per cifrare il virus , diversa dalle precedenti ( e	con spesso istruzioni	fatte per sviare gli antivirus ) allo scopo di mettere fuori pista i programmi antivirus .
+
+0	1	0	spesso lavoratrici
+						DET ADV ADJ NOUN	REPUBBLICA	E il cliente che usufruisce delle stanche e ritrose , sembra , arti erotiche di	queste spesso infaticabili lavoratrici	, chi è ?
+
+0	0	1	spesso legno
+						DET ADV NOUN	WIKICONLL	I condannati sono supini , saldamente fissati su delle ipsilon  Y 	di spesso legno	con tubi di ferro con dadi , che anche Ercole farà fatica a staccare , la marcia dell elefante è annunciata
+
+1	1	0	spesso letteratura
+						DET ADV ADJ NOUN	ITWAC	Un libro davvero originale e fuori dal coro , anche rispetto	alla spesso affidabile letteratura	sull 11 settembre e sulla risposta di guerra avviata dalla presidenza americana di George W. Bush .
+						DET ADV ADJ NOUN	REPUBBLICA	Quella nera vicenda l ho appresa quando avevo già venticinque anni , attraverso	la spesso fantasiosa letteratura	samizdat .
+
+3	0	0	spesso libro
+						DET ADV NOUN	ITWAC	entrambi I libri e tagliate i capitoli con una lama Exacto , interponendo I capitoli come meglio credete e portando	lo spesso libro	che ne verrà , dal vostro rilegatore di fiducia ...
+						DET ADV NOUN	ITWAC	pensiero italiano del settecento , Marzorati 1959 , che però dedica di fatto al tema la quarta e ultima parte	dello spesso libro	, cap .
+						DET ADV NOUN	ITWAC	tentativi odierni di attualizzazione impossibile , di riflessione paradossa-le sulla chiesa come  esperienza cristiana  , prendo a esempio	lo spesso libro	citato La Chiesa di Dio di Louis Bouyer , un singolare uomo di fede itinerante à rebour , dal protestantesimo all
+
+1	0	0	spesso limitatezza
+						DET ADV NOUN	ITWAC	Noi sappiamo che questa operazione è molto difficile e spesso appossimativa vista	la spesso limitatezza	dei programmi di disinstallazione oppure della classica metodica del pannello di controllo soprattutto per la parte riguardante il registro .
+
+2	0	0	spesso limiti
+						DET ADV ADJ NOUN	ITWAC	e di calcoli  complessi  ( moltiplicazioni , divisioni , ecc. ) , il codice non deve mai superare	gli spesso esigui limiti	di memoria , specie sulle consoles , e possibilmente deve processare il tutto nel ridottissimo tempo del frame rate , cioè
+						DET ADV ADJ NOUN	ITWAC	si discutono le aspettative dei genitori sulle possibilità di progresso del figlio , è importante che il medico non accenni	agli spesso inevitabili limiti	riabilitativi ; penso che ciò sarebbe altrettanto dannoso delle eventuali grandi ma non realistiche speranze dei genitori .
+
+0	1	0	spesso linea
+						DET ADV ADJ NOUN	REPUBBLICA	La difesa è basata sia sulla libertà dalla censura ma anche su	una spesso effimera linea	di demarcazione fra violenza motivata , definita  artistica  , e violenza usata per il gusto di scioccare .
+
+1	0	1	spesso linee
+						DET ADV ADJ NOUN	ITWAC	Nelle stelle di tipo T possono formarsi molecole complesse , come mostrano	le spesso forti linee	del metano nei loro spettri .
+						DET ADV ADJ NOUN	WIKICONLL	Nelle stelle di tipo T possono formar- si molecole complesse , come mostrano	le spesso forti linee	del metano nei loro spettri .
+
+0	0	1	spesso livello
+						DET ADV NOUN	WIKICONLL	A causa	dello spesso livello	di calcare , di un clima caldo-umido e del lento processo tettonico , Ha Long ebbe un evoluzione carsico che durò
+
+1	0	0	spesso logica
+						DET ADV ADJ NOUN	ITWAC	All analisi dei testi dei Vangeli riguardanti la Risurrezione , condotta col solito rigore e con	la spesso frizzante logica	che contrassegna i libri di Messori , egli aggiunge alcune  letture  ed alcuni fatti che contribuiscono a sottolineare il
+
+1	0	0	spesso lotta
+						DET ADV ADJ NOUN	ITWAC	Il supporto di Parvaneh	alla spesso fatale lotta	per i diritti umani nel paese è riflesso nei seguenti versi della sua poesia ,  Diritti  : Permetteteci di
+
+1	0	0	spesso lotte
+						DET ADV ADJ NOUN	ITWAC	Cercano ( e molte volte riescono ) di  mettere il cappello sopra	le spesso giuste lotte	e manifestazioni .
+
+1	0	0	spesso mafioso
+						DET ADV NOUN	ITWAC	telefoniche che inchioderebbero il suo assistito , arrestato proprio sulla base delle registrazioni telefoniche ed intercettazioni ambientali da cui emergerebbe	lo spesso mafioso	dell imputato .
+
+0	0	1	spesso maglione
+						DET ADV NOUN	WIKICONLL	L operatore aveva quindi bisogno soltanto	uno spesso maglione	di lana per protegger- si dal freddo .
+
+1	1	0	spesso mancanza
+						DET ADV ADJ NOUN	ITWAC	, comprendere che tali specifiche sono nate principalmente per consentire ai sistemi d indicizzazione dei motori di ricerca di supplire	alla spesso cronica mancanza	di testi e contenuti direttamente accessibili .
+						DET ADV ADJ NOUN	REPUBBLICA	Ed è	la spesso assoluta mancanza	di qualsiasi valore d uso delle opere pubbliche eseguite in questo periodo che , coniugata alle necessità degli utenti , ha
+
+2	0	0	spesso mantello
+						DET ADJ ADV NOUN	ITWAC	E lunga la notte Tutto è silenzio e s ode solo il respiro del buio che inesorabile avvolge ogni cosa	nel suo spesso mantello	mantello .
+						DET ADV NOUN	ITWAC	Ma poi qualcosa di bianco attraversò sibilando lo spazio sopra di lui schizzando gocce lattee che bucarono	lo spesso mantello	fumoso frantumandolo in tanti frammenti formicolanti come vermi .
+
+3	0	5	spesso manto
+						DET ADV NOUN	ITWAC	, Agricoltura e Belle Arti ; la più strana è la Fontaine d Eau Chaude , detta Muschio a causa	dello spesso manto	di muschio che la ricopre , una fonte di acqua calda proveniente dalla sorgente di Bagniers .
+						DET ADV NOUN	ITWAC	( X QUELLI NEI PRESSI DELLA TORRE ) Aggirate al torre e cominciate la difficile ricerca di qualche indizio	nello spesso manto	nevoso .
+						DET ADV NOUN	ITWAC	Ed anche negli altri centri della zona il freddo pungente e	lo spesso manto	nevoso hanno creato non pochi grattacapi .
+						DET ADV NOUN	WIKICONLL	Di origine antichissima e probabilmente medioevale , venne ricoperta	uno spesso manto	di terra , e dimenticato .
+						DET ADV NOUN	WIKICONLL	La mattina dopo , tutta Springfield è ricoperta	uno spesso manto	di neve , che blocca le strade .
+						DET ADV NOUN	WIKICONLL	La presenza di numerosi ghiacciai e	lo spesso manto	di ghiaccio della Groenlandia e dell Antartide stanno ad indicare che la Terra sta ancora attraversando un era glaciale .
+						DET ADV NOUN	WIKICONLL	Quando d inverno le forti nevicate ricoprono il terreno	uno spesso manto	nevoso , i pica dalle orecchie grandi sono soliti scavare al di sotto di esso alla ricerca di piante , a
+						DET ADV NOUN	WIKICONLL	regione è stato bloccato , si temono colate di fango importanti , in quanto l intera montagna è ancora coperta	uno spesso manto	nevoso , che a contatto con le ceneri incandescenti si scioglie all istante .
+
+0	0	1	spesso marcapiano
+						DET ADV NOUN	WIKICONLL	I due piani nobili , di uguali dimensioni , sono tripartiti verticalmente per mezzo di lesene e separati orizzontalmente	uno spesso marcapiano	; presentano centralmente due trifore a tutto sesto sovrapposte con coppie di colonnine ioniche e balaustra ; ai lati una coppia
+
+1	0	0	spesso materasso
+						DET ADV NOUN	ITWAC	La pianura , formata da	una spesso materasso	alluvionale , e costituita da rocce sciolte , e precisamente : a ) ghiaie e sabbie costituiscono l alta pianura (
+
+1	0	0	spesso mattina
+						DET ADV ADJ NOUN	ITWAC	Non è soltanto un corteo in	una spesso piovosa mattina	di primavera .
+
+1	0	0	spesso meriti
+						DET ADV ADJ NOUN	ITWAC	Nuti ha anche sottolineato	gli spesso dimenticati meriti	dei provider italiani , che in molti casi hanno sfruttato un elevato grado di conoscenze e know-how per realizzare servizi che
+
+1	0	0	spesso mole
+						DET ADV ADJ NOUN	ITWAC	appartamento adesso non lo fa , preferisce aspettare che vi sia di nuovo un posto sull isola dove gettar via	la spesso ingente mole	di scarti inerti che derivano da qualsiasi intervento edile .
+
+0	0	1	spesso moncone
+						DET ADV NOUN	WIKICONLL	Negli animali in cattività è frequentemente logorato ed è ridotto	uno spesso moncone	.
+
+2	0	0	spesso mondo
+						DET ADV ADJ NOUN	ITWAC	in circolazione da qualche mese , si intitola â   Natura in replayâ   e ha destato attenzione	nello spesso soporifero mondo	dei media .
+						DET ADV ADJ NOUN	ITWAC	meno soddisfare il suo bisogno d acquisto , e , una volta dentro , il cliente sarà libero di destreggiarsi	nello spesso caotico mondo	dei prodotti , trovando da solo ciò che cerca .
+
+1	0	0	spesso motivazione
+						DET ADV ADJ NOUN	ITWAC	La fisica deve essere costruita sull interesse , la disponibilità e	la spesso alta motivazione	degli studenti per lo più con scarse basi disciplinari .
+
+1	0	0	spesso movimenti
+						DET ADV ADJ NOUN	ITWAC	Gli approfondimenti , gli scambi di idee qui possono aprire nuove strade per i cambiamenti sociali e per condizionare	gli spesso scomposti movimenti	della politica .
+
+3	0	9	spesso muro
+						DET ADV NOUN	ITWAC	La vetrina si palesava libera allo sguardo di tutti , incastonata	nello spesso muro	in cui altre vi trovavano posto .
+						DET ADV NOUN	ITWAC	Se in tutta questa baraonda si deve eleggere un personaggio simbolo , un icona che è riuscita a rompere	lo spesso muro	di condizionamenti , questo ruolo va senza dubbio alla nostra amica Lara Croft .
+						DET ADV NOUN	ITWAC	cartelle di contenuto giuridico , intendo disobbeddire al precetto di Manlio Cammarata e gettare , invece , un sasso contro	lo spesso muro	degli scandali più o meno palesi che da troppo tempo ormai avviliscono anche il settore dell informatica .
+						DET ADV NOUN	WIKICONLL	A Gerico le case erano costruite con mattoni di fango di forma piano-convessa e venne realizzato	uno spesso muro	di cinta in pietra con una torre circolare , probabilmente utilizzato a protezione dalle inondazioni del vicino torrente , più che
+						DET ADV NOUN	WIKICONLL	A quel tempo Lima era circondata	uno spesso muro	di forma semicircolare che partiva da Monserrate , sulla riva sinistra del Rímac , e proseguiva verso sud .
+						DET ADV NOUN	WIKICONLL	Tale corridoio laterale è delimitato all esterno	dallo spesso muro	di cinta preesistente dell orto , che dalla quota superiore è comunicante con l attuale giardino contiguo all ex Oratorio di
+						DET ADV NOUN	WIKICONLL	arcate nel vicolo , a sesto acuto , ma in laterizio , e rette da pilastri ottagoni di pietra poggianti	sullo spesso muro	di base in pietra squadrata .
+						DET ADV NOUN	WIKICONLL	edifici durante il XX secolo abbiano messo in luce prove dell esistenza di un antico edificio , tra cui parti	uno spesso muro	probabilmente appartenente all entrata del castello .
+						DET ADV NOUN	WIKICONLL	notizia riguardante la cattedrale risale all anno 1337 , quando il campanile dell ex chiesa di Santa Maria venne rivestito	uno spesso muro	per poter sostenere il nuovo edificio .
+						DET ADV NOUN	WIKICONLL	piattaforma in mattoni crudi , che ricorda le ziggurat mesopotamiche , e quella che sembra essere una fortezza , circondata	uno spesso muro	di cinta , che era articolata su almeno due piani , dotati di finestre .
+						DET ADV NOUN	WIKICONLL	sommità dell altura di Ariccia , e vi restano brandelli di  agger  ( scoperti nel 1892 ) ,	lo spesso muro	( 11,30 metri ) che rafforzava la già naturalmente forte posizione del colle .
+						DET ADV NOUN	WIKICONLL	un edificio romano - di cui sono evidenti le tracce negli archi tamponati e nei pilastri di travertino ancora visibili	nello spesso muro	- appartenuto prima ai Benedettini , poi ai Certosini , poi , dal XVII secolo , alle suore Agostiniane che ancora
+
+1	0	0	spesso narrazioni
+						DET ADV ADJ NOUN	ITWAC	Ebbene , stavolta parleremo della realta che ispira	le spesso iperboliche narrazioni	dei mangaka che ritraggono il mondo dello sport .
+
+1	0	0	spesso noia
+						DET ADV ADJ NOUN	ITWAC	Stuart Little consenta di imparare insegnamenti tanto importanti in una società multietnica e policulturale come la nostra senza dovere sottostare	alla spesso inevitavile noia	dell apologo .
+
+1	0	0	spesso normalità
+						DET ADV ADJ NOUN	ITWAC	) sembra non avere dubbi : rientrano nei comportamenti antisociali tutti quegli atteggiamenti che « stonano » di fronte ad	una spesso artificiale normalità	- definita da limiti , divieti , coprifuoco ( non si possono più mandare i bambini a prendere il latte dopo
+
+1	0	0	spesso norme
+						DET ADV ADJ NOUN	ITWAC	perché favorisce la discussione approfondita e la mediazione	sulle spesso complesse norme	contrattuali ; 4 .
+
+1	0	0	spesso nota
+						DET ADV ADJ NOUN	ITWAC	saperlo gestire , a partire dal vigneto che deve essere ben esposto al sole per impedire alla pirazina , responsabile	della spesso fastidiosa nota	di erbaceo e peperone verde molto marcata , di concentrarsi nella buccia , fino alla lavorazione che deve essere molto delicata
+
+1	0	0	spesso omissioni
+						DET ADV ADJ NOUN	ITWAC	che il volontariato consolatorio e centri di studio e ricerca , per coprire , come purtroppo avviene da anni ,	le spesso scandalose omissioni	delle istituzioni e il disinteresse dei partiti , abbiano ingannato la popolazione e soprattutto le persone ed i nuclei familiari che
+
+1	0	0	spesso opinioni
+						DET ADV ADJ NOUN	ITWAC	) Ebbi la sensazione che mi fosse stata data una bussola per orientarmi nella giungla	delle spesso conflittuali opinioni	cliniche .
+
+0	1	0	spesso opposizione
+						DET ADV ADJ NOUN	REPUBBLICA	Ne sanno qualcosa i sindaci , costretti a convivere giorno dopo giorno con problemi immensi :	la spesso violenta opposizione	delle popolazioni dei campi nomadi , il pericolo sempre costante di creare ghetti , in una parola l intolleranza crescente in
+
+0	1	0	spesso organizzazione
+						DET ADV ADJ NOUN	REPUBBLICA	Quanto riuscirà ancora a resistere	la spesso perfetta organizzazione	alberghiera , di fronte a un mare che non riesce a far concorrenza al Tirreno o allo Jonio ?
+
+0	0	2	spesso orizzonte
+						DET ADV NOUN	WIKICONLL	Questi suoli sono caratterizzati	uno spesso orizzonte	superficiale ( spesso identificato , a fini classificatori , come orizzonte diagnostico  mollico  ) , inscurito , fino a
+						DET ADV NOUN	WIKICONLL	di tipo  xanthic ferralsol  ( orizzonte B ferralico con colore da giallo a giallo pallido ) in congiunzione	uno spesso orizzonte	lateritico , indicante condizioni climatiche con stagionalità pronunciata e livelli di falda freatica fluttuanti .
+
+1	0	0	spesso oro
+						DET ADV NOUN	ITWAC	Indefesso lavorava il lottante guerriero che indicava il cammino a tutti e quattro sopra	lo spesso oro	[ tr .
+
+1	0	0	spesso osso
+						DET ADV NOUN	ITWAC	E l esposizione della materia che cova umida e ingabbiata che vive di vita propria e pulsa difesa	dallo spesso osso	sternale che ti vorrei spaccare amore .
+
+0	0	1	spesso paio
+						DET ADV NOUN	WIKICONLL	altro personaggio di Guzzanti ,  Lorenzo  , che vestito con una semplice t-shirt bianca a mezze maniche ed	uno spesso paio	di occhiali , raccontava , usando un linguaggio confuso e criptico , la trama di un film , realmente esistente oppure
+
+1	0	0	spesso pannello
+						DET ADV NOUN	ITWAC	I colpi emessi dalle armature , la loro energia mista a quella di Mainman , stava avendo progressivamente la meglio	sullo spesso pannello	, ormai vistosamente deformato .
+
+1	0	0	spesso panno
+						DET ADV NOUN	ITWAC	Una coperta era stesa sul corpo immobile , e solamente il volto lasciava intravedere la sofferenza che era celata	dallo spesso panno	di lana .
+
+1	0	0	spesso pantomime
+						DET ADV ADJ NOUN	ITWAC	che , anche di fronte alle stragi , di fronte alla gente morta ammazzata , di fronte al sangue e	alle spesso ridicole pantomime	cui abbiamo assistito , aveva una profonda saggezza , storica , proveniente forse dall aver assistito a tante vicende .
+
+1	0	0	spesso paralume
+						DET ADV NOUN	ITWAC	La stanza era nella penombra , solo una piccola lampada nell angolo vicino alla libreria spargeva una luce soffusa filtrando	dallo spesso paralume	in carta di riso dipinto con colori ad olio .
+
+1	0	0	spesso paraurti
+						DET ADV NOUN	ITWAC	, con i lisci capelli neri che le schiaffeggiavano la bocca costantemente aperta al riso , mentre lui in equilibrio	sullo spesso paraurti	di gomma dimostrava così di averla scelta .
+
+1	0	0	spesso paravento
+						DET ADV NOUN	ITWAC	E invece , dietro	lo spesso paravento	del buio , all ombra di ogni prostituta , si agita l esercito degli emissari del mercato dell eros .
+
+2	0	0	spesso parte
+						DET ADV ADJ NOUN	ITWAC	Gli attori hanno ruoli difficili : Sam Shepard è troppo impenetrabile ,	nella spesso ignota parte	di Faber ; Julie Delpy è una Sabeth dolce , trepidante e struggente , mentre barbara Sukowa dà il suo tragico
+						DET ADV ADJ NOUN	ITWAC	di rapina in area piccola , sarebbe stato il meritato pareggio , Mexes ha opposto non tanto i piedi quanto	la spesso decisiva parte	umbratile del corpo umano .
+
+1	0	0	spesso paziente
+						DET ADV NOUN	ITWAC	E proprio all ateneo di Ferrara si sta gia sperimentando la possibilita di stimolare le cellule staminali	dello spesso paziente	colpito da infarto .
+
+1	0	0	spesso percorso
+						DET ADV NOUN	ITWAC	Per via	dello spesso percorso	ottico del fluido paramagnetico , le sue microstrutture non erano visibili , ma sarebbero divenute discernibili più tardi durante il loro
+
+3	0	0	spesso periodo
+						DET ADV NOUN	ITWAC	( 1631 )	Nello spesso periodo	, era più affine alla sua mentalità la lotta tra Papato ed Impero che si svolgeva più vicino , in territorio
+						DET ADV NOUN	ITWAC	- sono state perse per conflitti di lavoro 9,8 milioni di ore , con una diminuzione del 68,1 % rispetto	allo spesso periodo	dell anno precedente .
+						DET ADV NOUN	ITWAC	L indice del mercato azionario mondiale ( denominato in euro ) ha avuto un rendimento ,	nello spesso periodo	, pari al 357,6 % , ovvero l 8,8 % annuo !
+
+1	0	0	spesso persecuzioni
+						DET ADV ADJ NOUN	ITWAC	Ripugnarono al suo temperamento generoso e cavalleresco	le spesso arbitrarie persecuzioni	politiche provocate solo da interessi personali , spesso da grettezza di vedute ; fu così che il giovane principe chiuse l
+
+2	0	0	spesso peso
+						DET ADV ADJ NOUN	ITWAC	pazienti per i quali non sussistono più le condizioni per l assistenza domiciliare anche come supporto alle famiglie per alleviarle	dallo spesso insostenibile peso	dell assistenza al proprio congiunto .
+						DET ADV NOUN	ITWAC	Precisazioni e rettifiche del giorno dopo non avranno certo	lo spesso peso	.
+
+1	0	0	spesso piacere
+						DET ADV NOUN	ITWAC	Anche se rubare in carcere non mi dà	lo spesso piacere	che farlo nei negozi .
+
+1	0	0	spesso piani
+						DET ADV ADJ NOUN	ITWAC	In pratica tutto questo corrisponde non solo	agli spesso fallimentari piani	di aggiustamento strutturale di Bm e Fmi , ma anche a molti punti dell Accordo multilaterale sugli investimenti ( Mai ;
+
+3	0	0	spesso piano
+						DET ADV NOUN	ITWAC	Credo che sia superfluo aggiungere che io lo uso con piena soddisfazione ( ma	sullo spesso piano	) .
+						DET ADV NOUN	ITWAC	Un punto importante è che le pratiche biogafiche mettono	sullo spesso piano	l esperto e il soggetto in quanto persone dotate di una storia , del diritto-dovere di interpretarla e darle un senso
+						DET ADV NOUN	ITWAC	altra * in cui , in gran parte noi occidentali già viviamo , presentandola come come non senso , come	sullo spesso piano	di qualsiasi altra opzione di valore , anche la più oppressiva .
+
+1	0	0	spesso pinerotto
+						DET ADV NOUN	ITWAC	Carla abita	sullo spesso pinerotto	dei coniugi Brusa :  Era quasi impossibile passare davanti alla loro porta e non sentirli gridare .
+
+0	0	1	spesso pivot
+						DET ADV ADJ NOUN	WIKICONLL	In più , il centro difensore Ervin Johnson si aggiunse	allo spesso inconsistente pivot	Michael Olowokandi .
+
+2	0	0	spesso poesie
+						DET ADJ ADV NOUN	ITWAC	N e l corso dei miei anni ricordo di aver letto per imparare a scrivere	il napoletano spesso poesie	poesie di qualsiasi tendenza .
+						DET ADV ADJ NOUN	ITWAC	Il segreto del Paese dei  limericks  ,	le spesso insensate poesie	in rima , e dei  leprechaun  , gli gnomi-folletti della mitologia celtica , il segreto del paese degli U
+
+0	1	0	spesso politica
+						DET ADV ADJ NOUN	REPUBBLICA	I soldi , poi , sono sempre quelli , e con	la spesso dissennata politica	dei prezzi non si favorisce certo l afflusso della gente .
+
+1	0	0	spesso politiche
+						DET ADV ADJ NOUN	ITWAC	Dobbiamo , anche , dare la priorità	alle spesso carenti politiche	di integrazione verso gli immigrati regolari , vegliare sul rispetto dell ordine e della legalità , tenere presenti limiti di accoglimento
+
+2	0	0	spesso posizioni
+						DET ADV ADJ NOUN	ITWAC	In realtà coloro che non condividono affatto , o sono molto critici verso	le spesso indecifrabili posizioni	della dirigenza ulivista , sono secondo la mia esperienza diretta assai di più .
+						DET ADV ADJ NOUN	ITWAC	Mi sembra che il  costruzionismo  estremo di Geha sia comunque più intrinsecamente coerente	delle spesso involute posizioni	assunte dagli autori di cui sto qui discutendo .
+
+1	0	0	spesso povertà
+						DET ADV ADJ NOUN	ITWAC	E colui che fa questo viene immensamente premiato perché , nonostante gli Indiani vivano in	una spesso grande povertà	materiale , nella loro vita , nel ritmo della loro società , nella bellezza delle forme della loro antica cultura ,
+
+0	0	1	spesso precipitazioni
+						DET ADV NOUN	WIKICONLL	delle perturbazioni polari , fanno si che la fascia orientale europea ( Italia inclusa ) venga colpita da gelidi venti	con spesso precipitazioni	nevose a quote basse .
+
+2	0	0	spesso presenza
+						DET ADV ADJ NOUN	ITWAC	Ancora oggi , un critico attento non può certo lasciarsi sfuggire	la spesso malcelata presenza	del padre della psicanalisi nella narrativa contemporanea .
+						DET ADV ADJ NOUN	ITWAC	luogo incantevole dalle molte attrattive , dal clima dolce per la maggior parte dell anno con lunghe estati calde senza	la spesso spiacevole presenza	dei forti venti che spazzano l Egeo , protetta com è dalla vicina costa turca .
+
+2	0	0	spesso problema
+						DET ADJ ADV NOUN	ITWAC	Io ho spesso	il tuo spesso problema	problema , perchè certi miei acquirenti soffrono di cattiva interpretazione del testo dell inserzione .
+						DET ADV NOUN	ITWAC	i giapponesi sono zelanti fino all inverosimile , ma lingua e location sono	un spesso problema	anche per loro .
+
+0	0	1	spesso problemi
+						DET ADV ADJ NOUN	WIKICONLL	, ricordando che la lingua della teologia ancora non era perfettamente sviluppata e che Origene fu il primo ad affrontare	questi spesso difficili problemi	.
+
+1	0	0	spesso procedure
+						DET ADV ADJ NOUN	ITWAC	L alto funzionario che proveniva dall amministrazione dell I. R. Luogotenenza di Innsbruck , conosceva assai bene	le spesso ingiuste procedure	poliziesche adottate dalle autorità militari austroungariche a carico anche di molti Trentini , come successe al Conte Alberto Bossi Fedrigotti di
+
+0	0	1	spesso processo
+						DET ADV ADJ NOUN	WIKICONLL	Il suo  marchio di fabbrica  era portare un aeroplano in servizio molto rapidamente ; iniziava allora	uno spesso interminabile processo	di miglioramento delle limitazioni dovute alla progettazione iniziale  sporca e rapida  .
+
+1	0	0	spesso prodotto
+						DET ADV NOUN	ITWAC	Infatti un olio difettoso sul mercato all ingrosso ha un valore spesso inferiore al 50 %	dello spesso prodotto	ineccepibile , ma necessita di correzione non superiore al 15 - 20 % , in tal modo il miscelatore ottiene un
+
+0	1	0	spesso produzione
+						DET ADV ADJ NOUN	REPUBBLICA	Va detto subito che Striscia la tivù non ha niente da spartire con	la spesso stucchevole produzione	comico-gadgettistica che germina ai margini delle fortunate cripto-news di Canale 5 , e della satira televisiva in genere .
+
+1	0	0	spesso programmazione
+						DET ADV ADJ NOUN	ITWAC	è « riconquistare la fiducia del pubblico » : ma la gestione Dyke , oggettivamente una ventata di aria fresca	nella spesso asfittica programmazione	radiotelevisiva dell austera Bbc ( così legata alla Received Pronunciation e all equidistanza da essere spesso insopportabile ) è stata un
+
+1	0	0	spesso prolusione
+						DET ADV ADJ NOUN	ITWAC	Di questo atteggiamento è interprete il Cardinale Ruini	nella spesso citata prolusione	:  Diversità di accenti e di opinioni si sono manifestate anche in ambito ecclesiale , ciò che non deve sorprendere
+
+1	0	0	spesso pronuncie
+						DET ADV ADJ NOUN	ITWAC	L inerzia del legislatore unita	alle spesso contrastanti pronuncie	giurispudenziali , ha indotto la Federazione nazionale dei medici a rilasciare , in data 2 aprile 1995 , un documento diretto
+
+1	0	0	spesso protagonista
+						DET ADV NOUN	ITWAC	ce ne fosse stato bisogno visto che Franco La Civita lo ha detto dal primo momento , è stato confermato	dallo spesso protagonista	: non sarà il sindaco dimissionario l assessore regionale che sta entrando nelle ipotesi .
+
+1	0	0	spesso protagoniste
+						DET ADV ADJ NOUN	ITWAC	Questa Ernestina assatanata è più pepata	delle spesso insipide protagoniste	di queste vicende , che si assomigliano tutte come gocce d acqua .
+
+1	0	0	spesso proteste
+						DET ADV ADJ NOUN	ITWAC	tra l Assessore Gianfranco Salvati e i rappresentanti della Confcommercio , si é convenuto sulla necessità , anche alla luce	delle spesso fondate proteste	di alcuni cittadini , di sensibilizzare i gestori dei locali serali e notturni della città ad una più scrupolosa osservanza della
+
+1	0	0	spesso qualità
+						DET ADV ADJ NOUN	ITWAC	Infatti le famiglie più avvertite cominceranno a cercare e a pagarsi istruzione e formazione puntando	sulla spesso illusoria qualità	dei percorsi privati ; certo il Governo li vorrà aiutare potenziando le politiche dei buoni scuola .
+
+2	0	0	spesso quantità
+						DET ADV ADJ NOUN	ITWAC	) la pressione resta costante sin quando la trasformazione non è completa ; 3 ) la trasformazione diretta avviene assorbendo	una spesso notevole quantità	di calore ( 3 ) , detta calore latente di fusione o di vaporizzazione ; 4 ) la trasformazione inversa avviene
+						DET ADV ADJ NOUN	ITWAC	HTML , in quanto deve ricevere anche	una spesso considerevole quantità	d immagini .
+
+1	0	0	spesso questione
+						DET ADV ADJ NOUN	ITWAC	il presidente del Senato Marcello Pera e stato un  utile e grande consigliere perche lo ha aiutato a capire	la spesso complessa questione	italiana dei rapporti bilaterali .
+
+1	0	0	spesso quotidianità
+						DET ADV ADJ NOUN	ITWAC	da tanti sposi cristiani nella santità del loro amore coniugale ; penso al dono di sé fatto dai nostri sacerdoti	nella spesso monotona quotidianità	del loro servizio pastorale ; penso al dono di sé fatto dalle nostre vergini consacrate , sia nella pura oblazione della
+
+1	0	0	spesso radici
+						DET ADV ADJ NOUN	ITWAC	questa forza politica , tra le differenti componenti che ne hanno animato il percorso , il loro ruolo , e	le spesso diverse radici	culturali e storiche che esse avevano , pur appartenendo a quello che comunemente viene definito come cattolicesimo democratico .
+
+1	0	0	spesso rapporti
+						DET ADV ADJ NOUN	ITWAC	 Essa getta una luce positiva	sugli spesso oscuri rapporti	tra il mondo degli affari e il giornalismo , e ci aiuta a concentrarci sulla necessità di qualità nei media
+
+1	0	0	spesso rappresentazione
+						DET ADV ADJ NOUN	ITWAC	situazione è stata certamente aggravata , durante l ultimo decennio , non tanto dalle riforme amministrative in sé , ma	dalla spesso superficiale rappresentazione	che ne è stata fatta dai commentatori meno avvertiti .
+
+1	0	0	spesso re
+						DET ADV NOUN	ITWAC	Isola il sottotetto non praticabile posando dei materassini isolanti	dello spesso re	di 8 - 10 cm o versando 10 cm d isolante sciolto 6 .
+
+1	0	0	spesso realtà
+						DET ADV ADJ NOUN	ITWAC	Ma proprio questo è , con ogni probabilità , anche ciò che - oltre	la spesso inerziale realtà	delle statistiche - molti americani pensano oggi , ad un anno dal massacro .
+
+1	0	1	spesso reazioni
+						DET ADV ADJ NOUN	ITWAC	di spinte : in primo luogo l evoluzione tecnologica , poi gli interessi dell industria e le sue strategie ,	le spesso imprevedibili reazioni	del mercato , le politiche dei governi e via discorrendo .
+						DET ADV NOUN	WIKICONLL	Il pappo pur costituito di finissima cellulosa provoca sempre fastidio a occhi e naso	con spesso reazioni	allergiche .
+
+1	0	0	spesso reclusione
+						DET ADV ADJ NOUN	ITWAC	Ne sono convinti i promotori della campagna  Close Campsfield  che da anni si battono per porre fine	alla spesso drammatica reclusione	degli asylum seeker , cittadini stranieri  colpevoli  di essere giunti in Gran Bretagna in cerca di un po di
+
+0	0	1	spesso regno
+						DET ADV ADJ NOUN	WIKICONLL	repressione economica contro i dimostranti ; dei gruppi di vigilanti bianchi , come il Ku Klux Klan , che esercitavano	uno spesso incontrollato regno	del terrore in tutto il sud , dove il linciaggio di afro-americani era un fatto comune e raramente perseguito dalla legge
+
+1	0	0	spesso relazione
+						DET ADV ADJ NOUN	ITWAC	passato e la storia , posto all attenzione generale , e con crescente gravità , anche in ambito scolastico ,	dalla spesso sterile relazione	degli studenti con la materia ; - in contrasto con ciò , la felice affermazione , negli anni , di esperienze
+
+1	0	0	spesso relazioni
+						DET ADV ADJ NOUN	ITWAC	Questa usanza riflette	le spesso ostili relazioni	che intercorrevano tra gli Ojibwe ( Anishinaabe , anche conosciuti come Chippewa ) e i Sioux .
+
+1	0	0	spesso repertorio
+						DET ADV NOUN	ITWAC	Se si visionano i cataloghi specializzati , oltre alle Edizioni Mediterranee di cui ho detto , per es.	nello spesso repertorio	della Astrolabio-Ubaldini , nella sezione specifica riservata alle  Civiltà dell Oriente  , si riscontra su qualcosa come 250 seriosi
+
+1	0	0	spesso responsabilità
+						DET ADV ADJ NOUN	ITWAC	Sarebbe tuttavia non corretto negare	la spesso concorrente responsabilità	di Uffici o di singoli magistrati che introducono , con anomali comportamenti , fattori aggiuntivi alla crisi generale .
+
+1	0	0	spesso restrizioni
+						DET ADV ADJ NOUN	ITWAC	[ pagebreak ] Le principali differenze si esprimono , in particolare ,	nelle spesso numerose restrizioni	a carico dell utilizzatore contenute nei comuni contratti di concessione in licenza d uso , restrizioni che non è dato diversamente
+
+1	0	0	spesso retribuzione
+						DET ADV ADJ NOUN	ITWAC	tipicità delle nostre pregiate produzioni agricole e dei loro prezzi i quali , detratti i costi sempre crescenti , rappresentano	la spesso inadeguata retribuzione	dei lavoratori dei campi .
+
+0	1	0	spesso ricchezza
+						DET ADV ADJ NOUN	REPUBBLICA	come quelle del loro recente e scintillante passato e , soprattutto , un tono quaresimale rispetto alla falsa abbondanza e	alla spesso inconsistente ricchezza	di tutti gli altri .
+
+1	1	0	spesso ricerca
+						DET ADV ADJ NOUN	ITWAC	più elevate esigenze da parte delle imprese ed un numero sempre minore di diplomati portano ad una concorrenza più aspra	nella spesso vana ricerca	di un posto di formazione .
+						DET ADV ADJ NOUN	REPUBBLICA	difficoltà di trovare posti letto per i malati che necessitano di ricovero ( telefonando a tutti gli ospedali della città	nella spesso vana ricerca	) , dovere attendere sempre per avere una ambulanza ( poiché , essendo in numero insufficiente , ed essendo i servizi
+
+1	0	0	spesso ricezione
+						DET ADV ADJ NOUN	ITWAC	Edoarda Masi ospite a  I luoghi della vita  cioe a dire un lucido occhio sulla Cina contemporanea e	sulla spesso equivoca ricezione	che se ne ha in Occidente : basti l esempio del maoismo , di come cioe la semplificazione di un processo
+
+1	0	0	spesso richiesta
+						DET ADV NOUN	ITWAC	I calciatori poi , per la poliedricità delle caratteristiche della disciplina e per	la spesso richiesta	velocità nel recupero dagli infortuni ( spesso pure legati al danaro che l infortunato muove ) , risultano atleti particolarmente bombardati
+
+1	0	0	spesso richieste
+						DET ADV ADJ NOUN	ITWAC	In questo modo , risulterebbe poi molto più agevole alle Assemblee e ai Governi regionali resistere	alle spesso pressanti richieste	di protezione delle diverse categorie che si sentono minacciate dalla concorrenza e favorire , invece , gli interessi diffusi dei consumatori
+
+1	0	0	spesso ricostruzione
+						DET ADV ADJ NOUN	ITWAC	Gran parte degli interventi fatti dall inizio dei combattimenti hanno riguardato	la spesso parziale ricostruzione	delle case .
+
+0	0	1	spesso riempimento
+						DET ADV NOUN	WIKICONLL	Di particolare rilievo un largo focolare , posto entro una fossa nella roccia di base ,	uno spesso riempimento	carbonioso .
+
+1	0	0	spesso rigidità
+						DET ADV ADJ NOUN	ITWAC	portare avanti con successo la propria battaglia , nonostante l avversione degli ambienti cattolici - e non solo - e	la spesso assurda rigidità	delle leggi che riguardavano genericamente l ambito sessuale .
+
+1	0	0	spesso rilevazione
+						DET ADV ADJ NOUN	ITWAC	mentre la particolare importanza di questa o quella questione non poteva emergere - come invece oggi - a seguito di	una spesso reiterata rilevazione	da parte di un primo giudice , contrasti significativi potevano prospettarsi solamente tra la IV e la V Sezione , solo
+
+1	0	0	spesso rimosso
+						DET ADV NOUN	ITWAC	E tornano anche alcuni dei più significativi dialettali ( Baldini e Loi , affiancati	dallo spesso rimosso	Pierro e da Scataglini ) .
+
+1	0	0	spesso riparo
+						DET ADV NOUN	ITWAC	estremità opposta della caverna , verso un uscita che , come le altre , era nascosta da coperte e spostando	lo spesso riparo	, respirò la fresca aria vivificante della cateratta .
+
+0	1	0	spesso ripetitività
+						DET ADV ADJ NOUN	REPUBBLICA	grigio e nero , Notturno in blu e oro ) , fu un intuizione illuminante , perché spostava l attenzione	dalla spesso uggiosa ripetitività	dei  tipi  devozionali del pittore lombardo , alle brumose armonie tonali dei paesaggi che si aprono , come un
+
+2	0	0	spesso risorse
+						DET ADV ADJ NOUN	ITWAC	la porta di comunicazione , il sistema informativo , il sito Web , l ufficio postale della scuola per sopperire	alle spesso scarse risorse	di collegamento ad Internet di cui si dispone .
+						DET ADV ADJ NOUN	ITWAC	riflettono nella scarsa competitività delle imprese siciliane e dei loro prodotti  è da addebitare , almeno in parte ,	alle spesso ingenti risorse	economiche che necessitano per gli investimenti e di cui raramente dispongono gli operatori del settore .
+
+1	0	0	spesso ritiro
+						DET ADV NOUN	ITWAC	continui problemi , in modo particolare per quanto riguarda 1 ) la i pulizia intorno agli ambienti , 2 )	il spesso ritiro	delle campane o dei contenitori con notevoli ritardo e credo con non rispetto dei tempi e del numero dei ritiri da
+
+0	0	1	spesso ritorni
+						DET ADV NOUN	WIKICONLL	Nel 1999 si è trasferita in Germania per motivi sentimentali , dove tutt ora risiede e lavora ,	nonostante spesso ritorni	nella sua patria natia .
+
+0	0	1	spesso rivale
+						DET ADV NOUN	WIKICONLL	principato autonomo , anche se spesso fra le varie potenze del tempo ( Francia e Spagna in primis ) e	la spesso rivale	Genova .
+
+1	0	3	spesso rivestimento
+						DET ADJ ADV NOUN	ITWAC	pancetta a dadini , fate un bel soffritto ; poi unite le fave , che avrete lessato prima a causa	del loro spesso rivestimento	rivestimento , e il prosciutto tagliato a listerelle .
+						DET ADV NOUN	WIKICONLL	Al contrario di molti pesci contemporanei , il saurittide era sprovvisto	dello spesso rivestimento	di scaglie ganoidi , ridotte a quattro file longitudinali lungo il dorso .
+						DET ADV NOUN	WIKICONLL	I denti di questo squalo raggiungevano i 5 centimetri di lunghezza ed erano ricurvi e crenulati ,	uno spesso rivestimento	di lamella ( al contrario degli odierni squali ) .
+						DET ADV NOUN	WIKICONLL	Le nuove foglie sono in genere ricoperte da una fitta peluria ; in alcuni casi è molto abbondante e forma	uno spesso rivestimento	definito tomento .
+
+0	0	1	spesso sacche
+						DET ADV ADJ NOUN	WIKICONLL	sufficiente pensare che sino a pochi anni prima della strage del 1907 l unico dispositivo adottato dai minatori per rilevare	le spesso letali sacche	di gas consisteva nel condurre con sé nei pozzi alcuni uccellini in gabbia .
+
+1	0	0	spesso saio
+						DET ADV NOUN	ITWAC	Nemmeno l occhio più acuto avrebbe potuto scorgere , coperto	dallo spesso saio	, il suo volto privo di rughe solcato da un argentea lacrima ...
+
+1	0	0	spesso scoperta
+						DET ADV ADJ NOUN	ITWAC	che ci si aspetta dai  giovani  e non si tratta di una vicenda superficiale e spensierata , ma	della spesso angosciosa scoperta	di ciò che vivere significa veramente .
+
+1	0	0	spesso scritta
+						DET ADV ADJ NOUN	ITWAC	2004 )  La cognizione del dolore  non è un libro ( non a caso nemmeno sulla copertina campeggia	la spesso ingannevole scritta	 romanzo  ) facile .
+
+1	0	0	spesso separazione
+						DET ADV ADJ NOUN	ITWAC	Oltre alla complessità , una delle caratteristiche della popolazione guyanese è	la spesso rigida separazione	che permane tra i vari gruppi etnici .
+
+1	0	0	spesso sere
+						DET ADV ADJ NOUN	ITWAC	pelle , il sole che picchia , i ritmi di vita regolati dalle calde mattine , dai torridi mezzogiorni ,	dalle spesso piacevoli sere	e notti .
+
+1	0	0	spesso seriosità
+						DET ADV ADJ NOUN	ITWAC	Una rivista che non regala nulla	alla spesso sacrale seriosità	delle riviste letterarie ma che anzi avverte il lettore ( http://www.sacripante.it/001/ideefisse/1.asp ) di voler essere  un luogo di nuova cittadinanza
+
+1	0	0	spesso settore
+						DET ADV ADJ NOUN	ITWAC	cambiare il modello di business di Sega , orientandola verso una politica incentrata sui più proficui coin-op , invece che	sullo spesso problematico settore	dell intrattenimento casalingo .
+
+0	0	1	spesso sfruttamento
+						DET ADV ADJ NOUN	WIKICONLL	Tutto ciò condusse a collaborazioni culturali incrociate , come scrive Giddings ; ma , particolarmente in passato ,	uno spesso spietato sfruttamento	e furto assoluto del genio artistico afroamericano da parte di artisti e compositori bianchi , agenti , promotori , editori e
+
+1	0	0	spesso simbologia
+						DET ADV ADJ NOUN	ITWAC	seminudi idealizzate da un profondo sentimento di poesia , non sempre comprensibile per la nostra mentalità occidentale , a causa	della spesso oscura simbologia	israelitica che movimenta tali soggetti .
+
+0	0	1	spesso situazioni
+						DET ADV ADJ NOUN	WIKICONLL	giovane si dimostrerà molto esperto nel disbrigare anche le più complicate pratiche legali dell avvocato , ma anche di risolvere	le spesso equivoche situazioni	familiari del legale .
+
+2	0	0	spesso solidarietà
+						DET ADV ADJ NOUN	ITWAC	Che fine ha fatto	la spesso citata solidarietà	con esseri umani costretti a fuggire per la propria appartenenza a gruppi etnici discriminati e perseguitati ?
+						DET ADV ADJ NOUN	ITWAC	Ci rivolgiamo a Lei per motivi di umanità , e nella speranza che	la spesso citata solidarietà	per i profughi possa diventare una solidarietà concreta .
+
+1	0	0	spesso solitudine
+						DET ADV ADJ NOUN	ITWAC	dà il caso , di ricordare loro la testimonianza di chi , abbandonato , è rimasto fedele , vivendo in	una spesso dolorosa solitudine	.
+
+1	0	0	spesso soluzioni
+						DET ADV ADJ NOUN	ITWAC	cui lanciare la vettura , nella speranza che la dimensione minima degli ostacoli  inamovibili  sia stata rivista rispetto	alle spesso esilaranti soluzioni	applicate in passato .
+
+0	0	1	spesso somministrazione
+						DET ADV ADJ NOUN	WIKICONLL	Attualmente ,	la spesso precoce somministrazione	della terapia antibiotica limita la permanenza dello streptococco nell organismo con conseguente minor risposta immunitaria alla malattia .
+
+1	0	0	spesso sottobosco
+						DET ADV NOUN	ITWAC	Feci una passeggiata attraverso	lo spesso sottobosco	accompagnata da un caboclo  un abitante della foresta .
+
+0	0	1	spesso sound
+						DET ADV NOUN	WIKICONLL	Erano incentrato su un metal arioso ,	uno spesso sound	di tastiera e con dei cori potenti degni della tradizione tedesca .
+
+0	0	1	spesso spago
+						DET ADV NOUN	WIKICONLL	Le quattro piume venivano legate assieme strettamente	uno spesso spago	, messe sul fondo di una ciotola e ricoperte completamente di sale di modo da non essere più visibili : con
+
+0	1	0	spesso spensieratezze
+						DET ADV ADJ NOUN	REPUBBLICA	In quegli anni , le porte di Paoli , di Tenco andavano nettamente contro corrente nel fiume	delle spesso volgari spensieratezze	del nascente miracolo .
+
+1	0	0	spesso spiagge
+						DET ADV ADJ NOUN	ITWAC	Nuove edificazioni	sulle spesso minuscole spiagge	dell Elba , territorio da anni vincolato dal punto di vista paesaggistico ed al 50 % inserito in un Parco nazionale
+
+1	0	0	spesso spirito
+						DET ADV NOUN	ITWAC	E con	lo spesso spirito	che vogliamo sperimentare con voi anche la prova di verifica finale , con la quale ciascuno di voi può misurare il
+
+1	0	0	spesso spogliatoio
+						DET ADV ADJ NOUN	ITWAC	Neanche il tempo di gustarsi una serie record frutto della cura Ulivieri e , finalmente , un po di quiete	nello spesso bollente spogliatoio	gialloblù , che è subito scoppiata un altra polemica .
+
+1	0	0	spesso stampa
+						DET ADV ADJ NOUN	ITWAC	commenti sui profili personali dei nostri scomparsi connazionali , le attività dei quali li misero brevemente in prima pagina di	una spesso contraddittoria stampa	, sono finiti negli archivi delle biblioteche pubbliche e ben presto dimenticati , eccettuato quando sono risuscitati durante qualche data commemorativa
+
+1	0	0	spesso storia
+						DET ADV ADJ NOUN	ITWAC	Mettendo da parte	la spesso criticabile storia	dei pacifismi convergenti , comunista e cattolico , bisognerebbe compiere due grandi operazioni , come preannunciavo , culturali prima ancora che
+
+41	8	97	spesso strato
+						DET ADV NOUN	ITWAC	che si sviluppa su due piani , è attualmente visitabile accedendovi dalla finestra del piano superiore , facilmente raggiungibile camminando	sullo spesso strato	di crollo .
+						DET ADV NOUN	ITWAC	 , ci dice indicando un piccolo aereoplano sospeso con un filo e completamente ricoperto da	una spesso strato	di polvere .
+						DET ADV NOUN	ITWAC	della cenere era sollevato nell aria dalla forte pioggia che creava piccoli crateri , cancellati dalle gocce cadute subito dopo	nello spesso strato	di polvere grigia .
+						DET ADV NOUN	ITWAC	Sentiva l umidità della terra penetrare	lo spesso strato	di lana .
+						DET ADV NOUN	ITWAC	unione di queste due tecnologie ha permesso agli esperti del British Museum di esplorare il corpo del prete : sotto	lo spesso strato	di bende che lo avvolge si nasconde un vero e proprio tesoro .
+						DET ADV NOUN	ITWAC	Ma qualche metro più in giù , sotto	lo spesso strato	di acciaio e cemento che lo rivestiva , nella profondità del pozzo che aveva dentro , lui sentì un gorgoglio sommesso
+						DET ADV NOUN	REPUBBLICA	torre , divenuta bene ecclesiastico , mutò destinazione : gli affreschi della sala , ridotta a magazzino , sparirono sotto	uno spesso strato	di malta , e là sotto rimasero per altri quattro secoli fino al fortuito ritrovamento .
+						DET ADV NOUN	WIKICONLL	sul corpo , sulla testa e alla base delle pinne ; in genere queste scaglie sono poco evidenti perché nascoste	uno spesso strato	di muco .
+						DET ADV NOUN	WIKICONLL	In inverno , inoltre ,	lo spesso strato	di ghiaccio rende possibile l attraversamento in ogni punto anche con veicoli pesanti , facendo sì che la Lena non rappresenti
+						DET ADV NOUN	WIKICONLL	più costosi hanno una qualità simile a queste , contenendo un nucleo interno di acciaio duro e friabile , ricoperto	uno spesso strato	di acciaio più morbido e duttile ( talvolta inossidabile ) , così che l acciaio duro sia esposto solo sul filo
+						DET ADV NOUN	WIKICONLL	Il primario è avvolto attorno al nucleo e poi isolato dal secondario	uno spesso strato	di carta o gomma .
+						DET ADV NOUN	WIKICONLL	Con il trascorrere dei millenni l abbondante vegetazione cresciuta permise la crescita	uno spesso strato	di torba , il quale andò via via sostituendo- si all acqua trasformando la zona in un estensione di prati umidi
+						DET ADV NOUN	WIKICONLL	nonostante Abadir fosse piuttosto deluso dalle motivazioni che spingevano Cristal a combattere , ossia l ottenere sufficiente potere per frantumare	lo spesso strato	di ghiaccio che lo separava dal relitto in cui era sepolta la madre .
+						DET ADV NOUN	WIKICONLL	Le pendici del vulcano sono formate	uno spesso strato	di lava riolitica .
+						DET ADV NOUN	WIKICONLL	punti : si tratta della tracce lasciate dai manovali , nel XIX secolo , nell intento di liberare le pareti	dallo spesso strato	di calce , che era stato applicato durante la peste del 600 in modo da evitare il propagar- si della malattia
+						DET ADV NOUN	WIKICONLL	Per parecchi anni , Gold portò avanti l idea che la superficie della Luna potesse essere ricoperta in ampie zone	uno spesso strato	di polvere .
+						DET ADV NOUN	WIKICONLL	L opera era stata conservata in un luogo umido , perché il telaio e la tela presentavano delle muffe coperte	uno spesso strato	di polvere .
+						DET ADV NOUN	WIKICONLL	a  San Pietro di Novella  il piazzale della chiesa crollò , i campi e gli orti scomparvero completamente	uno spesso strato	di fango e detriti .
+						DET ADV NOUN	WIKICONLL	oggi irraggiungibile , era accessibile tramite una piccola casamatta e fu costruito a  prova di bomba  , cioè	uno spesso strato	di terra che sarebbe servito ad assorbire l impatto di una bombarda dell epoca .
+						DET ADV NOUN	WIKICONLL	Anche nella stagione invernale viene spesso visitato da sommozzatori , che effettuano volentieri le loro riprese subacquee	uno spesso strato	di ghiaccio e registrano nei documentari i giochi di colori delle acque sotterra- ne .
+						DET ADV NOUN	WIKICONLL	I mammut possedevano alcuni adattamenti per resistere al freddo , il più noto dei quali è	lo spesso strato	di pelo , lungo fino a 50 centimetri , per il quale è stata data anche la denominazione di  mammut
+						DET ADV NOUN	WIKICONLL	L ultima documentata risale al 1708 , nel periodo Edo , quando l attuale Tokyo venne ricoperta	uno spesso strato	di cenere , e durante la quale si formò un nuovo cratere con un secondo picco , più o meno a
+						DET ADV NOUN	WIKICONLL	di Ghirla , Lago di Ganna e Torbiera del Pralugano ) , che nei freddi giorni invernali sono sovente ricoperti	uno spesso strato	di ghiaccio .
+
+2	0	0	spesso studio
+						DET ADJ ADV NOUN	ITWAC	Il  primitivo  resta dunque in noi  tenta di dimostrare Albergamo	nel suo spesso studio	studio  ,  il prelogico che sta in noi , come nei primitivi , come nei fanciulli , nelle stesse
+						DET ADV NOUN	ITWAC	, in una collana intitolata  L évolution de l humanité  , edita da Michel , pubblicarono nel 1954	uno spesso studio	su La cristianità e l idea di crociata ( tr.it .
+
+0	0	1	spesso succo
+						DET ADV NOUN	WIKICONLL	Quindi aggiungo una spruzzata di succo di limone e del ghiaccio tritato , verso due once di vodka e due	di spesso succo	di pomodoro , scuoto , filtro e verso .
+
+0	1	0	spesso suggestioni
+						DET ADV ADJ NOUN	REPUBBLICA	, un ultimo segno che la pittura di Mafai va accostata per se stessa , tenendo il più possibile lontane	le spesso fuorvianti suggestioni	che ci vengono dalle mutevoli circostanze della sua vita .
+
+1	0	0	spesso superficialità
+						DET ADV ADJ NOUN	ITWAC	ed altri casi analoghi che hanno dimostrato da un lato la fragilità del nostro territorio e , dall altro ,	una spesso grande superficialità	nella costruzione di dighe e , soprattutto , una spesso irresponsabile aggressione del territorio .
+
+2	0	0	spesso tappeto
+						DET ADV NOUN	ITWAC	Io e Sirius eravamo seduti	sullo spesso tappeto	vicino al caminetto , arrostivamo nocciole e le mangiavamo .
+						DET ADV NOUN	ITWAC	Mentre ancora stava correndo , il giovane inciampò	nello spesso tappeto	alla luce della lampada sospesa sopra la donna pallida : il tappeto cedette e l innamorato cadde nudo come Dio l
+
+1	0	0	spesso tavolo
+						DET ADV NOUN	ITWAC	era più pesante di quella dell avversario , e i fendenti vibrati con ambo le mani avrebbero frantumato senza difficoltà	lo spesso tavolo	di quercia della sala .
+
+0	0	1	spesso tegumento
+						DET ADV NOUN	WIKICONLL	piante che vivono in climi in cui le stagioni provocano forti sbalzi di clima , infatti , producono semi rivestiti	uno spesso tegumento	, che li protegge da parassiti ed intemperie .
+
+1	0	0	spesso tempesta
+						DET ADV ADJ NOUN	ITWAC	Una volta si era portati a pensare che l adolescenza fosse proprio quell età di passaggio che , in	una spesso ingestibile tempesta	ormonale e confusione esistenziale , conduce al momento in cui ogni ragazza e ragazzo sono finalmente definibili donne e uomini .
+
+1	0	0	spesso tempi
+						DET ADV ADJ NOUN	ITWAC	servizi di reclutamento , selezione e collocamento di personale lavorativo che contribuiscono a snellire il mercato del lavoro , riducendo	i spesso snervati tempi	della ricerca , sia da parte dei lavoratori che delle stesse aziende .
+
+3	0	0	spesso tempo
+						DET ADV NOUN	ITWAC	Prospettiva frontale e dall alto	nello spesso tempo	, che permette , come certe pitture primitive , una presentazione ortogonale delle cose .
+						DET ADV NOUN	ITWAC	Tuttavia la soluzione sconfina rispetto ai correnti criteri estetici dell ambiente e	nello spesso tempo	mantiene una contingente autonomia rispetto ai dogmi estetici del Moderno a cui sembra esplicitamente aderire .
+						DET ADV NOUN	ITWAC	mezzo tra televisione , video giochi , musica sugli i-pod , radio , chat room di Internet , tutti fruiti	allo spesso tempo	, spesso mentre fanno i compiti .
+
+1	0	0	spesso tendenza
+						DET ADV ADJ NOUN	ITWAC	rinunzia non è fra le ultime che si rivolgano dai non cattolici ai cattolici , e in verità corrisponde a	una spesso malintesa tendenza	rigoristica dello spirito religioso .
+
+1	0	0	spesso terapie
+						DET ADV ADJ NOUN	ITWAC	Capiscono e conoscono le traversie	delle spesso umilianti terapie	e le terrificanti difficoltà comportate dall affrontare ogni giorni quelli che ami e ti amano .
+
+0	1	0	spesso terminologia
+						DET ADV ADJ NOUN	REPUBBLICA	Boffa ricorre anche , con intenzioni umoristiche , a dei pastiche linguistici , manipolando	la spesso astrusa terminologia	scientifica .
+
+1	0	0	spesso tessuto
+						DET ADV NOUN	ITWAC	Quando ebbe finito , l uomo lo afferrò per le spalle con una forza disperata , la presa percettibile attraverso	lo spesso tessuto	antiproiettile .
+
+0	1	0	spesso testimonianze
+						DET ADV ADJ NOUN	REPUBBLICA	non poter fornire prove materiali a conferma della sua tesi , ma forti presunzioni , dedotte da una minuziosa analisi	delle spesso contraddittorie testimonianze	raccolte all epoca nel dramma di Auvers , poi riprese o deformate in numerosi saggi critici o versioni romanzate .
+
+0	0	2	spesso toro
+						DET ADV NOUN	WIKICONLL	Ha quindi l aspetto	uno spesso toro	, privo di una chiara struttura interna .
+						DET ADV NOUN	WIKICONLL	La sua forma lo rende simile	uno spesso toro	privo di una chiara struttura interna .
+
+1	0	0	spesso torture
+						DET ADV ADJ NOUN	ITWAC	Di qui , quello che è chiamato l accanimento terapeutico e farmacologico ,	le spesso inutili torture	mediche inflitte a malati terminali .
+
+0	1	0	spesso tradizione
+						DET ADV ADJ NOUN	REPUBBLICA	dai bianchi conquista sempre più i giovani di Pechino o Shanghai , che attraverso le unioni miste rompono gli schemi	della spesso rigida tradizione	familiare cinese .
+
+1	0	0	spesso tradizioni
+						DET ADV ADJ NOUN	ITWAC	Quest ultima strada è stata decisamente imboccata per il gruppo italiano , che non si trovava neppure accompagnato	dalle spesso secolari tradizioni	di aggregazione culturale proprie delle comunità  tedesca e ladina .
+
+1	0	0	spesso traduzioni
+						DET ADV ADJ NOUN	ITWAC	Perché descrive più del film , almeno a livello tentativo , di quanto non lo facciano	le spesso strampalate traduzioni	italiane , incanalate tra storpiature esemplificative e marzulliani sottotitoli .
+
+0	0	1	spesso trucco
+						DET ADV NOUN	WIKICONLL	Alcuni fan confondono Hiroko con l omonima cantante giapponese , perché la diva non è mai apparsa	uno spesso trucco	bianco sul viso .
+
+0	0	2	spesso tubo
+						DET ADV NOUN	WIKICONLL	La caldaia montata sopra racchiude all interno	uno spesso tubo	(  truba  , труба ) che costituisce la camera di combustione .
+						DET ADV NOUN	WIKICONLL	Si risvegliano in un sudicio bagno , legati con una catena al piede , collegata	uno spesso tubo	.
+
+1	0	0	spesso tv
+						DET ADV ADJ NOUN	ITWAC	n ´ e ´ abbastanza per un ´ amichevole e parziale smentita di Abdel Rahman al-Rashed , uno dei manager	della spesso filo-occidentale tv	satelittare Al-Arabiya , che sulle colonne del Sunday Telegraph l ´ altroieri aveva esordito scrivendo :  ´ E ´ un
+
+1	0	0	spesso unicità
+						DET ADV ADJ NOUN	ITWAC	nei monumenti nonché nei numerosissimi film sull argomento -- rappresenti per noi oggi , nonostante o forse proprio in conseguenza	della spesso affermata unicità	e irrapresentabilità di questo fenomeno storico , l unico modo possibile di confrontarci con esso .
+
+0	0	1	spesso unità
+						DET ADV ADJ NOUN	WIKICONLL	Possono esser- ci sub-equipaggi , come nel caso delle navi passeggeri in cui un commissario di bordo è a capo	una spesso distinta unità	operativa alberghiera .
+
+1	0	0	spesso utopie
+						DET ADV ADJ NOUN	ITWAC	chi sta nelle  officiette  , non ha riguardo	alle spesso strabilianti utopie	che girano ...
+
+1	0	0	spesso valore
+						DET ADV NOUN	ITWAC	Avranno quei prodotti , con marca nuova ,	lo spesso valore	percepito di quelli già presenti sul mercato e appoggiati dai grandi budget di comunicazione ?
+
+2	0	0	spesso valutazioni
+						DET ADV ADJ NOUN	ITWAC	concessione dei benefici suddetti , di cui risulta essere in possesso il giudice della cognizione , che potrebbe quindi sopperire	alle spesso sommarie valutazioni	di cui dispone il tribunale di sorveglianza nell esercizio di tali competenze .
+						DET ADV ADJ NOUN	ITWAC	nostro Paese di  linee-guida  aziendali laddove solo le consensus conferences internazionali fanno fede per la letteratura e non	le spesso apodittiche valutazioni	che fioriscono in sede locale ; - sul finanziamento straordinario al Policlinico Umberto I , si rileva che è accettabile solo
+
+0	2	0	spesso velo
+						DET ADV NOUN	REPUBBLICA	, Samar ,  rea  di esser- si tolta per strada -- in un giorno di torrida calura --	lo spesso velo	nero che le copriva il volto .
+						DET ADV NOUN	REPUBBLICA	I rari ex membri della setta che hanno deciso di parlare squarciano	lo spesso velo	di segreto che circondono la nascita , il successo e l estinzione della setta creata alla fine degli Anni Ottanta ,
+
+3	0	3	spesso vetro
+						DET ADV NOUN	ITWAC	 Il mago osservava il boccale vuoto alla luce di una delle lampade ; parte del suo volto emerse deformato	dallo spesso vetro	:  Si , la spada .
+						DET ADV NOUN	ITWAC	Dall altra parte	dello spesso vetro	, la donna tira fuori il suo telefono cellulare .
+						DET ADV NOUN	ITWAC	La presenza	dello spesso vetro	divisorio rendeva la conversazione confusa e distorta , cosicché quanto giungeva alle orecchie del giovane in attesa al di fuori era
+						DET ADV NOUN	WIKICONLL	Come già accennato i tubi a colori emettono una piccola quantità di raggi X , bloccata per la maggior parte	dallo spesso vetro	al piombo dello schermo .
+						DET ADV NOUN	WIKICONLL	Poco prima che finisca l ossigeno però , Lincoln riesce a salvar- li distruggendo	lo spesso vetro	della stanza con un accetta presa in prestito dai vigili del fuoco .
+						DET ADV NOUN	WIKICONLL	navi , gli oblò sono dotati di un robusto telaio di metallo ( generalmente ottone ) e di una lastra	di spesso vetro	; sono inoltre chiudibili in modo da assicurare la tenuta stagna e possono fungere anche da oscuramento per la nave stessa
+
+1	0	0	spesso vicende
+						DET ADV ADJ NOUN	ITWAC	i patrioti di mezza Europa ) , per continuare con la Restaurazione , e la repressione del 48 , e	le spesso misere vicende	di fine 800 , il colonialismo , il consistente filone di filo-fascismo nell epoca tra le due guerre , e Vichy
+
+1	0	0	spesso vil
+						DET ADV ADJ NOUN	ITWAC	In vita in su	lo spesso codesto vil	trattamento debebam substinere et gravoso fardello meco recare allorquando li sguardi di homini infidi , a lo fine de sgravare coscienze
+
+1	0	0	spesso violenze
+						DET ADV ADJ NOUN	ITWAC	soprattutto nei confronti della condizione femminile : in Francia nel 1996 le domande di divorzio per colpa del coniuge (	le spesso tragiche violenze	in famiglia ...
+
+1	0	0	spesso visore
+						DET ADV NOUN	ITWAC	Arrivata ad una dozzina di metri dalla villa , si abbassa tra i cespugli e , portando la mano	allo spesso visore	che le copre gli occhi , ne inquadra l ingresso .
+
+0	0	1	spesso vista
+						DET ADV NOUN	WIKICONLL	contaminazione dei modi pagani di fare spettacolo con le ritualità della chiesa e evidenziano quanto la funzione del giullare ,	nonostante spesso vista	come l espressività di un reietto , fosse però comune e diffusa .
+
+1	0	0	spesso vita
+						DET ADV ADJ NOUN	ITWAC	Come decidere , per recuperare gli equilibri logorati	dalla spesso dura vita	metropolitana , se affidarsi ai  FIORI DI BACH  o al corso  AUTOSTIMA E DIMENSIONE SOCIALE  ?
+
+1	0	0	spesso vituperato
+						DET ADV NOUN	ITWAC	I controlli , al contrario , si dimostrano sempre efficaci e	lo spesso vituperato	DualShock 2 si prende una meritata rivincita .
+
+3	0	0	spesso volume
+						DET ADV NOUN	ITWAC	Impossibile e inutile seguire la descrizione e il commento analitico di Tondelli ,	nello spesso volume	che accompagna quello di maggiore formato delle tavole , firmato da Tondelli e dalle esperte inglesi M .
+						DET ADV NOUN	ITWAC	La prospettiva geografica di Kopp - di cui vorrei profittare momentaneamente - ha interesse storico anche perché rifà	nello spesso volume	l intero percorso della vita di Gesù Cristo , sulla scia dei vangeli e degli Atti , risalendo alla prima tradizione
+						DET ADV NOUN	ITWAC	La risposta più precisa è , naturalmente , quella ufficiale ; la definizione , cioè , che ne è data	nello spesso volume	rilegato in rosso e con lettere in oro che è l Annuario pontifìcio e la cui redazione è presso la stessa
+

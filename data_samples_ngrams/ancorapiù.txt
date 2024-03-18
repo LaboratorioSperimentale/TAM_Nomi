@@ -1,0 +1,75 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	0	1	ancora più applicazioni
+						DET ADV NOUN	WIKICONLL	Nel 2000 , Microsoft presentò Windows ME ( Millennium Edition ) , che era una sorta di Windows 98 ma	con ancora più applicazioni	incluse .
+
+0	1	0	ancora più blindati
+						DET ADV NOUN	REPUBBLICA	tutte le stagioni , dove esistono responsabilità individuali , e non gli unanimismi di facciata o i conflitti partitocratici fra	gli ancora più blindati	conformismi di corrente .
+
+1	0	0	ancora più brave
+						DET ADV NOUN	ITWAC	) , e	le ancora più brave	Cameron Diaz , Melanie Griffith , Charlize Theron , Kim Basinger .
+
+1	0	0	ancora più buffo
+						DET ADV NOUN	ITWAC	isola , un uccello dall' apertura alare di due metri , grande come un tacchino , dal buffo incedere e	dall' ancora più buffo	rituale di corteggiamento , rituale al quale assisto impotente con la batteria della telecamera ormai scarica .
+
+0	0	1	ancora più convinzione
+						DET ADV NOUN	WIKICONLL	Dopo lo stop il Borussia riprese il cammino	con ancora più convinzione	, così nelle sei partite che restavano collezionò altrettante vittorie .
+
+1	0	0	ancora più cupo
+						DET ADV NOUN	ITWAC	, senza sosta , lungo una polverosa e dissestata strada in mezzo al deserto con la tenebrosa Hanging Tree cantata	dall' ancora più cupo	Lanegan , A Song For The Dead con un' intro alla nitroglicerina ed il probabile prossimo singolo Go With The Flow
+
+0	0	1	ancora più dita
+						DET ADV NOUN	WIKICONLL	(  Eohippus  , equide di piccola taglia diffuso nel Nord America e in misura minore in Europa ,	con ancora più dita	negli arti ) , all' Oligocene (  Mesohippus  , alto quasi il doppio , diffuso solo in America ,
+
+1	0	0	ancora più esperto
+						DET ADV NOUN	ITWAC	Lo sprint vede l' affermazione dell' esperto Steels , che premia così il buon lavoro della Davitamon , davanti	all' ancora più esperto	Kirsipuu .
+
+0	0	3	ancora più forza
+						DET ADV NOUN	WIKICONLL	La lieve torsione del busto	da ancora più forza	a questo gesto , spezzando irrimediabilmente la razionalità del chiasmo policleteo , cosicché i pesi non sono più distribuiti con simmetria
+						DET ADV NOUN	WIKICONLL	e che non ascolta quasi mai i consigli degli altri [ quando gli viene detto di scappare , imperterrito attacca	con ancora più forza	il nemico ] temperamento ardente e forte personalità sono le qualità che sfrutta per radunare a sé molte persone , [
+						DET ADV NOUN	WIKICONLL	numerosi scenari futuri e tutto ciò ha fatto sì che i fan delusi dalla cancellazione si scagliassero contro la Fox	con ancora più forza	.
+
+0	0	1	ancora più ghibellini
+						DET ADV NOUN	WIKICONLL	il matrimonio organizzato da Branca D' Oria tra il figlio di quest' ultimo , Bernabò , ed Eleonora Fieschi od	agli ancora più ghibellini	Duchi di Milano con il matrimonio tra Luchino Visconti e Isabella Fieschi , concluso con l' avventurosa fuga della moglie e
+
+0	1	0	ancora più grave
+						DET ADV NOUN	REPUBBLICA	Non se ne faccia	uno ancora più grave	, limitando- lo ai soli ministri dimissionari .
+
+0	1	0	ancora più incerti
+						DET ADV NOUN	REPUBBLICA	) dagli incerti contorni e	dagli ancora più incerti	destini .
+
+0	0	1	ancora più insistenza
+						DET ADV NOUN	WIKICONLL	sconfitte brucianti di Minsk e Smolensk Stalin sapeva che era necessaria una svolta e , perciò , decise di puntare	con ancora più insistenza	sul carattere patriottico della guerra e sull orgoglio nazionale .
+
+1	0	0	ancora più isolato
+						DET ADV NOUN	ITWAC	Gli alpeggi di Bondeno , ancora non aggrediti dal turismo e integri nei loro antichi agglomerati , anticipano	l' ancora più isolato	e originale Alpe d' Avero , nella valle omonima .
+
+0	0	1	ancora più luce
+						DET ADV NOUN	WIKICONLL	Scavarono attorno alle radici dell' albero per fare spazio	ad ancora più luce	, ma l' albero cadde attraverso il buco e scomparve .
+
+1	0	0	ancora più mega
+						DET ADV NOUN	ITWAC	stupore della sua presentazione all' Intermot 2000 , nel frattempo l' allora supermaxi ha ceduto la leadership di cilindrata ,	all' ancora più mega	Suzuki Burgman 650 e ora può essere ' riletto ' come un veicolo maturo ed eclettico , uno scooter che strizza
+
+1	0	0	ancora più mitica
+						DET ADV NOUN	ITWAC	mitica Cobra Daytona , che negli anni Sessanta si sfidava sulle piste più spettacolari di Stati Uniti ed Europa con	l' ancora più mitica	Ferrari 250 GTO , la meccanica invece è quella della Viper SRT 10 .
+
+0	1	0	ancora più note
+						DET ADV NOUN	REPUBBLICA	E si ritrovano	le ancora più note	facce dell' impresario Gerini , per esempio o del napoletano Belmondò , il più antico capoclaque della storia dei festival canori
+
+1	0	0	ancora più ricchi
+						DET ADV NOUN	ITWAC	Il Messico anche numerosi cittadini di origini meno umili , come gli stessi statunitensi o	gli ancora più ricchi	europei , che qui trovano quella possibilità di una vita meno rigida e socialmente regolamentata che nei paesi nativi va sempre
+
+1	0	0	ancora più straniero
+						DET ADV NOUN	ITWAC	E poi , la parola più straniera era un mmadam , urlata da	un ancora più straniero	Salvatore ad una signora , scambiata per francese solo per un po' di trucco in più .
+
+0	0	1	ancora più tastiere
+						DET ADV NOUN	WIKICONLL	Il disco  Beyond Sanctorum  mostra la volontà di sperimentare della band ,	con ancora più tastiere	, e cantato pulito usato con parsimonia , i Therion da questo album in poi vengono considerati come una band death
+
+1	0	0	ancora più valore
+						DET ADV NOUN	ITWAC	Dai valore a ogni momento che vivi , e	dagli ancora più valore	se lo potrai condividere con una persona speciale , quel tanto speciale da dedicarle il tuo tempo , e ricorda che
+
+0	0	1	ancora più violenza
+						DET ADV NOUN	WIKICONLL	VI il 12 maggio del 1497 , Savonarola continua la sua campagna contro i vizi della Chiesa , se possibile	con ancora più violenza	, creando- si numerosi nemici , ma anche nuovi estimatori , perfino fuori Firenze : proprio a questo periodo risale una
+
+1	0	0	ancora più volte
+						DET ADV NOUN	ITWAC	la corrente superficiale ed il vento ; ogni buon bolentinista sa che in una giornata di pesca gli toccherà issare	l' ancora più volte	se vuole raggiungere dei buoni risultati .
+

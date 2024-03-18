@@ -1,0 +1,370 @@
+ITWAC	REPUBBLICA	WIKICONLL	ADV-N	semantica nome	serve contesto	valore prefisso	contesto
+9	0	0	pseudo-artisti	mestiere		x
+							ITWAC	editore ; la donna , avvenente , volitiva e devota , suscita le gelosie di alcuni componenti del cenacolo di	pseudo-artisti	che frequentano la casa dello scrittore ; ma soprattutto , la donna rivela insospettabili qualità di scrittrice , che un
+							ITWAC	Ma il cinema può finire a causa di	pseudo-artisti	?
+							ITWAC		pseudo-artisti	di san remo ??? non è che magari anche alcuni di loro si sono fatti il culo ??? non mi
+							ITWAC	Hai ragione , ci sono molti	pseudo-artisti	che si fingono dei geni ma alla fine o sono dei copioni o vivono di un solo grande successo .
+							ITWAC	è il centro principale ed anche il più visitato : negli ultimi anni ha subito l invasione di artisti e	pseudo-artisti	da tutto il mondo i quali con discrezione hanno occupato case e botteghe ( come accade a Graz in Carinzia
+							ITWAC	In un mondo di	pseudo-artisti	più somiglianti a trichechi che si imbellettano che ad esseri umani , Anton Milenin rappresenta una felice possibilità di salvezza
+							ITWAC	 Del partito dei Charles , dei Wonder , dei Bocelli , dei Petrucciani , o del partito degli	pseudo-artisti	che sei  obbligato  ad applaudire , in quanto portatori di handicap ?
+
+6	0	0	pseudo-carriere	processo?		x
+							ITWAC	La crescita culturale e formativa dei futuri cittadini-lavoratori finora è stata consegnata ad un personale ingessato e sprecato in	pseudo-carriere	ugualitaristiche , con andamenti appiattiti da automatismi di anzianità , penosi e narcotizzanti .
+							ITWAC	NO alla gerarchizzazione dei docenti , a	pseudo-carriere	e a differenze retributive .
+							ITWAC	Non sono invece d accordo su questo punto : NO alla gerarchizzazione dei docenti , a	pseudo-carriere	e a differenze retributive .
+							ITWAC	della riforma Moratti in caso di vittoria del centrosinistra Maurizio Balsamo 30/06/2005 15:12 NO alla gerarchizzazione dei docenti , a	pseudo-carriere	e a differenze retributive .
+							ITWAC	Fabrizio Furci 04/07/2005 16:16 Maurizio Balsamo ha scritto : NO alla gerarchizzazione dei docenti , a	pseudo-carriere	e a differenze retributive .
+							ITWAC	di esuberi strutturali e la riconversione forzata di migliaia di insegnanti con decenni di esperienza ; - l introduzione di	pseudo-carriere	, come quelle dei tutor , con ingresso a scuola di competizioni negative tra i docenti a discapito degli alunni
+
+9	0	0	pseudo-classe	entità		x
+							ITWAC	Definire un confine teorico tra i due livelli richiederebbe l abolizione della	pseudo-classe	: hover .
+							ITWAC	Il concetto di	pseudo-classe	ha qualcosa di  filosofico  .
+							ITWAC	Una	pseudo-classe	non definisce infatti un elemento ma un particolare stato di quest ultimo .
+							ITWAC	Da qui risulta più chiaro il concetto espresso all inizio : la	pseudo-classe	: link definisce lo stile ( colore blue ) solo in una determinata situzione , ovvero quando il link non
+							ITWAC	La	pseudo-classe	( tutte iniziano con i due punti ) segue senza spazi l elemento .
+							ITWAC	Una	pseudo-classe	può anche essere associata a selettori di tipo classe .
+							ITWAC	La	pseudo-classe	doveva seguire la dichiarazione della classe : a .
+							ITWAC	collegamento in cui la classe segue la	pseudo-classe	.
+							ITWAC	p : first - child { color : red ; } Chiariamo a partire dall esempio il significato di questa	pseudo-classe	.
+							ITWAC	Nei CSS una	pseudo-classe	definisce lo stile di un elemento in base allo stato .
+							ITWAC	Con l uso di una	pseudo-classe	è possibile fare ciò e di fare altro per offrire informazioni supplettive al riguardo di un preciso elemento .
+							ITWAC	: hover che consente di aggiungere un effetto particolare al passaggio del puntatore del mouse sull area che possiede questa	pseudo-classe	.
+							ITWAC	Il secondo punto di interesse ( II ) è rappresentato dall uso della	pseudo-classe	: hover che consente di aggiungere un effetto particolare al passaggio del puntatore del mouse sull area che possiede questa
+							ITWAC	/ p Una nota negativa di questa	pseudo-classe	è , infatti , che funziona solo sui browser Gecko-based .
+							ITWAC	Passiamo ora alla	pseudo-classe	first-line ( prima linea ) grazie alla quale possiamo modificare gli attributi della prima riga di ogni paragrafo presente nella
+							ITWAC	Come per first-child , anche per questa	pseudo-classe	va incollato il seguente codice tra i tag head : style p : first - line { color : #
+							ITWAC	Questa	pseudo-classe	funziona con tutti i browser e non solo con quelli Gecko-based .
+
+5	0	0	pseudo-classi	entità		x
+							ITWAC	Gli esempi e la sintassi presentati valgono per tutte le	pseudo-classi	.
+							ITWAC	Per verificare il supporto provate questo documento che contiene commenti ed esempi anche sulle altre	pseudo-classi	.
+							ITWAC	Links Se non volete perdervi tra i selettori CSS 2 e sapere tutto sul supporto di classi ,	pseudo-classi	e pseudo-elementi , avete a disposizione un ottima risorsa : CSS 2 Selectors Support Chart .
+							ITWAC	Si tratta del supporto di tre delle cosiddette	pseudo-classi	.
+							ITWAC	text : focus { background : # CCCCFF ; } Allo stesso modo possiamo usare le	pseudo-classi	: hover e : active per modificare il comportamento e il colore di un pulsante al passaggio del mouse e
+							ITWAC	Si passa quindi a verificare la presenza di classi e	pseudo-classi	.
+							ITWAC	Home + Fareweb + Css + Tutorial + Utilizzo delle	pseudo-classi	f ...
+							ITWAC	Utilizzo delle	pseudo-classi	first-child e first-line Pagina 1 di 1 Tutorial scritto il 18/07/2005 da Michele Sassi Sito Web : http://www.sassidesign.it In questo
+							ITWAC	di 1 Tutorial scritto il 18/07/2005 da Michele Sassi Sito Web : http://www.sassidesign.it In questo tutorial impareremo ad utilizzare due	pseudo-classi	dei Css .
+							ITWAC	/ p N.B. : Le	pseudo-classi	first-line e first-child sono applicabili anche ad altri tag e non solo al tag p ( usato nel nostro esempio
+
+15	0	0	pseudo-codice	entità		-
+							ITWAC	, perché è possibile scegliere se compilare un progetto in  codice nativo  o in  p-code  (	pseudo-codice	) : il codice nativo è quello eseguito direttamente dal processore , mentre il p-code è un codice intermedio che
+							ITWAC	Presentare un algoritmo ( in C o	pseudo-codice	) che risolva il problema produttore / consumatore usando i semafori .
+							ITWAC	, basti pensare che già alcuni anni or sono il modo di funzionamento dell UCSD pascal consisteva nel creare uno	pseudo-codice	( p-code ) da far funzionare su macchine diverse mediante un runtime .
+							ITWAC	vecchio font Per ultimo si elimina l oggetto creato al passo 1 Se invece vogliamo utilizzare un immagine : In	pseudo-codice	Nc = Numero di caratteri per riga Nr = Numero di caratteri per colonna N = Numero totale di caratteri
+							ITWAC	Esercizio Si descriva con	pseudo-codice	il ciclo di funzionamento a regime di un demone router di tipo distance vector .
+							ITWAC	di posizione j l algoritmo restituisce true se esiste una palindroma di lunghezza K in X segue la funzione in	pseudo-codice	: PAL ( X , K ) { W = X@X^R $ T = Costruisci _ suffix _ tree (
+							ITWAC	Java viene compilato in uno	pseudo-codice	chiamato ` J - code  ; gli interpreti Java eseguono J-code .
+							ITWAC	In	pseudo-codice	, i dialoghi appariranno in questo modo : RANDOM B 1 B 2 B 3 B 1 SPEECH :
+							ITWAC	Essa si occupa , tra l altro , anche di convertire lo pseudo-codice in codice nativo : in effetti lo	pseudo-codice	è un codice interpretato ; tuttavia anche le applicazioni compilate direttamente in codice nativo hanno bisogno dei servizi offerti da
+							ITWAC	( usando	pseudo-codice	) procedura conc ( c 1 : coda --- Parametro IN / OUT c 2 : coda --- Parametro IN
+							ITWAC	Mentre , al contrario , esiste quasi una equivalenza tra gli algoritmi ( che vengono comunicati sotto forma di	pseudo-codice	) e il software .
+							ITWAC	E chiamato anche codice interpretato , o	pseudo-codice	o p-code .
+							ITWAC	fornire lo	pseudo-codice	per l algoritmo MergeInsert Sort ; mostrare che tutti i blocchi vengono ordinati in tempo O ( kn ) ;
+							ITWAC	Si scriva in pseudo-C ( o in altro	pseudo-codice	) una soluzione corretta per il problema del barbiere addormentato .
+							ITWAC	Scrivere in	pseudo-codice	un algoritmo che implementi una sorta di calendario perpetuo , ovvero che calcoli il giorno della settimana a partire da
+							ITWAC	ESERCIZIO n. 2 Si scriva in pseudo-C ( o in altro	pseudo-codice	) l algoritmo di Peterson per la mutua esclusione ESERCIZIO n. 3 Descrivere l algoritmo di schedulazione di Windows 2000
+							ITWAC	L algoritmo scritto in	pseudo-codice	è read NUM E _ PRIMO - VERO DIV _ COR - 2 while ( DIV _ COR NUM and
+							ITWAC	Se ad esempio abbiamo ( in	pseudo-codice	) : Procedura ( Arg 1 , Arg 2 , Arg 3 ) in Assembly bisognerà scrivere : PUSH Arg
+							ITWAC	Adesso formalizziamo l algoritmo con dello	pseudo-codice	: RenderSector ( nSettore , frustum ) & nbspgpi ; _ amp _ charnbsp per ogni poligono nel settore &
+							ITWAC	Scrivere lo	pseudo-codice	per Selection Sort e analizzare il running time del caso migliore , peggiore e medio dell algoritmo .
+							ITWAC	Essa si occupa , tra l altro , anche di convertire lo	pseudo-codice	in codice nativo : in effetti lo pseudo-codice è un codice interpretato ; tuttavia anche le applicazioni compilate direttamente in
+							ITWAC	indirizzo http://www.ioi.dk/Homepages/tj/publications/gdc2001.htm e si consiglia la sua lettura perché presenta una introduzione teorica all argomento , un bibliografia essenziale ,	pseudo-codice	molto chiaro e molti spunti interessanti .
+							WIKICONLL	L algoritmo può essere appena raffinato sostituendo alle righe di	pseudo-codice	delle sezioni critiche , comandi di programmazione .
+							WIKICONLL	In questo	pseudo-codice	codice_13 equivale alla classica P e codice_14 alla V di Dijkstra .
+							WIKICONLL	Il seguente esempio , scritto in	pseudo-codice	ricorsivo tipo C mostra una possibile implementazione della visita pre-order .
+							WIKICONLL	Il seguente esempio , scritto in	pseudo-codice	ricorsivo tipo C mostra una possibile implementazione della visita post-order .
+
+0	0	5	Pseudo-codice	entità		-
+							WIKICONLL		Pseudo-codice	.
+
+4	0	0	pseudo-colori	entità		x
+							ITWAC	30 s. l immagine precedente elaborata in	pseudo-colori	, per enfatizzare la struttura del nucleo e le differenze di densità luminosa della chioma h. 18.57 UT - exp
+							ITWAC	30 s. l immagine precedente elaborata in	pseudo-colori	( vedi sopra ) h. 18.35 - 18.38 UT ( sum of 4 frames using comet centroid ) - total
+							ITWAC	80 s. l immagine precedente elaborata in	pseudo-colori	( vedi sopra ) h. 18.55 - 18.57 UT ( sum of 2 frames using comet centroid ) - total
+							ITWAC	60 s. l immagine precedente elaborata in	pseudo-colori	( vedi sopra ) Mappa del cielo con la traiettoria della Cometa Machholz dalle ore 18.20 alle ore 19.20 UT
+
+5	0	0	pseudo-critico	mestiere		x
+							ITWAC	esigenze di pernottamento non ci hanno permesso di sentire una sola nota di Thalia Zedek , quindi il mio commento	pseudo-critico	si interrompe qui .
+							ITWAC	Lo	pseudo-critico	in questione trova larghi consensi tra il pubblico che non è riuscito a comprendere film di un certo spessore (
+							ITWAC	: 3 / 5 Giacomelli Fulvia ( 08 - 10 - 2003 ) caro Olmo , mi dispiace ma lo	pseudo-critico	sei tu se ti rifiuti di ragionare ...
+
+4	0	0	pseudo-cultura	entità		x
+							ITWAC	vedere oggi incrinata la struttura di questi condomini pedofili da parte di chi si batte contro l omologazione della farneticante	pseudo-cultura	pedofila è pari alla sorpresa e al risentimento dei pedofili sfrattati   .
+							ITWAC	Hughes critica tale	pseudo-cultura	fatta di ovvietà e vuota di senso .
+							ITWAC	e per una	pseudo-cultura	della violenza coltivata nell esercito e come buttafuori nelle discoteche .
+							ITWAC	cultura della legalità entri a far parte del vissuto quotidiano dei cittadini : mettere in discussione i luoghi comuni della	pseudo-cultura	mafiosa ed il suo pseudo-sistema di valori vuol dire combattere la mafia sul terreno più importante : quello delle coscienze
+							ITWAC	potrà convenire che impegnarsi con questo esercizio è anche la via migliore per reggere la pressione della tv e della	pseudo-cultura	che essa veicola .
+							ITWAC	La	pseudo-cultura	della comunicazione sociale è dominata da alcuni presupposti .
+							ITWAC	Sandra Miesel smonta la	pseudo-cultura	che pervade il romanzo e confuta le false accuse punto per punto .
+							ITWAC	23.01.47 rino basta con queste tue risposte dove dici tutto e niente e dove vuoi fare solo sfogio di una	pseudo-cultura	 al di sopra delle parti  !
+							ITWAC	allora non capivamo l importanza di darsi una rinnovata forma mentis , anche attraverso la lingua , che contrastasse la	pseudo-cultura	impostaci dagli occupanti ; prima di tutto proprio con l inglese americanizzato e che oggi è materia obbligatoria di studio
+							ITWAC	discorso di Paolo davanti all areopago ad Atene , non dipende dall opposizione del vangelo alla cultura , ma dalla	pseudo-cultura	degli ateniesi che non hanno « passatempo più gradito che parlare e sentire parlare » ( At 17,21 ) .
+							ITWAC	, Paola Di Pietro , Marisa Ciarfella , Milena Grilli Zanchini Premessa 3.1 Nuove sostanze ed effetti soggettivi 3.1.1 La	pseudo-cultura	dell ecstasy e i nuovi miti metropolitani 3.1.2 Le novità 3.1.3 Sintomatologia del tossicodipendente e atteggiamenti della dipendenza 3.2 L
+							ITWAC	dei secoli passati - per essere consolidata tal quale secondo le norme della fin troppo diffusa , in Italia ,	pseudo-cultura	del consolidamento con tecniche e materiali  innovativi  .
+							ITWAC	Aggiungiamo infine che alla sua	pseudo-cultura	nietzchiana ed individualista risale la colpa di aver ridotto l Italia a quello che egli vanta come un redivivo Medioevo
+							ITWAC	di intendere la cultura è certamente importante e raramente praticato ; i motivi di questa non pratica sono svariati :	pseudo-cultura	di massa , cultura del consenso , disattenzione interessata nei confronti di un progressivo svuotamento di contenuti che diano un
+							ITWAC	In cui la	pseudo-cultura	proposta sembra venire dritta dritta dalla perversione massima dello spirito dei nostri tempi morattiani : la cultura o serve a
+							ITWAC	di responsabilità ed ideali bensì sono vittime di una mostruosa specie di iniziazione : quella al rito consumistico , alla	pseudo-cultura	del denaro .
+							ITWAC	Vorrei contestare come la stampa o l informazione in genere si occupano dei bambini , incrementando la disinformazione o la	pseudo-cultura	, cercando solo esclusivamente gli scoop o la fiction da telenovela per fare audience e non vera informazione .
+							ITWAC	nelle classificazioni e tipologie tradizionali , ma è altrettanto doveroso educarsi a contrastare le manifestazioni di incultura , anti-cultura ,	pseudo-cultura	, post-cultura che minacciano il destino di una comunità libera .
+							ITWAC	molto spesso alla retorica del mito del sangue ancora presente nei mezzi di informazione , nella scuola e in tanta	pseudo-cultura	.
+							ITWAC	lasciato sedurre dal solo fascino delle analogie e delle generalizzazioni ha dovuto forzatamente rimanere alla superficie e contentarsi di una	pseudo-cultura	.
+							ITWAC	nefasti ; ed il suo metodo ferreamente condizionato dal suo temperamento , dalla sua legnosa induttilità psicologica e dalla sua	pseudo-cultura	: ciò che forma il pittoresco di esse azioni , mai improntate ad un pensiero , come abbiamo detto ,
+							ITWAC	ciò che il Mondialismo vuole è la cancellazione di tutte le identità etniche , che devono convergere in un unica	pseudo-cultura	di stampo yankee .
+							REPUBBLICA	Cossiga , inoltre , accusa i giudici di eccessiva  politicizzazione  , denuncia la 	pseudo-cultura	della magistratura come potere e non ordine  e polemizza con l Anm che  si atteggia a sovrano reale
+							REPUBBLICA	Richard Hughes , grande scrittore barbaramente ignorato dalla	pseudo-cultura	italiana , l ha colta in Tifone sulla Giamaica , e non per niente Jean-Paul Sartre l aveva notato in
+							REPUBBLICA	di base sui problemi ostetrici e ginecologici , che rendeva impossibile il dialogo tra medico e paziente , a una	pseudo-cultura	di massa , che a volte aiuta ma spesso è di serio ostacolo a una vera comprensione .
+							REPUBBLICA	del paese , del mondo industriale e di quello pubblico o dei servizi , solo per l ignoranza di una	pseudo-cultura	economica pregressa o per motivi di difesa di interessi corporativi di breve termine di una classe dirigente diffidente e soprattutto
+							REPUBBLICA	Non tanto per i voti che prende , quanto per la	pseudo-cultura	esasperata e municipalistica che esprime .
+
+4	0	0	pseudo-democrazia	entità / condizione		x
+							ITWAC	In un paese realmente democratico , e non invece governato da una	pseudo-democrazia	formale , non supportata nella pratica dall applicazione dei suoi principi ( il premier che lotta contro la giustizia ,
+							ITWAC	Oggi , nella nostra 	pseudo-democrazia	 , quello che serve è invece essere telegenici e avere fiuto per l opinione pubblica .
+							ITWAC	l eliminazione del quorum perché già questo riporterà tutto nelle mani dei cittadini con la conseguente normalizzazione e fine della	pseudo-democrazia	dilagante .
+							ITWAC	interesse  non importa agli italiani , secondo la nostra opposizione , si sorvola su un vulnus gigantesco della nostra	pseudo-democrazia	e quindi il Berlusconi può impunemente dichiarare che l 85 % della stampa italiana è comunista .
+							ITWAC	e le forze del Fronte Patriottico Nazionale di Taylor che non ne avevano riconosciuto la legittimità ; tre anni di	pseudo-democrazia	sotto il pugno di ferro di Taylor , che vinse le prime elezioni  libere  nel 1997 ; quattro
+							ITWAC		pseudo-democrazia	) , quello che voglio evitare come la PESTE sono i lobotomizzati , ipnotizzati da volti patinati su riviste a
+							ITWAC	di cui i margheritardi non rinnegano l eredita ) che mettono in pericolo la sopravvivenza dell ospite ( la nostra	pseudo-democrazia	) .
+							ITWAC	Purtroppo in questa	pseudo-democrazia	non c è altro modo per farsi sentire che rendersi visibili , gridare che non ci stiamo .
+							ITWAC	Del resto questa è una	pseudo-democrazia	, dove almeno si può dare il voto .
+							ITWAC	E vero , qualcuno , forse molti , in questa	pseudo-democrazia	si e arricchito .
+							ITWAC	Dunque , dalla democrazia  a sovranità limitata  , siamo passati alla 	pseudo-democrazia	 del sistema elettorale maggioritario ed ora , dopo l emanazione di leggi chiaramente di servizio al potere ed alla
+							ITWAC	Non tanto per fare ma per costruire una sinistra forte e RADICALMENTE democratica in grado di opporsi alla	pseudo-democrazia	berlusconiana .
+							ITWAC	solo radicalizzando l attuale tendenza alla mondializzazione che impone a tutti i popoli un unico modello di civilta quella della	pseudo-democrazia	del mercato , della comunicazione e del consumo , priva di cittadini e di valori che non siano la merce
+							ITWAC	Industria e governo lavorarono mano nella mano , in un nuovo tipo di	pseudo-democrazia	, proposto per primo da Mussolini e sostenuto dalla guerra .
+							ITWAC	I n passato ci sono state anche delle discussioni per arrivare ad una	pseudo-democrazia	all interno della BBS .
+							ITWAC	alto » , rinnegato il modello di un governo chiuso e poco rispondente alla volontà degli elettori , disertata la	pseudo-democrazia	corrotta e nepotista , Viktor Yushenko non può però ripudiare l eredità russa né i tradizionali rapporti con « la
+							ITWAC	L astensionismo è veramente l ultimo approdo di questa	pseudo-democrazia	mediatica di stampo anglosassone ?
+							ITWAC	Gli istinti piu ciechi dominarono allora la	pseudo-democrazia	americana .
+							ITWAC	Se dico 	pseudo-democrazia	 è perché ho sempre pensato che la cosiddetta democrazia rappresentativa non sia una vera democrazia .
+							ITWAC	Nel creare la loro	pseudo-democrazia	, i membri della Convention texana si erano ispirati ai valori e ai principi della Costituzione americana .
+							ITWAC	libertà di espressione , un vero e proprio abuso di potere , cosa ormai all ordine del giorno in questa	pseudo-democrazia	che è il Camerun .
+							ITWAC	Se lanciò le sue invettive giustamente contro la	pseudo-democrazia	di Eltsin , assente è invece stato nel denunciare l involuzione autoritaria di Putin , perchè  è un uomo
+							ITWAC	risultati , però , al momento non sono molto incoraggianti , visto che parecchi stati , dopo qualche anno di	pseudo-democrazia	pilotata dalla comunità internazionale , ricadono sotto le grinfie di qualche ambizioso generale locale .
+							REPUBBLICA	parla di chi Hochhuth ha demolito : Pio XII ( Il Vicario ) o Churchill ( Soldati ) , la	pseudo-democrazia	statunitense ( Guerriglieri ) o Hemingway ( Morte di un cacciatore ) , i palazzinari tedeschi ( La levatrice )
+							REPUBBLICA	) dal fenomeno referendario diventato una sorta di grimaldello da parte di chi cerca di contrapporre una sorta di	pseudo-democrazia	diretta e referendaria a un sistema rappresentativo , giudicato oligarchico e partitocratico .
+							REPUBBLICA	È il vecchio regime che sopravvive , il suo camuffamento nei panni d una	pseudo-democrazia	: e la questione nazionale la Transilvania , la Moldavia sovietica è l esca con cui tirar- si dietro gli
+							REPUBBLICA	libero , prova a costruire uno Stato che superi le contraddizioni tra i suoi popoli : inventa l autogestione (	pseudo-democrazia	aziendale controllata dal Partito ) , una struttura federale tra sei repubbliche formalmente autonome e due provincie ( Kossovo e
+
+5	0	0	pseudo-esperti	condizione		x
+							ITWAC	Come se non bastassero - a questo scopo - le schiere di pseudo-scrittrici e	pseudo-esperti	( ultimamente perfino Monica Bellucci si è messa a spiegare l Islam sulle pagine di Vanity Fair ) che ,
+							ITWAC	nè sarebbe utile ricorrere ad un ulteriore recupero di reperti del DC 9 dal fondo del tirreno , nè a	pseudo-esperti	in materia aerodinamica : se non si fosse convinti dei dati forniti , basterebbe fare una prova in volo con
+							ITWAC	Al PU non è poi risultato chiaro a chi debba essere rivolto l appellativo di 	pseudo-esperti	in materia aerodinamica  contenuto nel precedente passo .
+							ITWAC	se si vuol parlare di un giocatore io ritengo sia fondamentale non ripetere ciò che si sente dai	pseudo-esperti	, ma guardare e formulare giudizi propri , a costo di dir castronerie ...
+							ITWAC	Quindi se dico stronzate è colpa mia , se dico genialate è merito mio , gli	pseudo-esperti	possono dire quel che vogliono ...
+							ITWAC	la diffusa tendenza a dire ( senza sapere troppo bene cosa vuol dire , e quindi mettendosi nelle mani di	pseudo-esperti	) :  apriamo una pagina su Internet  .
+							ITWAC	poche e cmq i  Dirigenti  scelgono con le pubblicita e con l ignoranza e si lasciano consigliare da	pseudo-esperti	che consigliano cioe che porta soldi nelle loro casse e basta senza minimamente guardare altro .
+							ITWAC	un bel  baco  nel suo programma di navigazione per Windows 95 e Windows NT e così schiere di	pseudo-esperti	hanno subito additato la navigazione come possibile causa di infezioni virali devastanti .
+							ITWAC	) e potete navigare sicuri , almeno per ora , su tutti i siti alla faccia degli	pseudo-esperti	; quindi se usate Internet Explorer controllate - cliccando sul  ?
+							ITWAC	Nel ricordarlo , lo si raccolga per farne bandiera di una scuola che non sia territorio di rapina di	pseudo-esperti	e di sindacalisti , che non sia strumento di sistemazioni nepotistiche , che non sia la cavia di sperimentazione di
+							ITWAC	le retrospettive storiche e il coinvolgimento di persone direttamente coinvolte nei problemi trattati , ai quali vanno preferiti gli 	pseudo-esperti	 che dall alto della loro notorieta o in virtu di un titolo prestigioso sono pronti a riempire i palinsesti
+							ITWAC	Aderendo alle indicazioni della migliore dottrina ( sempre il sottoscritto , in un disarmante silenzio dei nostri 	pseudo-esperti	 ) , occorre distinguere tra l attività di tipo promozionale e la vera e propria attività di vendita ,
+							ITWAC	 Il nuovo pontificato si prospetta conservatore , quasi fondamentalista  gridano i giornali e gli	pseudo-esperti	di curia pontificia .
+							ITWAC	Sono norme chiare sulla titela dei nomi in generale che servono , non certo	pseudo-esperti	di Internet che dall alto della loro non conoscenza dell argomento di cui palrano pontificano sui significati di cose che
+							ITWAC	per i Giochi olimpici di tutti i redattori della Rai , di tutti i telecronisti , di una quantità di	pseudo-esperti	e di  esperti  enciclopedici impastati di retorica da quattro soldi , di formulazioni poetiche rimasticate dal liceo ,
+							ITWAC	è di costruire insieme un associazione che avrà cura di dibattere e di divulgare quelle questioni che rimangono appannaggio degli	pseudo-esperti	e di battersi per esigere un altra politica economica .
+							ITWAC	Né il pensiero critico , come ancora si ostinano a far credere	pseudo-esperti	( anche vestiti dell abito ecclesiastico ) è stato mai un monopolio dell Europa cristiana , né l idea e
+							ITWAC	Né il sindacato ha mai partecipato al coro di esperti o	pseudo-esperti	che a fasi alterne pronosticano il veloce declino della tv generalista : trovando puntuale smentita nei dati , che anche
+							ITWAC	di un doppio rischio : da una parte che la banalizzazione e l errato utilizzo delle regole siano condotti da	pseudo-esperti	che non riescono a capirne la portata e ad adattarle alle esigenze del singolo progetto ; che manchino cioé della
+							REPUBBLICA	delle popolazioni beneficiarie e scavalcando , così , quegli interlocutori , o intermediari , o procacciatori di affari , o	pseudo-esperti	, che molto spesso hanno determinato le scelte della cooperazione più dei diplomatici o di quelle persone ed organizzazioni che
+							REPUBBLICA	Facendo televisione , in questi giorni , si viene sommersi da lettere astruse di	pseudo-esperti	che sventolano vigorosamente le più varie ascendenze etniche , richiamando la nobile origine degli albanesi negli illiri , piuttosto che
+
+4	0	0	pseudo-file	entità  		x
+							ITWAC	Il secondo trucco che abbiamo utilizzato è quello di generare velocemente uno	pseudo-file	che assomiglia in qualche modo ad un / dev / mem già aperto .
+							ITWAC	in memmap * c ) calling the normal entry point for * mmap-calls  do _ mmap  with our	pseudo-file	* * 0 or 0 means an error occured , otherwise * the user space address is returned .
+							ITWAC	* The allocated buffer is mapped into * user-space by * a ) a	pseudo-file	as you would get it when * opening / dev / mem * b ) the buffer-pages tagged as
+							ITWAC	file _ info * fip ; struct file _ operations fops ; struct file memfile ; / * Our helpful	pseudo-file	only ...
+							ITWAC	il principio dei dispositivi  tty  in base al quale si legge e si scrive dallo  stesso 	pseudo-file	, invece di poter disporre di una pulita coppia di pipe , lo strangolo !
+							ITWAC	Fare il backup di un file come  / proc / kcore  che è uno	pseudo-file	con l intero contenuto della vostra memoria , è solo un spreco di spazio secondo me !
+							ITWAC	I dati di configurazione sono salvati negli ultimi 54 kB del blocco mtd 3 sottoforma di uno	pseudo-file	config.xml e sono gestiti attraverso alcuni moduli applicativi forniti ( senza codice sorgente ) dalla Texas Instruments : cm _
+							ITWAC	Le variabili d ambiente possono essere lette direttamente dallo	pseudo-file	/ proc / ticfg / env : # cat / proc / ticfg / env memsize 0 x 00800000 flashsize
+
+4	0	0	pseudo-imprenditori	mestiere		x
+							ITWAC	per l insieme del settore delle TLC , la situazione più debole , magari a causa di scelte sbagliate di	pseudo-imprenditori	, va alla deriva disperdendo posti di lavoro e professionalità a favore di una logica della competitività fondata solo sulla
+							ITWAC	sta sul  terreno di guerra  quotidianamente , non finirà d essere sporadico e legato ai drammi , molti	pseudo-imprenditori	, molti improvvisati datori di lavoro , molti caporali , continueranno a sfruttare italiani e immigrati , tranquillamente al riparo
+							ITWAC	Tutto ciò mentre l ´ establishment in questo Paese che ha smarrito ogni sua missione è ormai fatto da	pseudo-imprenditori	che in realtà sono concessionari di lusso , post-imprenditori che devono gestire il loro declino , smart-imprenditori , indifferenti ad
+							ITWAC	finanza pubblica , perche significa licenziare milioni di dipendenti statali che non troverebbero alcun lavoro , vista l incapacita degli	pseudo-imprenditori	bancarottieri nostrani ...
+							ITWAC	) acquistando quote di aziende statali o parastatali sull orlo del fallimento , mentre gli	pseudo-imprenditori	compravano yacht e ville !!!
+							ITWAC	Lo Stato con le golden share , i nuovi boiardi , gli	pseudo-imprenditori	politicizzati controlla tutto come prima !!!
+							ITWAC	In Italia con le scatole cinesi una famiglia di	pseudo-imprenditori	puo controllare con l 1 - 2 % intere Holding che poi in realta sono di proprieta delle solite banche
+							ITWAC	Fim , Fiom , Uilm nazionali hanno denunciato con forza la presenza ancora una volta al tavolo di	pseudo-imprenditori	che ostacolano soluzioni industriali mirate a salvaguardare 1.800 posti di lavoro .
+							REPUBBLICA	Ed anche egli era un dipendente del Costanzo ( assieme a tanti	pseudo-imprenditori	come per esempio tale Bua Antonino recentemente arrestato perché detentore di un vero arsenale bellico ...
+
+7	0	0	pseudo-incontinenza	condizione		x
+							ITWAC	Parole chiave : fistola vescico uterina , fistola post cesareo , sindrome da	pseudo-incontinenza	.
+							ITWAC	sindrome menurica ( Youssef ) , caratterizzata da ematuria catameniale , amenorrea , continenza delle urine ; - sindrome con	pseudo-incontinenza	, dovuta alla perdita di urine a causa della sede bassa della fistola ; - sindrome mista , che presenta
+							ITWAC	di urine a causa della sede bassa della fistola ; - sindrome mista , che presenta menuria , disuria e	pseudo-incontinenza	.
+							ITWAC	Dopo tale intervento si ebbe la scomparsa della	pseudo-incontinenza	e persistenza della menuria con amenorrea fino all epoca della menopausa ( 45 aa .
+							ITWAC	) ; - dopo il 1 ° intervento chirurgico eseguito per via vaginale la sintomatologia si è modificata scomparendo la	pseudo-incontinenza	mentre sono rimaste la menuria e l amenorrea fino all epoca della menopausa ; - dopo la menopausa , con
+							ITWAC	, quale esito di una applicazione del forcipe , una fistola vescico-uterina con sindrome mista ( menuria , amenor-rea ,	pseudo-incontinenza	) ; - dopo il 1 ° intervento chirurgico eseguito per via vaginale la sintomatologia si è modificata scomparendo la
+							ITWAC	per via vaginale si è avuta la cicatrizzazione solamente del tratto distale dell orifizio fistoloso e quindi la scomparsa della	pseudo-incontinenza	, mentre il tratto prossimale , anche se di piccola entità , ancora beante , permetteva il persistere della menuria
+							REPUBBLICA	estrema frequenza della minzione , senso di svuotamento incompleto , bruciori minzionali etc. In questi casi si può avere una	pseudo-incontinenza	o incontinenza da urgenza minzionale , legata al fatto che lo stimolo ad urinare è talora così impellente da causare
+
+10	0	0	pseudo-intellettuali	condizione		x
+							ITWAC	Conta di più la qualunquistica  reprimenda  di	pseudo-intellettuali	incapaci di interrogarsi sul perché delle cose , usi soltanto a lanciare lamentazioni che rispondono a motivazioni psico-sociologiche anziché politiche
+							ITWAC	Che poi mi cacciano dai salotti-bene del Web e dai Forum	pseudo-intellettuali	.
+							ITWAC	E questo viene detto senza la benché minima pretesa di aggiungersi al coro delle miopi e talvolta ingiustificate polemiche	pseudo-intellettuali	contro i film commerciali , ma solo perché ci si renda conto della necessità di un certo rinnovamento di schemi
+							ITWAC	aveva ingoiato un boccone troppo grosso dei vaghi ,	pseudo-intellettuali	insegnamenti di Sai Baba .
+							ITWAC	paesi  , reso possibili stermini e persecuzioni , ma che ancora esercita un certo fascino , specie tra alcuni	pseudo-intellettuali	.
+							ITWAC	chiarezza su questa  maledetta  generazione , in mezzo a mille trattati pretenziosi , a mille falsi poeti e	pseudo-intellettuali	sempre scalpitanti per poter dire , urlare e imporre la loro parziale verità .
+							ITWAC	inviato il 26.03.2005 17:46:45 Anonymous in questo blog si passa dai calciofili beceri agli	pseudo-intellettuali	radical chic .
+							ITWAC	The incredibile export-guru  , quarto cd dei Tilak , è dannatamente bello , pieno di vita , senza palle	pseudo-intellettuali	in mezzo , carico di una vagonata di energia .
+							ITWAC	La letteratura di fantascienza ha vissuto periodi drammatici , sottovalutata e disprezzata da	pseudo-intellettuali	e ignoranti senza cultura , ma grazie alla serietà di autori come Isaac Asimov , Philip K. Dick , Arthur
+							ITWAC	capacità dei centri accademici statunitensi di produrre intellettuali colti e acuti , e infuocato nell aggredire quello sparuto numero di	pseudo-intellettuali	( così venivano definiti , in sostanza , dall articolo in questione ) , che , per un puro narcisismo
+							ITWAC	Una generazione di insopportabile vuotezza e cinismo , una generazione di  nick-persone  , di piccoli borghesi	pseudo-intellettuali	e falliti che cercano un senso al loro grigio non-esistere nella vendetta .
+							ITWAC	Oppure si può tentare di cavarne una serie di considerazioni	pseudo-intellettuali	.
+							ITWAC	sottolineare subito che i due casi , il francese e l ´ italiano , sono provocazioni lanciate da intellettuali o	pseudo-intellettuali	convertitisi di recente all islam .
+							ITWAC	regista tipico da	pseudo-intellettuali	( non a caso vincitore di premi all insopportabile Venezia che ha premiato Vera Drake , e plurinominato dai sedicenti-intellettualoidi
+							ITWAC	Egli sessantenne può vantare uno stato di servizio da far arrossire gli	pseudo-intellettuali	che telegrafano la loro solidarietà al signor Donati .
+							ITWAC	E così che si vincono le guerre , non dando retta a	pseudo-intellettuali	che prendono troppo sul serio Eliot .
+							ITWAC	Occorre sottolineare subito che i due casi ( francese e italiano ) sono provocazioni lanciate da intellettuali ( o	pseudo-intellettuali	) convertitisi di recente all islam , e dunque risulta difficile determinare la portata dei loro gesti .
+							ITWAC	negativi , dovuti al perdurare dei se-questri e all arrogante sufficienza con la quale i nostri politici , i nostri	pseudo-intellettuali	e i nostri giornalisti affrontano discorsi com-plessi e delicati come la comunicazione in rete , il controllo delle informazioni ,
+							ITWAC	Smettiamo , anche , con questi	pseudo-intellettuali	o pseudo-pacifisti che vanno fieri del loro « coraggio » professando un poco ovunque che « in fondo l America
+							ITWAC	Frustrate	pseudo-intellettuali	...
+							ITWAC	La grande massa di quegli 	pseudo-intellettuali	 che per anni hanno osannato alla Sinistra , per me erano e sono solo dei  Paraculturisti  ,
+							ITWAC	così complicata , perché  Nella tasca de il zio  è un disco per nulla cervellotico o con pretese	pseudo-intellettuali	.
+							REPUBBLICA	Ma spesso si sono infiltrati , nei ranghi , anche artisti	pseudo-intellettuali	.
+							REPUBBLICA	Ma , per la maggior parte degli	pseudo-intellettuali	che si interessano di psicoanalisi , credo proprio che essa non sia altro che un travestimento scientifico di manifestazioni intellettuali
+							REPUBBLICA	In quegli stessi giorni il ministro dell Interno Mario Scelba usa l espressione  quei quattro cialtroni di	pseudo-intellettuali	 ( il neologismo  culturame  sarebbe stato da lui coniato l anno successivo ) per indicare i fiancheggiatori
+							WIKICONLL	In queste poesie Christoforo si prende gioco di perdenti guidatori di bighe , di mariti traditi , monaci ipocriti ,	pseudo-intellettuali	, ecc .
+
+4	0	0	pseudo-invettiva	azione		x
+							ITWAC	eliminazione povertà domenico schietti inviato il 12.11.2003 20:16:54 Website : http://www.liberaassociazioneilpopolo.it/internetcampaigns.html martin x schietti Gentile Sig. Schietti , la sua	pseudo-invettiva	sul fare i fighi sulle tombe dei morti e i bei discorsi da pagliaccio è semplicemente fuoriluogo .
+							ITWAC	inviato il 12.11.2003 20:21:43 martin x schietti Gentile Sig. Schietti , la sua	pseudo-invettiva	sul fare i fighi sulle tombe dei morti e i bei discorsi da pagliaccio è semplicemente fuoriluogo .
+							ITWAC	inviato il 12.11.2003 20:22:31 martin x schietti Gentile Sig. Schietti , la sua	pseudo-invettiva	sul fare i fighi sulle tombe dei morti e i bei discorsi da pagliaccio è semplicemente fuoriluogo .
+							ITWAC	inviato il 12.11.2003 20:27:48 martin x schietti Gentile Sig. Schietti , la sua	pseudo-invettiva	sul fare i fighi sulle tombe dei morti e i bei discorsi da pagliaccio è semplicemente fuoriluogo .
+
+4	0	0	pseudo-libertà	condizione		x
+							ITWAC	i tragici fatti di Novi Ligure , e purtroppo numerosi altri , possono configurarsi in una difesa estrema della propria	pseudo-libertà	, i cui meccanismi vanno ricercati nelle funzioni cerebrali superiori : è accertato che l innamoramento , ad esempio ,
+							ITWAC	L opposto sia dell imposizione atopica di stilemi bloccati sia della	pseudo-libertà	del solipsismo che devasta i paesaggi .
+							ITWAC	Una tale	pseudo-libertà	si fonda su una banalizzazione del corpo , che inevitabilmente include la banalizzazione dell uomo » .
+							ITWAC	Una tale	pseudo-libertà	si fonda su una banalizzazione del corpo , che inevitabilmente include la banalizzazione dell uomo .
+							ITWAC	non avesse avuto questa libertà sarebbe stata un manichino , dunque si inganna chi , cercando di parlare di una	pseudo-libertà	umana dove Dio non può mettere parola , dove questa fasulla libertà genera il male perchè liberi di farlo ,
+							ITWAC	Questa	pseudo-libertà	che sembra cadere dal cielo come un regalo ma che forse ha un prezzo più alto di quanto si poteva
+							ITWAC	e credibile perché ricco di contenuti sociali e civili senza la demagogia ed il regime tecno-politiche della  casa delle	pseudo-libertà	 , di rivedere la legge 40 , poi non mantenute rimanendo impassibili alle richieste , aspettative e bisogni di
+							ITWAC	l oggetto feticistico e artistico come risultato di un architettura cristallizzata e legata a stili , seppure indicatori di una	pseudo-libertà	, frutto di una concezione dell architettura lontana dalla vita reale .
+							ITWAC	condannare il carattere « relativistico » della cultura dominante in materia di coppia e di sesso : « Una tale	pseudo-libertà	si fonda su una banalizzazione del corpo , che inevitabilmente include la banalizzazione dell uomo .
+							ITWAC	che fra le  cose  che sembrano più simili fra loro c è anche la vera libertà e la	pseudo-libertà	, così che l uomo è sempre nel rischio di far coincidere la libertà con la sua reale distruzione .
+							ITWAC	E poiché la libertà è ciò che fa essere la persona , come vedremo , confondere vera libertà e	pseudo-libertà	equivale a tramutare il dramma dell uomo in tragedia .
+
+4	0	0	pseudo-matrimonio	evento		x
+							ITWAC	le varie forme odierne di dissoluzione del matrimonio , come le unioni libere e il matrimonio di prova fino allo	pseudo-matrimonio	tra persone dello stesso sesso che , per il pontefice , altro non sono che  espressioni di una liberta
+							ITWAC	varie forme odierne di dissoluzione del matrimonio , come le unioni libere e il matrimonio di prova , fino allo	pseudo-matrimonio	tra persone dello stesso sesso , che sono espressioni di una libertà anarchica , che si fa passare a torto
+							ITWAC	odierne di dissoluzione del matrimonio , come le unioni libere e il  matrimonio di prova  , fino allo	pseudo-matrimonio	tra persone dello stesso sesso , sono invece espressioni di una libertà anarchica , che si fa passare a torto
+							ITWAC	odierne di dissoluzione del matrimonio , come le unioni libere e il  matrimonio di prova  , fino allo	pseudo-matrimonio	tra persone dello stesso sesso , sono invece espressioni di una libertà anarchica , che si fa passare a torto
+							ITWAC	e che concorrerebbe alla dissoluzione del matrimonio attraverso « le unioni libere , il matrimonio di prova , fino al	pseudo-matrimonio	tra persone dello stesso sesso » .
+							ITWAC	odierne di dissoluzione del matrimonio , come le unioni libere e il  matrimonio di prova  , fino allo	pseudo-matrimonio	tra persone dello stesso sesso  , sono espressioni di una  libertà anarchica , che si fa passare a
+							ITWAC	odierne di dissoluzione del matrimonio , come le unioni libere e il  matrimonio di prova  , fino allo	pseudo-matrimonio	tra persone dello stesso sesso sono espressioni di una libertà anarchica che si fa passare a torto per vera liberazione
+
+37	0	0	pseudo-piste	entità		x
+
+5	0	0	pseudo-problemi	entità  		x
+							ITWAC	è cruciale la lotta degli atteggiamenti sensati - solitamente propri della vita quotidiana - contro i misticismi-autoritarismi - tutelati dagli	pseudo-problemi	della filosofia .
+							ITWAC	accorse che i problemi della filosofia sono falsi problemi , dunque la sua indagine si sposta sull analisi di questi	pseudo-problemi	.
+							ITWAC	Lo scopo della filosofia di Wittgenstein è esclusivamente mostrare ed eliminare gli	pseudo-problemi	.
+							ITWAC	È difficile prendere sul serio una professione che afferma di non fare altro che dissolvere gli	pseudo-problemi	creati in primo luogo da quella professione stessa .
+							ITWAC	Una chiara definizione del problema , inoltre , permette di evitare di lavorare su	pseudo-problemi	; la definizione degli obiettivi della terapia : in accordo con il paziente , si procede attraverso una scala graduale
+							ITWAC	Il chiarimento delle questioni filosofiche tradizionali conduce , in parte , a smascherarle quali	pseudo-problemi	; in parte , a convertirle in questioni empiriche , soggette , quindi , al giudizio della scienza sperimentale .
+							ITWAC	Russell , nel chiarire gli asserti della scienza naturale , e come insegnato dal Tractatus di Wittgenstein , nello smascherare	pseudo-problemi	propri della filosofia .
+							ITWAC	errore della metafisica moderna : l insostenibile distinzione tra la res cogitans e la res extensa , con i relativi	pseudo-problemi	del dualismo cartesiano fra anima e corpo , o quello dell idealismo tedesco fra spirito e natura ( bisognerebbe aggiungere
+							ITWAC	del linguaggio al fine di renderlo preciso e perspicuo al massimo grado ; solo agendo così è possibile distinguere gli	pseudo-problemi	( che sono quasi tutti quelli presi in considerazione dalla filosofia tradizionale ) dai problemi genuini .
+							REPUBBLICA	differenziare i contendenti si intravedono già , in mezzo ad affermazioni risibili e ad un grande agitar- si attorno a	pseudo-problemi	.
+							REPUBBLICA	D altra parte nel 1960 Kennedy e Nixon si confrontarono su	pseudo-problemi	: le isolette cinesi di Quemoy e Matsu , subito dimenticate , un gap missilistico con l Urss semplicemente inesistente
+
+5	0	0	pseudo-riforma	evento		x
+							ITWAC	Saremo , infatti , tutti noi comuni cittadini che subiremo maggiormente le ricadute negative di questa	pseudo-riforma	.
+							ITWAC	Questa 	pseudo-riforma	 .
+							ITWAC	Per i giovani questa	pseudo-riforma	non porta nulla : resta il sistema contributivo già previsto dalla legge Dini .
+							ITWAC	Siamo assolutamente contrari , quindi , ad ogni	pseudo-riforma	partitocratica della legge con l obiettivo di favorire il protezionismo dei grandi partiti  .
+							ITWAC	gioco facile nell infliggere il colpo letale alla Scuola Pubblica e al diritto costituzionale all istruzione , in virtù della	pseudo-riforma	legata al nome della Moratti .
+							ITWAC	Ciò è tanto più vero che , attraverso due cardini di questa	pseudo-riforma	, vale a dire la disciplina dell accesso alla magistratura e la cosiddetta gerarchizzazione delle procure , la maggioranza persegue
+							ITWAC	Uno dei limiti fortissimi di questa	pseudo-riforma	Moratti è proprio l aver saltato autoritariamente questo passaggio : dà piani orario e indicazioni dettagliatissime a quadro disciplinare pressocché
+							ITWAC	Verde della commissione Cultura , Mauro Bulgarelli ,  la ministra nasconde una vera e propria strategia : la sua	pseudo-riforma	, varata senza i fondi necessari , le promesse non mantenute fatte agli insegnanti in merito al blocco degli stipendi
+							ITWAC	a. Cristo sì , Chiesa no Durante la	pseudo-riforma	protestante , si assiste alla negazione del ruolo della Chiesa come unica ed incontrastata mediatrice terrena delle verità rivelate attraverso
+							ITWAC	) coerenti con la	pseudo-riforma	mentre 5.300.000 restano a livello nazionale per l orientamento dei giovani e la partecipazione dei genitori alle scelte educative (
+							ITWAC	La verità è che questa	pseudo-riforma	ci pone lontano dagli altri paesi europei , in un momento in cui , con il fondamentale passaggio della sospensione
+							ITWAC	relatori : Moderatore : Paolo Landi - Segretario Generale , Adiconsum Il risparmio : le mancate risposte di una 	pseudo-riforma	 Fabio Picciolini - Segretario Nazionale Responsabile Settore Credito e Risparmio , Adiconsum Negoziazione e fondi integrativi : ruolo del
+							ITWAC	La preoccupazione che noi abbiamo è che questa	pseudo-riforma	possa peggiorare le condizioni della giustizia .
+							ITWAC	Titolo V della Costituzione , vale per due , poiché , oltre a sviluppare il federalismo , cancella anche la	pseudo-riforma	varata dall Ulivo alla fine della passata legislatura , che , se disgraziatamente fosse stata attuata , avrebbe portato l
+							REPUBBLICA	La	pseudo-riforma	la volevano i Sindacati per comandare indirettamente meglio .
+							REPUBBLICA	In proposito la Confindustria avverte il governo che non accetterà una riedizione del copione dell ultima 	pseudo-riforma	 , con incontri bilaterali e ambigui rapporti di scambio fra il governo e i sindacati o Bertinotti .
+							REPUBBLICA	Quel che è più interessante , Nicola Rossi offre una spietata critica politica del metodo Treu che partorì quella	pseudo-riforma	: con l attenzione esclusiva al consenso delle corporazioni organizzate , quel negoziato alimentò  il dubbio che il tempo
+							WIKICONLL	da allora l ordine sociale è stato minato in particolare da quattro eventi : dapprima il Rinascimento e la 	pseudo-riforma	protestante  , poi l Illuminismo la rivoluzione francese e la rivoluzione comunista , e infine quella rivoluzione culturale esplosa
+
+40	0	0	pseudo-scienza	entità  		x
+							ITWAC	E proprio il criterio di falsificabilità costituisce una linea di demarcazione fra scienza empirica e	pseudo-scienza	o metafisica .
+							ITWAC	Ma se sono funzione di una	pseudo-scienza	, hanno già fatto troppi danni e speriamo che non ne facciano altri .
+							ITWAC	Questa è	pseudo-scienza	, non scienza .
+							ITWAC	identità collettiva se non attraverso la lente deformante degli aggressori , come membri di una razza semita puramente inventata dalla	pseudo-scienza	dell antisemitismo .
+							ITWAC	J. Bouveresse , Filosofia , mitologia e	pseudo-scienza	, Einaudi , Torino 1997 .
+							ITWAC	non era necessario demarcare la scienza dalla metafisica , quanto piuttosto la scienza ( come quella di Einstein ) dalla	pseudo-scienza	( come quella di Marx e Freud ) .
+							ITWAC	Altri considerano lo Stato Terapeutico come uno strumento di crudeltà e di	pseudo-scienza	al servizio di una nuova forma di statalismo e di conseguenza si oppongono alla  medicalizzazione  .
+							ITWAC	A partire dal XV secolo le ricette derivate dal sapere passato si trasformano in una	pseudo-scienza	materializzata nei detti popolari .
+							ITWAC	, sulla propria pelle , hanno vissuto la tragedia causata dalle idee di Nicola Pende e dalla alleanza perversa tra	pseudo-scienza	e Olocausto .
+							ITWAC	Ed essendo evidente che molte di esse non davano utili , e avevano spese altissime , questa	pseudo-scienza	se l è egregiamente cavata con i futuribili , con la ricchezza che non era ma che sarebbe sicuramente venuta
+							ITWAC	Popper , per la sua volontà di creare , di trovare un principio di demarcazione tra la scienza e la	pseudo-scienza	, era vicino ai positivisti logici del Circolo di Vienna .
+							ITWAC	a tracciare vaghe coordinate di saperi artistici e di progetti  molecolari  che avrebbero dovuto rilevare il fardello della	pseudo-scienza	.
+							ITWAC	nel corso del programma televisivo americano  Access Hollywood  , ha criticato aspramente la psichiatria , definita una 	pseudo-scienza	 che porta i bambini a diventare dei farmaco-dipendenti .
+							ITWAC	* I diktat della	pseudo-scienza	Ma qualcuno va anche oltre : i diktat scientifici italiani , recitati da scienziati che andrebbero chiamati pseudo-tali quando si
+							ITWAC	Non tollereremo che una	pseudo-scienza	detti le politiche americane .
+							ITWAC	relgioso , le parole di Germain Grisez :  Il neo-gnosticismo costituisce un amalgama instabile di pseudo-sesso , pseudo-spiritualità ,	pseudo-scienza	e pseudo-teologia .
+							ITWAC	può essere fatto risalire ai think tanks dell industria dei combustibili fossili e della finanza petrolchimica , ma anche alla	pseudo-scienza	dei siti web cristiani .
+							ITWAC	La	pseudo-scienza	.
+							ITWAC	Tra l altro ha dato i natali ad una nuova	pseudo-scienza	, la clipeologia , che , sebbene contrastata dagli ambienti accademici  puritani  , raccoglie , man mano che
+							ITWAC	lo gnosticismo di Marcione , alla cui opera dal titolo « Antitesi » , alluderebbe l espressione « antitesi della	pseudo-scienza	( gnosi ) » ( 1 Ti 6 , 20 ) ( 8 ) .
+							REPUBBLICA	di massa : così come la letteratura , che ne è l input , appare come il software di una	pseudo-scienza	minore , dalla scuola alla vita .
+							REPUBBLICA	Abbiamo insomma il sospetto che il direttore del Foglio , alla	pseudo-scienza	simboleggiata da Lombroso preferisca una convenzione letteraria assai più suggestiva ma non meno discutibile : quella che prescrive un ammirazione
+							WIKICONLL	moderna , il relativismo culturale , i movimenti anarchici e socialisti , la rivoluzione sessuale , e l  oscura	pseudo-scienza	 di Albert Einstein .
+							WIKICONLL	delle questioni sopra riportate , ed altre , portano all affermazione comune nel movimento antipsichiatrico che la psichiatria sia una	pseudo-scienza	.
+
+6	0	0	pseudo-stabilizzazione	processo 		x
+							ITWAC	La fragile distinzione tra stabilizzazione e	pseudo-stabilizzazione	è meglio illustrata con un esempio .
+							ITWAC	Come verrà mostrato successivamente la	pseudo-stabilizzazione	è effettivamente più fragile della stabilizzazione con  non devia  al posto di  non può deviare  ;
+							ITWAC	In altre parole , un osservatore esterno può osservare la	pseudo-stabilizzazione	ma non la stabilizzazione ( perché egli deve essere all interno per poterla osservare ) .
+							ITWAC	Questo suggerisce che la stabilizzazione e la	pseudo-stabilizzazione	sono indistinguibili per tutti gli scopi pratici , anche se i due concetti sono distinti .
+							ITWAC	In particolare , la stabilizzazione è una proprietà più stringente della	pseudo-stabilizzazione	come mostrato dal seguente teorema .
+							ITWAC	S ha un suffisso in F. Il prossimo teorema mostra che la stabilizzazione ha un vantaggio al di sopra della	pseudo-stabilizzazione	in sistemi con un numero finito di stati .
+							ITWAC	del problema della mutua esclusione esplorando tre possibili algoritmi , nel terzo capitolo si esplora la differenza tra stabilizzazione e	pseudo-stabilizzazione	, infine nel quarto capitolo si affronta il tema dell auto-stabilizzazione nel contesto del passaggio dei messaggi .
+
+5	0	0	pseudo-valori	entità		x
+							ITWAC	alla critica radicale scettica , frutto di un razionalismo logico-linguistico rigoroso , che può dirsi legittimamente para-scientifico nella destituzione di	pseudo-valori	filosofici e specialmente  religiosi  , la causa paradossale del rigurgitante fideismo anti-materialista ,  spiritualista  ecc. (
+							ITWAC	Ed è un testo che è diventato , anche al di là delle intenzioni , un emblema del rifiuto degli	pseudo-valori	ufficiali della società e della cultura italiana fra le due guerre .
+							ITWAC	buon terreno dove il valore , oggettivo e perciò assoluto , del rispetto della vita ceda il passo ad altri	pseudo-valori	, indotti e artificiali , che la società radical-borghese oggi ha coniato sottoforma di spreco , di cupidigia , in
+							ITWAC	senso priva di una fondazione del pensiero della differenza sessuale , viene ad assumere il sinistro ruolo di custode di	pseudo-valori	dominanti , promiscui , chiamati a giustificazione e facilmente adattabili sull esistente .
+							ITWAC	Il quale , in ogni caso , non si lascia sfuggire l occasione per menare un robusto colpo agli	pseudo-valori	che dominano la società giapponese , denunciandone il conformismo , il razzismo , il materialismo , l odio per la
+							ITWAC	alla demagogia anonima e capillare , totalizzante proprio perché anonima : la mercificazione dei valori e la penetrante imposizione di	pseudo-valori	di facile assunzione , simboleggiati e potenziati dai media a diffusione capillare e a basso costo ( il teleschermo di
+							ITWAC	l oggi è anche il dopoguerra in cui si va affermando il fascismo e più in generale un sistema di	pseudo-valori	cui il poeta non può aderire .
+							ITWAC	È da questi	pseudo-valori	che nascono le tendenze nazionalistiche , razziste , xenofobe ed etnocentriche che stanno provocando danni immani ovunque nel mondo ,
+							ITWAC	civile della nostra Nazione ed alla costruzione di una società dove la dignità umana non sia calpestata o derisa da	pseudo-valori	.
+							ITWAC	Tali principi universali , spirituali , sono stati gradualmente e progressivamente abbandonati e sostituiti con	pseudo-valori	, effimeri e illusori .
+							ITWAC	autonomia del giudice , lo renderanno schiavo di	pseudo-valori	quali la produttività , il consenso , la carriera .
+							ITWAC	nell accogliere solo i germi dello Spirito , le sue indicazioni e non le illusioni , gli anti-valori o gli	pseudo-valori	del mondo , come Maria tenda umile del Verbo , mossa solo dal soffio dello Spirito .
+							ITWAC	 lettere  su di una realtà aggredita dalla faziosità , travagliata da tensioni e contrasti , subdolamente blandita da	pseudo-valori	, condizionata da paternalistici vincoli .
+							ITWAC	Soprattutto perché , nonostante l avanzare della modernità con gli	pseudo-valori	di competizione , individualismo e materialismo pratico che impone senza darlo a vedere e che sono destinati a prendere ben
+							ITWAC	d. altri fenomeni di interesse Il diffondersi , anche in Italia , di aggregazioni settarie che si ispirano a	pseudo-valori	, sinora distanti dalla nostra tradizione religiosa , sociale e culturale , ha sollecitato attenzione in quanto sintomatico di un
+							ITWAC	creature , non sceglieremmo la via della fiducia negli idoli , né organizzeremmo la nostra vita su una scala di	pseudo-valori	fragili e inconsistenti .
+							ITWAC	al dettato paolino di non conformarsi al secolo , perché oggi i valori prevalenti ed esemplari per la massa sono	pseudo-valori	, e tali restano anche quando siano ammantati di « successo » .
+							ITWAC	prima di lui :  una resurrezione violenta del MITO , che esige la partecipazione ad una comunità definita da	pseudo-valori	arcaici : la razza , il sangue , il capo .
+							ITWAC	accenti sempre più scettici , ora si impegna a satireggiare , tra ironico e sarcastico , i miti e gli	pseudo-valori	del proprio tempo , specie nei due cicli di Satura ( termine latino che originariamente designava un  [ piatto
+							ITWAC	Resta da chiedersi se il successivo sviluppo sarà in direzione dell assorbimento nell universo degli	pseudo-valori	anche dei nuovi arrivati ( un lavoro in questo senso è stato avviato da tempo , sin nelle società d
+							ITWAC	Comandante ,  constatare che c è gente che per interessi personali , pubblicità , o in virtù dei vostri	pseudo-valori	capitalisti , è pronta a marciare sulla sofferenza di un popolo , come quello geffista da tempo afflitto dal problema
+							ITWAC	Adalgisa che in pagine di irresistibile comicità mette a nudo le abitudini , le manie , le preoccupazioni , gli	pseudo-valori	, le ipocrisie della borghesia milanese di fine secolo , a Eros e Priapo , implacabile satira del fascismo e
+							ITWAC	La capacità di lettura della realtà risulta deviata da	pseudo-valori	che si sono imposti in questi ultimi anni e le emozioni elicitate da queste letture non sempre trovano uno spazio
+							ITWAC	una persona che sia pericolosamente consapevole del non-essere di ciò che noi scambiamo per essere ( gli pseudo-bisogni , gli	pseudo-valori	, le pseudo-realtà di quell endemico inganno delle opinioni sulla vita , la morte ecc. ) ci fornisce , nell
+							ITWAC	i giovani , essi creano dei modelli , propongono idoli e definiscono la  normalità  attraverso un sistema di	pseudo-valori	.
+							REPUBBLICA	sincerità , la sua capacità di giudizio , il suo modo di governare , la filosofia e i valori o	pseudo-valori	che hanno portato al disastro venuto alla luce nelle ultime settimane .
+							REPUBBLICA	Noi non arriveremo alla felicità invocata dal film , fintanto che non ci decideremo ad abbandonare certi nostri	pseudo-valori	, e non saremo capaci di creare un argine che distingua davvero l onestà dalla disonestà , il bene dal
+
+9	0	0	pseudo-vincoli	entità		x
+							ITWAC	Libertà sovrastorica significa agire in un tempo locale con una struttura temporale globale , olistica , non sottomessa a	pseudo-vincoli	epocali .
+							ITWAC	consente di rilevare e determinare gli pseudo-vincoli e le loro violazioni in una base di dati in cui sono presenti	pseudo-vincoli	.
+							ITWAC	Si tratta di un metodo che consente di rilevare e determinare gli	pseudo-vincoli	e le loro violazioni in una base di dati in cui sono presenti pseudo-vincoli .
+							ITWAC	maniera completamente automatica tutti gli pseudo-vincoli in essa presenti individuando anche le porzioni della base di dati che violano tali	pseudo-vincoli	.
+							ITWAC	possibile , partendo da una base di dati con una struttura arbitraria , estrarre in maniera completamente automatica tutti gli	pseudo-vincoli	in essa presenti individuando anche le porzioni della base di dati che violano tali pseudo-vincoli .
+							ITWAC	pseudo-vincoli è realizzabile in un semplice prodotto software che riceve in ingresso basi di dati e ne trova automaticamente gli	pseudo-vincoli	e le relative eccezioni .
+							ITWAC	Campo di applicazione Il metodo degli	pseudo-vincoli	è realizzabile in un semplice prodotto software che riceve in ingresso basi di dati e ne trova automaticamente gli pseudo-vincoli
+							ITWAC	L interesse degli	pseudo-vincoli	è molteplice : si va dal rivelamento di situazioni anomale nel dominio reale di cui la base di dati contiene
+							ITWAC	e nel data mining è in grado di estrarre da una base di dati il tipo di conoscenza rappresentata dagli	pseudo-vincoli	.
+							ITWAC	Stadio di sviluppo È disponibile uno strumento software che da la possibilità di applicare il metodo degli	pseudo-vincoli	su diverse piattaforme per la gestione di basi di dati , fra cui , Microsoft Access , PostgreSQL , e
+

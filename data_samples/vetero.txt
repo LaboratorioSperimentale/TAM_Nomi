@@ -1,0 +1,197 @@
+ITWAC	REPUBBLICA	WIKICONLL	ADV-N	semantica nome	serve contesto	valore prefisso	contesto
+0	0	24	vetero-cattolica	movimento		x
+							WIKICONLL	La Chiesa	vetero-cattolica	di Svezia e Danimarca è dal 1976 il membro svedese dell Unione di Utrecht , in piena comunione con la
+							WIKICONLL	La Cappella di Santa Gertrude fu scelta come cattedrale della Chiesa	vetero-cattolica	.
+							WIKICONLL	oppositori alla proclamazione del dogma dell infallibilità pontificia ; diede un importante contributo alla dottrina ed allo sviluppo della Chiesa	vetero-cattolica	.
+							WIKICONLL	in particolare venne criticato il dogma dell infallibilità papale , e in altri Paesi europei per dare vita alla Chiesa	vetero-cattolica	, alla Chiesa cattolica liberale e ad altre chiese minoritarie .
+							WIKICONLL	6 ottobre 1985 nella chiesa evangelica di Karlsruhe e da quel momento si trasferì a Bonn , sede della Diocesi	vetero-cattolica	di cui prese possesso il 21 giugno 1986 .
+							WIKICONLL	Da allora è sede suffraganea dell arcidiocesi	vetero-cattolica	di Utrecht .
+							WIKICONLL	Dall allontanamento dei tedeschi dei Sudeti si estinse la parrocchia	vetero-cattolica	di Varnsdorf , in precedenza costituita prevalentemente di tedeschi .
+							WIKICONLL	È cattedrale	vetero-cattolica	dal 1995 , anno della traslazione della sede episcopale ceca da Varnsdorf a Praga .
+							WIKICONLL	In quanto sede metropolitana della Chiesa	vetero-cattolica	dei Paesi Bassi , l arcidiocesi di Utrecht ha come suffraganee la Diocesi di Haarlem e la sede titolare di
+							WIKICONLL	Dopo la guerra la Chiesa	vetero-cattolica	croata fondò l  Unione delle Chiese vetero-cattoliche nella Repubblica socialista federale di Jugoslavia  . Nel 1975 la Chiesa
+							WIKICONLL	di Vienna e Ried im Innkreis , la parrocchia di Varnsdorf appartenne ad una delle prime fondazioni parrocchiali della chiesa	vetero-cattolica	nella monarchia danubiana .
+							WIKICONLL	La Chiesa	vetero-cattolica	di San Cipriano , di nuovo consacrata nel 1957 , si trova nella Adenauerallee .
+							WIKICONLL	di Utrecht (  Archidioecesis Ultraiectensis  , :  Aartsbisdom Utrecht  ) è la sede metropolitana della Chiesa	vetero-cattolica	dei Paesi Bassi ; è la più antica Chiesa locale vetero-cattolica , fondata da San Villibrordo .
+							WIKICONLL	Nel 2007 , col ceco Dušan Hejbal e l austria co Bernhard Heitz ha seguito la nascita della Chiesa	vetero-cattolica	in Ucraina .
+							WIKICONLL	La sua consacrazione a decimo vescovo della Chiesa	vetero-cattolica	in Germania è avvenuta il 20 marzo 2010 per mano del suo predecessore , coadiuvato dall arcivescovo di Utrecht Joris
+							WIKICONLL	Chiesa	vetero-cattolica	italiana .
+							WIKICONLL	gennaio 1882 , nella Chiesa Cattolica Nazionale Italiana , a seguito del Concilio Vaticano I e della nascita della Chiesa	vetero-cattolica	.
+							WIKICONLL	Nel 2007 , col tedesco Joachim Vobbe e l austria co Bernhard Heitz ha seguito la nascita della Chiesa	vetero-cattolica	in Ucraina .
+							WIKICONLL	Nel 1984 fu rifondata la parrocchia	vetero-cattolica	in Alsazia , che insieme alle altre parrocchie francesi si pose sotto la giurisdizione della Conferenza episcopale vetero-cattolica internazionale .
+							WIKICONLL	Steenoven morì sei mesi dopo la sua consacrazione a Leida e fu sepolto nella Chiesa	vetero-cattolica	di Warmond .
+							WIKICONLL	La Conferenza episcopale	vetero-cattolica	internazionale decise che la cattedrale sarebbe stata posta sotto la diretta giurisdizione dell Arcivescovo di Utrecht , creando così un
+							WIKICONLL	Vi celebra anche la comunità	vetero-cattolica	di Roma .
+							WIKICONLL	Altri precursori della Chiesa	vetero-cattolica	italiana sono Filippo Cicchitti Suriani ( 1861 - 1944 ) , che fondò , a Milano , il Centro Culturale
+							WIKICONLL	causa del rifiuto di tornare in piena comunione con quelle Chiese che praticavano l ordinazione delle donne e la Chiesa	vetero-cattolica	in Slovacchia si separò dall Unione , mentre la Cattedrale di San Giovanni di Toronto si riconciliò .
+							WIKICONLL	Chiesa	vetero-cattolica	d Austria .
+							WIKICONLL	La Cattedrale di Santa Gertrude è la cattedrale dell Arcidiocesi di Utrecht della Chiesa	vetero-cattolica	dei Paesi Bassi .
+							WIKICONLL	la parrocchia vetero-cattolica in Alsazia , che insieme alle altre parrocchie francesi si pose sotto la giurisdizione della Conferenza episcopale	vetero-cattolica	internazionale .
+							WIKICONLL	Il titolo di Vescovo di Deventer è stato portato da vescovi della Chiesa	vetero-cattolica	dei Paesi Bassi tra il 25 gennaio 1758 e il 6 febbraio 1982 .
+
+0	0	6	vetero-cattolicesimo	movimento		x
+							WIKICONLL	Nel	vetero-cattolicesimo	.
+							WIKICONLL	dal sacerdote , storico e teologo Ignaz von Döllinger ( che in seguito divenne uno dei più illustri esponenti del	vetero-cattolicesimo	) si attaccò direttamente il Magistero della Chiesa Cattolica , affermando che esso costituisse un ostacolo al progresso delle scienze
+							WIKICONLL	Il	vetero-cattolicesimo	è la dottrina cristiana professata dall insieme delle comunità cattoliche che si separarono dalla Chiesa romana nel 1870 – 1871
+							WIKICONLL	Al di fuori dell Unione di Utrecht esistono molte Chiese che si rifanno al	vetero-cattolicesimo	o al cattolicesimo indipendente , con posizioni dottrinali e disciplinari molto variegate .
+							WIKICONLL	Nel 1999 si convertì al	vetero-cattolicesimo	( diventando curato per il Vorarlberg ) e si sposò con Edith Schreiner .
+							WIKICONLL	In Boemia , in particolare nelle città industriali del nord , il	vetero-cattolicesimo	si diffuse fin dal 1871 .
+							WIKICONLL	Nel 1957 si convertì al	vetero-cattolicesimo	, e il 27 giugno 1958 fu ordinato presbitero dal vescovo Stefan Török .
+							WIKICONLL	Il	vetero-cattolicesimo	prevede anche il culto di Maria , ma respinge i dogmi dell Immacolata Concezione e dell Assunzione .
+							WIKICONLL	In questa fase non si può ancora parlare rigorosamente di	vetero-cattolicesimo	o di Unione di Utrecht .
+							WIKICONLL	In questa seconda fase il	vetero-cattolicesimo	( che assume questo nome dopo la restaurazione di una gerarchia romana ufficiale nei Paesi Bassi nel 1853 ) rimane
+							WIKICONLL	Dopo il Concilio Vaticano I il	vetero-cattolicesimo	si diffonde in altri Paesi d Europa ( Germania , Svizzera , Impero austro-ungarico ) , finché il 24 settembre
+							WIKICONLL	Nel 1996 ricevette il Dottorato di ricerca in Teologia storica del	vetero-cattolicesimo	presso l Accademia teologica cristiana di Varsavia .
+							WIKICONLL	Varnsdorf svolse un ruolo centrale nella storia del	vetero-cattolicesimo	nell impero austro-ungarico .
+
+0	0	25	vetero-cattolici	movimento		x
+							ITWAC	negli anni 50 bastava la cappellania del Ricovero , poi si è passati nella più grande e centrale chiesa dei	vetero-cattolici	presso la stazione e quindi nella ampia cappella della nuova sede di Missione ed ora nella grande ed accogliente Marienkirche
+							REPUBBLICA	Stringe la mano al Papa il vescovo dei	vetero-cattolici	, che ruppero con Roma cento anni fa disgustati per la proclamazione dell infallibilità papale .
+							WIKICONLL	Il rapporto con i	vetero-cattolici	di Utrecht durò quasi trent anni , fino al disaccordo sull introduzione dell ordinazione delle donne e di altre questioni
+							WIKICONLL	Anche altri gruppi cristiani hanno rifiutato il  Filioque  ; in particolare bisogna citare il caso dei	vetero-cattolici	, che accettano la validità dei primi sette concili ecumenici , rifiutando le dottrine cattoliche successive .
+							WIKICONLL	A livello internazionale fu segretario dal 1913 al 1938 dei Congressi	vetero-cattolici	internazionali , dal 1924 al 1955 fu segretario della Conferenza episcopale vetero-cattolica internazionale dell Unione di Utrecht e partecipò alle
+							WIKICONLL	Oltre al Congresso , dal 1950 si tengono ogni 1-2 anni Incontri Internazionali teologici	vetero-cattolici	, il cui obiettivo è quello di contribuire ad un approfondimento della fede in un terreno comune di confronto con
+							WIKICONLL	Ciononostante , fino al 1858 tutti gli arcivescovi	vetero-cattolici	eletti notificarono la loro elezione al Papa e fino al Concilio Vaticano I non si considerarono separati dalla Chiesa di
+							WIKICONLL	1705 la cronologia è perfettamente coincidente con quella cattolica ; l unica differenza è il titolo arcivescovile , che i	vetero-cattolici	riconoscono anche ai vescovi da Sasbout Vosmeer a Petrus Codde .
+							WIKICONLL	I	vetero-cattolici	organizzarono tra il 1871 e il 1873 tre incontri ecumenici internazionali ( i congressi di Monaco di Baviera , Colonia
+							WIKICONLL	, la dichiarazione di Norimberga contro il Concilio Vaticano I , e da allora si dedicò interamente alla causa dei	vetero-cattolici	, che il 4 giugno 1873 lo elessero a Colonia come loro primo vescovo .
+							WIKICONLL	I Congressi vetero-cattolici internazionali sono libere riunioni di	vetero-cattolici	, che mira a rafforzare la cooperazione tra i vari membri dell Unione di Utrecht .
+							WIKICONLL	I Congressi	vetero-cattolici	internazionali sono libere riunioni di vetero-cattolici , che mira a rafforzare la cooperazione tra i vari membri dell Unione di
+							WIKICONLL	2004 è a capo del gruppo dei delegati vetero-cattolici della commissione preparatoria per la prosecuzione del dialogo tra ortodossi e	vetero-cattolici	.
+							WIKICONLL	I vescovi	vetero-cattolici	generalmente non sono tenuti al celibato .
+							WIKICONLL	Il tedesco Joseph Hubert Reinkens si fece eleggere primo  vescovo cattolico dei	vetero-cattolici	 .
+							WIKICONLL	Lì lavorò come curatore d anime parrocchiale e infine come decano dei	vetero-cattolici	del Baden settentrionale fino alla sua elezione a ottavo vescovo vetero-cattolico tedesco il 27 maggio 1985 .
+							WIKICONLL	la Conferenza episcopale vetero-cattolica internazionale e la Conferenza di Lambeth hanno creato il Consiglio internazionale di coordinamento tra anglicani e	vetero-cattolici	, riunito- si per la prima volta nel 1999 .
+							WIKICONLL	Dal 2004 è a capo del gruppo dei delegati	vetero-cattolici	della commissione preparatoria per la prosecuzione del dialogo tra ortodossi e vetero-cattolici .
+							WIKICONLL	La successione apostolica della maggior parte dei vescovi contemporanei viventi della Chiesa cattolica liberale , mariaviti , e	vetero-cattolici	, di parte dei vescovi anglicani e luterani e di gran parte degli  Episcopi vagantes  deriva dalle ordinazioni
+							WIKICONLL	, datata 23 marzo 1875 , e dedicata alla difficile situazione della Chiesa in Svizzera , funestata dalla presenza dei	vetero-cattolici	,  « Figli delle tenebre »  , che il Papa condanna nuovamente ; e dalle leggi statali che
+							WIKICONLL	Nel comune di Linz ci sono circa 500	vetero-cattolici	.
+							WIKICONLL	La rottura definitiva si ebbe nel 1873 , quando i	vetero-cattolici	tedeschi ( 21 sacerdoti e 56 laici ) elessero loro vescovo Joseph Hubert Reinkens , il quale ricevette l ordinazione
+							WIKICONLL	Nel 1880 è stata istituita la cattedra episcopale per i	vetero-cattolici	austria ci , dal 1897 con sede a Varnsdorf , sede che rimarrà alla Chiesa cecoslovacca dal 1920 , quando
+							WIKICONLL	Da quel momento risiede a Bonn , sede dei Vescovi	vetero-cattolici	tedeschi dal 1873 .
+							WIKICONLL	Sono membri ordinari con diritto di voto tutti i	vetero-cattolici	, e membri straordinari gli appartenenti ad altre Chiese cristiane .
+							WIKICONLL	Villibrordo è un insieme di società nazionali nate allo scopo di promuovere la consapevolezza e la cooperazione tra anglicani e	vetero-cattolici	.
+							WIKICONLL	Benché Chlodwig simpatizzasse per le posizioni dei	vetero-cattolici	egli non si unì mai a loro , ritenendo che l unica speranza in una riforma della Chiesa potesse risiedere
+							WIKICONLL	Con Henricus van Vlijmen è stato uno dei primi vescovi	vetero-cattolici	a partecipare alla consacrazione di vescovi anglicani dopo la firma degli Accordi di Bonn .
+
+0	5	0	vetero-comunismo	movimento		x
+							ITWAC	nsulti in anonimo nei blog ( tipo questo ) , chi taccia i sostenitori del SI di ateismo , di	vetero-comunismo	o di radicalismo senza neanche farsi venire un ragionevole dubbio sull esattezza di queste affermazioni ( che nel mio caso
+							ITWAC	le sale del Cremlino , urlando contro il Protocollo di Kyoto , accusando i suoi sostenitori di nazismo e di	vetero-comunismo	.
+							ITWAC	Loro , i cinesi , a metà del guado tra	vetero-comunismo	e turbo-capitalismo , puntano a frenare l avanzata col dirigismo .
+							REPUBBLICA	la mitica  classe  continua a sfaldar- si e ragiona con criteri sempre più lontani da quelli che il	vetero-comunismo	non si stanca di appiccicar- le addosso .
+							REPUBBLICA	poco più tardi una stizzita replica : Abbiamo ascoltato un discorso aggressivo , offensivo , truculento , una esibizione di	vetero-comunismo	che mal si addice ad un inventore di cose nuove .
+							REPUBBLICA	È spesso partigiana , odora di stantio , di muffe che si celano nelle cantine umide del vecchio	vetero-comunismo	ed è perfettamente allineata a quelle pretese , che sfiorano l arroganza , proprie di una sinistra che non ha
+							REPUBBLICA	una vera e propria campagna di interferenze nella vita interna del partito , una campagna che ha le stigmate del	vetero-comunismo	: in questo modo non si apriranno strade di unità ma solo i sentieri tortuosi di ulteriori divisioni  .
+							REPUBBLICA	E non dite- ci che questo è	vetero-comunismo	.
+							WIKICONLL	Manifesto  in un articolo dal titolo « Chi sono i padri delle Brigate rosse » accusa i brigatisti di	vetero-comunismo	.
+
+0	14	0	vetero-comunista	movimento		x
+							ITWAC	; anna se può mi spara , io se la vedo la strangolo ; digrumante mi da del pezzo di	vetero-comunista	e io lo sbeffeggio , ecc ecc. non ci sono gerarchie : ci sono due comandanti , GPaolo Faccani e
+							ITWAC	Il massimo del vecchiume , per di più di sapore statalista e	vetero-comunista	.
+							ITWAC	a realizzare per il  Il Corriere dei Piccoli  ; sarà poi la volta di Cipputi , operaio metalmeccanico	vetero-comunista	e disincantato , destinato ad una straordinaria fortuna .
+							ITWAC	José Saramago è rimasto un	vetero-comunista	.
+							ITWAC	molti il nemico sia diventato il  pacifista  , inteso genericamente , senza alcun distinguo , come un subdolo	vetero-comunista	incallito filoserbo .
+							ITWAC	continuare a votarli e di far finta che vada tutto bene , in virtù , forse , di un idea	vetero-comunista	sul significato di essere di sinistra , per la quale le critiche sono sempre distruttive !
+							ITWAC	Della Serbia  liberata  ne ho sentito parlare molto negativamente da una collega serba ( giovane e non	vetero-comunista	) .
+							ITWAC	) con l esumazione della tassa patrimoniale , della tassa sulle successioni e sulle donazioni , di tutto il ciarpame	vetero-comunista	cui , per interesse o per intima convinzione , la sinistra non può rinunciare .
+							ITWAC	, tramite il suo organo di informazione ufficiale ,  L Osservatore Romano  , definendo lo scrittore  un	vetero-comunista	 animato da una  visione sostanzialmente anti-religiosa  dei problemi .
+							ITWAC	Se qualcuno ancora crede nell uguaglianza	vetero-comunista	( ora colorata di verde , ora di rosso ) , ma che si è dimostrato consistere in  tutti
+							ITWAC	schieramento dell opposizione sembrano essere ormai escluse le componenti riformiste e prevalere invece quelle più ideologiche e oltranziste di stampo	vetero-comunista	.
+							ITWAC	Non ho mai aderito a nessuna ideologia di stampo	vetero-comunista	, ma vi siete mai fatti un giro per le periferie di Napoli , Roma , Palermo o Torino ?
+							ITWAC	essere riconosciuta : che ci volete fare , siamo ancora , in buona parte , prigionieri di una casta politica	vetero-comunista	.
+							REPUBBLICA	Col che non voglio dire che Ferrara sia un	vetero-comunista	, rovesciato ...
+							REPUBBLICA	Ovvero Ferrini è il	vetero-comunista	in crisi d identità e sfortunato con le donne , Frassica varia sui soliti lapsus verbali , Boldi è il
+							REPUBBLICA	una forte componente  autoritaria  ; se , quand era ancora in Urss , preferiva i toni russofili della	vetero-comunista	Moloda gvardija alla linea  liberale  ( nella misura del possibile ) di Novyj mir ; se di libertà
+							REPUBBLICA	Se poi D Alema sceglierà di arroccar- si in una posizione	vetero-comunista	, sarà un danno per tutti .
+							REPUBBLICA	scritto una montagna di romanzi e racconti ispirati alla vita dei contadini-operai-soldati , la triade vincente della letteratura di propaganda	vetero-comunista	.
+							REPUBBLICA	E si teme che la leadership	vetero-comunista	cerchi una via di uscita mobilitando l immenso apparato militare , ricorrendo alla guerra , attaccando il Sud .
+							REPUBBLICA	così , che dice cose del genere , sareste subito portati a pensare che è un comunista , o un	vetero-comunista	, o un nostalgico dei tempi della rivoluzione come professione e del privato che è politico .
+							REPUBBLICA	Insomma chi è un diverso , oggi : l anti , il post , l ex , il	vetero-comunista	?
+							REPUBBLICA	Controprova sulla consistenza	vetero-comunista	: favorevoli a una società senza classi il 27 per cento ; fautori del collettivismo il 12 ; per l
+							REPUBBLICA	Paradossalmente il vecchio Honecker , il	vetero-comunista	Honecker , l Honecker che ricorda Brecht dimenticando il sarcasmo di Brecht per il potere che lui , Honecker ,
+							REPUBBLICA	Si parla molto in questi giorni di due sinistre : una liberal-riformista e l altra	vetero-comunista	.
+							REPUBBLICA	Crede che l immagine di Zjuganov come leader di un partito più socialdemocratico che	vetero-comunista	sia un bluff ?
+							REPUBBLICA	Occhetto , si parte insieme agli ambientalisti , a quelli di Rifondazione che lasceranno Cossutta solo con la sua bandiera	vetero-comunista	.
+							WIKICONLL	chiave comica , è la commedia  Selvaggi  del 1995 , diretta da Carlo Vanzina , nella quale il	vetero-comunista	Nardone , interpretato da Antonello Fassari , viene mostrato come affetto da un antiberlusconismo viscerale che sfiora la paranoia .
+
+0	5	0	vetero-comunisti	movimento		x
+							ITWAC	2004 0:12 Ah certo , arborio , dimenticavo gli USA , causa unica di tutti i mali del mondo per	vetero-comunisti	, no global , fascisti , nazisti , islamici e altri millenaristi assortiti ...
+							ITWAC	rode un po il fegato che a impediglierlo siano stati malgrado tutto anche i comunisti , i postcomunisti , i	vetero-comunisti	, gli ex comunisti , i neo comunisti e i comunisti che non si dicono tali ma agiscono subdolamente come
+							ITWAC	Ad affollare questa assortita coalizione ci sono poi i gruppi che aleggiano nel pulviscolo dei	vetero-comunisti	, dei neo-comunisti alternativi e dei movimenti ambientalisti .
+							ITWAC	il laburismo liberista di Blair , la corsa al centro , in stile democratico-clintoniano , non si addicono a burocrati	vetero-comunisti	, rammolliti dalla passività ideologica e con un indole non certo votata al salto dell ostacolo di una storia morta
+							ITWAC	l Europa e per il mondo questo , che non viene mai contestato il naufragio economico , e perciò i	vetero-comunisti	sono diventati senza esitazione liberali in economia ; invece la problematica morale e religiosa , di cui propriamente si trattava
+							ITWAC	essere coerenti e non ipocriti come purtroppo spesso fanno i pseudo pacifisti no global , social forum , neo e	vetero-comunisti	.
+							ITWAC	storia recente del loro partito : l una con libertà e intelligenza , l altro con tutti i difetti dei	vetero-comunisti	Vittorio Foa rivolge a Miriam Mafai e ad Alfredo Reichlin ( che sono stati per lunghi anni dirigenti del Pci
+							ITWAC	dirti che quando mi sembra di scorgere un atteggiamento anti-israeliano di bandiera , che e uguale a quello filo-palestinese dei	vetero-comunisti	senza che chi la esprime sappia di cosa parla , mi incazzo .
+							ITWAC	di superare l attuale impasse tra opposti schieramenti che raccolgono ideologismi disparati , a destra come a sinistra ( dai	vetero-comunisti	ai nostalgici fascisti ) .
+							ITWAC	Ancor più mi sembra degna di indagine la ragione per cui tu e altri tichettat come	vetero-comunisti	, incapaci di cogliere il nuovo , trinariciuti , ideologizzati , etc. coloro che si trovano a proporre letture estremamente
+							ITWAC	tiene insieme destra , centro e sinistra liberale , dall altra i post - comunisti di D Alema , i	vetero-comunisti	di Cossutta , i neo-comunisti di Bertinotti e i partiti loro satelliti  .
+							ITWAC	infine di Pietroburgo non è per niente estraneo quel grande capitalismo che , secondo gli ingenui ( e gli ideologi	vetero-comunisti	) , sarebbe un fattore di stabilità controrivoluzionaria , un nemico implacabile della sovversione  di sinistra  .
+							ITWAC	evidenziato come  a dispetto del titolo provocatorio e di alcune frasi , che lette isolatamente farebbero pensare ad autori	vetero-comunisti	, il libro esce dalla testa di liberisti veri che però usano un linguaggio inusuale per gli economisti liberali
+							ITWAC	perche la guerra , dici , e aggiungi che solo i	vetero-comunisti	si chiedono perche questa guerra si , ed altre no , e sono contrari all escalation militare .
+							ITWAC	condividiamo ampiamente , sono necessari per determinare una svolta positiva nell Ue in opposizione netta con quanto è sostenuto dai	vetero-comunisti	, dai post-comunisti , dai catto-comunisti che Prodi rappresenta alla guida di uno degli schieramenti più conservatori oggi presenti in
+							ITWAC	Allora Bossi tuona che sono i	vetero-comunisti	che dividono ancora il popolo , che invece è unito , in occupati , disoccupati , precari , pensionati .
+							REPUBBLICA	in una funzione di opposizione permanente e senza prospettiva è , infatti , il sogno ricorrente e non biodegradabile dei	vetero-comunisti	.
+							REPUBBLICA	al conflitto , se è vero che come mosche cocchiere intorno al corteo di ieri non mancavano neppure gruppetti di	vetero-comunisti	col loro volantino intitolato :  Appoggiamo le richieste delle comunità islamiche  .
+							REPUBBLICA	più temibile lo schieramento che ha avuto di fronte Gorbaciov e i rischi che ha dovuto correre : i settori	vetero-comunisti	del suo partito innanzi tutto , gli interessi politici che si raccolgono attorno allo sviluppo dell industria degli armamenti ,
+							REPUBBLICA	Con un sapiente ma indecoroso giochino di  stop and go  tra Camera e Senato , sia i	vetero-comunisti	di Rifondazione sia gli statalisti di Alleanza nazionale , qua e là spalleggiati da Forza Italia , mettono bastoni tra
+							REPUBBLICA	Per chiarire anche agli spiriti più sofferti fra i nostri	vetero-comunisti	mutati in slavofili a oltranza nonché ai pacifisti d ogni ispirazione che la guerra nei Balcani non l ha portata
+							REPUBBLICA	fedelissimi di Occhetto , pronti a sottolineare il compattamento della maggioranza e anche , con involontario sollievo , i toni	vetero-comunisti	degli oppositori ; i miglioristi , convinti di avere indotto il segretario a indicare con chiarezza lo sbocco postcomunista della
+							REPUBBLICA	Davvero un gesto eccezionalmente democratico per dei	vetero-comunisti	 , scrive .
+							REPUBBLICA	Presumo che Forattini -- che non da oggi continua a rappresentare i dirigenti Pds come trinariciuti	vetero-comunisti	-- abbia ragionato ( si fa per dire !
+
+0	4	0	vetero-femminismo	movimento		x
+							ITWAC	il mio poteva sembrare	vetero-femminismo	.
+							ITWAC	, sintesi tutt  altro che stupide del bisogno di emancipazione , sono ormai i patetici resti archeologici di un	vetero-femminismo	piazzaiolo che invece di evolversi , studiare e diventare pungolo politico permanente , ha colto l attimo fuggente e poi
+							ITWAC	È lo stesso	vetero-femminismo	sponsor della legge che oggi , 26 anni dopo , ha ancora il coraggio di dire che è stata una
+							ITWAC	in atto in tutto il mondo , di rinnovare il dibattito sulla parità , finalmente liberato dai rigidi schemi del	vetero-femminismo	e dell ideologia terzomondista .
+							ITWAC	mi pare	vetero-femminismo	...
+							ITWAC	- conclude la nota dell Andit - l impressione che se ne ricava e che la Prestigiacomo sia permeata di	vetero-femminismo	azzerato dalla militanza in Forza Italia , per cui invece di preoccuparsi di aprire spazi adeguati ad una vera partecipazione
+							ITWAC	alla pittrice del Seicento che sintetizza nella sua opera  natura morta  e disegno scientifico N on è ideologico	vetero-femminismo	affermare quanto le donne nell arte , almeno prima di una certa epoca , siano state , salvo rare eccezioni
+							REPUBBLICA	Lo slogan non è il manifesto del	vetero-femminismo	formato canzonetta , ma un omaggio coniato per salutare la prima rassegna italiana della musica al femminile intitolata Canzone d
+							REPUBBLICA	Rosso di sera , la rubrica quotidiana in onda alle 19 su RaiDue , lunedì scorso Guzzanti aveva parlato di	vetero-femminismo	come parolaio e un po cialtronesco e aveva definito orrenda parolaccia il termine eco-femministe e profondamente imbecilli le opinioni secondo
+							REPUBBLICA	Non è	vetero-femminismo	il mio , ma non mi sembra neanche così pacifica l innocenza dei due accusati .
+							REPUBBLICA	Anche quella volta si parlò di	vetero-femminismo	, visto che in  Camille  c erano solo donne  .
+
+0	10	0	vetero-marxismo	movimento		x
+							ITWAC	Vendola di	vetero-marxismo	; non è  falce e martello  soltanto , forse è più opportuno parlare di  falce e spinello
+							ITWAC	Tuttavia , possiamo dargli credito di non essere così sempliciotto e semplicistico da voler riproporre paro paro un	vetero-marxismo	assurdo e anche eccessivamente generico .
+							REPUBBLICA	Ma per tutto il resto rimangono ancorati ad un	vetero-marxismo	tra l ingenuo e lo sclerotizzato , con tratti patetici nei riguardi dello stato guida , l Unione Sovietica :
+							REPUBBLICA	In Africa sembra aver scoperto che anche dei governi ispirati al marxismo , come nello Zimbabwe , o addirittura a	vetero-marxismo	, come in Mozambico , possono esercitare le virtù cristiane .
+							REPUBBLICA	vengono dai quattro punti cardinali del pianeta , confermano quanto già si sapeva da gran tempo e che solo il	vetero-marxismo	si ostina ancora a negare : il capitalismo democratico ha sempre registrato positivamente tutti i fatti di progresso , la
+							REPUBBLICA	Saremmo quasi tentati da un rigurgito di	vetero-marxismo	di fronte a tanto scempio , a tanta cecità da parte della classe dirigente italiana .
+							REPUBBLICA	un vero e proprio comitato d affari : questa è la verità nuda e cruda e se c è un	vetero-marxismo	, esso si annida ormai interamente nella maggioranza di governo e nello spurio capitalismo di Stato che essa coltiva come
+							REPUBBLICA	, il ministro dell Industria si lascia sfuggire un sospiro di sollievo : Abbiamo sconfitto un pregiudizio che sapeva di	vetero-marxismo	dice e cioè quello di chi vede nell industria il grande nemico .
+							REPUBBLICA	di bilancio -- dimostra tutta la storia economica europea degli anni recenti -- riescono infatti a sgonfiare i fantasmi del	vetero-marxismo	neocapitalista e assetato solo di soldi parastatali e paleoborghesi ...
+							REPUBBLICA	C è , alle sue spalle e dentro la sua testa , un impasto di	vetero-marxismo	che fa paura .
+							REPUBBLICA	Segni ha sfidato  gli uomini della sinistra a scegliere chiaramente e definitivamente tra le posizioni vecchie e superate del	vetero-marxismo	e la costruzione di un Italia moderna e occidentale  .
+							REPUBBLICA	italiane , le critiche del commentatore della  Stampa  appaiono ancor meno convincenti , tanto da sembrare intrise di	vetero-marxismo	sul peso determinante che avrebbero gli schieramenti di classe nella lotta politica .
+
+0	6	0	vetero-marxista	movimento		x
+							ITWAC	di cui al testo unico in materia di espropriazione per pubblica utilità varato nel 2001 soggiace ancora a qualche mito	vetero-marxista	, ed è suscettibile di realizzare addirittura la collettivizzazione dei mezzi di produzione di sovietica memoria .
+							ITWAC	alternativa e molta gestione dello status quo , dicendosi però , a parole , diversi ; dall altra l inefficacia	vetero-marxista	, da piccolo-borghesi che si sfogano per tornare funzionali al sistema .
+							ITWAC	Significa anche che tutta una cultura	vetero-marxista	non regge più , così come certe parole d ordine di un politichese un po estremista sono inadeguate ad esprimere
+							ITWAC	 Questa affermazione può apparire come una provocazione	vetero-marxista	( l utilizzo del termine  padronato  , poi , è veramente out nell attuale contesto ideologico dominante 
+							ITWAC	Non è nemmeno un giudizio di valore , è un dato di fatto , anche di fronte ad un analisi	vetero-marxista	.
+							ITWAC	Si è discusso del fallimento dell ideologia fabbricatoria	vetero-marxista	e vetero-capitalista .
+							ITWAC	numerosi detrattori della massoneria in terra d Italia : dalla destra ( neo-fascista e clerico-codina ) , dalla sinistra (	vetero-marxista	, neo-stalinista , catto-comunista e post-comunista ) , dal centro panclericale in tutte le sue varianti ( parrocchiali , opusdeiste
+							ITWAC	formazione del consenso e in generale dei processi politici e sociali nelle società moderne , in contrapposizione alla schematica lettura	vetero-marxista	basata sulle classi .
+							ITWAC	da pensare che anche in Italia non operino multinazionali e finanza internazionale ; nessuno ne vuole , in un disegno	vetero-marxista	, l abbattimento e la cancellazione .
+							ITWAC	deve intenderlo perché nel momento in cui si fa un discorso retrivo , retrogrado ,	vetero-marxista	, allorché si dà una certa immagine ( tutti ricorderanno Bertinotti quando si fece fotografare insieme al subcomandante Marcos con
+							ITWAC	So bene ad esempio che un tale interrogativo potrebbe facilmente contenere un mio desiderio	vetero-marxista	di semplicistici rispecchiamenti fra strutture economico-sociali e sovrastrutture culturali .
+							ITWAC	popolari e libri a cavallo tra la biografia intimista e la filosofia spicciola ; accusata in Occidente di essere 	vetero-marxista	 , guida la Sinistra Unita Jugoslava ( JUL ) , una coalizione di forze di tendenza variegata , dai
+							ITWAC	Forse colpa di una concezione arcaica o	vetero-marxista	del termine  impegno  .
+							REPUBBLICA	un capo politico - militare e un simbolo della lotta di un popolo ( al di là della sua ideologia	vetero-marxista	e della durezza dei suoi comportamenti , ai limiti della ferocia ) non muta la sua posizione .
+							REPUBBLICA	Definizione , quest ultima , che dirà più tardi il presidente , mi varrà l accusa di essere un	vetero-marxista	.
+							REPUBBLICA	incarico già all inizio del congresso è preoccupato soprattutto che Democrazia proletaria si ritrovi da sola con il suo orgoglio	vetero-marxista	: Mi chiedo se gli ecologisti , gli animatori del volontariato , i cristiani di base avranno ancora voglia di
+							REPUBBLICA	dal moto di baldanza che tale successo ha suscitato ; mentre nella Germania dell Est è stato esorcizzato dall ortodossia	vetero-marxista	, nelle maglie di schemi esplicativi tanto più categorici quanto più riduttivi e di facile maneggio .
+							REPUBBLICA	i suoi spot di regime che stanno inondando , con soldi pubblici , i media e che propalano una cultura	vetero-marxista
+							REPUBBLICA	Il bersaglio di tanto accanimento non è da meno : Occhetto dà i numeri , Occhetto	vetero-marxista	, Pci non più partito di sinistra , metodi banditeschi ...
+							REPUBBLICA	titolo è preoccupante non solo per il tono ma perché rivela il permanere nella sinistra di governo di una visione	vetero-marxista	che individua , comunque , nell imprenditore un avversario naturale .
+							REPUBBLICA	consolidata di quella del Labour Party , che soltanto pochi giorni fa è arrivato a cancellare dallo statuto l imperativo	vetero-marxista	della nazionalizzazione dei mezzi di produzione ed è ancora pesantemente condizionato dal blocco di voti interni in mano ai sindacati
+							REPUBBLICA	ideologici e concettuali improntati , da una parte , all integralismo confessionale o al populismo , dall altra al dogmatismo	vetero-marxista	o al consociativismo , e più semplicemente al trasformismo .
+							REPUBBLICA	Per quanto riguarda l urbanistica -- ha aggiunto Prandini -- ci siamo prefissi di superare la concezione vigente	vetero-marxista	basata sul vincolismo assoluto rispetto ad una linea che privilegia il controllo delle amministrazioni locali ma anche la responsabilità attiva
+							REPUBBLICA	 E qui sì , che io torno	vetero-marxista	: io non considero la televisione come l elemento fondante della cultura del nostro Paese , ci sono tanti altri
+							REPUBBLICA	segno di protesta contro la  blindatura  di un provvedimento che l opposizione giudica  un attacco sconsiderato e	vetero-marxista	 alla sanità italiana e agli operatori del settore .
+							REPUBBLICA	Così quella che avrebbe potuto costituire la prova provata dell assioma	vetero-marxista	, secondo cui  il governo è il comitato d affari della borghesia  , si è risolta soprattutto in
+

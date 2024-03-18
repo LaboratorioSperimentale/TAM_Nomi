@@ -40,12 +40,14 @@ repubblica_map = {
              "VA": "AUX",
              "CC": "CCONJ",
              "R": "DET",
+             "RD": "DET",
              "I": "INTJ",
              "S": "NOUN",
              "SA": "NOUN",
              "N": "NUM",
 #             "": "PART",
              "P": "PRON",
+             "PD": "DET",
              "SP": "PROPN",
              "F": "PUNCT",
              "CS": "SCONJ",
@@ -85,6 +87,8 @@ wikiCoNLL_map = {
     "F": "PUNCT",
     "S": "NOUN",
     "R": "DET",
+    # "E": "ADP",
+    "EA": "DET",
     "E": "ADP",
     "A": "ADJ",
     "V": "VERB",
@@ -96,4 +100,24 @@ wikiCoNLL_map = {
     "X": "X",
     "T": "DET",
     "I": "INTJ"
+}
+
+
+categories_map = {
+    "condizione": "Qualification or Set of Circumstances",
+    "denominazione": "Denomination",
+    "destinazione/luogo/uso": "Place or function",
+    "documento": "Entity",
+    "entità": "Entity",
+    "evento": "Event",
+    "grado": "Rank",
+    "luogo": "Place or function",
+    "mestiere": "Job or Career",
+    "movimento culturale/politico": "Cultural or political movement",
+    "parentela": "Kinship",
+    "processo": "Process",
+    "ruolo": "Role",
+    "-": "-",
+    "x": "-",
+    "?": "?"
 }

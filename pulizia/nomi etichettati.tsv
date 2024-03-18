@@ -1,0 +1,1157 @@
+abitanti	condizione
+agente	mestiere
+agenti	mestiere
+albergo	destinazione/luogo/uso
+alleati	condizione
+alleato	condizione
+allenatore	mestiere
+allieva	condizione
+allievi	condizione
+allievo	condizione
+alunna	condizione
+alunni	condizione
+alunno	condizione
+amante	parentela
+amanti	parentela
+ambasciata	destinazione/luogo/uso
+ambasciatore	mestiere
+ambasciatori	mestiere
+ambasciatrice	mestiere
+amica	condizione
+amici	condizione
+amico	condizione
+amministratore	ruolo
+amministratori	ruolo
+ammiraglio	mestiere
+angelo	condizione
+arbitro	mestiere
+area	entità
+assessore	ruolo
+assessori	ruolo
+assistente	ruolo
+Associazione	condizione
+astronauta	mestiere
+atleta	mestiere
+atleti	mestiere
+attore	mestiere
+attrice	mestiere
+avversari	condizione
+avversario	condizione
+avvocato	mestiere
+azioni	entità
+azionista	condizione
+ballerina	mestiere
+bambini	condizione
+banchiere	mestiere
+banchieri	mestiere
+band	condizione
+base	destinazione/luogo/uso
+bassista	mestiere
+batterista	mestiere
+Beatle	condizione
+Birmania	denominazione
+birreria	destinazione/luogo/uso
+blocco	condizione
+boss	ruolo
+braccio	ruolo
+brigatisti	movimento culturale/politico
+burocrati	condizione
+calciatore	mestiere
+calciatori	mestiere
+cameriera	mestiere
+cameriere	mestiere
+campi	destinazione/luogo/uso
+campione	grado
+campioni	grado
+campo	entità
+cancelliere	mestiere
+candidato	condizione
+cantante	mestiere
+capi	ruolo
+capitale	condizione
+capitano	ruolo
+capo	ruolo
+capogabinetto	ruolo
+capogruppo	ruolo
+cappella	destinazione/luogo/uso
+carabiniere	mestiere
+carcerati	condizione
+carcerato	condizione
+carcere	destinazione/luogo/uso
+carnitiani	movimento culturale/politico
+Casa	destinazione/luogo/uso
+casa	destinazione/luogo/uso
+caserma	destinazione/luogo/uso
+cava	destinazione/luogo/uso
+Cavaliere	ruolo
+cavaliere	mestiere
+chiesa	destinazione/luogo/uso
+Chiesa	destinazione/luogo/uso
+chiostro	destinazione/luogo/uso
+chitarrista	mestiere
+ciclista	mestiere
+cinema	destinazione/luogo/uso
+circoscrizione	condizione
+cittadini	condizione
+cognato	parentela
+collaboratore	ruolo
+collaboratori	ruolo
+collaboratrice	ruolo
+collega	ruolo
+colleghi	ruolo
+collegio	destinazione/luogo/uso
+colonia	destinazione/luogo/uso
+colonie	destinazione/luogo/uso
+colonnello	mestiere
+comandante	mestiere
+combattente	mestiere
+combattenti	mestiere
+commando	condizione
+commilitone	ruolo
+commilitoni	ruolo
+commissario	mestiere
+compagna	parentela
+compagne	ruolo
+compagni	ruolo
+compagno	ruolo
+componente	condizione
+componenti	condizione
+comune	condizione
+comuni	condizione
+comunismo	movimento culturale/politico
+comunista	movimento culturale/politico
+comunisti	movimento culturale/politico
+coniuge	parentela
+coniugi	parentela
+consigliere	ruolo
+consiglieri	ruolo
+console	ruolo
+consoli	ruolo
+consorte	parentela
+consulente	mestiere
+consulenti	mestiere
+contestatori	condizione
+convento	destinazione/luogo/uso
+Convento	destinazione/luogo/uso
+Convenzione	-
+coppia	condizione
+corrispondente	mestiere
+corsisti	condizione
+Cotonificio	destinazione/luogo/uso
+datore	ruolo
+dc	movimento culturale/politico
+DC	movimento culturale/politico
+DDR	denominazione
+delfino	ruolo
+democristiani	movimento culturale/politico
+deportati	condizione
+deputati	ruolo
+deputato	ruolo
+detenuti	condizione
+detenuto	condizione
+difensore	ruolo
+dipendente	condizione
+dipendenti	condizione
+diplomatico	mestiere
+direttore	ruolo
+direttori	ruolo
+dirigente	ruolo
+dirigenti	ruolo
+discepoli	condizione
+dissidente	condizione
+distretti	condizione
+dittatore	ruolo
+enti	condizione
+esercito	condizione
+esponente	ruolo
+fabbrica	destinazione/luogo/uso
+fascista	movimento culturale/politico
+fascisti	movimento culturale/politico
+fedeli	condizione
+festività	condizione
+fiamma	condizione
+fidanzata	parentela
+fidanzato	parentela
+filanda	destinazione/luogo/uso
+finanziere	mestiere
+fortezza	destinazione/luogo/uso
+forzati	condizione
+fotomodella	mestiere
+franchisti	movimento culturale/politico
+frazione	condizione
+frontman	ruolo
+FS	denominazione
+fumatore	condizione
+fumatori	condizione
+funzionari	mestiere
+funzionario	mestiere
+galeotto	condizione
+garibaldino	movimento culturale/politico
+gay	condizione
+generale	mestiere
+generali	mestiere
+Germania	denominazione
+giocatore	mestiere
+giocatori	mestiere
+giocatrice	condizione
+giornalista	mestiere
+giovane	condizione
+giovani	condizione
+giudice	mestiere
+giudici	mestiere
+governatore	ruolo
+gruppo	condizione
+guardia	mestiere
+guardie	mestiere
+guerriglieri	mestiere
+hostess	mestiere
+imperatore	ruolo
+imperatrice	ruolo
+Imperatrice	ruolo
+impero	condizione
+Impero	condizione
+impiegata	mestiere
+impiegato	mestiere
+infermiere	mestiere
+ingegnere	mestiere
+insegnante	mestiere
+internati	condizione
+Istituto	destinazione/luogo/uso
+istituto	destinazione/luogo/uso
+Iugoslavia	denominazione
+jugoslavi	denominazione
+Jugoslavia	denominazione
+jugoslavia	denominazione
+ladro	mestiere
+lavoratori	condizione
+leader	ruolo
+legge	documento
+leghista	movimento culturale/politico
+luogotenente	mestiere
+maestro	mestiere
+Maestro	mestiere
+maggiore	ruolo
+Magistero	denominazione
+magistrato	mestiere
+manager	ruolo
+maresciallo	mestiere
+marine	mestiere
+mariti	parentela
+marito	parentela
+Mastino	-
+Mattatoio	destinazione/luogo/uso
+membri	ruolo
+membro	ruolo
+mentore	ruolo
+militante	movimento culturale/politico
+militanti	movimento culturale/politico
+militare	mestiere
+militari	mestiere
+minatore	mestiere
+minatori	mestiere
+ministero	denominazione
+ministri	ruolo
+ministro	ruolo
+Ministro	ruolo
+modella	mestiere
+mogli	parentela
+moglie	parentela
+monastero	destinazione/luogo/uso
+Monastero	destinazione/luogo/uso
+mondo	entità
+monopoli	condizione
+monopolio	condizione
+monopolista	grado
+monopolisti	grado
+nazista	movimento culturale/politico
+nazisti	movimento culturale/politico
+negoziatore	ruolo
+nemici	condizione
+nemico	condizione
+noleggio	destinazione/luogo/uso
+numero	grado
+onorevole	ruolo
+operai	mestiere
+operaio	mestiere
+oratorio	destinazione/luogo/uso
+orfanotrofi	destinazione/luogo/uso
+organo	condizione
+ospedale	destinazione/luogo/uso
+ostaggi	condizione
+ostaggio	condizione
+padrino	ruolo
+padrone	ruolo
+paese	condizione
+paesi	condizione
+palazzo	destinazione/luogo/uso
+Palazzo	destinazione/luogo/uso
+parà	mestiere
+parlamentare	ruolo
+parlamentari	ruolo
+partigiani	movimento culturale/politico
+partigiano	movimento culturale/politico
+partito	condizione
+partner	ruolo
+paziente	ruolo
+Pescheria	destinazione/luogo/uso
+pescheria	destinazione/luogo/uso
+pilota	mestiere
+piloti	mestiere
+pirata	mestiere
+PLI	denominazione
+pm	mestiere
+poliziotti	mestiere
+poliziotto	mestiere
+pontefice	ruolo
+portavoce	ruolo
+portiere	mestiere
+possedimenti	condizione
+poveri	condizione
+prefetto	ruolo
+premier	ruolo
+presentatore	ruolo
+presidente	ruolo
+Presidente	ruolo
+presidenti	ruolo
+Presidenti	ruolo
+prete	mestiere
+preti	mestiere
+PRI	movimento culturale/politico
+prigionieri	condizione
+Procura	destinazione/luogo/uso
+procuratore	ruolo
+professionisti	condizione
+professore	mestiere
+proletariato	condizione
+proprietari	condizione
+proprietaria	condizione
+proprietario	condizione
+prostituta	mestiere
+prostitute	mestiere
+protagonista	condizione
+protettore	ruolo
+province	condizione
+provincia	condizione
+PSI	denominazione
+pugile	mestiere
+questore	ruolo
+ragazza	parentela
+ragazzi	parentela
+ragazzo	parentela
+rappresentante	ruolo
+re	ruolo
+refettorio	destinazione/luogo/uso
+reggia	destinazione/luogo/uso
+regime	condizione
+regina	ruolo
+reginetta	ruolo
+regno	condizione
+repubblica	condizione
+Repubblica	condizione
+repubbliche	condizione
+residenza	destinazione/luogo/uso
+responsabile	ruolo
+ribelli	condizione
+rivale	condizione
+rivali	condizione
+sacerdote	mestiere
+sacerdoti	mestiere
+sala	destinazione/luogo/uso
+saltatore	mestiere
+satelliti	condizione
+scagnozzo	ruolo
+schiavi	condizione
+schiavo	condizione
+scuderie	destinazione/luogo/uso
+scuola	destinazione/luogo/uso
+sede	destinazione/luogo/uso
+segretari	ruolo
+segretaria	ruolo
+segretario	ruolo
+Segretario	ruolo
+seminarista	condizione
+senatore	ruolo
+sessantottina	condizione
+sessantottini	condizione
+sessantottino	condizione
+signora	condizione
+sindacalista	mestiere
+sindacalisti	mestiere
+sindaci	ruolo
+sindaco	ruolo
+sinistra	movimento culturale/politico
+soci	ruolo
+socialista	movimento culturale/politico
+socialisti	movimento culturale/politico
+socio	ruolo
+soldati	mestiere
+soldato	mestiere
+sottoproletariato	condizione
+sottosegretario	ruolo
+sovrano	ruolo
+spalla	ruolo
+speechwriter	mestiere
+spia	mestiere
+squadra	condizione
+stabilimenti	destinazione/luogo/uso
+stabilimento	destinazione/luogo/uso
+stagista	mestiere
+star	grado
+stazione	destinazione/luogo/uso
+stella	grado
+strega	mestiere
+studente	condizione
+studente	condizione
+studentessa	condizione
+studenti	condizione
+suora	mestiere
+superpotenza	grado
+tastierista	mestiere
+teatro	destinazione/luogo/uso
+tecnici	mestiere
+tecnico	mestiere
+tempo pieno/prolungato	condizione
+tenente	ruolo
+tennista	mestiere
+teppista	condizione
+territori	condizione
+terrorista	condizione
+terroristi	condizione
+tesoriere	ruolo
+tifosi	condizione
+tigri	movimento culturale/politico
+tossicodipendenti	condizione
+truppe	condizione
+uffici	destinazione/luogo/uso
+ufficiale	mestiere
+ufficiali	mestiere
+Ufficio	destinazione/luogo/uso
+ufficio	destinazione/luogo/uso
+Unione	denominazione
+uomini	condizione
+uomo	condizione
+URSS	denominazione
+Urss	denominazione
+US	denominazione
+USAF	denominazione
+veline	mestiere
+verdiglioniani	movimento culturale/politico
+vertici	ruolo
+via	destinazione/luogo/uso
+vice	ruolo
+vicedirettore	ruolo
+vicepresidente	ruolo
+vicesegretario	ruolo
+vicesindaco	ruolo
+villa	destinazione/luogo/uso
+viola	movimento culturale/politico
+vocalist	mestiere
+volontari	mestiere
+wrestler	mestiere
+Yugoslavia	denominazione
+Yuogoslavie	denominazione
+zar	ruolo
+acquisto	condizione
+alleati	condizione
+allenatore	mestiere
+ambasciatore	mestiere
+amministratore	ruolo
+aristotelismo	movimento culturale/politico
+assessore	ruolo
+assunti	condizione
+assunti	condizione
+assunto	condizione
+attore	mestiere
+autonomi	movimento culturale/politico
+autoritarismo	movimento culturale/politico
+avanguardia	movimento culturale/politico
+Avanguardia	movimento culturale/politico
+avanguardie	movimento culturale/politico
+azionista	condizione
+azionisti	condizione
+borghesia	condizione
+campione	grado
+campioni	grado
+cancelliere	ruolo
+candidato	condizione
+capitalismo	movimento culturale/politico
+capitano	ruolo
+capo	ruolo
+cardinale	mestiere
+cavalieri	mestiere
+centralismo	movimento culturale/politico
+centrismo	movimento culturale/politico
+centristi	movimento culturale/politico
+classica	movimento culturale/politico
+classicismo	movimento culturale/politico
+classicista	movimento culturale/politico
+classico	movimento culturale/politico
+colonialismo	movimento culturale/politico
+commissario	mestiere
+comunismo	movimento culturale/politico
+comunista	movimento culturale/politico
+comunisti	movimento culturale/politico
+comunitarismo	movimento culturale/politico
+conduttori	mestiere
+conservatore	movimento culturale/politico
+conservatori	movimento culturale/politico
+conservatorismo	movimento culturale/politico
+consigliere	ruolo
+consiglieri	ruolo
+consociativismo	movimento culturale/politico
+contrattualismo	movimento culturale/politico
+convertiti	condizione
+corporativismo	movimento culturale/politico
+cristiani	movimento culturale/politico
+criticismo	movimento culturale/politico
+cubismo	movimento culturale/politico
+Dada	movimento culturale/politico
+dc	movimento culturale/politico
+delegati	ruolo
+deputata	ruolo
+deputati	ruolo
+deputato	ruolo
+diplomati	condizione
+direttore	ruolo
+direttori	ruolo
+dottore	condizione
+eletta	condizione
+eletti	condizione
+eletto	condizione
+emittente	condizione
+espressionismo	movimento culturale/politico
+eurasiatismo	movimento culturale/politico
+fascismo	movimento culturale/politico
+fascista	movimento culturale/politico
+fascisti	movimento culturale/politico
+fondamentalismo	movimento culturale/politico
+fondamentalisti	movimento culturale/politico
+formazione	condizione
+genitori	parentela
+gnosticismo	movimento culturale/politico
+gollismo	movimento culturale/politico
+gollista	movimento culturale/politico
+gollisti	movimento culturale/politico
+gotico	movimento culturale/politico
+governatore	ruolo
+governo	condizione
+guelfismo	movimento culturale/politico
+guerra	condizione
+hippie	movimento culturale/politico
+idealismo	movimento culturale/politico
+illuminismo	movimento culturale/politico
+imperatore	ruolo
+imprenditore	mestiere
+imprenditori	mestiere
+impresa	condizione
+imprese	condizione
+impressionisti	movimento culturale/politico
+indipendente	-
+individualismo	movimento culturale/politico
+ingegnere	mestiere
+integralismo	movimento culturale/politico
+iscritti	condizione
+isolazionismo	movimento culturale/politico
+istituzionalismo	movimento culturale/politico
+italiano	condizione
+ittiti	condizione
+juventino	condizione
+laureata	condizione
+laureati	condizione
+laureato	condizione
+leader	ruolo
+liberale	movimento culturale/politico
+liberali	movimento culturale/politico
+liberalismo	movimento culturale/politico
+liberismo	movimento culturale/politico
+liberista	movimento culturale/politico
+liberiste	movimento culturale/politico
+liberisti	movimento culturale/politico
+lingua	condizione
+madre	parentela
+madri	parentela
+mamma	parentela
+mamme	parentela
+manager	mestiere
+marito	parentela
+marxismo	movimento culturale/politico
+marxisti	movimento culturale/politico
+membro	ruolo
+miliardari	grado
+miliardario	grado
+ministri	ruolo
+ministro	ruolo
+misticismo	movimento culturale/politico
+moglie	parentela
+moralismo	movimento culturale/politico
+nazionalismo	movimento culturale/politico
+nazionalisti	movimento culturale/politico
+nazismo	movimento culturale/politico
+nazista	movimento culturale/politico
+nazisti	movimento culturale/politico
+neorealismo	movimento culturale/politico
+noir	movimento culturale/politico
+nominati	condizione
+nominato	condizione
+onorevole	ruolo
+operaista	movimento culturale/politico
+padre	parentela
+padrone	ruolo
+paganesimo	movimento culturale/politico
+pagani	movimento culturale/politico
+papà	parentela
+parlamentare	ruolo
+parlamentari	ruolo
+parlamentarismo	movimento culturale/politico
+partito	condizione
+patentati	condizione
+pauperismo	movimento culturale/politico
+pensionati	condizione
+pentito	condizione
+pitagorismo	movimento culturale/politico
+Platonismo	movimento culturale/politico
+platonismo	movimento culturale/politico
+politico	mestiere
+populismo	movimento culturale/politico
+populista	movimento culturale/politico
+porporati	ruolo
+portavoce	ruolo
+positivismo	movimento culturale/politico
+positivisti	movimento culturale/politico
+prefetto	mestiere
+premier	ruolo
+premio	grado
+presidente	ruolo
+Presidente	ruolo
+presidenti	ruolo
+primatista	grado
+principessa	ruolo
+procuratore	mestiere
+professionista	condizione
+professionisti	condizione
+professore	mestiere
+promossa	condizione
+promosse	condizione
+promosso	condizione
+proprietario	condizione
+protezionismo	movimento culturale/politico
+psichedelia	movimento culturale/politico
+punk	condizione
+qualunquisti	condizione
+questore	ruolo
+razzismo	movimento culturale/politico
+realismo	movimento culturale/politico
+Regina	ruolo
+regionalismo	movimento culturale/politico
+regista	mestiere
+responsabile	ruolo
+retributivismo	movimento culturale/politico
+ricchi	condizione
+romanticismo	movimento culturale/politico
+satanismo	movimento culturale/politico
+scientismo	movimento culturale/politico
+segretario	ruolo
+senatore	ruolo
+signora	condizione
+sindaco	ruolo
+socialista	movimento culturale/politico
+socialisti	movimento culturale/politico
+sottosegretario	ruolo
+sovrintendente	ruolo
+sposa	parentela
+sposi	parentela
+tecnico	mestiere
+umanesimo	movimento culturale/politico
+vescovo	ruolo
+vicepresidente	ruolo
+yuppies	condizione
+A	-
+accettazione	processo
+accordo	processo
+acquisto	-
+aggressione	-
+allineamento	-
+americani	-
+americano	-
+amore	entità
+anima	entità
+anime	entità
+appartenenza	-
+arabi	-
+arte	entità
+attaccamento	-
+attore	mestiere
+attori	mestiere
+autosufficienza	-
+Avventisti	-
+azione	entità
+b	-
+belligeranza	-
+bianchi	-
+bianco	-
+brevettabilità	-
+calciatore	mestiere
+candidati	-
+candidato	condizione
+candidatura	-
+cantanti	-
+carcere	entità
+cattolici	-
+cittadini	condizione
+cittadino	condizione
+civiltà	entità
+cognitivismo	-
+collaborazione	-
+colore	entità
+colpevolezza	-
+combattenti	-
+compleanno	-
+comunicazione	condizione
+comunista	-
+comunisti	-
+condanna	-
+confessionalità	-
+conformismo	-
+conformisti	-
+conformità	-
+conoscenza	entità
+contraddittorietà	-
+contraddizione	-
+controllo	-
+cooperazione	-
+credente	condizione
+credenti	condizione
+credenza	-
+cristiani	-
+cultura	entità
+danza	entità
+decisione	processo
+decisioni	processo
+democrazia	condizione
+descrittori	-
+detto	-
+dialogo	processo
+differenza	-
+diffusione	-
+dimissioni	evento
+Dinosauri	-
+direttività	-
+discriminazione	-
+disgiunzione	-
+Disney	-
+distinzione	evento
+divisione	condizione
+dominio	-
+dualismo	-
+dualità	-
+ebrei	-
+ebreo	-
+eletti	-
+energia	-
+ente
+entità	entità
+equilibrio	-
+eroi	grado
+esistenza	-
+esperienza	condizione
+esperto	-
+essere	-
+eventi	condizione
+evento	condizione
+evidenza	-
+famiglie	condizione
+fiction	-
+fidanzata	parentela
+film	condizione
+filosofia	-
+filosofo	mestiere
+finito	-
+fisico	-
+fumatore	-
+fumatori	-
+gaussianità	-
+gestione	condizione
+giocatori	-
+gioco	entità
+giudei	-
+gol	-
+governo	condizione
+guerra	-
+identità	condizione
+impegno	-
+informazione	-
+ingerenza	-
+intellettualismo	-
+interferenza	-
+interventismo	-
+intervento	-
+intervista	documento
+Io	-
+IO	-
+io	-
+iscritti	-
+italiani	-
+Jews	-
+lavoro	condizione
+lettore	-
+lettori	-
+libertà	-
+libri	entità
+libro	entità
+linearità	-
+località	-
+luoghi	entità
+luogo	entità
+manifesto	-
+membri	-
+metalli	-
+metallo	-
+metodo	entità
+miglioramento	-
+mondo	condizione
+monumento	entità
+morta	condizione
+morte	condizione
+morti	condizione
+morto	condizione
+musicista	-
+musulmani	-
+nascondimento	-
+nati	-
+nativo	-
+nave	-
+nemico	-
+neutralità	-
+notizia	condizione
+notizie	condizione
+obbligo	-
+obiettori	-
+occidente	-
+occupazione	-
+OGM	-
+opera	documento
+opposizione	-
+pacifista	-
+parole	entità
+partecipazione	-
+partita	evento
+partito	condizione
+pensiero	-
+persona	condizione
+persone	condizione
+pittura	-
+poesia	entità
+politica
+politici	-
+possesso	-
+potere	-
+premi	-
+presenza	condizione
+problema	condizione
+processabilità	-
+professionisti	-
+proliferazione	-
+protagonista	-
+protagonisti	-
+punibilità	-
+ragione	-
+realismo	-
+realtà	condizione
+regia	ruolo
+residenti	-
+residuo	-
+responsabilità	-
+riconoscimento	-
+riforma	documento
+rispetto	-
+risposta	-
+ritorno	-
+rom	-
+romani	-
+sapere	-
+scelta	-
+scelte	-
+scienza	-
+scuola	-
+sé	-
+senso	-
+separabilità	-
+serbi	-
+serietà	-
+sfiducia	-
+socialista	-
+socialisti	-
+soggetti	-
+soluzione	entità
+sostanzialità	-
+sovrapposizione	-
+spazio-tempo	-
+spettacolo	evento
+spreco	-
+standard	-
+stile	entità
+storia	entità
+storie	entità
+sviluppo	-
+tacco	-
+target	-
+teatro
+tempo	entità
+tombola	entità
+udenti	-
+uomini	condizione
+uomo	condizione
+valore	-
+valori	-
+vedenti	-
+vegetariani	-
+verità	-
+violenza	-
+vita	entità
+volontà	x
+voto	x
+Achemenide	-
+acuzie	-
+adozione	-
+alluvione	-
+apartheid	-
+attentato	-
+aumento	-
+autorizzazione	-
+avanguardia	movimento culturale/politico
+avanguardista	movimento culturale/politico
+base	grado
+benzina	-
+boom	-
+brigatismo	movimento culturale/politico
+brigatista	movimento culturale/politico
+bruciatore	-
+campionato	-
+catastrofe	-
+chiusura	-
+classico	-
+colonialismo	-
+combustione	-
+comunismo	-
+comunista	movimento culturale/politico
+comunisti	movimento culturale/politico
+concertazione	-
+concerto	-
+concilio	-
+Concilio	-
+conflitto
+consumo
+contatore
+contratto
+crisi	-
+Crisi	-
+Crisi	-
+cubismo
+dc
+decremento	-
+democristiani	-
+depilazione	-
+derby	-
+dimissione	-
+diploma	-
+diploma	-
+discoteca	-
+distruzione	-
+divorzio	-
+dottorato	-
+dottorato	-
+economia	-
+elaborazione	processo
+elezioni	-
+emergenza	-
+esame	-
+esposizione	-
+espressionismo	movimento culturale/politico
+euro	-
+evento	-
+fascismo	movimento culturale/politico
+fascista	movimento culturale/politico
+fascisti	movimento culturale/politico
+femminismo	movimento culturale/politico
+femminista	-
+femministe	movimento culturale/politico
+fordismo	movimento culturale/politico
+franchismo	movimento culturale/politico
+fusione	-
+gara	-
+genoma	-
+genoma	-
+grunge	movimento culturale/politico
+guerra	-
+Guerra	-
+Hardcore	movimento culturale/politico
+hardcore	movimento culturale/politico
+hardcore	movimento culturale/politico
+hippies	condizione
+impressionismo	movimento culturale/politico
+impressionismo	movimento culturale/politico
+impressionista	movimento culturale/politico
+impressionisti	movimento culturale/politico
+incidente	-
+incontro	-
+incremento	-
+indipendenza	-
+infarto	-
+informazione	condizione
+infortunio	-
+installazione	-
+intervento	-
+laurea	-
+lottizzazione	-
+maoismo	movimento culturale/politico
+maoista	movimento culturale/politico
+marketing	-
+materialismo	-
+maternità	-
+menopausa	-
+mercato	condizione
+metal	movimento culturale/politico
+metal	movimento culturale/politico
+missini	movimento culturale/politico
+modernismo	movimento culturale/politico
+modernisti	movimento culturale/politico
+modernità	movimento culturale/politico
+obbligo	-
+occupazione	-
+olocausto	-
+pagamento	-
+partita	-
+parto	-
+perestrojka	-
+pop	movimento culturale/politico
+privatizzazione	-
+produzione	-
+produzione	-
+punk	movimento culturale/politico
+Punk	movimento culturale/politico
+punk	movimento culturale/politico
+qualifica	-
+raccolta	-
+reaganismo	movimento culturale/politico
+recessione	-
+referendum	-
+restyling	-
+ricostruzione	-
+ricovero	-
+riforma	-
+rivoluzione	-
+rock	-
+rock	-
+rossore	-
+scissione	-
+scuola	processo
+selezione	processo
+sequenza	-
+sessantotto	-
+sisma	-
+socialismo	movimento culturale/politico
+socialista	movimento culturale/politico
+socialisti	movimento culturale/politico
+stalinismo	movimento culturale/politico
+storia	processo
+strutturalismo	movimento culturale/politico
+strutturalisti	movimento culturale/politico
+svalutazione	-
+sviluppo	-
+tangentopoli	-
+tensione	-
+terapia	processo
+terremoto	-
+terrorismo	-
+tesi	-
+test	processo
+test	processo
+thatcherismo	-
+totalitarismo	-
+trading	-
+transizione	-
+trapianto	-
+trattamento	processo
+trauma	-
+tsunami	-
+tutto	-
+umanità	condizione
+vacanze	-
+vendita	-
+visita	-
+vittoria	-
+voto	-
+Vulgata	-
+yuppie	movimento culturale/politico
+accordi	processo
+accordo	processo
+adesione	processo
+adolescente	condizione
+adolescenti	condizione
+adolescenza	condizione
+adozione	processo
+alfabetizzazione	processo
+alimentazione	-
+allarme	condizione
+allerta	condizione
+ammissione	processo
+ammortamento	processo
+analisi	processo
+anestesia	processo
+appello	evento
+approvazione	processo
+ascolto	processo
+assegnazione	processo
+battaglia	-
+campagna	evento
+condizione	condizione
+condizioni	condizione
+conoscenze	condizione
+consultazione	processo
+contratti	documento
+contratto	documento
+contratto	evento
+cultura	entità
+emergenza	condizione
+esame	evento
+esame	evento
+esami	evento
+finanziamento	processo
+inchiesta	processo
+incontro	evento
+indagine	processo
+infarto	evento
+ingressi	processo
+intesa	condizione
+iscritti	condizione
+iscrizione	condizione
+iscrizioni	condizione
+iscrizioni	condizione
+offerte	processo
+ordine	evento
+ordini	evento
+pensionato	condizione
+pop	movimento culturale/politico
+proposta	evento
+requisiti	condizione
+requisiti	condizione
+requisito	condizione
+riconoscimento	processo
+selezionati	condizione
+selezione	evento
+selezioni	evento
+test	evento
+test	evento
+valutazione	processo
+vendita	evento
+città	condizione
+collisione	-
+cristalli	-
+delitti	evento
+delitto	evento
+domicilio	condizione
+mercati	condizione
+monopolio	grado
+società	-
+suicidio	evento
+Zenith	-

@@ -1,0 +1,1270 @@
+ITWAC	REPUBBLICA	WIKICONLL	NGRAM	semantica nome	valore adv	ngram pattern	source	contesto
+0	16	0	più presto --
+						DET ADV NOUN	REPUBBLICA	 Bisogna intervenire	al più presto --	ha spiegato -- per evitare che la vernice , che adesso è ancora fresca , penetri più in profondo .
+						DET ADV NOUN	REPUBBLICA	 Deve avviare	al più presto --	hanno detto ieri i leader di Cgil e Cisl -- la trattativa sulla riforma fiscale e previdenziale  .
+						DET ADV NOUN	REPUBBLICA	 Dobbiamo approvare	al più presto --	ha continuato -- una legge per far capire ai mafiosi che se attraversano il confine tra Messico e Stati Uniti con
+						DET ADV NOUN	REPUBBLICA	 La vicenda va chiarita	al più presto --	ha dichiarato dal palco Michele Santoro -- .
+						DET ADV NOUN	REPUBBLICA	 Le privatizzazioni già pronte vanno realizzate	al più presto --	ha detto Andreatta -- e sul problema della Sme si gioca la credibilità del governo e del parlamento  .
+						DET ADV NOUN	REPUBBLICA	 Se la risposta non verrà	al più presto --	ha rilevato Enrico Arcuri , segretario del Cno -- la nostra olivicoltura rischia il collasso a breve termine , visto che
+						DET ADV NOUN	REPUBBLICA	 Vogliamo	al più presto --	ha detto tra l altro don Ciotti -- una normativa per riportare i patrimoni della corruzione in una economia di legalità
+						DET ADV NOUN	REPUBBLICA	 Volevamo che sloggiasse	al più presto --	ha detto Rkia Sanhanji , moglie del proprietario dell alloggio -- perché era un vagabondo , un mezzo barbone .
+						DET ADV NOUN	REPUBBLICA	Bisogna far cessare	al più presto --	ha aggiunto Gaspari -- le gestioni fuori bilancio ed affidare tutte le responsabilità e i poteri alle autonomie locali , evitando
+						DET ADV NOUN	REPUBBLICA	I presidi vogliono chiarezza : Chiediamo di sapere	al più presto --	ha detto Aldisio -- chi deve rispondere degli alunni minorenni all interno delle scuole qualora abbiano optato per non fare nulla
+						DET ADV NOUN	REPUBBLICA	La Russia -- che l Occidente , insiste Walesa , deve integrare	al più presto --	sarà rappresentata a rango minore dal capo di gabinetto del presidente , Sergej Filatov .
+						DET ADV NOUN	REPUBBLICA	Questa riforma va fatta	al più presto --	ha dichiarato Pizzinato -- come pure quella della sanità e della cassa integrazione  .
+						DET ADV NOUN	REPUBBLICA	con il segretario di Stato , cardinale Angelo Sodano , prendendo i contatti con i governi interessati  per trovare	al più presto --	ha detto il portavoce pontificio Joaquin Navarro Vals -- una via d uscita  per mettere fine al più presto agli
+						DET ADV NOUN	REPUBBLICA	il palazzo di giustizia , la squadra omicidi e la squadra mobile , c è però la fiducia di arrivare	al più presto --	potrebbe essere questione di ore -- all arresto del complice nel feroce assassinio ed alla identificazione dei mandanti .
+						DET ADV NOUN	REPUBBLICA	realtà Berlusconi , registrato a parte , aveva con determinazione ripetuto che le vuole , eccome : alle urne 	al più presto --	ha detto -- perché ogni giorno perso è un giorno utile .
+						DET ADV NOUN	REPUBBLICA	suo parere negativo sulla decisione della direzione democristiana , Colombo ha comunque garantito la sua ubbidienza :  Farò pervenire	al più presto --	ha dichiarato -- probabilmente domani o dopodomani , al presidente della Camera Napolitano , che ho già informato , la lettera
+
+3	0	0	più presto Autore
+						DET ADV NOUN	ITWAC	Vi ringrazio anche io ho visto che solo il numero 21 è in prenotazione speriamo che ci arrivino	al più presto Autore	Risposta : masciandaro Inserita il : 22/06/2005 16:25:49 Messaggio : Appena parlato con una operatrice del call center al 199.120.120 e
+						DET ADV NOUN	ITWAC	vedrai che tutto si risolve	al più presto Autore	Risposta : davide ade Inserita il : 20/05/2005 18:54:47 Messaggio : spero ma sta cominciando il 3 anno cosi , si
+						DET ADV NOUN	ITWAC	vi faro sapere	al più presto Autore	Risposta : astermix Inserita il : 10/12/2004 11:16:45 Messaggio : Ragazzi ma non sarebbe meglio non usarlo questo frena filetti per
+
+1	0	0	più presto Chiesa
+						DET ADV NOUN	ITWAC	Treccani del cinema c è la voce  monnezza  - recito un bel mea culpa e prometto di vedere	al più presto Chiesa	e Sorrentino , posso rimandare Piccioni e Littizzetto ?
+
+1	0	0	più presto Commissione
+						DET ADV NOUN	ITWAC	Due problematiche da risolvere	al più presto Commissione	antimafia alle prese con due grosse problematiche da risolvere al più presto : Il traffico nucleare in Iraq e la pista
+
+1	0	0	più presto Coordinatori
+						DET ADV NOUN	ITWAC	coordinatori - Il gruppo sarà composto da circa 15 equipaggi I costi non sono al momento definiti e saranno comunicati	al più presto Coordinatori	: Michele 339/5653069 Paola 328/7684253 Fax 051.6331814 e-mail 3395653069 @ tim.it papaola1@aliceposta.it Da : Pino Santacroce - pinoesse@tin.it Oggetto : Incontro
+
+1	0	0	più presto Democrazia
+						DET ADV NOUN	ITWAC	Per sottolineare la necessità politica di costituire	al più presto Democrazia	è Libertà-La Margherita , Parisi rimette il mandato a Presidente dei Democratici , rinviando la valutazione delle sue dimissioni dopo lo
+
+0	0	1	più presto Gertruda
+						DET ADV NOUN	WIKICONLL	Pochi giorni dopo , egli viene minacciato dai bravotti : Paperenzo deve sposare	al più presto Gertruda	, con delle vere e proprie nozze riparatrici : come dicono i bravotti :  Questo matrimonio s ha da fare
+
+0	0	1	più presto Harry
+						DET ADV NOUN	WIKICONLL	Harry : quindi Peter promette a Gwen di lasciare al più presto Liz , e la ragazza promette di lasciare	al più presto Harry	, che però sente parlare i due giovani origliando fuori dalla porta e si infuria moltissimo .
+
+0	0	1	più presto Liz
+						DET ADV NOUN	WIKICONLL	ma aggiunge di non voler stare con lui alle spalle di Harry : quindi Peter promette a Gwen di lasciare	al più presto Liz	, e la ragazza promette di lasciare al più presto Harry , che però sente parlare i due giovani origliando fuori
+
+1	0	0	più presto Nome
+						DET ADV NOUN	ITWAC	Ti risponderemo	al più presto Nome	: * Cognome : email : * Indirizzo del sito / della pagina dove si vuole inserire il banner http :
+
+1	0	0	più presto Nota
+						DET ADV NOUN	ITWAC	Conto di rifarmi	al più presto Nota	finale : Il pozzo è il pendolo resta ancora oggi il mio racconto preferito , e quando posso me lo rileggo
+
+1	0	0	più presto Ottone
+						DET ADV NOUN	ITWAC	Ma Clemente VII , il papa eletto in contrapposizione a Urbano VI , volendo avere presso di sé	al più presto Ottone	di Brunswick , fece stipulare una tregua di due anni sottoscritta da entrambi gli antagonisti il 22 genn .
+
+1	0	0	più presto Pag.
+						DET ADV NOUN	ITWAC	Si tratta , quindi , di una lacuna che deve essere colmata e siamo sicuri che ciò avverrà	al più presto Pag.	20 attraverso l approvazione di questo disegno di legge .
+
+0	0	1	più presto Paola
+						DET ADV NOUN	WIKICONLL	Per questo motivo il magistrato Morresi ha aperto un inchiesta e	al più presto Paola	riceverà un avviso di garanzia .
+
+0	0	1	più presto Pescara
+						DET ADV NOUN	WIKICONLL	trovava a Taranto , dove intorno alle 6 del mattino del 9 settembre ricevette da Supermarina l ordine di raggiungere	a più presto Pescara	; analogo ordine ricevettero le corvette Scimitarra e Baionetta che si trovavano a Brindisi e a Pola .
+
+1	0	0	più presto Sezione
+						DET ADV NOUN	ITWAC	Era nostro intento che divenisse	al più presto Sezione	, ma per far questo il numero dei soci doveva essere ben più alto e sopratutto stabile ; noi la considerammo
+
+0	0	1	più presto Sven
+						DET ADV NOUN	WIKICONLL	Per fare sì che ciò si concretizzi	al più presto Sven	ha chiesto ed ottenuto una campagna acquisti imponente , che ha portato a Manchester tra gli altri anche il giovane e
+
+0	0	1	più presto Tezo
+						DET ADV NOUN	WIKICONLL	; Francis Jr risponde di no e appare molto irritato dalla conversazione con Ray , e gli intima di trovare	al più presto Tezo	.
+
+1	0	0	più presto Venerdì
+						DET ADV NOUN	ITWAC	L Azienda ha riconosciuto una serie di errori sul sistema informatico e si è impegnata a correggerlo	al più presto Venerdì	15 Ottobre è prevista un ulteriori riunione per esaminare le soluzioni possibili .
+
+1	0	0	più presto Voto
+						DET ADV NOUN	ITWAC	Banana , devi rifarti	al più presto Voto	: 2 / 5 giorgia giorgia73@libero.it ( 18 - 07 - 2002 ) un libro stanco , che si trascina sui
+
+5	0	0	più presto accesso
+						DET ADV NOUN	ITWAC	( Oms ) , secondo cui si profila  una catastrofe sanitaria  se le popolazioni colpite non potranno avere	al più presto accesso	ad acqua potabile .
+						DET ADV NOUN	ITWAC	, ( Oms ) secondo cui si profila  una catastrofe sanitaria  se le popolazioni colpite non potranno avere	al più presto accesso	ad acqua potabile .
+						DET ADV NOUN	ITWAC	Oms teme una vera e propria  catastrofe sanitaria  se le popolazioni e colpite dalla tragedia non potranno avere	al più presto accesso	ad acqua potabile .
+						DET ADV NOUN	ITWAC	Secondo l Oms si profila  una catastrofe sanitaria  se le popolazioni colpite non potranno avere	al più presto accesso	ad acqua potabile .
+						DET ADV NOUN	ITWAC	richiesta di Bizerba S.p.A. Bizerba S.p.A. , in considerazione dell evoluzione del commercio elettronico , ritiene comunque opportuno poter ottenere	al più presto accesso	alla rete e pertanto propone reclamo .
+
+5	2	0	più presto accordi
+						DET ADV NOUN	ITWAC	Accordi utili sono stati sottoscritti con alcuni di questi Paesi d oltremare ; converrà raggiungere	al più presto accordi	analoghi anche con gli altri ; rendere più efficaci quelli già stipulati .
+						DET ADV NOUN	ITWAC	imprese e parti sociali per la definizione degli sforzi da intraprendere ; in particolare tali soggetti dovrebbero : - concludere	al più presto accordi	quadro per aprire i posti di lavoro all apprendistato , alla formazione e ad altre misure favorevoli all  occupabilità
+						DET ADV NOUN	ITWAC	le parti sociali sono urgentemente invitate , ai loro diversi livelli di responsabilità e di azione , a concludere	al più presto accordi	allo scopo di aumentare le opportunità in materia di formazione , di esperienza professionale , di tirocinio o di altre misure
+						DET ADV NOUN	ITWAC	un caso se le ultime morti sono arrivate tutte in situazioni di solitudine L obiettivo , quindi , è stipulare	al più presto accordi	fra il sindacato e le imprese anche sull organizzazione del lavoro » .
+						DET ADV NOUN	ITWAC	« Accordi utili sono stati sottoscritti con alcuni paesi d oltremare ; converrà raggiungere	al più presto accordi	analoghi anche con altri e rendere più efficaci quelli già stipulati » , ha detto Carlo Azeglio Ciampi , parlando dei
+						DET ADV NOUN	REPUBBLICA	Cercheremo di raggiungere	al più presto accordi	di programma e di stabilire un calendario preciso di iniziative regionali .
+						DET ADV NOUN	REPUBBLICA	Se non si raggiungeranno	al più presto accordi	internazionali non ci sarà dunque più molto da tutelare .
+
+1	0	0	più presto accordi-quadro
+						DET ADV NOUN	ITWAC	E si suggerisce di creare	al più presto accordi-quadro	tra la Rai e le singole Regioni , cioè una serie di « contratti di servizio locali previsti dalla Gasparri .
+
+1	0	0	più presto acqua
+						DET ADV NOUN	ITWAC	inquinamento e il degrado ambientale , usare acqua non potabile in casa , nell agricoltura e nell industria , assicurare	al più presto acqua	potabile per tutti .
+
+3	2	0	più presto aiuti
+						DET ADV NOUN	ITWAC	, tanto che il primo ministro ad interim Gerard Latortue ieri si è rivolto alla comunità internazionale chiedendo di inviare	al più presto aiuti	, tenendo conto che l isola non più collegamenti né elettrici né telefonici .
+						DET ADV NOUN	ITWAC	comunità internazionale Il ministro della Salute iraniano , Ismail Akbari , ha rivolto un appello alle organizzazioni internazionali perchè invino	al più presto aiuti	umanitari .
+						DET ADV NOUN	ITWAC	di violenza , ed in particolare l uso della forza da parte dei russi , e che è necessario inviare	al più presto aiuti	umanitari nella regione .
+						DET ADV NOUN	REPUBBLICA	Il governo afghano si è formalmente appellato alle Nazioni Unite perché facciano giungere	al più presto aiuti	umanitari .
+						DET ADV NOUN	REPUBBLICA	detto il capo della diplomazia italiana che si è però impegnato perché  a Valona e nelle altre città arrivino	al più presto aiuti	umanitari ed economici  .
+
+1	0	0	più presto aiuto
+						DET ADV NOUN	ITWAC	forte e deciso , dimostrando poi la sua volontà oppositiva ; a chiedere	al più presto aiuto	ai genitori , o ad un adulto tutelante , raccontando loro tutto quello che gli è accaduto .
+
+10	0	0	più presto all
+						DET ADV NOUN	ITWAC	1978 Per iscriversi	al più presto all	´ Accademia nazionale d ´ arte drammatica , Margaret lascia il liceo classico e prende il diploma da maestra .
+						DET ADV NOUN	ITWAC	Ciò giustifica il motivo in base al quale occorre arrivare	al più presto all	?
+						DET ADV NOUN	ITWAC	In questa linea , e in quella del rispetto della vita , si colloca anche l ´ opportunità di giungere	al più presto all	´ approvazione della legge sulla procreazione medicalmente assistita , ponendo termine all ´ attuale situazione di arbitrio totale e indiscriminato ,
+						DET ADV NOUN	ITWAC	Occorre che il Consiglio europeo metta	al più presto all	?
+						DET ADV NOUN	ITWAC	Pezzotta intende sottoporre	al più presto all	´ attenzione del governo una « controproposta » in modo da costringerlo a una discussione : la Cisl , infatti ,
+						DET ADV NOUN	ITWAC	altro , a provvedere	al più presto all	?
+						DET ADV NOUN	ITWAC	b ) Se siete occupati , dovete consegnare le due copie del formulario	al più presto all	 istituto di assicurazione malattia e maternità del luogo dove risiedete .
+						DET ADV NOUN	ITWAC	due Consigli Nazionali e in particolare dai loro Presidenti , entrambi gli enti sono giunti alla determinazione comune di pervenire	al più presto all	& # 8217 ; istituzione di un & # 8217 ; unica professione economica-giuridica , nella prospettiva di razionalizzazione del comparto
+						DET ADV NOUN	ITWAC	intenzione della sua parte politica di giungere	al più presto all	?
+						DET ADV NOUN	ITWAC	volontà del legislatore ed uno dei cardini del nuovo ordinamento del Corpo forestale , impegna il Governo : a provvedere	al più presto all	?
+
+0	1	0	più presto alleati
+						DET ADV NOUN	REPUBBLICA	La logica di mercato stessa richiederebbe che la Rai , finite le sparatorie in viale Mazzini , si scegliesse	al più presto alleati	stranieri per non seguire la fine di altri baracconi di Stato .
+
+0	1	0	più presto ambasciate
+						DET ADV NOUN	REPUBBLICA	PARIGI -- Bosnia e Repubblica federale di Jugoslavia hanno deciso ieri di stabilire relazioni diplomatiche e di aprire	al più presto ambasciate	nelle rispettive capitali .
+
+1	0	0	più presto animatrici
+						DET ADV NOUN	ITWAC	E il gran desiderio per tutte è di crescere in fretta « per diventare	al più presto animatrici	» .
+
+0	1	0	più presto anticipazioni
+						DET ADV NOUN	REPUBBLICA	per il processo di liquidazione ; nell ambito di questa disponibilità finanziaria , 1.000 miliardi potranno essere adoperati per concedere	al più presto anticipazioni	ai fornitori che rientrano nei parametri della legge Prodi ( aziende con meno di 100 dipendenti ) ; 30 miliardi sono
+
+1	0	0	più presto applicazione
+						DET ADV NOUN	ITWAC	dell INPS , parlamentino che vede presenti i rappresentanti delle forze sociali , a fine luglio ha deliberato di dare	al più presto applicazione	alla previsione legislativa di consegna dell estratto conto certificativo , che deve essere possibile ricevere su tutto il territorio nazionale dal
+
+1	0	0	più presto armi
+						DET ADV NOUN	ITWAC	In sostanza il vertice dei Popolari decide di non decidere a proposito dell idea di confluire	al più presto armi	e bagagli nella sigla elettorale che ha sostenuto Francesco Rutelli nella battaglia col Cavaliere .
+
+0	1	0	più presto arrivi
+						DET ADV NOUN	REPUBBLICA	Sono molto fiducioso -- conclude Dinoia -- che	al più presto arrivi	dalla Procura della Repubblica la richiesta di archiviazione sulla vicenda  .
+
+2	0	0	più presto atto
+						DET ADV NOUN	ITWAC	Auspicano quindi che si prenda	al più presto atto	che il mito delle frontiere ha già prodotto tanti effetti negativi e che è tempo di sperimentare politiche innovative in grado
+						DET ADV NOUN	ITWAC	La guerra era pronta e occorreva che i media ne prendessero	al più presto atto	.
+
+12	0	0	più presto attuazione
+						DET ADV NOUN	ITWAC	, al fine di incrementare l offerta di sosta nell isola ambientale in argomento , RACCOMANDA CHE · venga data	al più presto attuazione	alla decisione di offrire all utilizzo della città i posti auto collocati sotto l edificio comunale di Via Morosini angolo C
+						DET ADV NOUN	ITWAC	An - è auspicabile che il Parlamento concluda in tempi brevi l iter della legge perché la tutela auspicata trovi	al più presto attuazione	 .
+						DET ADV NOUN	ITWAC	Assemblea concordi con la volontà della 14 a Commissione ed anche con la volontà del Governo di dare	al più presto attuazione	alla legge comunitaria per il 2004 perché , secondo me , soddisfa esigenze nelle diverse materie ; in particolar modo ,
+						DET ADV NOUN	ITWAC	Auspica , pertanto , che tale principio trovi	al più presto attuazione	in una specifica disposizione legislativa .
+						DET ADV NOUN	ITWAC	Conclude sollecitando il Governo a dare	al più presto attuazione	al citato ordine del giorno nell interesse dei porti , delle economie locali e di quella nazionale .
+						DET ADV NOUN	ITWAC	Giuseppe SPECCHIA , presidente , ringrazia il ministro Bordon e lo congeda , auspicando che le intenzioni testé manifestate trovino	al più presto attuazione	.
+						DET ADV NOUN	ITWAC	Pertanto le OO.SS. Umbre nel sostenere e sollecitare la necessità di dare	al più presto attuazione	al piano aziendale di nuove assunzioni del personale per le criticità evidenziate , piano che scaturirà dal confronto nazionale , richiamano
+						DET ADV NOUN	ITWAC	Ribadisce inoltre la necessità che sia data	al più presto attuazione	alla disciplina in materia di tonnage tax , dal quale possono derivare importanti benefici per le imprese italiane del settore armatoriale
+						DET ADV NOUN	ITWAC	Ribadita la necessità di dare	al più presto attuazione	alla legge , ritiene si debba esprimere un parere congiunto senza quindi separare i provvedimenti .
+						DET ADV NOUN	ITWAC	necessario che ora il Governo si impegni affinché venga data	al più presto attuazione	a quanto approvato dal Parlamento in materia di rinnovo per nove anni dei contratti di locazione e di cessione degli immobili
+						DET ADV NOUN	ITWAC	serie di rilievi , ha condiviso per molti aspetti il provvedimento in esame , rilevando che allo stesso va data	al più presto attuazione	, anche per aprire maggiori spazi ai giovani .
+						DET ADV NOUN	ITWAC	È auspicabile quindi che le previsioni contenute nel nuovo regolamento esecutivo trovino	al più presto attuazione	.
+
+0	1	0	più presto avvii
+						DET ADV NOUN	REPUBBLICA	Io mi auguro -- ha concluso -- che il presidente del Consiglio	al più presto avvii	questa trattativa ponendo così fine all assalto sistematico alle pensioni italiane  .
+
+1	0	0	più presto avvio
+						DET ADV NOUN	ITWAC	opere importanti per la città che la giunta comunale ha voluto assumere a fine anno al fine di poter dare	al più presto avvio	agli interventi .
+
+2	2	0	più presto azioni
+						DET ADV NOUN	ITWAC	mare : alla decisione di prendere il primo impegno internazionale per il Mar Ligure - cui è necessario far seguire	al più presto azioni	concrete di gestione - dovrebbe seguire quanto prima la promozione di una iniziativa simile di un altro Santuario dedicato ai cetacei
+						DET ADV NOUN	ITWAC	per il potenziamento della rete ferroviaria nazionale , esprimendo altresì l augurio che agli impegni assunti il Governo faccia seguire	al più presto azioni	concrete .
+						DET ADV NOUN	REPUBBLICA	al Giappone , malato di turno di questa sessione washingtoniana , il sottosegretario afferma che Tokyo può e deve decidere	al più presto azioni	di stimolo , abbassando anche i tassi di interesse .
+						DET ADV NOUN	REPUBBLICA	all Ina , alla Cariplo , alla miriade di Casse di Risparmio e compagnie di assicurazioni -- avranno in cambio	al più presto azioni	ordinarie della più grande banca a medio termine del paese .
+
+1	0	0	più presto bacione
+						DET ADV NOUN	ITWAC	eheheheheheheh ciao te lo spedisco	al più presto bacione	uffina Scritto da : cozzaincognita 06/03/2005 - Ora : 21:20:44 IP Autore mo ti mozzico io ci sono sempre , sei
+
+0	1	0	più presto biglietti
+						DET ADV NOUN	REPUBBLICA	Ma non disperiamo di avere	al più presto biglietti	per i posti migliori conclude il capo , mentre guarda la strada , come se aspettasse qualcuno perché siamo solo l
+
+0	1	0	più presto bilanci
+						DET ADV NOUN	REPUBBLICA	Il presidente della Bce : 	Al più presto bilanci	in pareggio o in attivo  .
+
+1	0	0	più presto bisogno
+						DET ADV NOUN	ITWAC	´ economia è destinato a crescere in modo quasi esponenziale , sicché Napoli e la sua area di gravitazione avranno	al più presto bisogno	di un nuovo grande scalo , capace di soddisfare un movimento in rapida ascesa , di accogliere aerei di stazza adeguata
+
+0	1	0	più presto bottega
+						DET ADV NOUN	REPUBBLICA	Fatta non per realizzare e cambiare le vetrine , ma per chiudere	al più presto bottega	.
+
+1	0	0	più presto campi
+						DET ADV NOUN	ITWAC	Gli operatori umanitari sono attualemnte impegnati a risolvere diversi problemi di natura logistica e infrastrutturale per allestire	al più presto campi	nelle remote aree tribali del Pakistan , al confine con l Afghanistan .
+
+0	1	0	più presto canali
+						DET ADV NOUN	REPUBBLICA	Lancia una nota di pessimismo ma col segreto intento di vedere aperti	al più presto canali	ufficiali con l Urss .
+
+0	1	0	più presto carne
+						DET ADV NOUN	REPUBBLICA	perdenti come l Alto Commissariato di 9 anni fa , o come la stessa Dia se non le si daranno	al più presto carne	, sangue e capacità di intervento .
+
+1	0	0	più presto casa
+						DET ADV NOUN	ITWAC	Conferma che lascerà la scrivania di impiegato della Pirelli e prenderà	al più presto casa	sotto le Due Torri per interpretare a tempo pieno il ruolo di candidato sindaco .
+
+1	0	0	più presto case
+						DET ADV NOUN	ITWAC	L impegno a tutto campo della cooperazione italiana per ricostruire	al più presto case	, scuole e ospedali Sri Lanka , è il momento di non dimenticare Fini : « È peggio , molto peggio
+
+1	0	0	più presto centri
+						DET ADV NOUN	ITWAC	Nelle discussioni emergevano situazioni drammatiche e il bisogno di far nascere	al più presto centri	di cura di DREAM :  Come fare nel mio paese ?
+
+1	0	0	più presto certezza
+						DET ADV NOUN	ITWAC	Sugli arresti degli esponenti No global serve	al più presto certezza	.
+
+2	0	0	più presto certezze
+						DET ADV NOUN	ITWAC	Il Tavolo Istituzionale ha già chiesto al Ministero una nuova convocazione urgente che consenta al territorio di poter avere	al più presto certezze	su un nodo tanto decisivo del proprio sviluppo .
+						DET ADV NOUN	ITWAC	stabiliti dal legislatore , non solo per doveroso ossequio alla volontà del Parlamento , Pag. 89 ma anche per garantire	al più presto certezze	ai soggetti chiamati a promuovere i lavori socialmente utili e ai lavoratori in essi impegnati : gli uni e gli altri
+
+17	15	0	più presto chiarezza
+						DET ADV NOUN	ITWAC	Assicura che la Commissione si attiverà presso le istituzioni interessate affinché si faccia	al più presto chiarezza	in materia .
+						DET ADV NOUN	ITWAC	ordine di pagamento ( emesso dal funzionario UNEP ) ecc. Quello che invece trovo molto cervellotico-e qui spero si faccia	al più presto chiarezza	- è il mod .
+						DET ADV NOUN	ITWAC	Io naturalmente mi auguro che la magistratura e gli investigatori facciano	al più presto chiarezza	sull accaduto .
+						DET ADV NOUN	ITWAC	non vogliamo assolutamente emettere sentenze contro nessuno - dice ancora l avvocato Vassallo - chiediamo solo che la magistratura faccia	al più presto chiarezza	.
+						DET ADV NOUN	ITWAC	La nostra richiesta è quindi che si faccia	al più presto chiarezza	» .
+						DET ADV NOUN	ITWAC	- nell esprimere piena solidarietà al collega Celso Cioni e all organizzazione tutta della Confcommercio , spero che venga fatta	al più presto chiarezza	sull episodio che sicuramente getta un ombra da non sottovalutare sulla città intera e sulla sua vita politica e sociale
+						DET ADV NOUN	ITWAC	la Commissione indipendente d inchiesta , avviata dalle missioni delle Nazioni Unite presenti in Burundi e in Congo , faccia	al più presto chiarezza	su autori ed eventuali mandanti , perché venga fatta giustizia e nessuno possa servirsi di un crimine per i propri scopi
+						DET ADV NOUN	ITWAC	Invita , quindi , la Commissione a fare	al più presto chiarezza	sull argomento .
+						DET ADV NOUN	ITWAC	una unità a propulsione nucleare - prosegue il parlamentare della Margherita - è indispensabile che il ministro della Difesa faccia	al più presto chiarezza	su ciò che è realmente avvenuto il 25 ottobre scorso , sulla reale entità del danno , se vi siano state
+						DET ADV NOUN	ITWAC	aspettiamo serietà , - ha commentato Ricca - un piano industriale e finanziario comprensibile , realistico , ma anche e	al più presto chiarezza	sulle prospettive dell Azienda , sugli assetti futuri .
+						DET ADV NOUN	ITWAC	I Verdi si augurano che   venga fatta	al più presto chiarezza	e identificati i responsabili dell incendio  , aggiungendo :   Da parte nostra stiamo valutando la possibilità di utilizzare
+						DET ADV NOUN	ITWAC	di lavoro prospettato dal presidente , evidenzia tuttavia la necessità - che ritiene assolutamente preliminare - che il Governo faccia	al più presto chiarezza	sulla decisiva questione della copertura finanziaria .
+						DET ADV NOUN	ITWAC	Il VII reparto mobile chiede che venga fatta	al più presto chiarezza	sui fatti di domenica 11 febbraio chiarendo all opinione pubblica che lo sfortunato incidente occorso al tifoso romanista non è stato
+						DET ADV NOUN	ITWAC	I Ds devono fare	al più presto chiarezza	al loro interno .
+						DET ADV NOUN	REPUBBLICA	Ora confidiamo che si possa fare	al più presto chiarezza	completa sui fatti afferma la responsbile provinciale Navas nel rispetto totale della giustizia e della verità .
+						DET ADV NOUN	REPUBBLICA	Il primo ad avvertire l esigenza di fare	al più presto chiarezza	è stato ieri il ministro della Giustizia .
+						DET ADV NOUN	REPUBBLICA	È una ragione in più per spingere i responsabili politici sudtirolesi della Svp a fare	al più presto chiarezza	, ad uscire dagli equivoci .
+						DET ADV NOUN	REPUBBLICA	della Corte confida che il governo , per la parte di sua competenza , e il presidente della Camera portino	al più presto chiarezza	sulla vicenda .
+						DET ADV NOUN	REPUBBLICA	Il consiglio di amministrazione della Finmeccanica -- afferma una nota diffusa ieri sera -- auspica che l autorità giudiziaria faccia	al più presto chiarezza	sulla vicenda  .
+						DET ADV NOUN	REPUBBLICA	 Ci vogliono le elezioni : per avere	al più presto chiarezza	e stabilità  .
+						DET ADV NOUN	REPUBBLICA	Secondo noi bisognerebbe fare	al più presto chiarezza	su chi sta veramente in testa alla classifica , per evitare disordini e malintesi .
+						DET ADV NOUN	REPUBBLICA	Per questa seconda vorrei chiedere che sia fatta	al più presto chiarezza	.
+						DET ADV NOUN	REPUBBLICA	Spero che si faccia	al più presto chiarezza	su una situazione allucinante .
+						DET ADV NOUN	REPUBBLICA	Per questo il sindacalista ritiene  essenziale che la magistratura romana faccia	al più presto chiarezza	: più a lungo si trascinerà questa vicenda , più gravi saranno le ricadute sull azienda  .
+						DET ADV NOUN	REPUBBLICA	Fonti ufficiali del comando ritengono questa ipotesi  assurda  e auspicano che la magistratura possa fare	al più presto chiarezza	sull intera vicenda .
+						DET ADV NOUN	REPUBBLICA	Chiediamo che venga fatta	al più presto chiarezza	sulla vicenda da parte degli organismi preposti .
+
+5	0	0	più presto chiarimenti
+						DET ADV NOUN	ITWAC	Infine , come CGIL scuola abbiamo fatto rilevare la necessità di fornire	al più presto chiarimenti	su entrambe le questioni , a tutti gli Uffici periferici ( CSA , USR ed istituzioni scolastiche ) al fine di
+						DET ADV NOUN	ITWAC	Ti prego di darmi	al più presto chiarimenti	e ti ringrazio per il preziosissimo aiuto .
+						DET ADV NOUN	ITWAC	calabrese intendesse privilegiare solo alcune organizzazioni , discriminando di conseguenza tutte le altre , la FISH Calabria ritiene indispensabile ottenere	al più presto chiarimenti	ufficiali in merito .
+						DET ADV NOUN	ITWAC	libro matricola e non poche difficoltà sono sorte per le loro retribuzioni , occorrerebbe che il ministero del lavoro fornisse	al più presto chiarimenti	in tal senso .
+						DET ADV NOUN	ITWAC	è necessario che il Ministero dell economia e delle finanze ed il Ministero del lavoro e delle politiche sociali forniscano	al più presto chiarimenti	su tale operazione , sulla quale gli organi di gestione e di indirizzo dei predetti enti hanno espresso un giudizio unanimemente
+
+1	0	0	più presto ciccianese
+						DET ADV NOUN	ITWAC	!!!!!!!!!! rispondete	al più presto ciccianese	87 16/06/2005 8.59.35 Interventi Si è importante questa festa xkè già moltissima gente ha conosciuto cicciano grazie al palio dei quartieri
+
+1	0	0	più presto cittadino
+						DET ADV NOUN	ITWAC	2005 , ore 12:02 ) visto che paragoni l italia a cuba , allora spero tanto che tu possa diventare	al più presto cittadino	caraibico , ovviamente sotto il regime castrista e con gli stessi diritti degli isolani .
+
+1	0	0	più presto comandante
+						DET ADV NOUN	ITWAC	teox99@hotmail.com fatemi sapere	al più presto comandante	Inviato il : 14/7/2005 10:45 Conoscitore del Forum Iscritto : 16/3/2005 Da : Bracciano ( Roma ) Messaggi : 100 Re
+
+0	1	0	più presto compattezza
+						DET ADV NOUN	REPUBBLICA	ROMA ( l.a. ) --  L auspicio che formulo alla Federcalcio è pressante , davvero pressante ; deve ritrovare	al più presto compattezza	ed unità interne , ci sono molti problemi di risolvere  .
+
+1	0	0	più presto comportamenti
+						DET ADV NOUN	ITWAC	Occorre che i popoli diventino consapevoli del diritto alla  differenza  , trovino modi concreti per realizzarlo ( adottando	al più presto comportamenti	aperti verso forme di pensiero e prodotti linguistici e culturali diversi dai propri ) e giungano a capire che il diritto
+
+1	0	0	più presto comunicati
+						DET ADV NOUN	ITWAC	: Cari amici non ho sbandierato nulla , ho solo detto quanto mi è stato riferito , e che attendo	al più presto comunicati	ufficiali .
+
+5	0	0	più presto comunicazione
+						DET ADV NOUN	ITWAC	Al presidente spetta l ordinaria amministrazione ed in caso di urgenza può compiere atti di amministrazione straordinaria dandone	al più presto comunicazione	al Consiglio per la necessaria ratifica .
+						DET ADV NOUN	ITWAC	Rimaniamo in attesa di ricevere	al più presto comunicazione	delle vostre intenzioni a riguardo , contiamo su un vostro impegno in tale senso al fine di poter proseguire assieme questo
+						DET ADV NOUN	ITWAC	Sperando nella Vs cortesia e di ricevere	al più presto comunicazione	, Vi scrivo i miei dati .
+						DET ADV NOUN	ITWAC	Stiamo quindi programmando una riunione aperta ai sostenitori di questo Progetto , della quale vi daremo	al più presto comunicazione	.
+						DET ADV NOUN	ITWAC	struttura dell Archivio storico , era comunque in avanzato stato di elaborazione e che sarebbe stata cura dell Unione dare	al più presto comunicazione	del risultato raggiunto .
+
+1	0	0	più presto comunicazioni
+						DET ADV NOUN	ITWAC	Fa poi presente di aver richiesto al sottosegretario Serri di svolgere	al più presto comunicazioni	sugli sviluppi della situazione in Medio Oriente , che si aggrava ogni giorno di più : propone pertanto che tale dibattito
+
+0	1	0	più presto concentrazioni
+						DET ADV NOUN	REPUBBLICA	nel 91 del valore di ben 3500 miliardi , le pressioni della Banca d Italia che spinge affinché siano realizzate	al più presto concentrazioni	bancarie decisive per il nostro sistema creditizio .
+
+1	0	0	più presto conclusione
+						DET ADV NOUN	ITWAC	Ministro l opportunità che le procedure di chiamata diretta iniziate nel corso del 2001 in base alla normativa previgente trovino	al più presto conclusione	, positiva o negativa che sia , perché la situazione di attuale incertezza , in cui si trovano sia le università
+
+4	2	0	più presto condizioni
+						DET ADV NOUN	ITWAC	Occorre pertanto promuovere	al più presto condizioni	per l attuazione dei 114 progetti di alloggi per anziani selezionati dal Ministero delle Infrastrutture .
+						DET ADV NOUN	ITWAC	Veltroni ha chiesto che si ristabiliscano	al più presto condizioni	di normale vita democratica mantenendo l impegno di approvare la nuova Costituzione entro Aprile e di indire , immediatamente dopo ,
+						DET ADV NOUN	ITWAC	grande quantità di danni alle persone , ai beni ed all economia delle zone interessate ; * E necessario restituire	al più presto condizioni	di normalità alle famiglie sfollate o rimaste senza tetto ; * E urgente provvedere al ripristino dei collegamenti viari per garantire
+						DET ADV NOUN	ITWAC	il ponte sul Potenza oggi chiuso ; quanti fondi intendano stanziare per alleviare danni e disagi attuali e per ripristinare	al più presto condizioni	ordinarie di viabilità nella vallata del Potenza ; se individuino negligenze , errori , colpe , responsabilità nell attività di amministrazioni
+						DET ADV NOUN	REPUBBLICA	Si , è una misura precauzionale , adesso vogliamo sapere dagli esperti cosa c è da fare per ripristinare	al più presto condizioni	di normalità ed evitare un altro Vajont .
+						DET ADV NOUN	REPUBBLICA	alle imprese pubbliche , che già pagano i decimali , è senza dubbio più conveniente trovare un accordo che ripristini	al più presto condizioni	di competitività con quelle private  .
+
+2	0	0	più presto conferenze
+						DET ADV NOUN	ITWAC	Si reputa opportuno , di conseguenza , che siano indette a cura delle SS.LL. stesse e	al più presto conferenze	di servizio dei presidenti coordinatori delle commissioni giudicatrici dei concorsi a cattedre , affinchè essi predispongano un piano aggiornato di svolgimento
+						DET ADV NOUN	ITWAC	Si reputa opportuno , di conseguenza , che siano indette a cura delle SS.LL. stesse e	al più presto conferenze	di servizio dei presidenti coordinatori delle commissioni giudicatrici dei concorsi a cattedre , affinché essi predispongano un piano aggiornato di svolgimento
+
+1	0	0	più presto confidenza
+						DET ADV NOUN	ITWAC	È opportuno , pertanto , prendere	al più presto confidenza	con il testo del codice per capirne la struttura , preferendo a tale scopo la consultazione di una edizione aggiornata ed
+
+1	0	0	più presto consapevolezza
+						DET ADV NOUN	ITWAC	Nutro la speranza , che vorrei diventasse fiducia , che gli italiani e quindi il parlamento e governo , acquisita	al più presto consapevolezza	del ruolo strategico insostituibile che l Università è chiamata a svolgere nella formazione e nel servizio alla società , destinino adeguati
+
+1	0	0	più presto consulenti
+						DET ADV NOUN	ITWAC	Per la realizzazione delle cessioni di cui al presente decreto ENEL S.p.A. incarica	al più presto consulenti	(  Consulenti  ) e , ove necessario , istituzioni preposte al collocamento (  Collocatori  ) di provata
+
+1	0	1	più presto contatti
+						DET ADV NOUN	ITWAC	A tale proposito è qui da richiamare la preliminare necessità che le SS.VV. promuovano	al più presto contatti	con i responsabili delle aziende di trasporto pubblico urbano ed extra urbano per svolgere nei loro confronti intensa attività di persuasione
+						DET ADV NOUN	WIKICONLL	poter riconoscere alcuna nomina che non sia fatta per espressa volontà delle masse lavoratrici ” e “ delibera di stabilire	al più presto contatti	con i lavoratori di Roma ed , oltre Roma , tutta l Italia e di estendere così il lavoro a tutta
+
+3	0	0	più presto contatto
+						DET ADV NOUN	ITWAC	Propongo , quindi , di prendere	al più presto contatto	come C.P.I. con ( l avv. ) Bonelli per avviare analoghe iniziative .
+						DET ADV NOUN	ITWAC	Si invitano pertanto le SS.LL. a prendere	al più presto contatto	con le istituzioni di riferimento per il programma in oggetto , per informarsi sulle modalità di partecipazione .
+						DET ADV NOUN	ITWAC	venga posticipata a Sabato 1 Marzo , per problemi organizzativi delle FNM-E stesse , si invitano gli interessati a prendere	al più presto contatto	per informazioni e prenotazioni con il Socio E. Tenconi in Sede oppure via e-mail .
+
+2	0	0	più presto conto
+						DET ADV NOUN	ITWAC	Spero che ci si renda	al più presto conto	di questo andamento abnorme e si inauguri finalmente una vera politica di sviluppo e di servizio al cittadino .
+						DET ADV NOUN	ITWAC	Sul traffico , invece , occorre che Milano si renda	al più presto conto	di ciò che la circonda , adottando soluzioni insieme ai comuni dell hinterland e tentando di risolvere in fretta situazioni difficili
+
+1	0	0	più presto contratti
+						DET ADV NOUN	ITWAC	/  Caso Stradella  : contro i licenziamenti è sciopero all Italgas della Lombardia 27.03.2000 Turci :  Varare	al più presto contratti	unici di settore  .
+
+1	0	0	più presto controversie
+						DET ADV NOUN	ITWAC	In secondo luogo per un motivo logico : l introduzione del processo accelerato è dettata dall esigenza di definire	al più presto controversie	di grande impatto economico-sociale ; e non si può certo pensare che  ad esempio  l appalto pubblico ( ma
+
+0	1	0	più presto convenzioni
+						DET ADV NOUN	REPUBBLICA	si prevede che il consumo di gas triplicherà entro il 92 ) , dall altro si conducono trattative per stipulare	al più presto convenzioni	per l importazione di energia da Tunisia , Grecia e dalla stessa Unione Sovietica .
+
+1	1	0	più presto conversazioni
+						DET ADV NOUN	ITWAC	Eppure se vogliamo che i nostri studenti abbiano	al più presto conversazioni	spontanee con parlanti nativi della lingua-bersaglio , l abilità di partecipare alla gestione dell ordine del giorno è sicuramente un abilità
+						DET ADV NOUN	REPUBBLICA	Per Parigi e Bonn bisogna quindi avviare	al più presto conversazioni	tra Mosca e Vilnius , affinché la crisi attuale sbocchi su una soluzione accettabile per tutte le parti .
+
+2	0	0	più presto copia
+						DET ADV NOUN	ITWAC	La RSU , dal canto suo , ha confermato la propria richiesta di poter avere	al più presto copia	del contenuto dei test .
+						DET ADV NOUN	ITWAC	La Sta chiede inoltre a chi ha subito eventuali furti di telepass di presentare	al più presto copia	della denuncia all autorità giudiziaria così da consentire la disattivazione dell apparecchio che consente di superare i varchi elettronici .
+
+1	0	0	più presto corpo
+						DET ADV NOUN	ITWAC	L unica cosa si spera che questi sogni strani del protagonista abbiamo	al più presto corpo	e anima ...
+
+1	0	0	più presto correttivi
+						DET ADV NOUN	ITWAC	In ogni caso bisogna andare avanti , stabilire	al più presto correttivi	adatti a garantire i sostegni minimi di sopravvivenza e creare una nuova cultura sportiva di base .
+
+1	0	0	più presto corsi
+						DET ADV NOUN	ITWAC	continua ] Architetto 07/05/2005 D Ribadisco cortesemente un quesito al quale non mi avete risposto : Quando e dove attiverete	al più presto corsi	che certifichino la competenza a redigere FdF per gli iscritti da almento 5 anni ?
+
+1	0	0	più presto cosa
+						DET ADV NOUN	ITWAC	atto , ciò che adesso risulta più importante è capire se è possibile per noi fare qualcosa , e decidere	al più presto cosa	.
+
+3	0	0	più presto coscienza
+						DET ADV NOUN	ITWAC	Convegno , Prof. Domenico Laforgia , Preside della Facoltà di Ingegneria della locale Università , affinché tutti i cittadini prendano	al più presto coscienza	dei problemi legati al risparmio energetico ed all impatto ambientale degli impianti di illuminazione esterna .
+						DET ADV NOUN	ITWAC	indipendentemente dal credo religioso , vuole che tutta la Terra sia il Suo Regno ; tutte le religioni devono prenderne	al più presto coscienza	ed agire unite ; coloro che guidano , chiese , movimenti , istituzioni , nazioni , stanno per ricevere rivelazioni dai
+						DET ADV NOUN	ITWAC	svolgere nel prossimo futuro dovranno essere ispirate a parametri emergenziali : auspica quindi che il Parlamento ed il Governo prendano	al più presto coscienza	di ciò e la Commissione potrà costituire in tal senso un utile punto di riferimento .
+
+3	0	0	più presto criteri
+						DET ADV NOUN	ITWAC	Essi sono necessari perché la comunità internazionale possa trarne	al più presto criteri	di regolamentazione .
+						DET ADV NOUN	ITWAC	comma 2 ) , si rende quindi necessario - attese le  particolari esigenze  in precedenza manifestate - definire	al più presto criteri	organizzativi per una gestione coerente dell orario di lavoro , dell orario di apertura al pubblico e dell orario settimanale di
+						DET ADV NOUN	ITWAC	con attenzione le indicazioni provenienti dal dibattito in corso , come pure dalla discussione svoltasi alla Camera , e definisca	al più presto criteri	operativi idonei a garantire la possibilità di una scelta fondata su una trasparente comparazione fra i vari enti candidati .
+
+1	0	0	più presto cure
+						DET ADV NOUN	ITWAC	la clonazione , sarebbe un danno per tutti , specie per centinaia di migliaia di ammalati che pregano per avere	al più presto cure	e rimedi  .
+
+1	0	0	più presto dall
+						DET ADV NOUN	ITWAC	futuro ; se il Governo intenda mettere a disposizione del Comune o della Prefettura un congruo contributo finanziario per uscire	al più presto dall	?
+
+1	0	0	più presto danni
+						DET ADV NOUN	ITWAC	E se essi non volevano fare altra cosa che trattati e promesse , detta alleanza poteva portare	al più presto danni	e svantaggi , così che mi sembra che ciò che si è deciso è abbastanza onesto e conveniente .
+
+2	1	0	più presto dati
+						DET ADV NOUN	ITWAC	La preego di rispondermi	al più presto dati	i tempi brevi di scadenza .
+						DET ADV NOUN	ITWAC	a quelli già in uso in Spagna , ancora non ci è dato di sapere , ma contiamo di avere	al più presto dati	più precisi sull  ipotesi Caselli  .
+						DET ADV NOUN	REPUBBLICA	alle Poste , Bogi , che ne fu il patrocinatore -- sarà autorevole e avrà funzione politica se potrà portare	al più presto dati	corretti e attendibili .
+
+1	0	0	più presto decisioni
+						DET ADV NOUN	ITWAC	Pertanto , nel ribadire nuovamente la necessità di conseguire	al più presto decisioni	in tal senso , la Fp Cgil , in particolare , chiede di conoscere quali sono le difficoltà che impediscono alla
+
+1	0	0	più presto deficit
+						DET ADV NOUN	ITWAC	a suo avviso - non giova di certo al Paese , che ha piuttosto bisogno di veder ridotti davvero e	al più presto deficit	e debito pubblico , senza contare che è inevitabilmente assai forte il timore che alla fine i pedaggi li dovranno pagare
+
+1	1	0	più presto delegazioni
+						DET ADV NOUN	ITWAC	Vanno inviate	al più presto delegazioni	e corpi volontari costituiti dalle associazioni e dagli enti locali , in collegamento con le grandi agenzie umanitarie indipendenti .
+						DET ADV NOUN	REPUBBLICA	Non ha fissato una data , ma ha detto che riunirà	al più presto delegazioni	delle due repubbliche a Mosca e che in questo incontro a tre si cercherà di risolvere il massimo dei problemi .
+
+0	1	0	più presto delel
+						DET ADV NOUN	REPUBBLICA	Principe ) e del Friuli Venezia Giulia ( Adriano Biasutti ) , ha messo in risalto la necessità di costruire	al più presto delel	nuove infrastrutture ( centri direzionali , servizi telematici , trasporti e collegamenti efficienti ) per il terziario avanzato , con l
+
+1	0	0	più presto delucidazioni
+						DET ADV NOUN	ITWAC	Anche i Ds - lo dice Fassino - assicurano che si attiveranno per avere	al più presto delucidazioni	su quanto sta accadendo .
+
+0	1	0	più presto detrazioni
+						DET ADV NOUN	REPUBBLICA	fallimento delle imprese in difficoltà , anziché il loro salvataggio , la Confindustria avverte :  Se non si consentono	al più presto detrazioni	anche per la ristrutturazione del debito , saranno guai per tutti  .
+
+1	0	0	più presto diciture
+						DET ADV NOUN	ITWAC	I motori di ricerca dovranno adottare	al più presto diciture	più chiare per distinguere i link sponsorizzati da quelli normali nelle pagine dei risultati .
+
+1	0	0	più presto dimestichezza
+						DET ADV NOUN	ITWAC	Ben venga quindi un gioco in aiuto a quanti vogliono prendere	al più presto dimestichezza	con la nuova valuta , senza aver paura di compiere errori irrimediabili .
+
+1	0	0	più presto direttive
+						DET ADV NOUN	ITWAC	direttiva conteneva , alla fine , un importante dichiarazione congiunta del Parlamento e del Consiglio UE sull impegno ad adottare	al più presto direttive	concernenti altri agenti fisici quali ad esempio i campi elettromagnetici .
+
+1	0	0	più presto direzione
+						DET ADV NOUN	ITWAC	Mi auguro che tale tendenza cambi	al più presto direzione	, perché per detenere una sempre maggiore quantità di persone bisognerebbe costruire carceri nuovi , oppure riempire fino all inverosimile quelli
+
+0	1	0	più presto divenire
+						DET ADV NOUN	REPUBBLICA	; la commissione Giustizia di Palazzo Madama la esaminerà in sede redigente ; si suppone comunque che la proposta possa	al più presto divenire	legge dello Stato .
+
+1	0	0	più presto ducati
+						DET ADV NOUN	ITWAC	speriamo di poter giocare	al più presto ducati	999 Jun 28 2005 , 07:35 PM QUOTE ( The Raptor @ Jun 25 2005 , 09:33 PM ) Allora Artesina
+
+3	0	0	più presto elementi
+						DET ADV NOUN	ITWAC	Le nostre rappresentanze negli Stati Uniti continuano a seguire costantemente la situazione al fine di acquisire	al più presto elementi	certi circa la presenza di nostri concittadini tra le vittime .
+						DET ADV NOUN	ITWAC	Pietro ARMANI , presidente , auspica che la Commissione possa ricevere	al più presto elementi	conoscitivi da parte del Governo , prima di procedere all ulteriore attività istruttoria in relazione al provvedimento in esame .
+						DET ADV NOUN	ITWAC	la Commissione , prima di procedere all eventuale ulteriore attività istruttoria in relazione al provvedimento in esame , potesse ricevere	al più presto elementi	conoscitivi da parte del Governo , con particolare riferimento agli aspetti di copertura finanziaria connessi alla eventuale perdita di gettito IVA
+
+4	7	1	più presto elezioni
+						DET ADV NOUN	ITWAC	 Ora un governo di unità nazionale deve indire	al più presto elezioni	democratiche  .
+						DET ADV NOUN	ITWAC	ha incontrato a El Alto i leader dei movimenti di protesta ottenendo una pausa delle manifestazioni e impegnandosi a indire	al più presto elezioni	generali .
+						DET ADV NOUN	ITWAC	le rimostranze politiche che si fanno sempre più frequenti delle forze sciite del sud , che spingono affinchè vi siano	al più presto elezioni	libere , convinte di poter essere dichiarate vincitrici dal verdetto delle urne e poter dar vita cosi ad un  nuovo
+						DET ADV NOUN	ITWAC	non essendovi eletti disponibili in graduatoria per poter provcedere alla loro sostituzione , gli uffici ci comunicano che saranno indette	al più presto elezioni	suppletive ; - il prof. Franco Caroti-Ghelli , associato di Statistica presso il nostro Corso di studi , ci comunica che
+						DET ADV NOUN	REPUBBLICA	 Il processo di pace è bloccato da mesi e a questo punto credo che la cosa migliore sia organizzare	al più presto elezioni	generali per sapere che cosa vogliono veramente gli israeliani  , ha detto Weizman .
+						DET ADV NOUN	REPUBBLICA	Il potere dovrebbe essere assunto da un esecutivo di salute pubblica che dovrebbe indire	al più presto elezioni	libere per la creazione di un Assemblea Costituente .
+						DET ADV NOUN	REPUBBLICA	Juan Carlos negli scandali spagnoli da parte di due finanzieri d assalto , spinge il madrileno El Mundo a chiedere	al più presto elezioni	anticipate .
+						DET ADV NOUN	REPUBBLICA	Per godere dell appoggio popolare -- ha insistito Arafat -- è necessario che nei Territori si svolgano	al più presto elezioni	democratiche .
+						DET ADV NOUN	REPUBBLICA	Quel disastrato Stato fratello deve prima dimostrare una precisa volontà democratica , organizzando	al più presto elezioni	libere e segrete .
+						DET ADV NOUN	REPUBBLICA	patriottici nel nostro Paese e le esigenze di un cambiamento urgente con la formazione di un governo di transizione e	al più presto elezioni	anticipate  , si legge nel comunicato .
+						DET ADV NOUN	REPUBBLICA	vado  e l altro  se bocciate la mozione chiedo alla regina di scioglere i Comuni e di indire	al più presto elezioni	politiche  .
+						DET ADV NOUN	WIKICONLL	Nel novembre del 1970 nacque La Hora del Pueblo , un coordinamento di svariate formazioni politiche che invocavano	al più presto elezioni	libere e democratiche .
+
+1	0	0	più presto errori
+						DET ADV NOUN	ITWAC	fatemi prontamente sapere	al più presto errori	correzioni od omissioni commesse per mancanza di tempo nel rileggersi ogni singolo post ...
+
+1	0	0	più presto esca
+						DET ADV NOUN	ITWAC	Spero che facciano il continuo e che	al più presto esca	ULTIMO IV .
+
+1	0	0	più presto esperienze
+						DET ADV NOUN	ITWAC	In bici per Torino  , che si é tenuta il 4 marzo 1996 , e si propone di ripetere	al più presto esperienze	analoghe .
+
+0	1	0	più presto fatti
+						DET ADV NOUN	REPUBBLICA	Se sono state pronunciate , e non ho motivi per dubitar- ne , nella consapevolezza che devono seguire	al più presto fatti	concreti , allora davvero sarà un messaggio forte .
+
+0	1	0	più presto ferrovie
+						DET ADV NOUN	REPUBBLICA	è stata infatti concentrata sulla urgente necessità di raddoppiare autostrade , di costruire nuovi ponti e gallerie , di realizzare	al più presto ferrovie	ad alta velocità , il ministro Burlando ha avuto il merito , sia pure incidentalmente , di riscoprire e di valorizzare
+
+1	0	0	più presto finanziamenti
+						DET ADV NOUN	ITWAC	sforzo considerevole per arrivare alle applicazioni su pazienti con il progetto SYRMEP , per il cui compimento è necessario reperire	al più presto finanziamenti	.
+
+9	0	0	più presto fine
+						DET ADV NOUN	ITWAC	ALESSANDRIA - Questa guerra « che vorremmo non si fosse mai verificata » , speriamo « abbia	al più presto fine	» .
+						DET ADV NOUN	ITWAC	Balcani e in Afghanistan , come esemplare , esprimendo il fervido auspicio che la guerra in corso in Iraq abbia	al più presto fine	.
+						DET ADV NOUN	ITWAC	Una situazione questa che sta letteralmente massacrando i consumatori italiani e alla quale occorre mettere	al più presto fine	.
+						DET ADV NOUN	ITWAC	a discutere con chiunque si senta male come me , e per pensare a cosa si può fare per mettere	al più presto fine	all aggressione .
+						DET ADV NOUN	ITWAC	deciso di usare la propria capacità di fare pressione sulla situazione irachena per fare in modo che quella dittatura avesse	al più presto fine	senza un intervento armato .
+						DET ADV NOUN	ITWAC	disposto dalle organizzazioni internazionali , come esemplare ; esprimendo il fervido auspicio che la guerra in corso nell Iraq abbia	al più presto fine	.
+						DET ADV NOUN	ITWAC	portuali di Savona e di Trieste si trovano in regime di commissariamento Pag. 78 e ritiene auspicabile che si ponga	al più presto fine	a tale situazione di precarietà ed emergenza , così da assicurare ai due enti la certezza e continuità amministrativa che occorre
+						DET ADV NOUN	ITWAC	« Una situazione - lamenta - che sta letteralmente massacrando i consumatori italiani e alla quale occorre mettere	al più presto fine	» .
+						DET ADV NOUN	ITWAC	« Una situazione - lamenta l Intesa - che sta letteralmente massacrando i consumatori italiani e alla quale occorre mettere	al più presto fine	» .
+
+1	0	0	più presto finire
+						DET ADV NOUN	ITWAC	del terrorismo » , dice il professore facendo poi scoppiare la platea : « Non doveva mia cominciare e deve	al più presto finire	» , aggiunge .
+
+1	0	0	più presto fondi
+						DET ADV NOUN	ITWAC	Ritiene tuttavia che sia necessario individuare	al più presto fondi	e meccanismi incentivanti anche per la ricerca scientifica .
+
+3	0	0	più presto forme
+						DET ADV NOUN	ITWAC	Devono essere studiate ed attuate	al più presto forme	di « relax » che permettano di trascorrere ore serene da dedicare al riposo e alla coltivazione delle energie intellettuali e
+						DET ADV NOUN	ITWAC	eliminare accattonaggio e microcriminalità , bisogna risolvere il problema del reddito , e quindi pensiamo che se non si avviano	al più presto forme	di lavoro concreto , si deve inserire tra le proposte l ipotesi di un reddito sociale per ogni famiglia Rom ,
+						DET ADV NOUN	ITWAC	ho scritto nel mio libro , che siamo quasi arrivati a un punto di non ritorno : sarebbe indispensabile avviare	al più presto forme	di  governance  che permettano veramente di guidare e orientare in modo non dispotico e autoritario , ma con procedure
+
+1	1	0	più presto forniture
+						DET ADV NOUN	ITWAC	la comunità internazionale a continuare a fornire ai bambini e alle fasce vulnerabili della popolazione un aiuto umanitario sufficiente inviando	al più presto forniture	mediche ed oltre 100.000 tonnellate di cereali , al fine di soddisfare il fabbisogno del Programma alimentare mondiale per i restanti
+						DET ADV NOUN	REPUBBLICA	Se non otteniamo	al più presto forniture	alternative , la nostra battaglia è senza speranza .
+
+1	0	0	più presto forza
+						DET ADV NOUN	ITWAC	[ Duncan 13/06/2005 10:56:00 ] grazie per il benvenuto ci sentiamo	al più presto forza	fiorentina .
+
+0	1	0	più presto forze
+						DET ADV NOUN	REPUBBLICA	Il portavoce della Nato lo ha detto chiaramente :  Dovremmo poter dispiegare	al più presto forze	di terra guidate dalla Nato -- afferma Jamie Shea -- per por fine alla violenza contro i civili e garantire il
+
+1	0	0	più presto francobit
+						DET ADV NOUN	ITWAC	leggi qui che bello http://www.megalab.it/news.php?id = 667 se fossi in te chiuderei baracca	al più presto francobit	2005 ( Privato ) Vedi le inserzioni del venditore 01 - giu - 05 18:02 CEST 4 di 13 Prima cosa
+
+1	0	0	più presto funzionari
+						DET ADV NOUN	ITWAC	è stato calcolato in oltre 890 unità nelle qualifiche direttive , per cui si avverte l urgente necessità di assumere	al più presto funzionari	del ruolo dei commissari , dei direttori tecnici e dei direttori medici .
+
+1	0	0	più presto garanzie
+						DET ADV NOUN	ITWAC	Il Codacons si rivolge oggi al Ministero della Salute affinchè fornisca	al più presto garanzie	e informazioni circa questi prodotti , la loro efficacia e gli effetti su chi li utilizza .
+
+1	0	0	più presto gente
+						DET ADV NOUN	ITWAC	Del resto se volessimo farlo coincidere con la realtà bisognerà spedire in prigione	al più presto gente	come Quentin Tarantino o Sam Peckinpah » .
+
+1	1	0	più presto giustizia
+						DET ADV NOUN	ITWAC	la situazione è critica , chiediamo e appoggiamo una soluzione multilaterale , come quella delle Nazioni Unite , che dia	al più presto giustizia	, libertà e democrazia alla popolazione irachena , che ha subito due guerre nei soli ultimi dieci anni , oltre ad
+						DET ADV NOUN	REPUBBLICA	sollecita definizione della procedura disciplinare , in quanto di tali accuse  calunniose e infondate  è necessario si faccia	al più presto giustizia	:  Non è accettabile che magistrati su cui pesa l accusa formulata dal ministro davanti agli schermi televisivi operino per
+
+1	0	0	più presto grasie
+						DET ADV NOUN	ITWAC	se posti il tuo il mio giardiniere provvede	al più presto grasie	PS nel sezione dwl non l ho trovato Pwd - 29/7/2004 alle 15:36 Il giardiniere , magari e in ferie ...
+
+0	1	0	più presto grazie
+						DET ADV NOUN	REPUBBLICA	In Italia sarà attivato	al più presto grazie	ai fondi della legge 45  .
+
+1	0	0	più presto gruppi
+						DET ADV NOUN	ITWAC	La nostra speranza è che si formino	al più presto gruppi	di praticanti , che possano trovare nel sito tutte le informazioni di cui hanno bisogno e che vogliano condividere con gli
+
+0	0	1	più presto guerra
+						DET ADV NOUN	WIKICONLL	e compiuto le necessarie ricognizioni , e si mostrava tanto sicuro da aver inviato a Vienna pressanti richieste a dichiarare	al più presto guerra	alla Francia , prima che questa potesse rafforzare le proprie posizioni in Italia .
+
+1	0	0	più presto guide
+						DET ADV NOUN	ITWAC	Ma per sfruttare questa occasione è necessario predisporre	al più presto guide	turistiche in cinese ( al momento quasi introvabili ) , realizzare materiali informativi , brochure , persino cartelli in questa lingua
+
+0	16	0	più presto i
+						DET ADV NOUN	REPUBBLICA	 Su questo piano , qualcosa possiamo far- la cercando di coprire	al più presto i	posti che , a mano a mano , si fanno vacanti .
+						DET ADV NOUN	REPUBBLICA	 di incontri e colloqui tra i capi della diplomazia mondiale -- con l intento e la speranza di cancellare	al più presto i	ricordi lasciati dal ministro De Michelis .
+						DET ADV NOUN	REPUBBLICA	( come la legge finanziaria ) e di alcune altre questioni di peso ; di impegnar- si a far disputare	al più presto i	referendum sul nucleare e sulla giustizia in piena mobilitazione di un partito socialista che Craxi ha preso completamente in mano ,
+						DET ADV NOUN	REPUBBLICA	Che Baggio possa far- ne parte è improbabile e poiché Sacchi intende impostare	al più presto i	nuovi schemi , lo spazio per il fantasista si restringe , a maggior ragione dopo l eliminazione da Champions League e
+						DET ADV NOUN	REPUBBLICA	E se proprio bisognava occupar- se- ne , allora s è preferito ricordare che	al più presto i	titoli Benetton saranno sul listino di Wall Street .
+						DET ADV NOUN	REPUBBLICA	Ferruzzi dettava legge , il consiglio del Cbot ha imposto al gruppo di diminuire fortemente le sue posizioni , liquidando	al più presto i	contratti di futures .
+						DET ADV NOUN	REPUBBLICA	Ieri il presidente ha affermato che , chiedendo- gli di trasmettere	al più presto i	poteri al primo ministro Etienne Tshisekedi , Francia , Belgio e Stati Uniti condannano  il pompiere a vantaggio dell incendiario
+						DET ADV NOUN	REPUBBLICA	In una parola : sforzar- si di concludere	al più presto i	processi e scarcerare il meno gente possibile .
+						DET ADV NOUN	REPUBBLICA	Le più famose riviste di erotismo promettono in copertina di pubblicar- ne	al più presto i	brani più scottanti e sono già in corso trattative con la casa editrice per acquisir- ne i diritti .
+						DET ADV NOUN	REPUBBLICA	Warner di espander- si sia negli Usa che all estero , a cominciare dall Europa , dove verranno probabilmente distribuiti	al più presto i	diritti per i film di Hbo .
+						DET ADV NOUN	REPUBBLICA	d ufficio non posso esprimer- me in proposito  , avverte ) , ma invita politici e pm a ritrovare	al più presto i	toni pacati .
+						DET ADV NOUN	REPUBBLICA	generali e ammira- gli e tutti gli alleati si augurano che non ceda , e che i suoi 007 catturino	al più presto i	pirati del computer .
+						DET ADV NOUN	REPUBBLICA	l Italia non vuole arrivare in Europa leccando- si troppe ferite , bisogna rilanciare produzione e occupazione e far partire	al più presto i	piani di sviluppo per il Sud .
+						DET ADV NOUN	REPUBBLICA	la  , sottolineando la necessità  impellente  di creare strutture politiche comuni alle undici repubbliche indipendenti per risolvere	al più presto i	problemi economici e militari .
+						DET ADV NOUN	REPUBBLICA	linea di credito di un miliardo di dollari per tamponare le difficoltà del momento ; e la promessa di sboccare	al più presto i	crediti già concordati .
+						DET ADV NOUN	REPUBBLICA	visita della signora Thatcher all invito rivoltogli dal ministro dell Interno , generale Kiszczak , ad incontrar- si per risolvere	al più presto i	problemi tecnici e procedurali che ancora si frappongono all inizio della tavola rotonda .
+
+1	0	0	più presto idea
+						DET ADV NOUN	ITWAC	--- ) Data : 08/06/04 19:28 spero che cambi	al più presto idea	...
+
+1	0	0	più presto immagini
+						DET ADV NOUN	ITWAC	sperando di vedere	al più presto immagini	simili a queste ...
+
+1	0	0	più presto impianti
+						DET ADV NOUN	ITWAC	i conducenti di altri veicoli diesel saranno i benvenuti nei nuovi distributori , assicurano gli imprenditori che sperano di installare	al più presto impianti	di produzione e stazioni di rifornimento biodiesel nelle proprie comunità .
+
+0	1	0	più presto inchieste
+						DET ADV NOUN	REPUBBLICA	Un invito nemmeno tanto cifrato ai giudici , per chiudere	al più presto inchieste	aperte dieci anni fa e che coinvolgono per ora solo presunti autori materiali dei delitti .
+
+3	0	0	più presto incontri
+						DET ADV NOUN	ITWAC	Bernazzoli ha inoltre dichiarato l intenzione di organizzare	al più presto incontri	nei quattro distretti .
+						DET ADV NOUN	ITWAC	iniziativa PSE la commissione occupazione ed affari sociali ha già preso contatto con la nuova Commissione al fine di sollecitare	al più presto incontri	fra i funzionari della Commissione ed i parlamentari impegnati su questo fronte , al fine di predisporre un nuovo programma sociale
+						DET ADV NOUN	ITWAC	tecnica per la definizione del paniere e per un primo esame della politica degli approvvigionamenti ; 2 ) saranno programmati	al più presto incontri	a livello regionale per l accelerazione del piano di sviluppo e per l esame della politica degli approvvigionamenti a livello locale
+
+4	1	0	più presto indicazioni
+						DET ADV NOUN	ITWAC	Il deputato PECORARO SCANIO fa presente al Presidente la necessità di dare	al più presto indicazioni	alla RAI sullo svolgimento del prossimo refendum regionale in Sicilia .
+						DET ADV NOUN	ITWAC	L ospitalità è garantita dentro l Ostello  Casale dei Monaci  di Ciampino , invieremo	al più presto indicazioni	per le prenotazioni .
+						DET ADV NOUN	ITWAC	Non ritiene congrui i costi ipotizzati per la costruzione ed auspica che l amministrazione comunale dell Aquila fornisca	al più presto indicazioni	riguardo all individuazione del sito , aspetto assai importante che deve prevedere il coinvolgimento della popolazione .
+						DET ADV NOUN	ITWAC	Si richiede dunque ai Comuni che avessero intenzione di prendere parte a questa importante iniziativa di voler comunicare	al più presto indicazioni	precise in merito al numero di persone che possono ospitare , al luogo e alla durata del soggiorno , nonché in
+						DET ADV NOUN	REPUBBLICA	Felice Lioy , direttore dell Upa , dice :  È bene avere	al più presto indicazioni	; altrimenti gli accordi con la Rai rischiano di non potere essere rispettati  .
+
+1	0	0	più presto indirizzi
+						DET ADV NOUN	ITWAC	Condivide pertanto la necessità di definire	al più presto indirizzi	e orientamenti Pag. 54 che vincolino il Governo in relazione al prossimo Documento di programmazione .
+
+0	1	0	più presto infermieri
+						DET ADV NOUN	REPUBBLICA	È lo stesso presidente del Consiglio a confermare che nelle corsie degli ospedali lavoreranno	al più presto infermieri	extracomunitari .
+
+10	1	0	più presto informazioni
+						DET ADV NOUN	ITWAC	, composta da Francesco Pizzetti , Giuseppe Chiaravalloti , Mauro Paissan e Giuseppe Fortunato , chiede alle società di trasmettere	al più presto informazioni	e documenti utili per valutare come si svolgono le intercettazioni e le attività connesse di comunicazioni telefoniche , informatiche , telematiche
+						DET ADV NOUN	ITWAC	Da ultimo auspica che il Governo fornisca	al più presto informazioni	in ordine allo stato di avanzamento del processo di ammodernamento dell anagrafe tributaria La seduta termina alle 9.30 .
+						DET ADV NOUN	ITWAC	Ho urgenza , prego la redazione di fornirmi	al più presto informazioni	.
+						DET ADV NOUN	ITWAC	Quanto alla pesca , essi vorrebbero ricevere	al più presto informazioni	complete sulla riforma del settore , in modo da valutare l impatto di questa riforma sul bilancio 2003 , soprattutto per
+						DET ADV NOUN	ITWAC	Vi prego di inviarmi	al più presto informazioni	per poter poi indirizzarmi un pò .
+						DET ADV NOUN	ITWAC	a un mese dall ´ invasione dell ´ Iraq , era motivato  dall ´ interesse della Cia di ottenere	al più presto informazioni	su quanto sapeva Omar di Ansar al Islam  sperando che ciò desse  appoggio alle tesi dell ´ amministrazione a
+						DET ADV NOUN	ITWAC	ereditiero propretario di villa a Capri & imbarcazione dalle dimensioni non specificate ( e su questo punto pretendo di ricevere	al più presto informazioni	dettegliate ) .
+						DET ADV NOUN	ITWAC	internazionale per uno sviluppo ed un uso sicuro dell energia nucleare ; Convinti della necessità per gli Stati di fornire	al più presto informazioni	pertinenti sugli incidenti nucleari , in modo che le conseguenze radiologiche attraverso le frontiere possano essere limitate il più possibile ;
+						DET ADV NOUN	ITWAC	la riforma ha determinato un maggio gettito un maggior gettito , rispetto il quale è necessario che il Governo fornisca	al più presto informazioni	.
+						DET ADV NOUN	ITWAC	sollecita al riguardo la Commissione a predisporre	al più presto informazioni	sugli obiettivi a lungo termine , i presupposti tecnici e giuridici , nonché sulle conseguenze finanziarie dello sviluppo del sistema d
+						DET ADV NOUN	REPUBBLICA	 È l unica raccomandazione che faccio al ministero -- spiega -- bisogna mandare	al più presto informazioni	sulla disponibilità finanziarie alle singole scuole .
+
+0	1	0	più presto inizi
+						DET ADV NOUN	REPUBBLICA	Infine , i protestanti chiedono che	al più presto inizi	anche il processo di distruzione delle stesse armi dell Ira .
+
+7	2	0	più presto iniziative
+						DET ADV NOUN	ITWAC	E necessario che i Paesi dell Unione Europea promuovano	al più presto iniziative	comuni per affrontare in modo più corresponsabile e con un più alto spirito di solidarietà i problemi dei richiedenti asilo ,
+						DET ADV NOUN	ITWAC	La maggioranza degli intervistati ( 55,3 % ) ritiene infatti necessario realizzare	al più presto iniziative	di cooperazione strategica orientate alla promozione della creatività .
+						DET ADV NOUN	ITWAC	Oltre a tale verifica occorre , peraltro , assumere	al più presto iniziative	incisive per ripristinare la mobilità delle zone attraversate dalla linea Torino-Aosta , che risultano gravemente danneggiate dall interruzione del servizio sulla
+						DET ADV NOUN	ITWAC	Posso dimostrare che Albertini è molto deciso a imporre	al più presto iniziative	drastiche e impopolari che vanno in questa direzione » .
+						DET ADV NOUN	ITWAC	Qualcuno si dice perplesso , altri ancora minacciano	al più presto iniziative	di contrasto .
+						DET ADV NOUN	ITWAC	che la risposta all interrogazione è soltanto in apparenza di tipo interlocutorio , giacché è precisa intenzione del Governo assumere	al più presto iniziative	concrete a tale riguardo .
+						DET ADV NOUN	ITWAC	tutti quei provvedimenti necessari per la istituzione dei servizi alternativi affinché non si proceda più nuovi ricoveri e si avviino	al più presto iniziative	per la sollecita dimissione dei minori ora ricoverati ( ritorno presso la famiglia di origine o inserimento in famiglie affidatarie o
+						DET ADV NOUN	REPUBBLICA	Anche i verdi hanno presentato una interpellanza al governo , chiedendo , ha detto ieri Marco Boato ,	al più presto iniziative	per disinnescare la tensione , isolare la violenza e la sopraffazione e impedire che in provincia di Bolzano si determini una
+						DET ADV NOUN	REPUBBLICA	gravemente danneggiando la propria immagine , sono proprio i legislatori pro-israeliani a premere affinché il governo di Tel Aviv produca	al più presto iniziative	per risolvere o perlomeno attenuare il conflitto con i palestinesi .
+
+0	1	0	più presto integrazioni
+						DET ADV NOUN	REPUBBLICA	La Coldiretti auspica inoltre che vengano varate	al più presto integrazioni	ai fondi in modo di sanare la situazione sempre più difficile per la persistente carenza idrica .
+
+4	0	0	più presto interventi
+						DET ADV NOUN	ITWAC	  Il governo italiano non sottovaluta il fenomeno e intende adottare	al più presto interventi	legislativi - dice il sottosegretario alle Attività produttive Mario Valducci sottolineando che - il 4 % dei lavoratori italiani ne è
+						DET ADV NOUN	ITWAC	2006 almeno due donne dovranno sedere nel consiglio di amministrazione di ciascuna azienda ) , sono ad ogni conto necessari	al più presto interventi	più incisivi ( dalla flessibilità oraria al mentoring ) che agevolino davvero i percorsi delle donne all interno alle aziende .
+						DET ADV NOUN	ITWAC	città di Catania dalle ceneri dovute all eruzione dell Etna , sottopone all attenzione del Governo la necessità di prevedere	al più presto interventi	adeguati , sottolineando in proposito la richiesta del sindaco di Catania all assunzione di un preciso impegno in merito da parte
+						DET ADV NOUN	ITWAC	dell UNIRE sia sempre stata alta , anche rispetto ai problemi di carattere finanziario , invita il Governo ad adottare	al più presto interventi	volti a dare attuazione ad una strategia finanziaria che consenta un efficace gestione del settore ippico da parte dell ente .
+
+0	2	0	più presto investimenti
+						DET ADV NOUN	REPUBBLICA	In base all accordo -- si legge in un comunicato --  la Rotocalcografica effettuerà	al più presto investimenti	produttivi già definiti , il più importante dei quali consiste nell acquisto di una rotativa idonea a incrementare la produzione di
+						DET ADV NOUN	REPUBBLICA	Zeit  in prima fila -- suggerisce di preparar- si in fretta ad abbandonare il settore acciaio e di dirottare	al più presto investimenti	e capacità produttive nelle tecnologie di punta , una svolta strategica cui non è certo che le imprese tedesche siano preparate
+
+2	0	0	più presto isolato
+						DET ADV NOUN	ITWAC	 Tutti ci auguriamo che questo virus possa essere	al più presto isolato	, ma un fatto è certo : il mondo , come dimostra la fin troppo rapida conclusione della guerra in Iraq
+						DET ADV NOUN	ITWAC	Auspichiamo che l episodio venga	al più presto isolato	, per evitare che l intera campagna elettorale degeneri » .
+
+0	1	0	più presto istanza
+						DET ADV NOUN	REPUBBLICA	L avvocato Cesare Piraino , che insieme all avvocato Luca Del Favero , difende la donna , annuncia che presenterà	al più presto istanza	di scarcerazione .
+
+2	0	0	più presto istruzioni
+						DET ADV NOUN	ITWAC	forza e di mezzi di contenimento autorizzati durante l espulsione di cittadini stranieri , e ha raccomandato che fossero emanate	al più presto istruzioni	dettagliate sulle procedure da seguire in tali circostanze .
+						DET ADV NOUN	ITWAC	È nostra volontà che siano emanate	al più presto istruzioni	apposite , nelle quali il tema sia trattato con la necessaria ampiezza , col concorso di persone esperte , per fornire
+
+1	0	0	più presto lampadina
+						DET ADV NOUN	ITWAC	Sulla strada , la possibilità di un controllo ci fa cambiare	al più presto lampadina	fulminata dello stop , ci fa ricordare di esporre il tagliando dell assicurazione , insomma ci aiuta ad essere automobilisti più
+
+0	16	0	più presto le
+						DET ADV NOUN	REPUBBLICA	, c è gente che sa di dover- se- ne andare e gente destinata a restare che invece vorrebbe preparare	al più presto le	valige .
+						DET ADV NOUN	REPUBBLICA	, nuovi membri della società civile devono impegnar- si in prima persona in nome della collettività e perciò occorre ampliare	al più presto le	nostre visioni  , spiega Nico Tognana , 41 anni , che dell Associazione di Treviso è il presidente .
+						DET ADV NOUN	REPUBBLICA	-- perché se ce ne fosse bisogno li attueremmo senza annunciar- li , ma è necessario che il governo definisca	al più presto le	linee della politica economica per il prossimo anno  .
+						DET ADV NOUN	REPUBBLICA	Arthur D. Little che ha accusato Enimont di trovar- si in uno stato di vuoto strategico e pertanto deve prendere	al più presto le	decisioni indicate .
+						DET ADV NOUN	REPUBBLICA	Il governo , il presidente del Consiglio e il Parlamento devono far- si carico di varare	al più presto le	riforme necessarie da noi sempre chieste e mai realizzate .
+						DET ADV NOUN	REPUBBLICA	Il gruppo liberale dovrà trar- ne	al più presto le	dovute conclusioni  .
+						DET ADV NOUN	REPUBBLICA	L Italia , da parte sua , avrebbe dovuto preoccupar- si di realizzare	al più presto le	tre grandi opere pubbliche che più direttamente la interessano .
+						DET ADV NOUN	REPUBBLICA	Ma mister Dini-bis non si fermerà qui :  Chiederò di incontrare	al più presto le	massime autorità dello Stato  annuncia , lasciando intravedere i titoli delle agenzie di stampa :  Scalfaro riceve Dini (
+						DET ADV NOUN	REPUBBLICA	deciso- ne di ripristinare una parte delle forniture di gas verso la Lituania , si è anche parlato di riprendere	al più presto le	vendite dei concimi agricoli ed è stato raggiunto un accordo ha scritto la Tass su numerose questioni concrete .
+						DET ADV NOUN	REPUBBLICA	la popolazione , e lancia un appello agli iracheni che vivono nei pressi dei centri economici invitando- li a lasciare	al più presto le	loro case per non venir coinvolti nella rappresaglia iraniana .
+						DET ADV NOUN	REPUBBLICA	legge sull insider trading , la Consob dà il via libera alla Borsa telematica , il Parlamento promette di disciplinare	al più presto le	Offerte pubbliche di acquisto ( Opa ) e di approvare i fondi chiusi .
+						DET ADV NOUN	REPUBBLICA	per dir- la con la democristiana Ombretta Fumagalli , che del Csm fu membro di elezione parlamentare -- di adottare	al più presto le	iniziative di legge necessarie per far- lo tornare nei ranghi .
+						DET ADV NOUN	REPUBBLICA	qualcuno è preoccupato per la  scia  che si porta dietro e ha deciso di muover- si per cancellare	al più presto le	tracce del passato .
+						DET ADV NOUN	REPUBBLICA	rivolto personalmente a Cernomyrdin , Talbott e Athisaari per sollecitar- li a compiere il massimo degli sforzi per  creare	al più presto le	condizioni  che permettano all Onu di dare inizio a una  operazione di pace  nel Kosovo .
+						DET ADV NOUN	REPUBBLICA	tutte le navi da guerra degli stati non rivieraschi ( comprese quindi le unità della US Navy ) ad abbandonare	al più presto le	acque del Golfo Persico , per ridurre la tensione .
+						DET ADV NOUN	REPUBBLICA	utilizzato disponibilità della clientela per il finanziamento di operazioni della proprietà per circa cinque-otto miliardi , riservando- si di fornire	al più presto le	osservazioni definitive ad accertamento concluso .
+
+6	0	0	più presto legge
+						DET ADV NOUN	ITWAC	Il nostro auspicio è dunque che il testo base della Commissione possa diventare	al più presto legge	, in modo da dare al nostro paese la prima normativa organica sullo Spettacolo dal vivo .
+						DET ADV NOUN	ITWAC	Signor Presidente , con il provvedimento in esame , che auspichiamo diventi	al più presto legge	dello Stato , si inseriscono nel nostro ordinamento norme necessarie ed urgenti , dirette a colmare un vuoto normativo su una
+						DET ADV NOUN	ITWAC	comunista , ribadendo l auspicio , già fatto nella scorsa legislatura , purtroppo senza successo , che questo provvedimento diventi	al più presto legge	dello Stato .
+						DET ADV NOUN	ITWAC	concludere senza ribadire l auspicio , già fatto nella scorsa legislatura , purtroppo senza successo , che questo provvedimento diventi	al più presto legge	dello Stato e si possa annunciare definitivamente al paese e al mondo intero l approvazione di queste norme di civiltà giuridica
+						DET ADV NOUN	ITWAC	ha affermato poi Corrado Danzi dell Udc che si è detto fortemente « convinto della necessità assoluta di farlo diventare	al più presto legge	dello Stato » .
+						DET ADV NOUN	ITWAC	soluzioni più opportune al riguardo , anche se non può nascondere che è interesse del Governo che il provvedimento diventi	al più presto legge	dello Stato .
+
+0	1	0	più presto leggi
+						DET ADV NOUN	REPUBBLICA	E Trittin si è subito vendicato annunciando che , negoziato o no , farà preparare	al più presto leggi	per imporre il fatto compiuto della chiusura delle centrali .
+
+1	0	0	più presto legislazione
+						DET ADV NOUN	ITWAC	Non ci se ne può che rallegrare , augurandosi che la proposta di statuto per una società cooperativa europea diventi	al più presto legislazione	vigente !
+
+1	0	0	più presto legittimazione
+						DET ADV NOUN	ITWAC	Occorre allora dare	al più presto legittimazione	e forma istituzionale a una conversione di ruolo e di identità che si è in larga parte già prodotta nei fatti
+
+1	0	0	più presto libertà
+						DET ADV NOUN	ITWAC	La posizione di Turati era quella che il Psi doveva lottare a fianco dei repubblicani e dei radicali per ottenere	al più presto libertà	politica e il compimento della  democratizzazione  del Paese .
+
+0	1	0	più presto liquidità
+						DET ADV NOUN	REPUBBLICA	Gli australiani sono invece dinanzi alla necessità di realizzare	al più presto liquidità	.
+
+5	2	1	più presto luce
+						DET ADV NOUN	ITWAC	Sono sicuro che la magistratura farà	al più presto luce	sulle responsabilità .
+						DET ADV NOUN	ITWAC	colpite , al Ministero del Lavoro e alla Regione autonoma della Sardegna , auspicando che sulla vicenda gli inquirenti facciano	al più presto luce	, chiarendo responsabilità e motivi che sono alla base di questi attentati .
+						DET ADV NOUN	ITWAC	giorni dopo il pestaggio , ha espresso piena fiducia nell operato della magistratura : « Mi auguro che sia fatta	al più presto luce	sulle responsabilità di quei pestaggi » .
+						DET ADV NOUN	ITWAC	il fatto che l indagine avviata dalla Capitaneria di porto non si sia ancora conclusa e auspica che si faccia	al più presto luce	sulle dinamiche del sinistro e sulle eventuali responsabilità , chiedendo di poter disporre delle relative risultanze non appena conclusa l indagine
+						DET ADV NOUN	ITWAC	presidente della Repubblica francese Jacques Chirac ha espresso tutto il suo cordoglio per il tragico evento auspicando che si faccia	al più presto luce	sull omicidio del giornalista di Rfi .
+						DET ADV NOUN	REPUBBLICA	, Mruja Pachon , che è anche responsabile dell attività sportiva in Colombia , ha sollecitato la polizia a fare	al più presto luce	sulla morte di Escobar , chiarendo una volta per tutte i legami tra criminalità organizzata e mondo del calcio e andando
+						DET ADV NOUN	REPUBBLICA	Vogliamo perciò che siano fatte	al più presto luce	e giustizia ...
+						DET ADV NOUN	WIKICONLL	chiesto al governo e alle amministrazioni coinvolte di fare tutto il possibile per ritrovare la traccia dell aereo e fare	al più presto luce	sulle circostanze della scomparsa  .
+
+1	0	0	più presto lunedi
+						DET ADV NOUN	ITWAC	mica male per un dilettante vero ????????? ho ancora l adrenalina a 1000 notte a tutti sono stanco ci sentiamo	al più presto lunedi	buon fine settimana in c. alla balena ho al tonno angler Average Member NE Sardegna 449 Posts Posted - 12/05/2002 :
+
+1	0	0	più presto lunedì
+						DET ADV NOUN	ITWAC	La convocazione segue una Comunicazione emessa	al più presto lunedì	, dal Corpo di Governo delle Gare di Formula 1 , in cui è espressa la sua posizione sulla decisione di
+
+2	0	0	più presto lupus
+						DET ADV NOUN	ITWAC	ciao e rispondimi	al più presto lupus	Advanced Member roma 2622 Posts Posted - 03/05/2004 : 16:13:45 Buone notizie anche dalla foce .
+						DET ADV NOUN	ITWAC	ciao e rispondimi	al più presto lupus	Buone notizie anche dalla foce .
+
+1	0	0	più presto madre
+						DET ADV NOUN	ITWAC	LA VEDOVA INCONSOLABILE RINGRAZIA QUANTI LA CONSOLARONO Per impossessarsi dell eredità del defunto marito , una bella vedova deve diventare	al più presto madre	.
+
+0	0	1	più presto magazzini
+						DET ADV NOUN	WIKICONLL	L Amministrazione degli Archivi di Stato pertanto individuò parte di un prestigioso compendio del demanio storico-artistico per realizzare	al più presto magazzini	complementari e , in prospettiva , la nuova unica sede dell Archivio di Stato di Piacenza .
+
+1	0	0	più presto mail
+						DET ADV NOUN	ITWAC	Grazie per i complimenti e per le informazioni , e aspettiamo	al più presto mail	a tema da Sua Maestà :) .
+
+1	0	0	più presto mani
+						DET ADV NOUN	ITWAC	Speriamo allora di poter porgere	al più presto mani	, occhi ed orecchi sull ombra del gigante ; un ombra che se confermerà quanto promette , oscurerà ( se non
+
+1	0	0	più presto marco
+						DET ADV NOUN	ITWAC	asapere che a lei gli piace un altro sono disperato penso sempre a lei come faccio ?????????????!!!!!!!!!! ti prego rispondi	al più presto marco	9427 ( pss ...
+
+2	0	0	più presto meccanismi
+						DET ADV NOUN	ITWAC	Il presidente della Pro-vincia Fabio Ceccherini rac-comandava di attivare	al più presto meccanismi	capaci di ridurre gli effetti dell inquina-mento , oltre a lavorare sulle cause , e insisteva sull urgen-za di aprire un
+						DET ADV NOUN	ITWAC	piena valorizzazione della risorsa del Volontariato in quelle regioni dove non sono ancora avviati , e che inoltre vengano individuati	al più presto meccanismi	di perequazione nella ripartizione dei fondi alle singole regioni per evitare , come succede oggi , che vi siano realtà pesantemente
+
+0	1	0	più presto mesi
+						DET ADV NOUN	REPUBBLICA	pretendenti al trono di Eltsin , predice  un ammutinamento armato  in ottobre se ufficiali e soldati non riceveranno	al più presto mesi	di salari arretrati .
+
+2	0	0	più presto messe
+						DET ADV NOUN	ITWAC	Il Comitato di Garanzia ribadisce che possono e debbono essere	al più presto messe	in atto forme di dialogo e di espressione , anche decisa , del dissenso , non lesive tuttavia dell eguale diritto
+						DET ADV NOUN	ITWAC	In ogni caso , verranno	al più presto messe	online sul sito le traduzioni degli ultimi due articoli su OpenURL , preparate per la Commissione da Cinzia Bucchioni .
+
+1	0	0	più presto metodi
+						DET ADV NOUN	ITWAC	adoperavano richiami acustici - ha spiegato Spinello - È un fatto grave , anche perché sono tanti e occorrerà approntare	al più presto metodi	di intervento più rapidi ed efficaci per bloccare coloro che li usano o che li portano con sé .
+
+0	1	0	più presto miglioramenti
+						DET ADV NOUN	REPUBBLICA	questo contratto di matrimonio fra i due stati tedeschi rialzi le azioni di Modrow ) , la gente deve vedere	al più presto miglioramenti	economici : la mescolanza attuale tra questione economica e questione nazionale è malsana .
+
+0	1	0	più presto miliardi
+						DET ADV NOUN	REPUBBLICA	Il cancelliere elargirà	al più presto miliardi	di marchi anche perché agevolando la vita dei tedeschi orientali riuscirà forse a contenere l esodo che col tempo rischia di
+
+1	0	0	più presto ministro
+						DET ADV NOUN	ITWAC	** p.s. spero che Buttiglione possa essere eletto	al più presto ministro	al parlamento europeo ...
+
+9	11	0	più presto misure
+						DET ADV NOUN	ITWAC	( il periodico dell Ufficio affari esteri americano ) sui rischi legati alla pandemia di influenza , invita ad approntare	al più presto misure	di contrasto efficaci e piani adeguati per limitare i danni di una possibile emergenza .
+						DET ADV NOUN	ITWAC	7.5.4 In caso di attività di pesca nuove o di esplorazione , gli Stati dovrebbero adottare	al più presto misure	di conservazione e di gestione cautelative , compresi , tra l altro , limiti di cattura e di sforzo di pesca
+						DET ADV NOUN	ITWAC	Bush ha però confermato le preoccupazioni espresse nei giorni scorsi dagli esperti statunitensi , che hanno esortato Tokyo ad applicare	al più presto misure	per  combattere la deflazione e gli ingenti debiti delle banche che stanno strangolando l economia giapponese  .
+						DET ADV NOUN	ITWAC	I giovani possono costituire una categoria a rischio se non si prendono	al più presto misure	adeguate per arrestare il cammino della assimilazione o l emorragia dell emigrazione .
+						DET ADV NOUN	ITWAC	Meglio discutere subito e , soprattutto , varare	al più presto misure	strutturali di contenimento dei costi , prima che la politica italiana entri in una lunga fase di fibrillazione elettorale : nel
+						DET ADV NOUN	ITWAC	Occorre varare	al più presto misure	di carattere strutturale , con risorse da destinare a Regioni e Comuni , che risolvano finalmente i nodi del caro-casa .
+						DET ADV NOUN	ITWAC	Sottolinea quindi la necessità di definire	al più presto misure	per la localizzazione dei siti per le telecomunicazioni , dando così maggiori certezze a quei soggetti imprenditoriali che stanno effettuando ingenti
+						DET ADV NOUN	ITWAC	il coefficiente scenda al di sotto dell 8 % , le autorità competenti provvedono affinché gli enti creditizi interessati adottino	al più presto misure	appropriate per riportare il coefficiente al valore minimo stabilito .
+						DET ADV NOUN	ITWAC	« Preoccupa la perdurante stagnazione del mercato domestico e occorre che vengano adottate	al più presto misure	volte a stimolare la ripresa degli investimenti e la competitività dell intera industria nazionale » , commenta Alberto Tacchella , presidente
+						DET ADV NOUN	REPUBBLICA	Il futuro governo e soprattutto il Parlamento -- continua Cacciari -- devono comprendere che bisogna attuare	al più presto misure	in senso autonomistico e federalista e devono impegnar- si a realizzar- le nei prossimi mesi .
+						DET ADV NOUN	REPUBBLICA	Il paese è in condizioni che necessitano	al più presto misure	straordinarie , per stabilizzare l economia e gli organi centrali del potere , i quali hanno dato prova sinora di lentezze
+						DET ADV NOUN	REPUBBLICA	La prossima settimana si incontrerà con la Confesercenti , e di concerto con Scotti , promette che adotterà	al più presto misure	contro le estorsioni .
+						DET ADV NOUN	REPUBBLICA	Nella relazione la situazione viene definita eccezionale e impone che lo Stato adotti	al più presto misure	che riaffermino la sua forza ed il suo potere .
+						DET ADV NOUN	REPUBBLICA	Panunzi ha inoltre annunciato che la regione Abruzzo , da parte sua , prenderà	al più presto misure	per fronteggiare l emergenza che coinvolge settori portanti dell economia abruzzese .
+						DET ADV NOUN	REPUBBLICA	ROMA -- I paesi della Comunità europea ritengono che il governo di Pretoria debba prendere	al più presto misure	concrete per attenuare il regime d apartheid e insistono sull urgenza di un immediata apertura del dialogo con gli autentici rappresentanti
+						DET ADV NOUN	REPUBBLICA	Se non saranno infatti prese	al più presto misure	più efficaci per combattere l evasione è probabile che arrivino nuove tasse necessarie per portare avanti il risanamento dei conti pubblici
+						DET ADV NOUN	REPUBBLICA	deficit pubblico ha raggiunto i 200 miliardi di rubli ( 120 miliardi di dollari ) e se non verranno prese	al più presto misure	d emergenza rischia di toccare entro la fine dell anno i 300 miliardi .
+						DET ADV NOUN	REPUBBLICA	il ministero della Sanità , la Regione Lombardia e tutti gli altri organismi pubblici preposti a questo settore , dispongano	al più presto misure	per sanzionare il comportamento degli amministratori del Galeazzi .
+						DET ADV NOUN	REPUBBLICA	il rilancio economico è la trasformazione di un sistema costruito per servire 6 milioni di bianchi in uno che appronti	al più presto misure	opportune per 30 milioni di neri .
+						DET ADV NOUN	REPUBBLICA	inchiesta amministrativa disposta dalle Ferrovie per accertare appunto cause e responsabilità , si deve accompagnare un inchiesta ministeriale per adottare	al più presto misure	e provvedimenti concreti .
+
+3	0	0	più presto modalità
+						DET ADV NOUN	ITWAC	: mediterraneo@noglobal.org Pagina Web FSMed : www.fsmed.info Commissione Estensione e Comunicazione FSMed - Barcellona 2004 ( * ) Saranno inviate	al più presto modalità	di iscrizione , informazioni relative alla logistica , ospitalità e ordine del giorno .
+						DET ADV NOUN	ITWAC	In questo quadro è unanimemente condivisa dagli intervistati la necessità di individuare	al più presto modalità	e strumenti nuovi che , in maniera sinergica e coordinando il pubblico ed il privato sociale , riescano a produrre una
+						DET ADV NOUN	ITWAC	non ha ragione di opporsi al riconoscimento dei presupposti di necessità e urgenza , pur confermando l esigenza di definire	al più presto modalità	e tempi per il ritiro delle truppe italiane dall Iraq .
+
+1	0	0	più presto modi
+						DET ADV NOUN	ITWAC	E indispensabile definire	al più presto modi	e tempi rapidi della elaborazione e della presentazione dei programmi dell Ulivo e della Unione .
+
+0	1	0	più presto modifiche
+						DET ADV NOUN	REPUBBLICA	incassare i ticket sulle degenze , prevedono un futuro incerto per le nuove norme : Se il governo non proporrà	al più presto modifiche	e integrazioni , il decreto sui ticket rischierà gravemente di naufragare .
+
+1	0	0	più presto modo
+						DET ADV NOUN	ITWAC	Da aule come questa chiediamo oggi anche che venga dato	al più presto modo	di esprimersi alle regioni a Roma , perché lo spirito delle riforme varate sarebbe vanificato se non fosse data voce alle
+
+1	0	0	più presto motivazioni
+						DET ADV NOUN	ITWAC	Certo che bisogna proteggere in primis la salute dei cittadini ; ma se non forniranno	al più presto motivazioni	convincenti riguardo l adozione di questa nuova norma che limiterebbe il taglio della fiorentina da capi di massimo 21 mesi d
+
+1	0	0	più presto necessità
+						DET ADV NOUN	ITWAC	Consigliere regionale Marco Botta ha presentato un interrogazione in Regione sullla strada nel comune di Quattordio : E necessario intervenire	al più presto necessità	a salvaguardia della pubblica incolumità , adottando tutti gli strumenti ...
+
+3	2	0	più presto norme
+						DET ADV NOUN	ITWAC	Inoltre il coordinatore di Aeranti-Corallo ribadirà la necessità che vengano emanate	al più presto norme	che favoriscano , sul piano fiscale , gli investimenti pubblicitari delle piccole e medie imprese sui mezzi di comunicazione di massa
+						DET ADV NOUN	ITWAC	Sarà quindi importante individuare	al più presto norme	di attuazione al riguardo .
+						DET ADV NOUN	ITWAC	la sua firma con una lettera al Presidente del Consiglio Berlusconi in cui si raccomanda tra l altro di introdurre	al più presto norme	di garanzia che sanciscano l inalienabilità dei beni d interesse artistico , culturale , paesaggistico .
+						DET ADV NOUN	REPUBBLICA	Ci vogliono	al più presto norme	che vietino gli spot ingannevoli , soprattutto a ridosso del voto  .
+						DET ADV NOUN	REPUBBLICA	bambina di prima elementare del Michigan da parte di un compagno di classe , Clinton vuole che il Congresso approvi	al più presto norme	molto più severe sulla vendita di fucili e pistole .
+
+4	0	0	più presto notizia
+						DET ADV NOUN	ITWAC	Per il momento , la procura di Roma non ci ha ancora risposto , ma spero che ci dia	al più presto notizia	delle quantità , affinché possiamo ipotizzare uno smaltimento serio .
+						DET ADV NOUN	ITWAC	Siamo impegnati a organizzarne una a Bari nei primi giorni di aprile , di cui daremo	al più presto notizia	.
+						DET ADV NOUN	ITWAC	Spero di darvi	al più presto notizia	delle relazioni che vorremmo mettere per iscritto e on-line , nella convinzione che il contributo che giovani come noi possono dare
+						DET ADV NOUN	ITWAC	che sta progettando un Seminario internazionale sulle tematiche legate al libro antico e alle collezioni speciali , del quale darà	al più presto notizia	, me per l organizzazione è necessario reperire fondi che possano coprire le spese di una simile iniziativa .
+
+10	1	0	più presto notizie
+						DET ADV NOUN	ITWAC	Avrete ,	al più presto notizie	del prossimo appuntamento .
+						DET ADV NOUN	ITWAC	Ci scusiamo per il disguido sperando di farvi avere	al più presto notizie	in merito .
+						DET ADV NOUN	ITWAC	Morcellini , dopo aver salutato i presenti , cede la parola al Prof. Orlandi manifestando la necessità che vengano divulgate	al più presto notizie	sull argomento .
+						DET ADV NOUN	ITWAC	Pensando che la cosa possa essere risolta rientro a casa sperando l indomani di avere	al più presto notizie	.
+						DET ADV NOUN	ITWAC	Speriamo cmq di avere	al più presto notizie	più sicure e precise .
+						DET ADV NOUN	ITWAC	Spero di avere	al più presto notizie	e La ringrazio anticipatamente della sua cortese collaborazione .
+						DET ADV NOUN	ITWAC	Vi prego di farmi sapere	al più presto notizie	in merito .
+						DET ADV NOUN	ITWAC	fammi sapere	al più presto notizie	a riguardo ...
+						DET ADV NOUN	ITWAC	istituzione come la Regione e turba anche l assessore sia come esponente regionale , sia come cittadino , di darci	al più presto notizie	che tranquillizzino la Regione stessa e la pubblica opinione  .
+						DET ADV NOUN	ITWAC	procedimento per valutare la fondatezza dei rilievi formulati il caso presentato e ha invitato il Comune interessato a far pervenire	al più presto notizie	utili riguardo al trattamento di dati personali connesso alla distribuzione del questionario rivolto agli utenti degli asili nido della città ,
+						DET ADV NOUN	REPUBBLICA	GROSSETO La famiglia di Ester Anne prega i rapitori di fare avere	al più presto notizie	concrete , mettendo- si in contatto con qualcuno dei familiari e fornendo la prova certa che la ragazza è viva e
+
+1	0	0	più presto obbiettivi
+						DET ADV NOUN	ITWAC	, trasporti , sanità pubblica e risorse naturali ) e di dare mandato al Consiglio e alla Commissione di definire	al più presto obbiettivi	, azioni e strumenti conseguenti , settore per settore .
+
+1	0	0	più presto offerta
+						DET ADV NOUN	ITWAC	) Inviato : 14 - 04 - 2005 13:49 al momento della iscrizione crerete un profilo allenatore , che riceverà	al più presto offerta	da parte di squadre libere .
+
+1	0	0	più presto oggetto
+						DET ADV NOUN	ITWAC	Vorremmo poi ricordare alcune criticità del quartiere che ci sembrano degne di nota e che debbano essere	al più presto oggetto	di discussione congiunta e partecipata tra Amministrazione , Quartiere e cittadini : - Un piano particolareggiato del traffico in tutto il
+
+2	1	0	più presto onde
+						DET ADV NOUN	ITWAC	chiede comunque la ripresa delle trattative per il necessario confronto negoziale che possa concludersi , come ci si augura ,	al più presto onde	poter avviare poi le trattative per i rinnovi dei CCNL scaduti nel 2001 .
+						DET ADV NOUN	ITWAC	incolumità fisica degli studenti e di tutto il personale che lavora all interno ; - è indispensabile iniziare i lavori	al più presto onde	scoraggiare una tragedia che si presenta come annunciata ma da tutti ignorata ; SI CHIEDE - se il Presidente della Regione
+						DET ADV NOUN	REPUBBLICA	Tutti chiedono che Visentini parli e	al più presto onde	evitare che il mercato azionario sia dominato dal marasma delle illazioni , dalle paure dei ribassisti e dalle lettere confidenziali di
+
+1	0	0	più presto opinioni
+						DET ADV NOUN	ITWAC	prometto di scriverti	al più presto opinioni	serie e ponderate sulla tua storia ...
+
+2	0	0	più presto ordine
+						DET ADV NOUN	ITWAC	Un comparto , quindi , strategico ma su cui occorre intervenire   mettendo	al più presto ordine	nell intricata vicenda della gestione nazionale delle quote latte , andando oltre le quote - ha affermato - e puntando alla
+						DET ADV NOUN	ITWAC	costi quel che costi in termini di disoccupazione e di deterioramento delle condizioni di vita delle masse , non metterete	al più presto ordine	nei vostri conti pubblici e non continuerete a onorare gli impegni assunti con le banche e gli altri creditori privati (
+
+2	0	0	più presto organi
+						DET ADV NOUN	ITWAC	Una vera autonomia delle istituzioni scolastiche comporta , peraltro , che si prevedano	al più presto organi	di governo all interno di ogni istituto .
+						DET ADV NOUN	ITWAC	° GLI ORGANI COLLEGIALI Per gli organi collegiali il programma del Ministro faceva tre affermazioni : 1 -  promuovere	al più presto organi	di governo all interno di ogni istituto  2 -  rispetto , invece , agli organi collegiali territoriali si renderà
+
+0	1	0	più presto paesi
+						DET ADV NOUN	REPUBBLICA	Inoltre la Germania punta ad associare	al più presto paesi	come l Ungheria , la Polonia e la Boemia .
+
+1	0	0	più presto parere
+						DET ADV NOUN	ITWAC	Auspica , quindi , che il Comitato eprima	al più presto parere	favorevole .
+
+1	0	0	più presto parf
+						DET ADV NOUN	ITWAC	Speriamo si risolvi tutto	al più presto parf	_ igp ( 588 ) Vedi le inserzioni del venditore 21 - giu - 05 11:19 CEST 2 di 4 Curiosità
+
+0	1	0	più presto parità
+						DET ADV NOUN	REPUBBLICA	,  in ogni caso anche un eventuale rinvio non metterebbe in discussione la volontà unitaria della maggioranza di garantire	al più presto parità	di condizioni nell informazione elettorale  .
+
+1	0	0	più presto parte
+						DET ADV NOUN	ITWAC	Europa e la volontà che la Bosnia Erzegovina diventi	al più presto parte	dell ?
+
+2	0	0	più presto partito
+						DET ADV NOUN	ITWAC	Chi non condivide lo statuto è bene che cambi	al più presto partito	...
+						DET ADV NOUN	ITWAC	daniele valmont valmont79@xxxxxxxxxx wrote : Marta scrive :  Chi non condivide lo statuto della Margherita è bene che cambi	al più presto partito	 .
+
+2	0	0	più presto patrimonio
+						DET ADV NOUN	ITWAC	In questi giorni la nostra Associazione avvia programmi di aggiornamento professionale per far si che queste nuove regole diventino	al più presto patrimonio	consolidato di coloro che sono gli operatori professionali del settore che devono essere in grado di dare una risposta qualificata ed
+						DET ADV NOUN	ITWAC	gli Ordini e i Collegi delle professioni tecniche ed i Comuni della Provincia , con l augurio che possa divenire	al più presto patrimonio	comune di tutte le amministrazioni della Provincia , come già avvenuto con la modulistica tecnica unificata .
+
+2	0	1	più presto pena
+						DET ADV NOUN	ITWAC	Questa carenza va colmata	al più presto pena	il fallimento della stessa Unione monetaria e del processo di costruzione di un Unione politica .
+						DET ADV NOUN	ITWAC	avvicinò furioso strappandomi letteralmente di mano il documento appena letto , rimproverandomi di averlo visionato e quasi intimandomi di dimenticarlo	al più presto pena	la mia stessa incolumità fisica .
+						DET ADV NOUN	WIKICONLL	Qualsiasi elemento di disturbo e di diretta uccisione di questa specie costituisce quindi un fattore da eliminare	al più presto pena	la totale estinzione di questo rapace così esclusivo .
+
+1	0	0	più presto percorsi
+						DET ADV NOUN	ITWAC	Risulta chiara , allora , la necessità di elaborare	al più presto percorsi	educativi in un ambito in cui l efficacia dell intervento è sinora affidata alle capacità individuali degli operatori , non esistendo
+
+1	0	0	più presto personalità
+						DET ADV NOUN	ITWAC	l avvio dei negoziati all ammissione della Turchia nella UE , ha bocciato un emendamento che sollecitava Ankara a conferire	al più presto personalità	giuridica alle Chiese cristiane e a sopprimere la direzione degli affari religiosi , l organo di stato che controlla il culto
+
+1	0	0	più presto piani
+						DET ADV NOUN	ITWAC	E altresì necessario che tutti gli Stati membri e i Paesi candidati a entrare nell Unione europea adottino	al più presto piani	nazionali contro lo sfruttamento sessuale Il lavoro minorile riguarda milioni di bambini in tutto il mondo , Paesi dell Ue compresi
+
+1	0	0	più presto piattaforma
+						DET ADV NOUN	ITWAC	Lecce Social Forum ps Segue	al più presto piattaforma	( bozza ) di convocazione dell iniziativa .
+
+0	1	0	più presto piazza
+						DET ADV NOUN	REPUBBLICA	riforma della Borsa francese , ma poi tra i professionisti di Palais Brogniart è prevalsa la considerazione che bisognava fare	al più presto piazza	pulita per non perdere la stima degli operatori nazionali e internazionali sulla Borsa di Parigi .
+
+0	1	0	più presto polizia
+						DET ADV NOUN	REPUBBLICA	Chiunque lo veda , deve avvisare	al più presto polizia	e carabinieri .
+
+0	1	0	più presto posizione
+						DET ADV NOUN	REPUBBLICA	Per tutti una certezza : sarà meglio che Gabriele Albertini prenda	al più presto posizione	sul tema della giustizia .
+
+1	0	0	più presto possibil
+						DET ADV NOUN	ITWAC	Ti prego rispondimi	il più presto possibil	...
+
+0	107	0	più presto possibile
+						DET ADV NOUN	REPUBBLICA	Quando attaccheremo , attaccheremo con violenza , in modo tale che sarà decisivo , per far- la finita	al più presto possibile	, ha sostenuto il capo di Stato maggiore americano Colin Powell .
+						DET ADV NOUN	REPUBBLICA	aggirano intorno ai 300 precisa Levy-Lang la nostra politica di espansione impegna le filiali a render- si autonome e redditizie	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	GERUSALEMME -- Il premier israeliano Yitzhak Rabin  deve chiedere elezioni anticipate	al più presto possibile	, ora che la sua popolarità ha toccato la punta massima  : lo scriveva ieri il Jerusalem Post , che
+						DET ADV NOUN	REPUBBLICA	ambasciatore Paolo Fulci , rappresentante permanente dell Italia presso l Alleanza , incaricando- lo di ottenere dalla Nato una riparazione	al più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	La mia speranza è andar- me- ne via dalla fabbrica	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	in sottofinale , un civilissimo poliziotto invita Lo Verso a firmare una confessione e ad andar- se- ne in Italia	il più presto possibile	, ma allo stesso tempo gli sequestra il passaporto .
+						DET ADV NOUN	REPUBBLICA	C è volontà perché la crisi ,  pur complessa , possa risolver- si	al più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	reso pubblico , Balladur ha confermato con una certa solennità e con una forma incontestabile l impegno a privatizzare Renault-Volvo	il più presto possibile	ed ha specificato l uso che lo Stato farà della  golden share  che possiederà anche dopo il collocamento sul
+						DET ADV NOUN	REPUBBLICA	, ma ci sono quattro aspetti che hanno reso opportuno andare oltre : l interesse che il cavo venga posato	il più presto possibile	; la necessità di affrontare in origine la questione in modo che non si creino posizioni dominanti ; la liberalizzazione del
+						DET ADV NOUN	REPUBBLICA	A Londra i superiori di Samson hanno fretta :  Devi prendere Stinnes e devi far- lo	il più presto possibile	-- disse Frank  .
+						DET ADV NOUN	REPUBBLICA	Non sono ancora pronto per tornare a cantare , spero di riuscir- ci	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	ministro tory Alan Clark sostiene invece la sorprendente tesi che ad abdicare dovrebbe essere Elisabetta e che dovrebbe far- lo	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	forza e rigore di stile ; ma poi ognuno è passato oltre quasi accelerando il passo per allontanar- se- ne	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	Ciononostante , entrambi hanno interesse a far- lo dimenticare	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	Il premier inglese , aperto sostenitore di Prodi , ha dichiarato che Santer deve andar- se- ne	il più presto possibile	, che il suo successore deve essere  un peso massimo della politica  ( allusione sia alla caratura di statista
+						DET ADV NOUN	REPUBBLICA	 I giovani che lavorano da Disney aspettano solo una cosa : andar- se- ne , e	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	Mi auguro che si decida a restituir- me gli atti	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	Il vicepresidente del Csm avanza un suggerimento : intervenire sui concorsi , bandir- li	il più presto possibile	e magari pensar- li su base regionale .
+						DET ADV NOUN	REPUBBLICA	Stato in loro ostaggi portando- li al disastro sicuro e vogliono consentire ad altri di rilevare la responsabilità del Paese	il più presto possibile	e tirare fuori la popolazione da questo vicolo cieco  .
+						DET ADV NOUN	REPUBBLICA	, che già al funerale non viene quasi nessuno e perfino i beneficati assistenti fanno a gara nel dimenticar- lo	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	Ma l intenzione di Berlusconi , Fini , D Alema e Prodi resta quella di far- le ,	al più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	È consigliabile iscriver- si	il più presto possibile	almeno sei settimane prima della partenza .
+						DET ADV NOUN	REPUBBLICA	di Roma , con rilevanti quote della Banca e della Holding possedute ancora dall Iri -- che vorrebbe ceder- le	il più presto possibile	-- e altre quote ( quelle di controllo ) possedute dalla Fondazione .
+						DET ADV NOUN	REPUBBLICA	Gli ho fatto l intervista e l ho consegnata gratis alla Rai , pregandoli di trasmetter- la	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	Ai paesi dell Est europeo la Cee proporrà rapporti di associazione speciale da iniziar- si	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	finalmente acquistata dall Istituto Luce che , ci auguriamo , riesca a presentar- la come quell evento che è ,	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	problemi redistributivi del carico fiscale , ai vizi e alle complicazioni del sistema e all esigenza di por- vi rimedio	il più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	era soprattutto la voglia di raccontare , quasi per liberar- si da un passato che la gente adesso vuole cancellare	al più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	La parola d ordine era : Portare a termine il lavoro e uscir- ne	al più presto possibile	.
+						DET ADV NOUN	REPUBBLICA	Vogliamo tenere il summit	al più presto possibile	, ma vogliamo anche essere certi del suo successo .
+
+0	0	1	più presto possibile.In
+						DET ADV NOUN	WIKICONLL	dicembre fu pronto il primo vero prototipo e la Vomag ricevette la disposizione di avviar- ne la produzione in serie	il più presto possibile.In	effetti , il Waffenamt aveva richiesto che sullo Jagdpanzer IV fosse montata una versione del cannone PaK 42 L/70 da 75mm
+
+2	0	0	più presto possibilie
+						DET ADV NOUN	ITWAC	Fatemi sapere	al più presto possibilie	grazie di tutto .
+						DET ADV NOUN	ITWAC	Per favore spediscala a questo indirizzo	il più presto possibilie	!
+
+1	0	0	più presto possiblie
+						DET ADV NOUN	ITWAC	flessibilità mentale e caratteriale , potremmo trarre dei grossi benefici Si crede sempre che si debba inculcare un sapere utile	al più presto possiblie	nelle piccole teste .
+
+0	1	0	più presto posti
+						DET ADV NOUN	REPUBBLICA	Ma soprattutto nessuno ha offerto formule concrete per creare	al più presto posti	di lavoro .
+
+1	0	0	più presto posto
+						DET ADV NOUN	ITWAC	butto giù la lista e	al più presto posto	.
+
+1	0	0	più presto poteri
+						DET ADV NOUN	ITWAC	I COMITES debbono avere	al più presto poteri	reali e finanziamenti adeguati , godere di procedure semplificate e rispettare le incompatibilità .
+
+2	0	0	più presto prese
+						DET ADV NOUN	ITWAC	Auspica che le materie contenute negli emendamenti presentati dal Gruppo possano essere	al più presto prese	in considerazione , poiché attengono a questioni di fondamentale importanza , quali la terzietà dell ?
+						DET ADV NOUN	ITWAC	Sono state ipotizzate negli incontri preparatori di questo seminario alcune soluzioni al riguardo che speriamo possano essere	al più presto prese	in considerazione dalle Autorità giudiziarie competenti ( relazioni inoltrate tramite il tutore provvisorio o il curatore speciale ) .
+
+2	0	0	più presto presidente
+						DET ADV NOUN	ITWAC	Io voglio Prodi	al più presto presidente	della federazione dell ´ Ulivo , cioè della più grande forza del centrosinistra .
+						DET ADV NOUN	ITWAC	Io voglio Prodi	al più presto presidente	della federazione dell Ulivo , cioè della più grande forza del centrosinistra .
+
+1	0	0	più presto previsioni
+						DET ADV NOUN	ITWAC	Il Parlamento chiede anche che la BCE onori il suo impegno di pubblicare	al più presto previsioni	economiche .
+
+1	0	0	più presto prezzo
+						DET ADV NOUN	ITWAC	Brembo Rosse + le originali al 70 % mai caduta sfregata rigata ecc. , appena ho delle foto le pubblico	al più presto prezzo	da concordare vendo e disponibile qualsiasi prova ( ...
+
+1	0	0	più presto problemi
+						DET ADV NOUN	ITWAC	Spero che tu mi invii un messaggio	al più presto problemi	loro ...
+
+2	0	0	più presto procedure
+						DET ADV NOUN	ITWAC	Quindi , credo sia opportuno che si attivino	al più presto procedure	efficaci di valutazione dei danni , soprattutto sforzandosi di coordinare i vari soggetti che devono intervenire , allo scopo di evitare
+						DET ADV NOUN	ITWAC	nei rapporti con la pubblica amministrazione , chiede che i contribuenti siano adeguatamente informati dell esenzione e che siano attivate	al più presto procedure	per un immediato rimborso dell imposta a chi l ha ingiustamente pagata , con tanto di fila .
+
+2	0	0	più presto progetti
+						DET ADV NOUN	ITWAC	Spero che altre Regioni applichino	al più presto progetti	simili a questo : la Costituzione ci ricorda che il carcere non è solo pena , ma anche recupero  .
+						DET ADV NOUN	ITWAC	Un programma di lavoro in questa direzione è stato avviato con l obiettivo di individuare	al più presto progetti	concreti , funzionali e innovativi .
+
+1	0	0	più presto programmi
+						DET ADV NOUN	ITWAC	popolazioni di questo continente a seguito delle colonizzazioni da parte di paesi stranieri , si sottolinea la necessità di elaborare	al più presto programmi	di sviluppo sociale ed economico che in qualche misura ripaghino le società dei torti subiti .
+
+1	0	0	più presto promotore
+						DET ADV NOUN	ITWAC	chiede all onorevole Catania ( Margherita )  quale esponente istituzionale più autorevole del centrosinistra brontese , che si renda	al più presto promotore	di un incontro politico organizzativo per una valutazione serena delle recenti vicende elettorali e per la costituzione di un coordinamento -
+
+6	1	0	più presto proposte
+						DET ADV NOUN	ITWAC	Esso invita la Commissione a presentare	al più presto proposte	sull insieme di dette questioni alla luce delle prime discussioni e di questi orientamenti .
+						DET ADV NOUN	ITWAC	Tenuto conto delle necessità prevedibili , il Consiglio europeo invita la Commissione a presentare	al più presto proposte	destinate ad accordare risorse umane e finanziarie supplementari per portare soccorso ai profughi e facilitarne il rimpatrio , comprendenti , se
+						DET ADV NOUN	ITWAC	in una situazione svantaggiata a causa dei ritardi cronici ed inaccettabili dei viaggi aerei ed invita la Commissione a presentare	al più presto proposte	per migliorare l uso efficiente dello spazio aereo europeo ; 17 .
+						DET ADV NOUN	ITWAC	ma i popolari e i conservatori si sono rifiutati di partecipare alla votazione L invito alla Commissione a « fare	al più presto proposte	» Da Strasburgo Franco Serra I l rapporto della liberale olandese Johanna Boogerd-Quaak sui « Rischi di violazione nell Ue e
+						DET ADV NOUN	ITWAC	non ha alcun effetto sul piano giuridico , rimane una dichiarazione unita all invito alla Commissione europea di « fare	al più presto proposte	in materia » , per una legge comunitaria che assicuri maggior pluralismo e maggiore indipendenza all informazione fornita dai grandi mass
+						DET ADV NOUN	ITWAC	sottolinea la necessità di riformulare il manuale di Schengen e chiede alla Commissione di presentare	al più presto proposte	in materia ; 9 .
+						DET ADV NOUN	REPUBBLICA	Come Bonn e Parigi , anche Roma vuole fornire	al più presto proposte	di riflessione in vista della conferenza del 96 sulla revisione dei trattati di Maastricht .
+
+5	3	0	più presto provvedimenti
+						DET ADV NOUN	ITWAC	, Göttingen , Lussemburgo , Berna , Vienna , Sarajevo , 14.9.2001 Ci appelliamo urgentemente alla Comunità internazionale perchè prenda	al più presto provvedimenti	per l istituzione del TPI .
+						DET ADV NOUN	ITWAC	al secondo profilo , cioè la trasparenza delle regole di condotta , il tema centrale concerne l esigenza di introdurre	al più presto provvedimenti	normativi su scala internazionale tendenti ad evitare che dall uso della rete possa derivare un pregiudizio alle situazioni giuridiche soggettive .
+						DET ADV NOUN	ITWAC	alla povertà promossa per oggi dall Onu , Save the Children lancia un appello alla comunità internazionale affinché vengano adottati	al più presto provvedimenti	per porre rimedio a una situazione non più tollerabile .
+						DET ADV NOUN	ITWAC	consultivo presso il Consiglio Economico e Sociale dell ONU - ECOSOC ) si appella urgentemente alla Comunità internazionale perchè prenda	al più presto provvedimenti	per l istituzione del Tribunale Penale Internazionale .
+						DET ADV NOUN	ITWAC	giudizi di alby , c è da sperare solo a questo punto che sony sia dia una svegliata e prenda	al più presto provvedimenti	, soprattutto per quanto riguarda i caricamenti .
+						DET ADV NOUN	REPUBBLICA	Da qui l urgenza di varare	al più presto provvedimenti	per il lavoro e di non intensificare le manovre finanziarie sui consumi famigliari  .
+						DET ADV NOUN	REPUBBLICA	Il caso Michelin ha sollevato tante critiche da indur- lo , pare , a promettere	al più presto provvedimenti	fiscali nei confronti delle aziende che nonostante gli alti profitti hanno il licenziamento facile .
+						DET ADV NOUN	REPUBBLICA	Problema numero uno : dare corpo e rendere operanti	al più presto provvedimenti	legislativi tipo contratti di formazione lavoro , piano straordinario per l assunzione di 100 mila giovani nel Mezzogiorno , piano per
+
+1	0	0	più presto provvista
+						DET ADV NOUN	ITWAC	Perciò , fatta	al più presto provvista	di grano , mosse contro Ariovisto forzando le tappe .
+
+1	0	0	più presto quota
+						DET ADV NOUN	ITWAC	PARLIAMO DI CALCIO , INCITIAMO I NOSTRI CALCIATORI ED IL NOSTRO MISTER e vediamo di toccare	al più presto quota	40 punti poi penseremo alla nuova stagione .
+
+1	0	0	più presto quote
+						DET ADV NOUN	ITWAC	Meglio allora stabilire	al più presto quote	realistiche di flussi regolari , tali da soddisfare la fame di lavoratori delle imprese soprattutto del Nord-est .
+
+1	0	0	più presto radiografie
+						DET ADV NOUN	ITWAC	della composizione dei frammenti rinvenuti e la loro provenienza , ritiene opportuno  se non già fatto che vengano disposte	al più presto radiografie	di tutti i bagagli rinvenuti ed acquisiti a seguito delle ultime campagne di recupero , inclusi quelli che verranno eventualmente recuperati
+
+1	0	0	più presto ragazzi
+						DET ADV NOUN	ITWAC	vostro ragazzi visto che considero questa doppia discussione l ennesima nata da uno sfogo e anche alla voglia d sapere	al più presto ragazzi	capisco che la attesa sia estenuante ma cerchiamo d concentrarci tutti all interno della vecchia discussione grazie della collaborazione .
+
+1	0	0	più presto realizzazione
+						DET ADV NOUN	ITWAC	Il documento politico sottoscritto dai partiti che si riconoscono nel nuovo governo deve perciò trovare	al più presto realizzazione	concreta , puntando al rilancio della coalizione nella sua identità esterna , nelle sue regole interne e nella sua iniziativa politica
+
+1	1	0	più presto realtà
+						DET ADV NOUN	ITWAC	disposizione della fondazione  James non morirà  un terreno di circa 17.000 mq. Ma , perché questo villaggio diventi	al più presto realtà	, occorre il tuo aiuto .
+						DET ADV NOUN	REPUBBLICA	Vorrei che diventasse	al più presto realtà	il progetto di trasformare gli assegni familiari in assegni per chi fa i figli  .
+
+1	0	0	più presto regine
+						DET ADV NOUN	ITWAC	Anche i buchi sani ad un bravo apicoltore sanno dire se immettere	al più presto regine	in età da matrimonio da altre  Borgate  , lontane geograficamente almeno una decina di chilometri .
+
+2	0	0	più presto regole
+						DET ADV NOUN	ITWAC	Una coalizione che deve darsi	al più presto regole	, strumenti e comportamente unitari , propri di un alleanza che sappia essere viva anche al di là delle fasi elettorali
+						DET ADV NOUN	ITWAC	di stabilire immediati contatti con il Governo , Parlamento e Commissione di Vigilanza sulle emissioni radio-televisive , affinché siano definite	al più presto regole	trasparenti e verificabili di pluralismo tra le liste ed i candidati che siano fissati i criteri di svolgimento della campagna elettorale
+
+1	0	0	più presto relazioni
+						DET ADV NOUN	ITWAC	È significativo anzitutto il forte auspicio di poter stabilire	al più presto relazioni	diplomatiche con quelle nazioni che ancora non le intrattengono con la Santa Sede .
+
+2	0	0	più presto resa
+						DET ADV NOUN	ITWAC	L intenzione sembra quella di voler destinare questa somma all anagrafe canina che tutti augurano venga	al più presto resa	funzionale .
+						DET ADV NOUN	ITWAC	manca , e la Dichiarazione di Area ad elevato rischio di crisi ambientale per la Bassa Vallesina , che va	al più presto resa	operativa .
+
+0	1	0	più presto richiesta
+						DET ADV NOUN	REPUBBLICA	Presenteremo comunque	al più presto richiesta	di riesame del provvedimento al Tribunale della libertà  .
+
+1	1	0	più presto ricorso
+						DET ADV NOUN	ITWAC	La Popolare Italiana presenterà « senza indugio ,	al più presto ricorso	al Tar contro il pronunciamento della consob » si è appreso da fonti vicine ai legali di Lodi .
+						DET ADV NOUN	REPUBBLICA	Il suo difensore conta di presentare	al più presto ricorso	al tribunale della libertà .
+
+1	2	0	più presto riforme
+						DET ADV NOUN	ITWAC	La sua personalità è forte e non si può certo escludere che possa realizzare	al più presto riforme	sconvolgenti il gioco delle diverse parti cattoliche .
+						DET ADV NOUN	REPUBBLICA	Ha ricordato che servono 	al più presto riforme	, perché si possa guadare il fiume dell incertezza  , e non correre rischi di  dittatura  .
+						DET ADV NOUN	REPUBBLICA	come Harold Brooks-Baker , direttore del Burke s Peerage , la pubblicazione della aristocrazia inglese che le raccomanda di effettuare	al più presto riforme	strutturali a proposito dei compiti dei personaggi della royal family e di limitare a se stessa , a suo marito ed
+
+2	0	0	più presto riguardo
+						DET ADV NOUN	ITWAC	Vi prego vivamente di rispondere	al più presto riguardo	alle questioni elencate , essendo le stesse non di puro interesse personale , bensì di interesse di una considerevole parte dei
+						DET ADV NOUN	ITWAC	l università che alla fine dovrà specializzare , però qui , devo dire subito cosa di cui dobbiamo assolutamente liberarci	al più presto riguardo	a due cose : un ottima tradizione accademica fortemente disciplinare , però valida soprattutto per le scuole superiori , ed abbiamo
+
+1	0	0	più presto rilevatori
+						DET ADV NOUN	ITWAC	SUGGERIMENTI E PROPOSTE : Si evidenzia la necessità di installare , nella sede comunale ,	al più presto rilevatori	di fumo , anche se non previsti dalla normativa per questo tipo di edifici , con allarme collegato , se possibile
+
+12	2	1	più presto rimedio
+						DET ADV NOUN	ITWAC	- chiarisce De Wolf - di chiedere ancora una volta un urgente incontro con la direzione delle ferrovie per porre	al più presto rimedio	ad una situazione che si è fatta insostenibile .
+						DET ADV NOUN	ITWAC	Amnesty International , il Consorzio Italiano di Solidarietà e Medici Senza Frontiere ritengono che l Italia debba porre	al più presto rimedio	a questa lacuna legislativa attraverso l approvazione di una legge organica che soddisfi almeno i seguenti principi : · tutti i
+						DET ADV NOUN	ITWAC	Breccia di Gemonio , ha preso carta e penna e formalmente ha invitato la società titolare dell impianto a porre	al più presto rimedio	.
+						DET ADV NOUN	ITWAC	Nell osservare la necessità di porre	al più presto rimedio	alla situazione venutasi a determinare , auspica che l ulteriore approfondimento della materia preannunciato dal sottosegretario Grandi possa condurre ad una
+						DET ADV NOUN	ITWAC	Spero che si possa porre	al più presto rimedio	a questa lacuna .
+						DET ADV NOUN	ITWAC	a fronte di un fenomeno diffuso di abuso nell esercizio delle attività di investigazione privata al quale è opportuno porre	al più presto rimedio	.
+						DET ADV NOUN	ITWAC	e porvi	al più presto rimedio	.
+						DET ADV NOUN	ITWAC	finanziarie internazionali , ivi compresa l Organizzazione mondiale del commercio , rappresenti un fattore di distorsione al quale dovrà porsi	al più presto rimedio	.
+						DET ADV NOUN	ITWAC	pur in presenza di gravi carenze nell organico del personale degli addetti alla custodia , alle quali è prioritario porre	al più presto rimedio	, proprio per consentire l effettuazione dei necessari turni di sorveglianza .
+						DET ADV NOUN	ITWAC	signora del  disguido  con la speranza che le istituzioni competenti se ne siano già accorte e vi pongano	al più presto rimedio	.
+						DET ADV NOUN	ITWAC	È auspicabile che a ciò si ponga	al più presto rimedio	, come da qualche parte si è già cercato di cominciare a fare .
+						DET ADV NOUN	ITWAC	È una stortura del sistema questa cui si dovrebbe porre	al più presto rimedio	, all interno delle tanto sbandierate riforme , che sino ad ora si sono spesso risolte più in isolate normative fatte
+						DET ADV NOUN	REPUBBLICA	Mi auguro che si ponga	al più presto rimedio	a quello che voglio considerare solo un lapsus .
+						DET ADV NOUN	REPUBBLICA	una cosa assolutamente irrisoria rispetto a quelle che già ci sono e che si aggraveranno se non vi si porrà	al più presto rimedio	.
+						DET ADV NOUN	WIKICONLL	mondo riformato un serio elemento di disgregazione che ne avrebbe messo in pericolo l unità se non vi fosse messo	al più presto rimedio	convocando uno speciale Sinodo generale del mondo riformato .
+
+0	1	0	più presto rinforzi
+						DET ADV NOUN	REPUBBLICA	I francesi propongono di creare una sorta di ponte aereo per trasferire	al più presto rinforzi	nell area di Gorazde , la più grande delle  zone protette  dell Onu minacciate dai serbi .
+
+0	1	0	più presto rinnovi
+						DET ADV NOUN	REPUBBLICA	Uno dei Cinque Saggi , il professor Horst Siebert , raccomanda a sindacati e imprenditori di concordare	al più presto rinnovi	contrattuali senza aumenti .
+
+0	1	0	più presto riparo
+						DET ADV NOUN	REPUBBLICA	Ci si potrà arrampicare su mille specchi , ma questa realtà non è controvertibile e ad essa va posto	al più presto riparo	.
+
+1	0	0	più presto ripresa
+						DET ADV NOUN	ITWAC	- La strada delle riforme costituzionali recentemente interrottasi presso la Commissione bicamerale per le riforme costituzionali deve essere	al più presto ripresa	tramite la procedura contemplata dall articolo 138 della Costituzione .
+
+2	0	0	più presto risposta
+						DET ADV NOUN	ITWAC	La ringrazio e spero di avere	al più presto risposta	.
+						DET ADV NOUN	ITWAC	Ringrazio per la cortese attenzione , aspetto	al più presto risposta	.
+
+12	3	0	più presto risposte
+						DET ADV NOUN	ITWAC	, viste le considerazioni appena esposte , tenuto conto della situazione delineata dall attuale documento finanziario , aspettando ed augurandoci	al più presto risposte	significative e chiare dal Governo , annunciamo il nostro voto contrario ( Applausi dei deputati dei gruppi Misto-Minoranze linguistiche , Misto-Socialisti
+						DET ADV NOUN	ITWAC	Auspica , tuttavia , che i tempi di conclusione della ricognizione in corso non siano eccessivamente lunghi , per fornire	al più presto risposte	alle popolazioni residenti in realtà territoriali come Monza e Barletta che attendono da anni l istituzione della propria provincia .
+						DET ADV NOUN	ITWAC	Da Mantova segnalazione di malcontento delle imprese agricole della provincia che sono pronte a scendere in piazza se non arriveranno	al più presto risposte	dal Governo rispetto alle esigenze dell agricoltura .
+						DET ADV NOUN	ITWAC	E dunque legittimo pretendere che gli Enti preposti all accertamento dell inquinamento ed alla salute dei cittadini forniscano	al più presto risposte	esaurienti a questi interrogativi ( il primo è a quali aree si estende l inquinamento ) .
+						DET ADV NOUN	ITWAC	In questo disegno di legge finanziaria sono arrivati piccoli segnali , sicuramente insufficienti , ma ci aspettiamo	al più presto risposte	significative e concrete .
+						DET ADV NOUN	ITWAC	Per cercare di dare	al più presto risposte	concrete al sempre crescente numero di giornalisti che operano in condizioni di precariato negli uffici stampa delle pubbliche Amministrazioni siciliane ,
+						DET ADV NOUN	ITWAC	Se non troveremo	al più presto risposte	adeguate proclameremo lo sciopero » spiega Leonardo Donofrio , segretario milanese della Uil-scuola .
+						DET ADV NOUN	ITWAC	Speriamo che il ministro , che si è già dimostrato sensibile a queste problematiche , possa fornirci	al più presto risposte	concreteâ   .
+						DET ADV NOUN	ITWAC	all attenzione della Giunta l analisi e le possibili soluzioni di questi problemi , nella convinzione che sia possibile dare	al più presto risposte	certe a tutti gli operatori del settore .
+						DET ADV NOUN	ITWAC	operatività di entrambi i poli , tutti i partecipanti all incontro di questo pomeriggio hanno convenuto sulla necessità di dare	al più presto risposte	ai pazienti sardi in attesa di un trapianto di fegato e di avviare il polo cagliaritano del Centro Regionale Trapianti di
+						DET ADV NOUN	ITWAC	parte della amministrazione dei beni culturali , a farsi carico dei problemi legati al funzionamento della discoteca di Stato fornendo	al più presto risposte	chiare sulla direzione che questo istituto deve intraprendere ; in caso contrario , quale sia , se esiste , il progetto
+						DET ADV NOUN	ITWAC	politica perseguita per annullare quanto di buono è stato fatto nel passato per il bene del territorio e di avere	al più presto risposte	da chi di competenza .
+						DET ADV NOUN	REPUBBLICA	: il germe dell insicurezza e della paura che si sta diffondendo tra la gente e la necessità di dare	al più presto risposte	concrete .
+						DET ADV NOUN	REPUBBLICA	ROMA Se il governo non darà	al più presto risposte	valide sui grandi nodi della sanità i medici saranno costretti a scatenare un offensiva durissima subito dopo Natale .
+						DET ADV NOUN	REPUBBLICA	sindacale della Culmv , si è già dichiarato pronto a proclamare nuove  iniziative di lotta  se non arriveranno	al più presto risposte	precise sul saldo dei vecchi crediti ( che in questo caso ammontano , a partire dal 90 , a oltre 9
+
+8	2	0	più presto risultati
+						DET ADV NOUN	ITWAC	Gare tutte difficili , dai pronostici difficili , per una Fiorentina che deve ritrovare	al più presto risultati	e bel gioco .
+						DET ADV NOUN	ITWAC	Per quanto riguarda i tanto criticati LSU si auspica che il previsto piano di riassorbimento dia	al più presto risultati	visibili , ma si invita anche a tener conto che provvedimenti analoghi potranno difficilmente essere abbandonati .
+						DET ADV NOUN	ITWAC	Potremo mettere subito in contatto i nostri uffici per le attività internazionali , in modo che questo incontro produca	al più presto risultati	pratici  .
+						DET ADV NOUN	ITWAC	Potremo mettere subito in contatto i nostri uffici per le attività internazionali , in modo che questo incontro produca	al più presto risultati	praticì  .
+						DET ADV NOUN	ITWAC	Sulla scia di quanto già accade a Milano , speriamo che anche qui a Torino si possa raggiungere	al più presto risultati	concreti avvalendosi della collaborazione di tutti coloro - quali associazioni di volontariato e del privato sociale , privati cittadini , parrocchie
+						DET ADV NOUN	ITWAC	aperta e dobbiamo percorrerla con tutta la determinazione di cui siamo capaci , mirando in alto , ma per ottenere	al più presto risultati	concreti .
+						DET ADV NOUN	ITWAC	del fare ; per l appunto , della  santa impazienza  di mirare in alto , ma per ottenere	al più presto risultati	concreti , come ben sanno i fiorentini che lo videro alla guida della loro città .
+						DET ADV NOUN	ITWAC	lo scarico conclude il tempo delle promesse e apre la fase conclusiva dell impegno di una Milano che vuole raggiungere	al più presto risultati	di eccellenza anche nel sistema di depurazione delle acque reflue .
+						DET ADV NOUN	REPUBBLICA	Weinberger l ha avuta vinta il vicepresidente Bush , che come leader di una task force governativa antinarcotici vuole vedere	al più presto risultati	concreti e positivi su questo fronte .
+						DET ADV NOUN	REPUBBLICA	criminalità che ha assunto aspetti eversivi  Ma il Sismi , il Sisde e l Alto commissario  devono fornire	al più presto risultati	concreti  .
+
+0	2	0	più presto ritorno
+						DET ADV NOUN	REPUBBLICA	La telefonata si è conclusa con un ultimo pressante invito di Eltsin a far	al più presto ritorno	a Mosca e con un ulteriore vaga risposta dello scrittore .
+						DET ADV NOUN	REPUBBLICA	ieri tutti i cittadini della Germania federale che ancora si trovano a Beirut ( circa duecento persone ) a fare	al più presto ritorno	in patria .
+
+1	0	0	più presto riunioni
+						DET ADV NOUN	ITWAC	insieme di dati di informazioni ( già in parte trasfuse in questo appunto ) ; in modo da poter tenere	al più presto riunioni	ed incontri per raccogliere le  preadesioni informate  dei soci interessati .
+
+7	1	0	più presto rivista
+						DET ADV NOUN	ITWAC	Auspica infine che sia	al più presto rivista	un interpretazione discutibile che di fatto ha visto riconoscere enormi benefici economici alle squadre del Milan , della Juventus , dell
+						DET ADV NOUN	ITWAC	Le associazioni di consumatori chiedono quindi che sia	al più presto rivista	la legislazione in modo da regolamentare questo genere di vanti .
+						DET ADV NOUN	ITWAC	afferma Tempesta « intendo sollecitare i vertici regionali , a cominciare dal presidente Pace , affinché tale decisione possa essere	al più presto rivista	, in modo da giungere a una conclusione positiva dell accordo .
+						DET ADV NOUN	ITWAC	problematica la gestione delle risorse , traducendosi siffatto reticolo giudiziario  la cui corrispondenza alle effettive esigenze del territorio andrebbe	al più presto rivista	- in un inevitabile dispersione di energie e dotazioni , umane e materiali , che potrebbero certo essere utilizzate più proficuamente
+						DET ADV NOUN	ITWAC	se la legislatura attuale ha dei buchi ( come quelli in testa a certi pm italiani ) va	al più presto rivista	e corretta ...
+						DET ADV NOUN	ITWAC	sindaco aquilano si rivolge ai vertici regionali , a cominciare dal presidente Giovanni Pace , affinché tale decisione possa essere	al più presto rivista	.
+						DET ADV NOUN	ITWAC	sollecita i vertici regionali , a cominciare dal presidente Giovanni Pace , affinchè tale decisione  dice  possa essere	al più presto rivista	, in modo da giungere ad una conclusione positiva dell accordo » , « Un intesa  continua il Sindaco 
+						DET ADV NOUN	REPUBBLICA	una riforma scolastica veramente assurda ( l orario più pesante è riservato proprio alle elementari ) , che dovrebbe essere	al più presto rivista	e modificata .
+
+1	0	0	più presto rob
+						DET ADV NOUN	ITWAC	sempre meno , il blog lo trascuro perchè sto cercando di fare un lavoro che spero di potervi fare vedere	al più presto rob	, salame che sei !
+
+0	0	1	più presto sacrifici
+						DET ADV NOUN	WIKICONLL	Venne interrogato l oracolo , proprio quello sacro al figlio di Zeus , esso sentenziò non soltanto di tributare	al più presto sacrifici	in onore dei due morti , ma anche che il re dovesse lasciare il regno .
+
+0	1	0	più presto salari
+						DET ADV NOUN	REPUBBLICA	 non basta più a  chiudere  l Arcipelago Nucleare , se nelle sue  isole  non arriveranno	al più presto salari	puntuali e una vita migliore .
+
+0	1	0	più presto scelte
+						DET ADV NOUN	REPUBBLICA	La Coldiretti ha ribadito  la necessità che il governo adotti	al più presto scelte	forti ed adeguate alla gravità della situazione denunciata da tempo dal settore  .
+
+1	0	0	più presto sciaooooo
+						DET ADV NOUN	ITWAC	gianfy ho sbirciato il regolamento ma per motivi di lavoro non sono riuscito a leggerlo tutto , quello che farò	al più presto sciaooooo	Risposte : Autore Risposta : Paul _ 88 Inserita il : 05/02/2005 19:11:51 Messaggio : Benvenuto , ginfy !
+
+0	1	0	più presto scooter
+						DET ADV NOUN	REPUBBLICA	Ancma -- ci ha dichiarato Ivano Beggio -- hanno in corso una concertazione con il Ministero dell Ambiente per commercializzare	al più presto scooter	a ridotto impatto ambientale .
+
+1	0	0	più presto sedi
+						DET ADV NOUN	ITWAC	All impeccabile ragionamento di Elisabetta Pilia si può solo aggiungere la necessità di individuare	al più presto sedi	di definizione e negoziazione degli obiettivi in cui possano confrontarsi i diversi soggetti interessati al buon funzionamento delle biblioteche universitarie :
+
+2	0	0	più presto segnali
+						DET ADV NOUN	ITWAC	Hanno la maggioranza per farlo , ma devono dare	al più presto segnali	chiari che sono capaci di mettere in piedi quel governo forte e autorevole di cui il Paese ha bisogno .
+						DET ADV NOUN	ITWAC	più in generale , europea , con riflessi quindi anche sulla provincia , per la quale ci auguriamo possano rilevarsi	al più presto segnali	incoraggianti di ripresa .
+
+2	0	0	più presto segni
+						DET ADV NOUN	ITWAC	Anche se attualmente si sta approfondendo l impiego di questa metodica per riconoscere	al più presto segni	indiretti di anomalie del feto .
+						DET ADV NOUN	ITWAC	In un contesto come l area critica in cui la regola prima è identificare	al più presto segni	e sintomi dei nuovi problemi ed evitare complicanze , non è possibile non avere  sospetti diagnostici  e non applicare
+
+1	0	0	più presto seguito
+						DET ADV NOUN	ITWAC	E un inizio che , per quanto importante , dovrà essere	al più presto seguito	da iniziative che dimostrino , finalmente , una volontà concreta di colmare quella voragine che ci separa dai nostri fratelli più
+
+0	1	0	più presto serate
+						DET ADV NOUN	REPUBBLICA	l Ente lirico ) ha rivolto un appello a tutti i teatri d Europa e del mondo  affinché promuovano	al più presto serate	di solidarietà con le vittime e i profughi della Bosnia  .
+
+2	1	0	più presto serenità
+						DET ADV NOUN	ITWAC	Chiediamo solo  , conclude ,  di lavorare in pace , sperando di restituire	al più presto serenità	alla popolazione  .
+						DET ADV NOUN	ITWAC	perchè ciò che più conta è che tu possa ritrovare	al più presto serenità	e allegria ...
+						DET ADV NOUN	REPUBBLICA	Il Napoli può ancora salvar- si , ma deve ritrovare	al più presto serenità	 .
+
+1	0	0	più presto servizio
+						DET ADV NOUN	ITWAC	ha formalizzato la sua opposizione con la lettera inviata tramite il sindacato di appartenenza , mettendosi a disposizione per riprendere	al più presto servizio	; ma la convenuta ha ignorato completamente tale impugnazione e non ha più dato riscontro .
+
+0	0	1	più presto sezione
+						DET ADV NOUN	WIKICONLL	come  gruppo autonomo  alle dipendenze dirette del commissario regionale , stilando un progetto con l obiettivo di diventare	al più presto sezione	.
+
+1	0	0	più presto sicurezza
+						DET ADV NOUN	ITWAC	per i contributi fino a 25 mila euro e a parte questo , sempre secondo il relatore , occorre dare	al più presto sicurezza	agli imprenditori non solo su se in futuro beneficieranno o meno del credito , ma anche di quanto e in quali
+
+0	1	0	più presto signora
+						DET ADV NOUN	REPUBBLICA	Voleva non solo diventare	al più presto signora	Cook ma era decisa a fare carriera nel Foreign Office .
+
+0	1	0	più presto sindacati
+						DET ADV NOUN	REPUBBLICA	L IMPEGNO del governo a convocare	al più presto sindacati	e imprenditori per incontri triangolari sugli investimenti nel Mezzogiorno , uscendo dalla fase degli studi e dei dibattiti , costituisce la
+
+0	1	0	più presto sinergie
+						DET ADV NOUN	REPUBBLICA	Di più , la Confindustria stessa in molte occasioni ha dichiarato di voler creare	al più presto sinergie	tra imprese e università proprio per colmare quel gap tra domanda e offerta per quanto riguarda i tecnici di livello intermedio
+
+1	0	0	più presto sistemi
+						DET ADV NOUN	ITWAC	La necessità di implementare	al più presto sistemi	di pianificazione / programmazione sociale locale di buona qualità tecnica e di elevato profilo , va comunque ricercato un equilibrio dinamico
+
+2	0	0	più presto situazioni
+						DET ADV NOUN	ITWAC	durata dell acco ­ glimento in comunità alloggio e case famiglie sia la più breve possibile in modo da assicurare	al più presto situazioni	familiari stabili ai minori in difficoltà .
+						DET ADV NOUN	ITWAC	iniziative affinché la durata dell accogli mento in comunità alloggio sia fa più breve possibile , in modo da assicurare	al più presto situazioni	stabili ai minori in difficoltà .
+
+1	0	0	più presto smentita
+						DET ADV NOUN	ITWAC	X-Men 3  , la notizia è stata confermata da una fonte vicina alla Spears , ma speriamo tutti venga	al più presto smentita	.
+
+1	0	0	più presto soccorsi
+						DET ADV NOUN	ITWAC	Colombo , da dove un italiana che vi possiede un ristorante , Barbara , ha lanciato un appello per avere	al più presto soccorsi	.
+
+1	0	0	più presto soccorso
+						DET ADV NOUN	ITWAC	identificato la specie ed hanno contatto il veterinario di Trento , dott. Sebastiani , responsabile della Lipu , per prestare	al più presto soccorso	alla povera bestiola in quanto presentava una ferita cutanea a livello dell ´ ala destra .
+
+1	0	0	più presto soluzione
+						DET ADV NOUN	ITWAC	Auspica pertanto che alla questione sia data	al più presto soluzione	coinvolgendo le autonomie locali sul cui territorio il tracciato deve essere effettuato .
+
+6	0	0	più presto soluzioni
+						DET ADV NOUN	ITWAC	Bisogna studiare	al più presto soluzioni	adeguate .
+						DET ADV NOUN	ITWAC	Come ha fatto rilevare anche la Regione Lombardia , è necessario individuare	al più presto soluzioni	di smaltimento e / o di recupero dei rifiuti che consentano di evitare un emergenza rifiuti sul territorio provinciale , come
+						DET ADV NOUN	ITWAC	In ogni caso , il Johnson Act chiudeva per sempre la fase storica della grande emigrazione italiana ed occorreva trovare	al più presto soluzioni	alternative al divario fra popolazione e risorse .
+						DET ADV NOUN	ITWAC	Recalcati ha approvato - dare corso alla richiesta di urgenza formulata dalla Regione anche a fronte della necessità di individuare	al più presto soluzioni	di smaltimento e / o recupero dei rifiuti che consentano di evitare l emergenza sul territorio provinciale che si evidenzierà non
+						DET ADV NOUN	ITWAC	il quotidiano trentino la sola possibilità per l Europa di eludere il risentimento nei suoi confronti è quello di individuare	al più presto soluzioni	per ridurre i transiti su gomma .
+						DET ADV NOUN	ITWAC	lui inviata al Presidente del Senato , e della risposta che ne è seguita , conferma l opportunità di individuare	al più presto soluzioni	appropriate ai problemi insorti da ultimo nella conversione in legge del decreto-legge n. 4 del 2002 , ma ricorrenti nell esame
+
+1	0	0	più presto spazi
+						DET ADV NOUN	ITWAC	Mestre Centro del 22/4/2004 ; CHIEDE CON URGENZA Al Sindaco di Venezia e all Assessore al Patrimonio Che siano assegnati	al più presto spazi	adeguati presso il Municipio di Mestre ( Via Palazzo , 1 ) per il Presidente , i Gruppi Consiliari e gli
+
+1	0	0	più presto spazio
+						DET ADV NOUN	ITWAC	Non resta che auspicare - ha concluso - che gli sciagurati orizzonti di guerra lascino	al più presto spazio	a quel rinnovato clima di serenità e di pace che è essenziale per lo sviluppo del turismo e delle relazioni fra
+
+1	0	0	più presto spiegazioni
+						DET ADV NOUN	ITWAC	« Chiederemo	al più presto spiegazioni	al Consigliere di stato e capo del dipartimento del Territorio Marco Borradori - sintetizza il presidente della Provincia Marco Reguzzoni ,
+
+1	0	0	più presto squadre
+						DET ADV NOUN	ITWAC	Non ci resta che sperare che	al più presto squadre	blasonate , nonché seguite da decine di migliaia di tifosi , come il Cagliari , il Palermo ( neo promosso in
+
+0	1	0	più presto stabilità
+						DET ADV NOUN	REPUBBLICA	per rassicurare gli azionisti e attraverso i microfoni di  Radio anch io  ha affermato :  Bisogna dare	al più presto stabilità	al vertice dell Eni , una delle più grandi imprese italiane  .
+
+1	0	0	più presto strade
+						DET ADV NOUN	ITWAC	Con la speranza che , grazie anche agli sforzi della Unione Europea e dell Unione Africana , si possano trovare	al più presto strade	per la risoluzione del conflitto e la ricerca di un accordo tra le parti in grado di consentire l avvio di
+
+0	1	0	più presto strategie
+						DET ADV NOUN	REPUBBLICA	di redazione esprime la preoccupazione che questi fatti indeboliscano l immagine dei periodici Mondadori e invita l azienda a definire	al più presto strategie	certe , in linea con le tradizioni della casa editrice .
+
+4	1	0	più presto strumenti
+						DET ADV NOUN	ITWAC	 Bisogna adottare	al più presto strumenti	legislativi che servano a tutelare i risparmiatori e soprattutto a convincerli che casi come quelli della Parmalat e della Cirio non
+						DET ADV NOUN	ITWAC	Inoltre , secondo Masi , c è l esigenza di individuare	al più presto strumenti	che permettano l esistenza di meccanismi di appalto dalla massima trasparenza ma con tempi decisamente più corti .
+						DET ADV NOUN	ITWAC	di un disegno di legge che affronta una materia di notevole importanza sociale , per la quale è necessario individuare	al più presto strumenti	adeguati di prevenzione e cura .
+						DET ADV NOUN	ITWAC	e rappresentanza - numericamente una città nella città - una democrazia  sana  e previdente dovrebbe preoccuparsi di trovare	al più presto strumenti	e forme per dare a quei muti e fantasmatici cittadini voce e rappresentanza .
+						DET ADV NOUN	REPUBBLICA	È importante spiega Scollo approntare	al più presto strumenti	che permettano ai politici , sugli appalti , di non subire indebite pressioni .
+
+1	1	0	più presto strutture
+						DET ADV NOUN	ITWAC	« Abbiamo speso tutti i soldi in Finanziaria - aggiunge teresa Armato - per costruire	al più presto strutture	in grado di accogliere i degenti delle case famiglia » .
+						DET ADV NOUN	REPUBBLICA	Ma l adeguamento culturale e professionale non basta : servono	al più presto strutture	e mezzi senza i quali il nuovo processo è destinato al fallimento .
+
+1	0	0	più presto tavoli
+						DET ADV NOUN	ITWAC	Propone di attivare	al più presto tavoli	tecnici di confronto in materia , raccogliendo al riguardo il consenso dei presenti .
+
+0	1	0	più presto tecniche
+						DET ADV NOUN	REPUBBLICA	piogge acide la proposta è quella di promuovere la sostituzione di combustili fossili in tutti i casi possibili e adottare	al più presto tecniche	di combustione avanzata , come l utilizzo delle marmitte catalitiche nelle automobili , per inquinare di meno e aumentare il rendimento
+
+0	1	0	più presto tecnici
+						DET ADV NOUN	REPUBBLICA	Il pretore di Lentini ha già interessato l ente che dovrebbe mandare	al più presto tecnici	ed attrezzature specialistiche .
+
+4	0	0	più presto tempi
+						DET ADV NOUN	ITWAC	24.09.04 - comunicati stampa - Maddalena Salerno Il Governo nazionale deve definire	al più presto tempi	e modalità per l erogazione dei fondi per i corsi regionali dell obbligo formativo Il Governo nazionale deve definire al più
+						DET ADV NOUN	ITWAC	24.09.04 - comunicati stampa - anno 2004 Il Governo nazionale deve definire	al più presto tempi	e modalità per l erogazione dei fondi per i corsi regionali dell obbligo formativo Il Governo nazionale deve definire al più
+						DET ADV NOUN	ITWAC	CI faccia conoscere	al più presto tempi	e sviluppi di tutto il progetto , di come verrà sistemata piazza Monte Grappa e di quali interventi sono previsti intorno
+						DET ADV NOUN	ITWAC	tempi e modalità per l erogazione dei fondi per i corsi regionali dell obbligo formativo Il Governo nazionale deve definire	al più presto tempi	e modalità per l erogazione dei fondi per i corsi regionali dell obbligo formativo .
+
+1	0	0	più presto termine
+						DET ADV NOUN	ITWAC	- alcune considerazioni a quanto espresso , poco fa , dall onorevole Pinotti : spero che l attuale tragedia abbia	al più presto termine	e che il nostro Governo faccia veramente di tutto affinché intervenga l ONU .
+
+1	0	0	più presto test
+						DET ADV NOUN	ITWAC	Nei bambini predisposti o che spesso risultano affetti da malattie respiratorie , sarebbe opportuno , infine , effettuare	al più presto test	allergologici che identificano i vari allergeni .
+
+1	0	0	più presto titolare
+						DET ADV NOUN	ITWAC	Speriamo che sia	al più presto titolare	S .
+
+1	0	0	più presto traguardato
+						DET ADV NOUN	ITWAC	Infatti , il tasso di attività , soprattutto per le donne è ancora distante dalla media europea e deve essere	al più presto traguardato	ai livelli qualiquantitativi indicati dalla Unione Europea .
+
+1	1	0	più presto trattative
+						DET ADV NOUN	ITWAC	Condizioni dell armistizio L armistizio , firmato a Novara il 26 marzo , impegnava il re a iniziare	al più presto trattative	di pace .
+						DET ADV NOUN	REPUBBLICA	Israele dovrebbe mettere alla prova Arafat e la sua offerta di pace per intavolare	al più presto trattative	di pace .
+
+0	1	0	più presto uffici
+						DET ADV NOUN	REPUBBLICA	E ancora , punto sul quale Galloni già si è detto d accordo , occorre istituire	al più presto uffici	della Procura della Repubblica presso le preture circondariali di Palmi e Locri .
+
+0	1	0	più presto una
+						DET ADV NOUN	REPUBBLICA	Ho un solo modo per far- me perdonare : vincere	al più presto una	corsa  .
+
+0	1	0	più presto unità
+						DET ADV NOUN	REPUBBLICA	L esecutivo invitato a ritrovare	al più presto unità	e incisività .
+
+1	1	0	più presto vie
+						DET ADV NOUN	ITWAC	La necessità di trovare	al più presto vie	d ´ uscita dalla crisi che attanaglia gran numero di imprese , e tanti cittadini con esse , val bene una
+						DET ADV NOUN	REPUBBLICA	Dobbiamo cercare	al più presto vie	d uscita che possano smuovere subito il mercato del lavoro .
+
+2	0	0	più presto vigore
+						DET ADV NOUN	ITWAC	E interesse dell opposizione che la tv di Stato riprenda	al più presto vigore	e torni a battersi sul mercato ad armi pari contro il concorrente Mediaset .
+						DET ADV NOUN	ITWAC	lo si ritenga inconsapevole della impellente necessità per i paesi marinari , tra cui anche l Italia , di ridare	al più presto vigore	ad una delle maggiori possibilità di esportazione di servizi .
+
+0	1	0	più presto visita
+						DET ADV NOUN	REPUBBLICA	Peraltro lo stesso Fresco ieri ha dichiarato che farà	al più presto visita	a D Alema per spiegar- gli il senso dell intesa Gm-Fiat .
+
+10	0	0	più presto visto
+						DET ADV NOUN	ITWAC	Fammi sapere	al più presto visto	i termini di scadenza mobilità 31.03.01 .
+						DET ADV NOUN	ITWAC	Ho necessità di avere una sua risposta	al più presto visto	che il 17 marzo p.v. è alle porte ...
+						DET ADV NOUN	ITWAC	P.S. Mi faresti un grosso favore nel rispondere	al più presto visto	l urgenza della scadenza .
+						DET ADV NOUN	ITWAC	Spero che la sua risposta mi giunga	al più presto visto	il ritardo con cui le sto scrivendo !
+						DET ADV NOUN	ITWAC	Spero che possiate rispondermi	al più presto visto	che i termini di presentazione della domanda scadono a breve .
+						DET ADV NOUN	ITWAC	Ti prego di rispondermi	al più presto visto	che prenderò la mia decisione in funzione di quello che mi scriverai e , soprattutto , di quello che mi consiglierai
+						DET ADV NOUN	ITWAC	di darvi ulteriori dettagli e particolari ma mi rendo conto che la cosa più urgente e che questa email parta	al più presto visto	che siamo già in stagione di vacanze e molti avranno già fatto programmi .
+						DET ADV NOUN	ITWAC	disegni stile cartone animato anni 80 , credo nell opera che sto realizzando e spero di trovare la persona giusta	al più presto visto	che sono deciso a portare a termine questo progetto prima di realizzarne altri .
+						DET ADV NOUN	ITWAC	non ho ancora visto il primo ma lo farò	al più presto visto	che sembra sia più bello del secondo .
+						DET ADV NOUN	ITWAC	spero che si sistemi la situaizone	al più presto visto	che qui fanno un attentato al giorno .
+
+1	0	0	più presto xkè
+						DET ADV NOUN	ITWAC	ti prego , rx	al più presto xkè	ho poco tempo ...
+
