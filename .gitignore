@@ -9,8 +9,11 @@ data/input_files.txt
 
 *__pycache__*
 
-output_*/
+output_advN/
+output_ctxs_advN/
+output_ctxs_ngrams/
+output_detadvN/
+output_final/
 
-output*/
-8marzo/*_pref/*
-8marzo/*_adv/*
+8marzo/*_pref/
+8marzo/*_adv/
