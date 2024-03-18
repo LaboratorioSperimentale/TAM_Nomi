@@ -10,3 +10,7 @@ data/input_files.txt
 *__pycache__*
 
 output_*/
+
+output*/
+8marzo/*_pref/*
+8marzo/*_adv/*
